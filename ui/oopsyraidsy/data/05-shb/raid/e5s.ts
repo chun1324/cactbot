@@ -20,7 +20,7 @@ const noOrb = (str: string) => {
     de: str + ' (kein Orb)',
     fr: str + ' (pas d\'orbe)',
     ja: str + ' (雷玉無し)',
-    cn: str + ' (没吃球)',
+    cn: str + ' (沒吃球)',
     ko: str + ' (구슬 없음)',
   };
 };
@@ -161,7 +161,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
               de: `${matches.ability} (Wolken zu nahe)`,
               fr: `${matches.ability} (nuages trop proches)`,
               ja: `${matches.ability} (雲近すぎ)`,
-              cn: `${matches.ability} (雷云重叠)`,
+              cn: `${matches.ability} (雷雲重疊)`,
               ko: `${matches.ability} (구름이 너무 가까움)`,
             },
           };

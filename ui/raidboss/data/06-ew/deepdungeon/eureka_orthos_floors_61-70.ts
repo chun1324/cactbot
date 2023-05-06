@@ -55,7 +55,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Stop attacking ${target}',
           de: 'Stoppe Angriffe auf ${target}',
-          cn: '停止攻击 ${target}',
+          cn: '停止攻擊 ${target}',
           ko: '${target} 공격 중지',
         },
       },
@@ -91,7 +91,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Renn weg vom Boss',
           fr: 'Courez loin du boss',
           ja: 'ボスから離れる',
-          cn: '远离Boss',
+          cn: '遠離Boss',
           ko: '보스와 거리 벌리기',
         },
       },

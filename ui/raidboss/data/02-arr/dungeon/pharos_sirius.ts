@@ -32,7 +32,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Spread: Stacks Explode Soon',
           de: 'Verteilen: Kristallstacks explodieren bald',
-          cn: '散开: 即将爆炸',
+          cn: '散開: 即將爆炸',
           ko: '산개: 곧 크리스탈 폭발',
         },
       },
@@ -48,7 +48,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Heal ${player} to full',
           de: 'Heile ${player} voll',
           fr: 'Soin complet sur ${player}',
-          cn: '奶满${player}',
+          cn: '奶滿${player}',
           ko: '완전 회복: ${player}',
         },
       },

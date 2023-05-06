@@ -160,7 +160,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
               en: 'Missed Tower',
               de: 'Tower verfehlt',
               fr: 'Tour manquée',
-              cn: '错过塔',
+              cn: '錯過塔',
               ko: '기둥 놓침',
             },
           };
@@ -203,7 +203,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
               de: 'Wirbelsturm berührt',
               fr: 'Apparition des tornades',
               ja: 'ツイスター',
-              cn: '旋风',
+              cn: '旋風',
               ko: '회오리 밟음',
             },
           };
@@ -289,7 +289,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             en: 'Pyretic',
             de: 'Pyretisch',
             fr: 'Pyretique',
-            cn: '热病',
+            cn: '熱病',
             ko: '열병',
           },
         };

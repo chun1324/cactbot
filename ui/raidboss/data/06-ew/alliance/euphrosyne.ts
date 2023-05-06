@@ -862,7 +862,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Tank Laser auf DIR',
           fr: 'Tank laser sur VOUS',
           ja: '自分にタンクレーザー',
-          cn: '坦克激光点名',
+          cn: '坦克激光點名',
           ko: '탱 레이저 대상자',
         },
       },

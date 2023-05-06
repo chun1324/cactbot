@@ -96,7 +96,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Heal to Full',
           de: 'Voll heilen',
-          cn: '奶满全员',
+          cn: '奶滿全員',
           ko: '체력 풀피로',
         },
       },

@@ -43,7 +43,7 @@ export const langMap: { [lang in Lang]: { [lang in Lang]: string } } = {
     fr: '法文',
     ja: '日文',
     cn: '中文',
-    ko: '韩文',
+    ko: '韓文',
   },
   ko: {
     en: '영어',

@@ -32,7 +32,7 @@ const agononOutputStrings = {
     en: 'Adds soon',
     de: 'Bald Adds',
     ja: 'まもなくザコ出ます',
-    cn: '小怪即将出现',
+    cn: '小怪即將出現',
     ko: '곧 쫄 나옴',
   },
 } as const;
@@ -108,7 +108,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Weiche den grünen Nägeln aus',
           fr: 'Évitez les griffes',
           ja: '緑の杭に避け',
-          cn: '躲避风刃',
+          cn: '躲避風刃',
           ko: '초록 발톱 피하기',
         },
       },

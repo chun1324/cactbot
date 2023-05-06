@@ -224,7 +224,7 @@ export class DeathReport {
       de: `Erhalten: ${effectName}`,
       fr: `Gagne: ${effectName}`,
       ja: `獲得: ${effectName}`,
-      cn: `获得: ${effectName}`,
+      cn: `獲得: ${effectName}`,
       ko: `얻음: ${effectName}`,
     });
     return {
@@ -356,7 +356,7 @@ export class DeathReport {
       de: `${buffName} verfehlte (${sourceName})`,
       fr: `${buffName} manqué(e) (${sourceName})`,
       ja: `${buffName}をミスした (${sourceName}から)`,
-      cn: `没吃到 ${buffName} (来自${sourceName})`,
+      cn: `沒吃到 ${buffName} (來自${sourceName})`,
       ko: `${buffName} 놓침 (${sourceName})`,
     });
     return {

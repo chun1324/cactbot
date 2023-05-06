@@ -69,7 +69,7 @@ const triggerSet: TriggerSet<Data> = {
           de: '5x verfolgende Flächen auf dir!',
           fr: '5x zones au sol chainées sur vous !',
           ja: '5連続AOE回避',
-          cn: '5连追踪AOE点名!',
+          cn: '5連追蹤AOE點名!',
           ko: '따라오는 5연속 장판 피하기!',
         },
       },

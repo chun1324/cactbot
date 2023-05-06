@@ -61,7 +61,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Grosses Eis: Süden',
           fr: 'Grosse Glace : Sud-Est',
           ja: '氷: 南東',
-          cn: '大冰: 东南',
+          cn: '大冰: 東南',
           ko: '큰 얼음: 남동쪽',
         },
       },
@@ -125,10 +125,10 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'The icebound tomelith A1 activates and begins to emit heat': '冰封的石文A1启动了，冰块变得脆弱了！',
-        'The icebound tomelith A2 activates and begins to emit heat': '冰封的石文A2启动了，冰块变得脆弱了！',
-        'The icebound tomelith A3 activates and begins to emit heat': '冰封的石文A3启动了，冰块变得脆弱了！',
-        'The icebound tomelith A4 activates and begins to emit heat': '冰封的石文A4启动了，冰块变得脆弱了！',
+        'The icebound tomelith A1 activates and begins to emit heat': '冰封的石文A1啟動了，冰塊變得脆弱了！',
+        'The icebound tomelith A2 activates and begins to emit heat': '冰封的石文A2啟動了，冰塊變得脆弱了！',
+        'The icebound tomelith A3 activates and begins to emit heat': '冰封的石文A3啟動了，冰塊變得脆弱了！',
+        'The icebound tomelith A4 activates and begins to emit heat': '冰封的石文A4啟動了，冰塊變得脆弱了！',
       },
     },
     {
