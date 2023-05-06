@@ -12,7 +12,7 @@ const kCopiedMessage = {
   de: 'Kopiert!',
   fr: 'Copié !',
   ja: 'コピーした！',
-  cn: '已复制！',
+  cn: '已複製！',
   ko: '복사 완료!',
 };
 
@@ -20,7 +20,7 @@ const errorMessageEnableACTWS = {
   en: 'Plugins -> OverlayPlugin WSServer -> Stream/Local Overlay -> Start',
   de: 'Plugins -> OverlayPlugin WSServer -> Stream/Local Overlay -> Start',
   fr: 'Plugins -> OverlayPlugin WSServer -> Stream/Local Overlay -> Start',
-  cn: 'Plugins -> OverlayPlugin WSServer -> 直播/本地悬浮窗 -> 启用',
+  cn: 'Plugins -> OverlayPlugin WSServer -> 直播/本地懸浮窗 -> 啟用',
   ko: 'Plugins -> OverlayPlugin WSServer -> Stream/Local 오버레이 -> 시작',
 };
 
