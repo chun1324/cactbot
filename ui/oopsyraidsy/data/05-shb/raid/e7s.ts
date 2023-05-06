@@ -17,7 +17,7 @@ const wrongBuff = (str: string) => {
     de: str + ' (falscher Buff)',
     fr: str + ' (mauvais buff)',
     ja: str + ' (不適切なバフ)',
-    cn: str + ' (Buff错了)',
+    cn: str + ' (Buff錯了)',
     ko: str + ' (버프 틀림)',
   };
 };
@@ -28,7 +28,7 @@ const noBuff = (str: string) => {
     de: str + ' (kein Buff)',
     fr: str + ' (pas de buff)',
     ja: str + ' (バフ無し)',
-    cn: str + ' (没有Buff)',
+    cn: str + ' (沒有Buff)',
     ko: str + ' (버프 없음)',
   };
 };
@@ -176,7 +176,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Runtergefallen',
             fr: 'Renversé(e)',
             ja: 'ノックバック',
-            cn: '击退坠落',
+            cn: '擊退墜落',
             ko: '넉백',
           },
         };

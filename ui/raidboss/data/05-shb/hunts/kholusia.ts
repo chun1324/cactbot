@@ -79,7 +79,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'In => Sides',
           de: 'Rein => Seiten',
-          cn: '中间 => 两侧',
+          cn: '中間 => 兩側',
           ko: '안으로 => 옆으로',
         },
       },
@@ -94,7 +94,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Sides => Sides (again)',
           de: 'Seiten => Seiten (nochmal)',
-          cn: '两侧 => 两侧 (重复)',
+          cn: '兩側 => 兩側 (重複)',
           ko: '옆으로 => 옆으로 (반복)',
         },
       },
@@ -177,9 +177,9 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Forgiven Pedantry': '得到宽恕的炫学',
-        'Huracan': '乌拉坎',
-        'Li\'l Murderer': '小小杀手',
+        'Forgiven Pedantry': '得到寬恕的炫學',
+        'Huracan': '烏拉坎',
+        'Li\'l Murderer': '小小殺手',
       },
     },
     {

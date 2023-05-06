@@ -34,7 +34,7 @@ const triggerSet: TriggerSet<Data> = {
   zoneLabel: {
     en: 'The Palace of the Dead (All Floors)',
     de: 'Palast der Toten (Alle Ebenen)',
-    cn: '死者宫殿 (全楼层)',
+    cn: '死者宮殿 (全樓層)',
     ko: '망자의 궁전 (전체 층)',
   },
 
@@ -54,7 +54,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Mimic spawned!',
           de: 'Mimik ist erschienen!',
-          cn: '已生成 拟态怪!',
+          cn: '已生成 擬態怪!',
           ko: '미믹 등장!',
         },
       },
@@ -119,7 +119,7 @@ const triggerSet: TriggerSet<Data> = {
         duplicate: {
           en: '${pomander} duplicate',
           de: 'Doppelter ${pomander}',
-          cn: '${pomander} 重复',
+          cn: '${pomander} 重複',
           ko: '${pomander} 중복',
         },
         // pomanders: https://xivapi.com/deepdungeonItem?pretty=true
@@ -144,7 +144,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Stärkung',
           fr: 'puissance',
           ja: '自己強化',
-          cn: '强化自身',
+          cn: '強化自身',
           ko: '자기 강화',
         },
         steel: {
@@ -152,7 +152,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Abwehr',
           fr: 'protection',
           ja: '防御強化',
-          cn: '强化防御',
+          cn: '強化防禦',
           ko: '방어 강화',
         },
         affluence: {
@@ -160,7 +160,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Schätze',
           fr: 'décèlement',
           ja: '宝箱増加',
-          cn: '宝箱增加',
+          cn: '寶箱增加',
           ko: '보물상자 증가',
         },
         flight: {
@@ -168,7 +168,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindtods',
           fr: 'sécurisation',
           ja: '敵排除',
-          cn: '减少敌人',
+          cn: '減少敵人',
           ko: '적 감소',
         },
         alteration: {
@@ -176,7 +176,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindwandlung',
           fr: 'affaiblissement',
           ja: '敵変化',
-          cn: '改变敌人',
+          cn: '改變敵人',
           ko: '적 대체',
         },
         purity: {
@@ -192,7 +192,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Glücks',
           fr: 'chance',
           ja: '運気上昇',
-          cn: '运气上升',
+          cn: '運氣上升',
           ko: '운 상승',
         },
         witching: {
@@ -200,7 +200,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Wandlung',
           fr: 'mutation',
           ja: '形態変化',
-          cn: '形态变化',
+          cn: '形態變化',
           ko: '적 변형',
         },
         serenity: {
@@ -224,7 +224,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sukkuben',
           fr: 'succube',
           ja: 'サキュバス化',
-          cn: '梦魔化',
+          cn: '夢魔化',
           ko: '서큐버스 변신',
         },
         intuition: {
@@ -232,7 +232,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Finders',
           fr: 'intuition',
           ja: '財宝感知',
-          cn: '感知宝藏',
+          cn: '感知寶藏',
           ko: '보물 탐지',
         },
         raising: {
@@ -256,7 +256,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindschwächung',
           fr: 'incapacité',
           ja: '敵弱体',
-          cn: '弱化敌人',
+          cn: '弱化敵人',
           ko: '적 약화',
         },
         concealment: {
@@ -264,7 +264,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Verschwindens',
           fr: 'invisibilité',
           ja: 'バニシュ',
-          cn: '隐形',
+          cn: '隱形',
           ko: '배니시',
         },
         petrification: {
@@ -272,7 +272,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindversteinerung',
           fr: 'pétrification',
           ja: '敵石化',
-          cn: '石化敌人',
+          cn: '石化敵人',
           ko: '적 석화',
         },
       },
@@ -290,7 +290,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Cairn of Passage activated',
           de: 'Wegleuchte aktiviert',
-          cn: '转移石冢已启动',
+          cn: '轉移石冢已啟動',
           ko: '전송 석탑 활성화',
         },
       },

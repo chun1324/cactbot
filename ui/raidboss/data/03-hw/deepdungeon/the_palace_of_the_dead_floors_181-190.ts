@@ -28,7 +28,7 @@ const triggerSet: TriggerSet<Data> = {
         interruptOrOut: {
           en: 'Out or interrupt ${name}',
           de: 'Raus oder unterbreche ${name}',
-          cn: '出去或打断 ${name}',
+          cn: '出去或打斷 ${name}',
           ko: '밖으로 또는 ${name} 시전 끊기',
         },
       },
@@ -48,7 +48,7 @@ const triggerSet: TriggerSet<Data> = {
         interruptOrUnder: {
           en: 'Get Under or interrupt ${name}',
           de: 'Unter oder unterbreche ${name}',
-          cn: '去脚下或打断 ${name}',
+          cn: '去腳下或打斷 ${name}',
           ko: '밑으로 또는 ${name} 시전 끊기',
         },
       },
@@ -67,7 +67,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Besiege ${name}',
           fr: 'Tuez ${name}',
           ja: '${name}を倒す',
-          cn: '击杀 ${name}',
+          cn: '擊殺 ${name}',
           ko: '${name} 처치',
         },
       },
@@ -85,7 +85,7 @@ const triggerSet: TriggerSet<Data> = {
         pushToBoss: {
           en: 'Push ${name} into boss',
           de: 'Stoß ${name} in den Boss',
-          cn: '将 ${name} 推至BOSS',
+          cn: '將 ${name} 推至BOSS',
           ko: '보스쪽으로 ${name} 밀기',
         },
       },

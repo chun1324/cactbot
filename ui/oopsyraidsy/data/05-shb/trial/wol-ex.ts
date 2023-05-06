@@ -60,7 +60,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
           de: 'Turm verpasst',
           fr: 'Tour manquée',
           ja: '塔を踏まなかった',
-          cn: '没踩塔',
+          cn: '沒踩塔',
           ko: '장판 실수',
         },
       },
