@@ -237,7 +237,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sammeln bei ${player} und wewg schauen',
           fr: 'Packez-vous sur ${player} et regardez ailleurs',
           ja: '${player}に頭割り、見ない',
-          cn: '靠近并背对${player}分摊',
+          cn: '靠近并背对${player}集中',
           ko: '${player} 쉐어, 바라보지않기',
         },
       },

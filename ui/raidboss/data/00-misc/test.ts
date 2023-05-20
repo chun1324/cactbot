@@ -33,7 +33,7 @@ const triggerSet: TriggerSet<Data> = {
       name: {
         en: 'Output for "/echo cactbot test config"',
         de: 'Ausgabe für "/echo cactbot test config"',
-        cn: '输出 "/echo cactbot测试配置"',
+        cn: '輸出 "/echo cactbot測試配置"',
         ko: '"/echo cactbot 설정 테스트" 출력값',
       },
       type: 'string',
