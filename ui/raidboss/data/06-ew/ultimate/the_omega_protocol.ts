@@ -125,12 +125,12 @@ const nearDistantOutputStrings: { [label: string]: LocaleText } = {
   near: {
     en: 'Near World',
     de: 'Hallo Welt: Nah',
-    cn: '近处世界',
+    cn: '近處世界',
   },
   distant: {
     en: 'Distant World',
     de: 'Hallo Welt: Fern',
-    cn: '远处世界',
+    cn: '遠處世界',
   },
 } as const;
 
@@ -176,7 +176,7 @@ const triggerSet: TriggerSet<Data> = {
       name: {
         en: 'Run: Omega Staff Sword Dodge Direction',
         de: 'Renn: Omega Stab Schwert Ausweich-Richtung',
-        cn: '欧米茄运动会杖剑躲避方向',
+        cn: '歐米茄運動會杖劍躲避方向',
       },
       type: 'select',
       options: {
@@ -185,7 +185,7 @@ const triggerSet: TriggerSet<Data> = {
           'Dodge Mid (by Omega-F)': 'mid',
         },
         cn: {
-          '躲远 (by Omega-M)': '远',
+          '躲遠 (by Omega-M)': '遠',
           '躲中 (by Omega-F)': '中',
         },
       },
@@ -245,7 +245,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Protean',
           de: 'Himmelsrichtungen',
-          cn: '八方分散',
+          cn: '八方散開',
           ko: '기본 산개',
         },
       },
@@ -364,7 +364,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: '${num} (with ${player})',
           de: '${num} (mit ${player})',
-          cn: '${num} (与 ${player})',
+          cn: '${num} (與 ${player})',
           ko: '${num} (+ ${player})',
         },
         unknown: Outputs.unknown,
@@ -392,7 +392,7 @@ const triggerSet: TriggerSet<Data> = {
           tether: {
             en: 'Tether 1',
             de: 'Verbindung 1',
-            cn: '线 1',
+            cn: '線 1',
             ko: '선 1',
           },
           numNoMechanic: {
@@ -438,7 +438,7 @@ const triggerSet: TriggerSet<Data> = {
           tether: {
             en: 'Tether ${num}',
             de: 'Verbindung ${num}',
-            cn: '线 ${num}',
+            cn: '線 ${num}',
             ko: '선 ${num}',
           },
           numNoMechanic: {
@@ -481,7 +481,7 @@ const triggerSet: TriggerSet<Data> = {
           spread: {
             en: '1 Out (on YOU)',
             de: '1 Raus (auf Dir)',
-            cn: '1 出 (点名)',
+            cn: '1 出 (點名)',
             ko: '밖으로 1',
           },
         };
@@ -511,7 +511,7 @@ const triggerSet: TriggerSet<Data> = {
           spread: {
             en: '${num} Out (on YOU)',
             de: '${num} Raus (auf Dir)',
-            cn: '${num} 出 (点名)',
+            cn: '${num} 出 (點名)',
             ko: '밖으로 ${num}',
           },
         };
@@ -541,7 +541,7 @@ const triggerSet: TriggerSet<Data> = {
         tankCleaves: {
           en: 'Tank Cleaves',
           de: 'Tank Cleaves',
-          cn: '坦克顺劈',
+          cn: '坦克順劈',
           ko: '광역 탱버',
         },
       },
@@ -560,7 +560,7 @@ const triggerSet: TriggerSet<Data> = {
         laserOnYou: {
           en: 'Laser on YOU',
           de: 'Laser auf DIR',
-          cn: '激光点名',
+          cn: '激光點名',
           ko: '레이저 대상자',
         },
       },
@@ -655,7 +655,7 @@ const triggerSet: TriggerSet<Data> = {
         blizzardBladework: {
           en: 'Out Out',
           de: 'Raus Raus',
-          cn: '远离男女',
+          cn: '遠離男女',
           ko: '밖 밖',
         },
         superliminalStrength: {
@@ -673,7 +673,7 @@ const triggerSet: TriggerSet<Data> = {
         blizzardStrength: {
           en: 'M Sides',
           de: 'Seitlich von M',
-          cn: '男人两侧',
+          cn: '男人兩側',
           ko: 'M 양옆',
         },
       },
@@ -724,31 +724,31 @@ const triggerSet: TriggerSet<Data> = {
         remoteGlitch: {
           en: 'Far',
           de: 'Fern',
-          cn: '远',
+          cn: '遠',
           ko: '멀리',
         },
         circle: {
           en: '${glitch} Circle (with ${player})',
           de: '${glitch} Kreis (mit ${player})',
-          cn: '${glitch} 圆圈 (与 ${player})',
+          cn: '${glitch} 圓圈 (與 ${player})',
           ko: '${glitch} 동그라미 (+ ${player})',
         },
         triangle: {
           en: '${glitch} Triangle (with ${player})',
           de: '${glitch} Dreieck (mit ${player})',
-          cn: '${glitch} 三角 (与 ${player})',
+          cn: '${glitch} 三角 (與 ${player})',
           ko: '${glitch} 삼각 (+ ${player})',
         },
         square: {
           en: '${glitch} Square (with ${player})',
           de: '${glitch} Viereck (mit ${player})',
-          cn: '${glitch} 四角 (与 ${player})',
+          cn: '${glitch} 四角 (與 ${player})',
           ko: '${glitch} 사각 (+ ${player})',
         },
         cross: {
           en: '${glitch} Cross (with ${player})',
           de: '${glitch} Kreuz (mit ${player})',
-          cn: '${glitch} X (与 ${player})',
+          cn: '${glitch} X (與 ${player})',
           ko: '${glitch} X (+ ${player})',
         },
         unknown: Outputs.unknown,
@@ -810,13 +810,13 @@ const triggerSet: TriggerSet<Data> = {
           remoteGlitch: {
             en: 'Far',
             de: 'Fern',
-            cn: '远',
+            cn: '遠',
             ko: '멀리',
           },
           stacksOn: {
             en: '${glitch} Stacks (${player1}, ${player2})',
             de: '${glitch} Sammeln (${player1}, ${player2})',
-            cn: '${glitch} 分摊 (${player1}, ${player2})',
+            cn: '${glitch} 集合 (${player1}, ${player2})',
             ko: '${glitch} 쉐어 (${player1}, ${player2})',
           },
           // TODO: say who your tether partner is to swap??
@@ -930,19 +930,19 @@ const triggerSet: TriggerSet<Data> = {
           stack: {
             en: 'Stack (w/ ${player1} or ${player2})',
             de: 'Sammeln (mit ${player1} oder ${player2})',
-            cn: '分摊 (与 ${player1} 或 ${player2})',
+            cn: '集合 (與 ${player1} 或 ${player2})',
             ko: '쉐어 (+ ${player1}, ${player2})',
           },
           unmarkedStack: {
             en: 'Unmarked Stack (w/ ${player1} or ${player2})',
             de: 'Nicht markiertes Sammeln (mit ${player1} oder ${player2})',
-            cn: '无点名分摊 (与 ${player1} 或 ${player2})',
+            cn: '無點名集合 (與 ${player1} 或 ${player2})',
             ko: '무징 쉐어 (+ ${player1}, ${player2})',
           },
           sameDebuffPartner: {
             en: '(same debuff as ${player})',
             de: '(selber Debuff wie ${player})',
-            cn: '(与 ${player} 相同 debuff)',
+            cn: '(與 ${player} 相同 debuff)',
             ko: '(${player}와 같은 디버프)',
           },
           unknown: Outputs.unknown,
@@ -1057,13 +1057,13 @@ const triggerSet: TriggerSet<Data> = {
         red: {
           en: 'Red is Defamation',
           de: 'Rot hat Ehrenstrafe',
-          cn: '红毒大圈',
+          cn: '紅毒大圈',
           ko: '빨강 광역',
         },
         blue: {
           en: 'Blue is Defamation',
           de: 'Blau hat Ehrenstrafe',
-          cn: '蓝毒大圈',
+          cn: '藍毒大圈',
           ko: '파랑 광역',
         },
         unknown: {
@@ -1091,7 +1091,7 @@ const triggerSet: TriggerSet<Data> = {
         colorTower: {
           en: '${color} Tower Stack',
           de: '${color} Turm versammeln',
-          cn: '${color} 塔分摊',
+          cn: '${color} 塔集合',
           ko: '${color} 장판 쉐어',
         },
         colorTowerDefamation: {
@@ -1103,13 +1103,13 @@ const triggerSet: TriggerSet<Data> = {
         red: {
           en: 'Red',
           de: 'Rot',
-          cn: '红',
+          cn: '紅',
           ko: '빨강',
         },
         blue: {
           en: 'Blue',
           de: 'Blau',
-          cn: '蓝',
+          cn: '藍',
           ko: '파랑',
         },
       },
@@ -1191,7 +1191,7 @@ const triggerSet: TriggerSet<Data> = {
         farTether: {
           en: 'Stack by ${color} Tower',
           de: 'Beim ${color}en Turm versammeln',
-          cn: '在 ${color} 塔分摊',
+          cn: '在 ${color} 塔集合',
           ko: '${color} 장판 사이에서 쉐어',
         },
         nearTether: {
@@ -1203,19 +1203,19 @@ const triggerSet: TriggerSet<Data> = {
         finalTowerNear: {
           en: 'Between ${color} Towers',
           de: 'Zwischen den ${color}en Türmen',
-          cn: '站 ${color} 塔之间',
+          cn: '站 ${color} 塔之間',
           ko: '${color} 장판 사이로',
         },
         red: {
           en: 'Red',
           de: 'Rot',
-          cn: '红',
+          cn: '紅',
           ko: '빨강',
         },
         blue: {
           en: 'Blue',
           de: 'Blau',
-          cn: '蓝',
+          cn: '藍',
           ko: '파랑',
         },
       },
@@ -1253,7 +1253,7 @@ const triggerSet: TriggerSet<Data> = {
         breakTether: {
           en: 'Break Tether',
           de: 'Verbindung brechen',
-          cn: '扯断连线',
+          cn: '扯斷連線',
           ko: '선 끊기',
         },
       },
@@ -1307,7 +1307,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'East Monitors',
           de: 'Östliche Bildschirme',
-          cn: '左 (西) 小电视',
+          cn: '左 (西) 小電視',
           ko: '오른쪽 모니터',
         },
       },
@@ -1321,7 +1321,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'West Monitors',
           de: 'Westliche Bildschirme',
-          cn: '右 (东) 小电视',
+          cn: '右 (東) 小電視',
           ko: '왼쪽 모니터',
         },
       },
@@ -1341,13 +1341,13 @@ const triggerSet: TriggerSet<Data> = {
           monitorOnYou: {
             en: 'Monitor (w/${player1}, ${player2})',
             de: 'Bildschirm (w/${player1}, ${player2})',
-            cn: '小电视点名 (与 ${player1}, ${player2})',
+            cn: '小電視點名 (與 ${player1}, ${player2})',
             ko: '모니터 (+ ${player1}, ${player2})',
           },
           unmarked: {
             en: 'Unmarked',
             de: 'Unmarkiert',
-            cn: '无点名',
+            cn: '無點名',
             ko: '무징',
           },
         };
@@ -1385,13 +1385,13 @@ const triggerSet: TriggerSet<Data> = {
           stacks: {
             en: 'Stacks (${player1}, ${player2})',
             de: 'Sammeln (${player1}, ${player2})',
-            cn: '分摊 (${player1}, ${player2})',
+            cn: '集合 (${player1}, ${player2})',
             ko: '쉐어징 (${player1}, ${player2})',
           },
           stackOnYou: {
             en: 'Stack on You (w/${player})',
             de: 'Auf DIR sammeln (w/${player})',
-            cn: '分摊点名 (与 ${player})',
+            cn: '集合點名 (與 ${player})',
             ko: '쉐어징 대상자 (+ ${player})',
           },
         };
@@ -1432,13 +1432,13 @@ const triggerSet: TriggerSet<Data> = {
         farTether: {
           en: 'Blue Tether',
           de: 'Blaue Verbindung',
-          cn: '蓝线',
+          cn: '藍線',
           ko: '파란색 선',
         },
         nearTether: {
           en: 'Green Tether',
           de: 'Grüne Verbindung',
-          cn: '绿线',
+          cn: '綠線',
           ko: '초록색 선',
         },
       },
@@ -1460,7 +1460,7 @@ const triggerSet: TriggerSet<Data> = {
         awayFromEye: {
           en: 'Away from Eye',
           de: 'Weg vom Auge',
-          cn: '远离眼睛',
+          cn: '遠離眼睛',
           ko: '눈에서 멀리 떨어지기',
         },
         towardsEye: {
@@ -1499,7 +1499,7 @@ const triggerSet: TriggerSet<Data> = {
             // Probably near baits, but you never know.
             en: 'Unmarked Blue',
             de: 'Blau ohne Debuff',
-            cn: '无点名蓝',
+            cn: '無點名藍',
             ko: '디버프 없는 파란색 선',
           },
         };
@@ -1606,7 +1606,7 @@ const triggerSet: TriggerSet<Data> = {
           noDebuff: {
             en: '(no debuff)',
             de: '(kein Debuff)',
-            cn: '(无 Debuff)',
+            cn: '(無 Debuff)',
             ko: '(디버프 없음)',
           },
         };
@@ -1653,7 +1653,7 @@ const triggerSet: TriggerSet<Data> = {
         superliminalSteel: {
           en: 'Follow Laser, Move In',
           de: 'Laser folgen, rein gehen',
-          cn: '跟随激光，穿进辣翅',
+          cn: '跟隨激光，穿進辣翅',
           ko: '레이저 따라서 안으로',
         },
         optimizedBlizzard: {
@@ -1705,7 +1705,7 @@ const triggerSet: TriggerSet<Data> = {
         baitTethers: {
           en: 'Bait Tethers',
           de: 'Verbindung ködern',
-          cn: '接线',
+          cn: '接線',
           ko: '선 가져가기',
         },
       },
@@ -1795,13 +1795,13 @@ const triggerSet: TriggerSet<Data> = {
         staffShield: {
           en: 'In ${northSouth} or ${eastWest}',
           de: 'Rein ${northSouth} oder ${eastWest}',
-          cn: '进 ${northSouth} 或 ${eastWest}',
+          cn: '進 ${northSouth} 或 ${eastWest}',
           ko: '${northSouth}/${eastWest} 중간',
         },
         staffSwordFar: {
           en: 'Far ${northSouth} or ${eastWest}',
           de: 'Entfernt von ${northSouth} oder ${eastWest}',
-          cn: '远 ${northSouth} 或 ${eastWest}',
+          cn: '遠 ${northSouth} 或 ${eastWest}',
           ko: '${northSouth}/${eastWest} 멀리',
         },
         staffSwordMid: {
@@ -1975,7 +1975,7 @@ const triggerSet: TriggerSet<Data> = {
         staffSwordFar: {
           en: 'Far ${dir}',
           de: 'Entfernt von ${dir}',
-          cn: '远 ${dir}',
+          cn: '遠 ${dir}',
           ko: '${dir} 멀리',
         },
         staffSwordMid: {
@@ -2096,7 +2096,7 @@ const triggerSet: TriggerSet<Data> = {
         staffSwordFar: {
           en: '${rotate} => Far ${dir}',
           de: '${rotate} => Entfernt ${dir}',
-          cn: '${rotate} => 远 ${dir}',
+          cn: '${rotate} => 遠 ${dir}',
           ko: '${rotate} => ${dir} 멀리',
         },
         staffSwordMid: {
@@ -2167,7 +2167,7 @@ const triggerSet: TriggerSet<Data> = {
         inFirst: {
           en: 'In First',
           de: 'Zuerst rein',
-          cn: '先进',
+          cn: '先進',
           ko: '안 먼저',
         },
         outFirst: {
@@ -2193,7 +2193,7 @@ const triggerSet: TriggerSet<Data> = {
         inWait2: {
           en: 'In => Wait 2',
           de: 'Rein => Warte 2',
-          cn: '进 => 等 2',
+          cn: '進 => 等 2',
           ko: '안 => 대기 2번',
         },
         outWait2: {
@@ -2248,7 +2248,7 @@ const triggerSet: TriggerSet<Data> = {
         inWait2: {
           en: 'In => Wait 2',
           de: 'Rein => Warte 2',
-          cn: '进 => 等 2',
+          cn: '進 => 等 2',
           ko: '안 => 대기 2번',
         },
         outWait2: {
@@ -2261,7 +2261,7 @@ const triggerSet: TriggerSet<Data> = {
         SidesOut: {
           en: 'Sides + Out',
           de: 'Seien + Raus',
-          cn: '两侧 + 出',
+          cn: '兩側 + 出',
           ko: '옆 + 밖으로',
         },
       },
@@ -2282,13 +2282,13 @@ const triggerSet: TriggerSet<Data> = {
         cosmoDiveTank: {
           en: 'Tanks Near (party far)',
           de: 'Tanks nahe (Gruppe entfernt)',
-          cn: '坦克靠近 (人群远离)',
+          cn: '坦克靠近 (人羣遠離)',
           ko: '탱커 가까이 (본대 멀리)',
         },
         cosmoDiveParty: {
           en: 'Party Far (tanks near)',
           de: 'Gruppe entfernt (Tanks nahe)',
-          cn: '人群远离 (坦克靠近)',
+          cn: '人羣遠離 (坦克靠近)',
           ko: '본대 멀리 (탱커 가까이)',
         },
       },
@@ -2302,7 +2302,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Bait Middle',
           de: 'Mitte ködern',
-          cn: '中间诱导',
+          cn: '中間誘導',
           ko: '중앙에 장판 유도',
         },
       },
@@ -2449,14 +2449,14 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Clockwise',
           de: 'Im Uhrzeigersinn',
           ja: '時計回り',
-          cn: '顺时针',
+          cn: '順時針',
           ko: '시계방향',
         },
         counterclock: {
           en: 'Counterclockwise',
           de: 'Gegen den Uhrzeigersinn',
           ja: '反時計回り',
-          cn: '逆时针',
+          cn: '逆時針',
           ko: '반시계방향',
         },
       },
@@ -2471,7 +2471,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Line Charge',
           de: 'Linien Ansturm',
-          cn: '直线分摊',
+          cn: '直線集合',
           ko: '직선 쉐어',
         },
       },
@@ -2485,7 +2485,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Bait Middle',
           de: 'Mitte ködern',
-          cn: '中间诱导',
+          cn: '中間誘導',
           ko: '중앙에 장판 유도',
         },
       },
@@ -2737,81 +2737,81 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Alpha Omega': '阿尔法欧米茄',
+        'Alpha Omega': '阿爾法歐米茄',
         'Cosmo Meteor': '宇宙流星',
-        '(?<!Alpha )Omega(?!-)': '欧米茄',
-        'Omega-F': '欧米茄F',
-        'Omega-M': '欧米茄M',
-        'Optical Unit': '视觉组',
-        'Rear Power Unit': '尾部组',
-        'Right Arm Unit': '右臂组',
-        'Rocket Punch': '火箭飞拳',
+        '(?<!Alpha )Omega(?!-)': '歐米茄',
+        'Omega-F': '歐米茄F',
+        'Omega-M': '歐米茄M',
+        'Optical Unit': '視覺組',
+        'Rear Power Unit': '尾部組',
+        'Right Arm Unit': '右臂組',
+        'Rocket Punch': '火箭飛拳',
       },
       'replaceText': {
-        'Archive Peripheral': '手臂归档',
-        'Atomic Ray': '原子射线',
-        'Beyond Defense': '盾连击S',
-        'Beyond Strength': '盾连击G',
-        'Blaster': '冲击波',
+        'Archive Peripheral': '手臂歸檔',
+        'Atomic Ray': '原子射線',
+        'Beyond Defense': '盾連擊S',
+        'Beyond Strength': '盾連擊G',
+        'Blaster': '衝擊波',
         'Blind Faith': '盲信',
         'Colossal Blow': '巨能爆散',
-        'Condensed Wave Cannon Kyrios': '大功率波动炮P',
+        'Condensed Wave Cannon Kyrios': '大功率波動炮P',
         'Cosmo Arrow': '宇宙天箭',
-        'Cosmo Dive': '宇宙龙炎',
-        'Cosmo Memory': '宇宙记忆',
+        'Cosmo Dive': '宇宙龍炎',
+        'Cosmo Memory': '宇宙記憶',
         'Cosmo Meteor': '宇宙流星',
-        'Critical Error': '严重错误',
-        'Diffuse Wave Cannon(?! Kyrios)': '扩散波动炮',
-        'Diffuse Wave Cannon Kyrios': '扩散波动炮P',
+        'Critical Error': '嚴重錯誤',
+        'Diffuse Wave Cannon(?! Kyrios)': '擴散波動炮',
+        'Diffuse Wave Cannon Kyrios': '擴散波動炮P',
         'Discharger': '能量放出',
-        'Efficient Bladework': '剑击',
+        'Efficient Bladework': '劍擊',
         'Explosion': '爆炸',
-        'Firewall': '防御程序',
+        'Firewall': '防禦程序',
         'Flame Thrower': '火炎放射',
-        'Flash Gale': '闪光风',
-        'Guided Missile Kyrios': '跟踪导弹P',
-        'Hello, Distant World': '你好，远处世界',
-        'Hello, Near World': '你好，近处世界',
+        'Flash Gale': '閃光風',
+        'Guided Missile Kyrios': '跟蹤導彈P',
+        'Hello, Distant World': '你好，遠處世界',
+        'Hello, Near World': '你好，近處世界',
         'Hello, World': '你好，世界',
-        'High-powered Sniper Cannon': '狙击式大功率波动炮”',
-        'Hyper Pulse': '超能脉冲',
-        'Ion Efflux': '离子流出',
-        'Laser Shower': '激光骤雨',
-        'Latent Defect': '潜在错误',
-        'Left Arm Unit': '左臂组',
-        'Limitless Synergy': '协作程序LB',
-        'Magic Number': '魔数',
-        'Optical Laser': '光学射线F',
-        'Optimized Bladedance': '欧米茄刀光剑舞',
-        'Optimized Blizzard III': '欧米茄冰封',
-        'Optimized Fire III': '欧米茄烈炎',
-        'Optimized Meteor': '欧米茄陨石流星',
-        'Optimized Passage of Arms': '欧米茄武装戍卫',
-        'Optimized Sagittarius Arrow': '欧米茄射手天箭',
-        'Oversampled Wave Cannon': '探测式波动炮',
+        'High-powered Sniper Cannon': '狙擊式大功率波動炮”',
+        'Hyper Pulse': '超能脈衝',
+        'Ion Efflux': '離子流出',
+        'Laser Shower': '激光驟雨',
+        'Latent Defect': '潛在錯誤',
+        'Left Arm Unit': '左臂組',
+        'Limitless Synergy': '協作程序LB',
+        'Magic Number': '魔數',
+        'Optical Laser': '光學射線F',
+        'Optimized Bladedance': '歐米茄刀光劍舞',
+        'Optimized Blizzard III': '歐米茄冰封',
+        'Optimized Fire III': '歐米茄烈炎',
+        'Optimized Meteor': '歐米茄隕石流星',
+        'Optimized Passage of Arms': '歐米茄武裝戍衛',
+        'Optimized Sagittarius Arrow': '歐米茄射手天箭',
+        'Oversampled Wave Cannon': '探測式波動炮',
         'Pantokrator': '全能之主',
-        'Party Synergy': '协作程序PT',
-        'Patch': '补丁',
-        'Peripheral Synthesis': '生成外设',
+        'Party Synergy': '協作程序PT',
+        'Patch': '補丁',
+        'Peripheral Synthesis': '生成外設',
         'Pile Pitch': '能量投射',
-        'Program Loop': '循环程序',
-        'Rear Lasers': '背环激光',
-        'Right Arm Unit': '右臂组',
-        'Run: \\*\\*\\*\\*mi\\* \\(Delta Version\\)': '代码：＊能＊（德尔塔）',
-        'Run: \\*\\*\\*\\*mi\\* \\(Omega Version\\)': '代码：＊能＊（欧米茄）',
-        'Run: \\*\\*\\*\\*mi\\* \\(Sigma Version\\)': '代码：＊能＊（西格玛）',
-        '(?<! )Sniper Cannon': '狙击式波动炮”',
-        'Solar Ray': '太阳射线',
-        'Spotlight': '聚光灯',
-        'Storage Violation': '清除记忆污染S',
-        'Subject Simulation F': '变形F',
-        'Superliminal Steel': '剑连击B',
-        'Swivel Cannon': '回旋式波动炮',
+        'Program Loop': '循環程序',
+        'Rear Lasers': '背環激光',
+        'Right Arm Unit': '右臂組',
+        'Run: \\*\\*\\*\\*mi\\* \\(Delta Version\\)': '代碼：＊能＊（德爾塔）',
+        'Run: \\*\\*\\*\\*mi\\* \\(Omega Version\\)': '代碼：＊能＊（歐米茄）',
+        'Run: \\*\\*\\*\\*mi\\* \\(Sigma Version\\)': '代碼：＊能＊（西格瑪）',
+        '(?<! )Sniper Cannon': '狙擊式波動炮”',
+        'Solar Ray': '太陽射線',
+        'Spotlight': '聚光燈',
+        'Storage Violation': '清除記憶污染S',
+        'Subject Simulation F': '變形F',
+        'Superliminal Steel': '劍連擊B',
+        'Swivel Cannon': '迴旋式波動炮',
         'Synthetic Shield': '合成盾',
-        'Unlimited Wave Cannon': '波动炮：限制解除',
-        '(?<! )Wave Cannon(?! Kyrios)': '波动炮',
-        '(?<! )Wave Cannon Kyrios': '波动炮P',
-        'Wave Repeater': '速射式波动炮',
+        'Unlimited Wave Cannon': '波動炮：限制解除',
+        '(?<! )Wave Cannon(?! Kyrios)': '波動炮',
+        '(?<! )Wave Cannon Kyrios': '波動炮P',
+        'Wave Repeater': '速射式波動炮',
       },
     },
   ],

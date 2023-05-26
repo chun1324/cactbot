@@ -1524,6 +1524,7 @@ const data: ZoneInfoType = {
       'en': 'The Voidcast Dais',
       'fr': 'La Chaire de l\'Exilée',
       'ja': 'ゴルベーザ討滅戦',
+      'cn': 'ゴルベーザ討滅戦',
     },
     'offsetX': -100,
     'offsetY': -100,
@@ -1538,6 +1539,7 @@ const data: ZoneInfoType = {
       'en': 'The Voidcast Dais (Extreme)',
       'fr': 'La Chaire de l\'Exilée (extrême)',
       'ja': '極ゴルベーザ討滅戦',
+      'cn': '極ゴルベーザ討滅戦',
     },
     'offsetX': -100,
     'offsetY': -100,
@@ -1628,6 +1630,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
+      'cn': '万魔殿パンデモニウム：天獄編1',
       'de': 'Anabaseios - Neunter Kreis',
       'en': 'Anabaseios: The Ninth Circle',
       'fr': 'Le Paradis du Pandæmonium - Métempsycose',
@@ -1642,6 +1645,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
+      'cn': '万魔殿パンデモニウム零式：天獄編1',
       'de': 'Anabaseios - Neunter Kreis (episch)',
       'en': 'Anabaseios: The Ninth Circle (Savage)',
       'fr': 'Le Paradis du Pandæmonium - Métempsycose (sadique)',
@@ -1656,6 +1660,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
+      'cn': '万魔殿パンデモニウム：天獄編2',
       'de': 'Anabaseios - Zehnter Kreis',
       'en': 'Anabaseios: The Tenth Circle',
       'fr': 'Le Paradis du Pandæmonium - Monochrome',
@@ -1670,6 +1675,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
+      'cn': '万魔殿パンデモニウム零式：天獄編2',
       'de': 'Anabaseios - Zehnter Kreis (episch)',
       'en': 'Anabaseios: The Tenth Circle (Savage)',
       'fr': 'Le Paradis du Pandæmonium - Monochrome (sadique)',
@@ -1684,6 +1690,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
+      'cn': '万魔殿パンデモニウム：天獄編3',
       'de': 'Anabaseios - Elfter Kreis',
       'en': 'Anabaseios: The Eleventh Circle',
       'fr': 'Le Paradis du Pandæmonium - Tribunal',
@@ -1698,6 +1705,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
+      'cn': '万魔殿パンデモニウム零式：天獄編3',
       'de': 'Anabaseios - Elfter Kreis (episch)',
       'en': 'Anabaseios: The Eleventh Circle (Savage)',
       'fr': 'Le Paradis du Pandæmonium - Tribunal (sadique)',
@@ -1712,6 +1720,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
+      'cn': '万魔殿パンデモニウム：天獄編4',
       'de': 'Anabaseios - Zwölfter Kreis',
       'en': 'Anabaseios: The Twelfth Circle',
       'fr': 'Le Paradis du Pandæmonium - Apothéose',
@@ -1726,6 +1735,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
+      'cn': '万魔殿パンデモニウム零式：天獄編4',
       'de': 'Anabaseios - Zwölfter Kreis (episch)',
       'en': 'Anabaseios: The Twelfth Circle (Savage)',
       'fr': 'Le Paradis du Pandæmonium - Apothéose (sadique)',
@@ -1740,6 +1750,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
+      'cn': '幻鬼神ズルワーン討滅戦',
       'de': 'Traumprüfung - Zurvan',
       'en': 'Containment Bay Z1T9 (Unreal)',
       'fr': 'Unité de contention Z1P9 (irréel)',

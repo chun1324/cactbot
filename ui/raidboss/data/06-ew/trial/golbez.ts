@@ -28,7 +28,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Avoid meteor',
           de: 'Vermeide Meteor',
-          cn: '远离陨石',
+          cn: '遠離隕石',
           ko: '메테오 피하기',
         },
       },
@@ -66,7 +66,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Get behind, then out',
           de: 'Geh hinter, dann raus',
-          cn: '去背后 => 远离',
+          cn: '去背後 => 遠離',
           ko: '보스 뒤로 => 밖으로',
         },
       },
@@ -136,7 +136,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Out first => stack w/ ${player}',
           de: 'Zuerst Raus => Sammeln mit ${player}',
-          cn: '远离 => 与 ${player} 分摊',
+          cn: '遠離 => 與 ${player} 集合',
           ko: '밖으로 => ${player} 쉐어',
         },
       },
@@ -199,6 +199,33 @@ const triggerSet: TriggerSet<Data> = {
     },
     {
       'locale': 'ja',
+      'missingTranslations': true,
+      'replaceSync': {
+        'Golbez': 'ゴルベーザ',
+        'Golbez\'s Shadow': 'ゴルベーザの幻影',
+      },
+      'replaceText': {
+        'Arctic Assault': 'コールドブラスト',
+        'Azdaja\'s Shadow': '黒竜剣アジュダヤ',
+        'Binding Cold': '呪縛の冷気',
+        'Black Fang': '黒い牙',
+        'Burning Shade': '黒炎',
+        'Crescent Blade': '弦月剣',
+        'Double Meteor': 'ダブルメテオ',
+        'Eventide Fall': '集束黒竜閃',
+        'Explosion': '爆発',
+        'Gale Sphere': 'ウィンドスフィア',
+        'Immolating Shade': '重黒炎',
+        'Lingering Spark': 'ディレイスパーク',
+        'Rising Beacon': '昇竜烽火',
+        'Shadow Crescent': '弦月黒竜剣',
+        'Terrastorm': 'ディレイアース',
+        'Void Meteor': 'ヴォイド・メテオ',
+        'Void Stardust': 'ヴォイド・コメットレイン',
+      },
+    },
+    {
+      'locale': 'cn',
       'missingTranslations': true,
       'replaceSync': {
         'Golbez': 'ゴルベーザ',
