@@ -902,7 +902,7 @@ export default {
     de: 'Heiler',
     fr: 'Healer',
     ja: 'ヒーラ',
-    cn: '治疗',
+    cn: '治療',
     ko: '힐',
   },
   dps: {

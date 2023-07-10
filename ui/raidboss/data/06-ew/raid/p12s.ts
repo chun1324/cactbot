@@ -365,7 +365,7 @@ const triggerSet: TriggerSet<Data> = {
       name: {
         en: 'Paradeigma 2 Tower Strategy',
         ja: 'パラデイグマ2の塔処理方法',
-        cn: '第一次拉线踩塔方法',
+        cn: '第一次拉線踩塔方法',
         ko: 'Paradeigma 2 기둥 공략',
       },
       type: 'select',
@@ -381,9 +381,9 @@ const triggerSet: TriggerSet<Data> = {
           '方針なし': 'tower',
         },
         cn: {
-          '垂直拉线 (Game8)': 'quadrant',
-          '对角拉线': 'clockwise',
-          '仅提示塔颜色': 'tower',
+          '垂直拉線 (Game8)': 'quadrant',
+          '對角拉線': 'clockwise',
+          '僅提示塔顏色': 'tower',
         },
         ko: {
           '반대편 + 가까운 사분면의 기둥 (Game8)': 'quadrant',
@@ -611,13 +611,13 @@ const triggerSet: TriggerSet<Data> = {
         insideWestOutsideEast: {
           en: 'Inside West / Outside East',
           ja: '西の内側 / 東の外側',
-          cn: '内西 / 外东',
+          cn: '內西 / 外東',
           ko: '서쪽 안 / 동쪽 바깥',
         },
         insideEastOutsideWest: {
           en: 'Inside East / Outside West',
           ja: '西の外側 / 東の内側',
-          cn: '内东 / 外西',
+          cn: '內東 / 外西',
           ko: '동쪽 안 / 서쪽 바깥',
         },
       },
@@ -671,56 +671,56 @@ const triggerSet: TriggerSet<Data> = {
           en: 'North + Her Left (then back North)',
           de: 'Norden + Links von Ihr (dannach Norden)',
           ja: '北 + 北に戻る (左安置)',
-          cn: '北 + Boss左侧 (稍后 回到北)',
+          cn: '北 + Boss左側 (稍後 回到北)',
           ko: '북쪽 + 보스 왼쪽 (그리고 다시 북쪽)',
         },
         superchain2aLeftNorthSouth: {
           en: 'North + Her Left (then go South)',
           de: 'Norden + Links von Ihr (dannach Süden)',
           ja: '北 + 南へ前進 (左安置)',
-          cn: '北 + Boss左侧 (稍后 去南)',
+          cn: '北 + Boss左側 (稍後 去南)',
           ko: '북쪽 + 보스 왼쪽 (그리고 남쪽으로)',
         },
         superchain2aLeftSouthNorth: {
           en: 'South + Left (then go North)',
           de: 'Süden + Links (dannach Norden)',
           ja: '南 + 北へ前進 (左安置)',
-          cn: '南 + 左 (稍后 去北)',
+          cn: '南 + 左 (稍後 去北)',
           ko: '남쪽 + 왼쪽 (그리고 북쪽으로)',
         },
         superchain2aLeftSouthSouth: {
           en: 'South + Left (then back South)',
           de: 'Süden + Links (dannach Süden)',
           ja: '南 + 南に戻る (左安置)',
-          cn: '南 + 左 (稍后 回到南)',
+          cn: '南 + 左 (稍後 回到南)',
           ko: '남쪽 + 왼쪽 (그리고 다시 남쪽)',
         },
         superchain2aRightNorthNorth: {
           en: 'North + Her Right (then back North)',
           de: 'Norden + Rechts von Ihr (dannach Norden)',
           ja: '北 + 北に戻る (右安置)',
-          cn: '北 + Boss右侧 (稍后 回到北)',
+          cn: '北 + Boss右側 (稍後 回到北)',
           ko: '북쪽 + 보스 오른쪽 (그리고 다시 북쪽)',
         },
         superchain2aRightNorthSouth: {
           en: 'North + Her Right (then go South)',
           de: 'Norden + Rechts von Ihr (dannach Süden)',
           ja: '北 + 南へ前進 (右安置)',
-          cn: '北 + Boss右侧 (稍后 去南)',
+          cn: '北 + Boss右側 (稍後 去南)',
           ko: '북쪽 + 보스 오른쪽 (그리고 남쪽으로)',
         },
         superchain2aRightSouthNorth: {
           en: 'South + Right (then go North)',
           de: 'Süden + Rechts (dannach Norden)',
           ja: '南 + 北へ前進 (右安置)',
-          cn: '南 + 右 (稍后 去北)',
+          cn: '南 + 右 (稍後 去北)',
           ko: '남쪽 + 오른쪽 (그리고 북쪽으로)',
         },
         superchain2aRightSouthSouth: {
           en: 'South + Right (then back South)',
           de: 'Süden + Rechts (dannach Süden)',
           ja: '南 + 南に戻る (右安置)',
-          cn: '南 + 右 (稍后 回到南)',
+          cn: '南 + 右 (稍後 回到南)',
           ko: '남쪽 + 오른쪽 (그리고 다시 남쪽)',
         },
       },
@@ -898,56 +898,56 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Swap + Mid => Back ${dir}',
           de: 'Wechseln + Mitte => Zurück nach ${dir}',
           ja: '真ん中 => また${dir} (横へ)',
-          cn: '穿 + 去中间 => 回到 ${dir}',
+          cn: '穿 + 去中間 => 回到 ${dir}',
           ko: '이동 + 가운데 => 다시 ${dir}',
         },
         superchain2aSwapMidGo: {
           en: 'Swap + Mid => Go ${dir}',
           de: 'Wechseln + Mitte => Geh nach ${dir}',
           ja: '真ん中 => ${dir}前進 (横へ)',
-          cn: '穿 + 去中间 => 去 ${dir}',
+          cn: '穿 + 去中間 => 去 ${dir}',
           ko: '이동 + 가운데 => ${dir}으로',
         },
         superchain2aStayMidBack: {
           en: 'Stay + Mid => Back ${dir}',
           de: 'Bleib stehen + Mitte => Zurück nach ${dir}',
           ja: '真ん中 => また${dir} (止まる)',
-          cn: '停 + 去中间 => 回到 ${dir}',
+          cn: '停 + 去中間 => 回到 ${dir}',
           ko: '가만히 + 가운데 => 다시 ${dir}',
         },
         superchain2aStayMidGo: {
           en: 'Stay + Mid => Go ${dir}',
           de: 'Bleib stehen + Mitte => Geh nach ${dir}',
           ja: '真ん中 => ${dir}前進 (止まる)',
-          cn: '停 + 去中间 => 去 ${dir}',
+          cn: '停 + 去中間 => 去 ${dir}',
           ko: '가만히 + 가운데 => ${dir}으로',
         },
         superchain2aSwapProtean: {
           en: 'Swap => Protean + ${dir}',
           de: 'Wechseln => Himmelsrichtungen + ${dir}',
           ja: '基本散会 + ${dir} (横へ)',
-          cn: '穿 => 八方分散 + ${dir}',
+          cn: '穿 => 八方散開 + ${dir}',
           ko: '이동 => 8방향 산개 + ${dir}',
         },
         superchain2aStayProtean: {
           en: 'Stay => Protean + ${dir}',
           de: 'Bleib stehen => Himmelsrichtungen + ${dir}',
           ja: '基本散会 + ${dir} (止まる)',
-          cn: '停 => 八方分散 + ${dir}',
+          cn: '停 => 八方散開 + ${dir}',
           ko: '가만히 => 8방향 산개 + ${dir}',
         },
         superchain2aSwapPartners: {
           en: 'Swap => Partners + ${dir}',
           de: 'Wechseln => Partner + ${dir}',
           ja: 'ペア + ${dir} (横へ)',
-          cn: '穿 => 双人分摊 + ${dir}',
+          cn: '穿 => 雙人集合 + ${dir}',
           ko: '이동 => 파트너 + ${dir}',
         },
         superchain2aStayPartners: {
           en: 'Stay => Partners + ${dir}',
           de: 'Bleib stehen => Partner + ${dir}',
           ja: 'ペア + ${dir} (止まる)',
-          cn: '停 => 双人分摊 + ${dir}',
+          cn: '停 => 雙人集合 + ${dir}',
           ko: '가만히 => 파트너 + ${dir}',
         },
         north: Outputs.north,
@@ -975,14 +975,14 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Protean',
           de: 'Himmelsrichtungen',
           ja: '基本散会',
-          cn: '八方分散',
+          cn: '八方散開',
           ko: '8방향 산개',
         },
         partners: {
           en: 'Partners',
           de: 'Partner',
           ja: 'ペア',
-          cn: '双人分摊',
+          cn: '雙人集合',
           ko: '파트너',
         },
       },
@@ -1032,13 +1032,13 @@ const triggerSet: TriggerSet<Data> = {
         lightBeam: {
           en: 'light beam',
           ja: 'ひかりビーム',
-          cn: '引导光激光',
+          cn: '引導光鐳射',
           ko: '빛 선',
         },
         darkBeam: {
           en: 'dark beam',
           ja: 'やみビーム',
-          cn: '引导暗激光',
+          cn: '引導暗雷射',
           ko: '어둠 선',
         },
       },
@@ -1246,7 +1246,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         spreadLater: {
           en: '(spread later)',
-          cn: '（稍后分散）',
+          cn: '（稍後散開）',
           ko: '(나중에 산개)',
         },
       },
@@ -1324,13 +1324,13 @@ const triggerSet: TriggerSet<Data> = {
         crossMarked: {
           en: '\'+\' AoE on You',
           ja: '自分に\'+\'',
-          cn: '十 点名',
+          cn: '十 點名',
           ko: '\'+\' 장판 대상자',
         },
         xMarked: {
           en: '\'x\' AoE on You',
           ja: '自分に\'x\'',
-          cn: '\'x\' 点名',
+          cn: '\'x\' 點名',
           ko: '\'x\' 장판 대상자',
         },
       },
@@ -1351,13 +1351,13 @@ const triggerSet: TriggerSet<Data> = {
         crossMarked: {
           en: 'Drop \'+\' AoE',
           ja: '隅へ\'+\'設置',
-          cn: '放置 十 点名',
+          cn: '放置 十 點名',
           ko: '\'+\' 장판 놓기',
         },
         xMarked: {
           en: 'Drop \'x\' AoE',
           ja: '中央へ\'x\'設置',
-          cn: '放置 \'x\' 点名',
+          cn: '放置 \'x\' 點名',
           ko: '\'x\' 장판 놓기',
         },
       },
@@ -1373,7 +1373,7 @@ const triggerSet: TriggerSet<Data> = {
         baitCleave: {
           en: 'Bait line cleave',
           ja: '外からのレーザー誘導',
-          cn: '引导射线',
+          cn: '引導射線',
           ko: '레이저 유도',
         },
       },
@@ -1426,7 +1426,7 @@ const triggerSet: TriggerSet<Data> = {
         towerOnYou: {
           en: '${color} Tower on You (w/ ${partner})',
           ja: '自分に${color}塔 (${partner})',
-          cn: '${color} 塔点名 (+ ${partner})',
+          cn: '${color} 塔點名 (+ ${partner})',
           ko: '${color} 기둥 대상자 (+ ${partner})',
         },
         light: {
@@ -1476,7 +1476,7 @@ const triggerSet: TriggerSet<Data> = {
         towersLater: {
           en: '${color} towers (later)',
           ja: '塔: ${color}',
-          cn: '稍后 ${color} 塔',
+          cn: '稍後 ${color} 塔',
           ko: '${color} 기둥 (나중에)',
         },
         light: {
@@ -1548,7 +1548,7 @@ const triggerSet: TriggerSet<Data> = {
         corner: {
           en: 'Inside Corner',
           ja: '真ん中のコーナー',
-          cn: '平台交叉处',
+          cn: '平台交叉處',
           ko: '플랫폼 교차지점',
         },
         unknown: Outputs.unknown,
@@ -1597,7 +1597,7 @@ const triggerSet: TriggerSet<Data> = {
         baitCleaves: {
           en: 'Bait line cleave',
           ja: 'レーザー誘導',
-          cn: '引导射线',
+          cn: '引導射線',
           ko: '레이저 유도',
         },
         light: {
@@ -1683,7 +1683,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Gruppe Raus (Tanks Rein)',
           fr: 'Équipe à l\'extérieur (Tanks à l\'intérieur)',
           ja: 'ボスから離れる (タンクが内側)',
-          cn: '小队出 (T进)',
+          cn: '小隊出 (T進)',
           ko: '본대 밖 (탱커 안)',
         },
         tanksInPartyOut: {
@@ -1691,7 +1691,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Gruppe Rein (Tanks Raus)',
           fr: 'Tanks à l\'intérieur (Équipe à l\'extérieur',
           ja: 'ボスに足元へ (パーティーは離れる)',
-          cn: 'T进 (小队出)',
+          cn: 'T進 (小隊出)',
           ko: '탱커 안 (본대 밖)',
         },
       },
@@ -1708,7 +1708,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Gruppe Rein (Tanks Raus)',
           fr: 'Équipe à l\'intérieur (Tanks à l\'extérieur)',
           ja: 'ボスの足元へ (タンクは離れる)',
-          cn: '小队进 (T出)',
+          cn: '小隊進 (T出)',
           ko: '본대 안 (탱커 밖)',
         },
         tanksInPartyOut: {
@@ -1716,7 +1716,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Tanks Raus (Gruppe Rein)',
           fr: 'Tanks à l\'extérieur (Équipe à l\'intérieur',
           ja: 'ボスからはなれる (パーティーが内側)',
-          cn: 'T出 (小队进)',
+          cn: 'T出 (小隊進)',
           ko: '탱커 밖 (본대 안)',
         },
       },
@@ -1764,7 +1764,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Laser Ködern',
             fr: 'Bait le laser',
             ja: 'レーザー誘導',
-            cn: '引导激光',
+            cn: '引導雷射',
             ko: '레이저 유도',
           },
           firstWhiteFlame: {
@@ -1772,7 +1772,7 @@ const triggerSet: TriggerSet<Data> = {
             de: '(5 und 7 ködern)',
             fr: '(5 et 7 bait)',
             ja: '(5と7誘導)',
-            cn: '(5 和 7 引导)',
+            cn: '(5 和 7 引導)',
             ko: '(5, 7 레이저)',
           },
         };
@@ -1795,7 +1795,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Laser Ködern',
             fr: 'Bait le laser',
             ja: 'レーザー誘導',
-            cn: '引导激光',
+            cn: '引導雷射',
             ko: '레이저 유도',
           },
           secondWhiteFlame: {
@@ -1803,7 +1803,7 @@ const triggerSet: TriggerSet<Data> = {
             de: '(6 und 8 ködern)',
             fr: '(6 et 8 bait)',
             ja: '(6と8誘導)',
-            cn: '(6 和 8 引导)',
+            cn: '(6 和 8 引導)',
             ko: '(6, 8 레이저)',
           },
           thirdWhiteFlame: {
@@ -1811,7 +1811,7 @@ const triggerSet: TriggerSet<Data> = {
             de: '(1 und 3 ködern)',
             fr: '(1 et 3 bait)',
             ja: '(1と3誘導)',
-            cn: '(1 和 3 引导)',
+            cn: '(1 和 3 引導)',
             ko: '(1, 3 레이저)',
           },
           fourthWhiteFlame: {
@@ -1819,7 +1819,7 @@ const triggerSet: TriggerSet<Data> = {
             de: '(2 und 6 ködern)',
             fr: '(2 et 4 bait)',
             ja: '(2と4誘導)',
-            cn: '(2 和 4 引导)',
+            cn: '(2 和 4 引導)',
             ko: '(2, 4 레이저)',
           },
         };
@@ -1893,7 +1893,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Rein + Himmelsrichtungen (${dir})',
           fr: 'Intérieur + Position (${dir})',
           ja: '内側へ + 基本散会 (${dir})',
-          cn: '靠近 + 八方分散 (${dir})',
+          cn: '靠近 + 八方散開 (${dir})',
           ko: '안 + 8방향 산개 (${dir})',
         },
         inAndPartners: {
@@ -1901,7 +1901,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Rein + Partner (${dir})',
           fr: 'Intérieur + Partenaire (${dir})',
           ja: '内側へ + ペア (${dir})',
-          cn: '靠近 + 双人分摊 (${dir})',
+          cn: '靠近 + 雙人集合 (${dir})',
           ko: '안 + 파트너 (${dir})',
         },
         outAndProtean: {
@@ -1909,7 +1909,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Raus + Himmelsrichtungen (${dir})',
           fr: 'Extérieur + Position (${dir})',
           ja: '外側へ + 基本散会 (${dir})',
-          cn: '远离 + 八方分散 (${dir})',
+          cn: '遠離 + 八方散開 (${dir})',
           ko: '밖 + 8방향 산개 (${dir})',
         },
         outAndPartners: {
@@ -1917,7 +1917,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Raus + Partner (${dir})',
           fr: 'Extérieur + Partenaire (${dir})',
           ja: '外側へ + ペア (${dir})',
-          cn: '远离 + 双人分摊 (${dir})',
+          cn: '遠離 + 雙人集合 (${dir})',
           ko: '밖 + 8방향 산개 (${dir})',
         },
         ...Directions.outputStrings8Dir,
@@ -1983,7 +1983,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Links (im Uhrzeigersinn) => ${engrave}',
           fr: 'Gauche (horaire) => ${engrave}',
           ja: '時計回り => ${engrave}',
-          cn: '左左左 (顺时针) => ${engrave}',
+          cn: '左左左 (順時針) => ${engrave}',
           ko: '왼쪽 (시계방향) => ${engrave}',
         },
         rightCounterclockwise: {
@@ -1991,43 +1991,43 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Rechts (gegen Uhrzeigersinn) => ${engrave}',
           fr: 'Droite (Anti-horaire) => ${engrave}',
           ja: '反時計回り => ${engrave}',
-          cn: '右右右 (逆时针) => ${engrave}',
+          cn: '右右右 (逆時針) => ${engrave}',
           ko: '오른쪽 (반시계방향) => ${engrave}',
         },
         lightBeam: {
           en: 'Light Beam (Stack w/Dark)',
           ja: '右塔踏み',
-          cn: '光激光（与暗分摊）',
+          cn: '光雷射（與暗集合）',
           ko: '빛 레이저 (어둠 쉐어)',
         },
         darkBeam: {
           en: 'Dark Beam (Stack w/Light)',
           ja: '左塔踏み',
-          cn: '暗激光（与光分摊）',
+          cn: '暗雷射（與光集合）',
           ko: '어둠 레이저 (빛 쉐어),',
         },
         lightTower: {
           en: 'Light Tower',
           ja: '左塔設置',
-          cn: '光塔点名',
+          cn: '光塔點名',
           ko: '빛 기둥',
         },
         darkTower: {
           en: 'Dark Tower',
           ja: '右塔設置',
-          cn: '暗塔点名',
+          cn: '暗塔點名',
           ko: '어둠 기둥',
         },
         lightTilt: {
           en: 'Light Group',
           ja: '左散会',
-          cn: '光分摊组',
+          cn: '光集合組',
           ko: '빛 쉐어',
         },
         darkTilt: {
           en: 'Dark Group',
           ja: '右散会',
-          cn: '暗分摊组',
+          cn: '暗集合組',
           ko: '어둠 쉐어',
         },
         unknown: Outputs.unknown,
@@ -2256,19 +2256,19 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         combined: {
           en: '${dir} (Side) => ${mechanic} After',
-          cn: '去 ${dir}(侧) => 稍后 ${mechanic}',
+          cn: '去 ${dir}(側) => 稍後 ${mechanic}',
           ko: '${dir} (옆) => ${mechanic}',
         },
         east: Outputs.east,
         west: Outputs.west,
         eastFromSouth: {
           en: 'Right/East',
-          cn: '右/东',
+          cn: '右/東',
           ko: '오른쪽/동쪽',
         },
         eastFromNorth: {
           en: 'Left/East',
-          cn: '左/东',
+          cn: '左/東',
           ko: '왼쪽/동쪽',
         },
         westFromSouth: {
@@ -2283,12 +2283,12 @@ const triggerSet: TriggerSet<Data> = {
         },
         protean: {
           en: 'Protean',
-          cn: '八方分散',
+          cn: '八方散開',
           ko: '8방향 산개',
         },
         partners: {
           en: 'Partners',
-          cn: '两人分摊',
+          cn: '兩人集合',
           ko: '파트너',
         },
       },
@@ -2332,28 +2332,28 @@ const triggerSet: TriggerSet<Data> = {
         },
         protean: {
           en: 'Protean',
-          cn: '八方分散',
+          cn: '八方散開',
           ko: '8방향 산개',
         },
         partners: {
           en: 'Partners',
-          cn: '两人分摊',
+          cn: '兩人集合',
           ko: '파트너',
         },
         inside: {
           en: 'Inside (avoid clones)',
-          cn: '内侧 (躲避场边激光)',
+          cn: '內側 (躲避場邊雷射)',
           ko: '안쪽 (분신 피하기)',
         },
         outside: {
           en: 'Outside (avoid clones)',
-          cn: '外侧 (躲避场边激光)',
+          cn: '外側 (躲避場邊雷射)',
           ko: '바깥쪽 (분신 피하기)',
         },
         avoid: {
           en: 'Avoid Line Cleaves',
           ja: '直線回避',
-          cn: '躲避场边激光',
+          cn: '躲避場邊雷射',
           ko: '직선 장판 피하기',
         },
       },
@@ -2388,19 +2388,19 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         combined: {
           en: '${dir} => Out + ${mechanic}',
-          cn: '${dir} => 远离 + ${mechanic}',
+          cn: '${dir} => 遠離 + ${mechanic}',
           ko: '${dir} => 밖으로 + ${mechanic}',
         },
         north: Outputs.north,
         south: Outputs.south,
         protean: {
           en: 'Protean',
-          cn: '八方分散',
+          cn: '八方散開',
           ko: '8방향 산개',
         },
         partners: {
           en: 'Partners',
-          cn: '两人分摊',
+          cn: '兩人集合',
           ko: '파트너',
         },
       },
@@ -2471,42 +2471,42 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         outsideNW: {
           en: 'Outside NW',
-          cn: '外侧 左上(西北)',
+          cn: '外側 左上(西北)',
           ko: '북서 바깥',
         },
         outsideNE: {
           en: 'Outside NE',
-          cn: '外侧 右上(东北)',
+          cn: '外側 右上(東北)',
           ko: '북동 바깥',
         },
         insideNW: {
           en: 'Inside NW',
-          cn: '内侧 左上(西北)',
+          cn: '內側 左上(西北)',
           ko: '북서 안',
         },
         insideNE: {
           en: 'Inside NE',
-          cn: '内侧 右上(东北)',
+          cn: '內側 右上(東北)',
           ko: '북동 안',
         },
         insideSW: {
           en: 'Inside SW',
-          cn: '内侧 左下(西南)',
+          cn: '內側 左下(西南)',
           ko: '남서 안',
         },
         insideSE: {
           en: 'Inside SE',
-          cn: '内侧 右下(东南)',
+          cn: '內側 右下(東南)',
           ko: '남동 안',
         },
         outsideSW: {
           en: 'Outside SW',
-          cn: '外侧 左下(西南)',
+          cn: '外側 左下(西南)',
           ko: '남서 바깥',
         },
         outsideSE: {
           en: 'Outside SE',
-          cn: '外侧 右下(东南)',
+          cn: '外側 右下(東南)',
           ko: '남동 바깥',
         },
         default: {
@@ -2554,7 +2554,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Innerer Kreis',
           fr: 'Cercle intérieur',
           ja: 'ドーナツ',
-          cn: '月环',
+          cn: '月環',
           ko: '가운데 원',
         },
       },
@@ -2652,37 +2652,37 @@ const triggerSet: TriggerSet<Data> = {
           },
           outsideWest: {
             en: 'Outside West',
-            cn: '第1列 (左西 外侧)',
+            cn: '第1列 (左西 外側)',
             ko: '1열 (서쪽 바깥)',
           },
           insideWest: {
             en: 'Inside West',
-            cn: '第2列 (左西 内侧)',
+            cn: '第2列 (左西 內側)',
             ko: '2열 (서쪽 안)',
           },
           insideEast: {
             en: 'Inside East',
-            cn: '第3列 (右东 内侧)',
+            cn: '第3列 (右東 內側)',
             ko: '3열 (동쪽 안)',
           },
           outsideEast: {
             en: 'Outside East',
-            cn: '第4列 (右东 外侧)',
+            cn: '第4列 (右東 外側)',
             ko: '4열 (동쪽 바깥)',
           },
           northRow: {
             en: 'North Blue',
-            cn: '第1个蓝方块',
+            cn: '第1個藍方塊',
             ko: '위쪽 파란색',
           },
           middleRow: {
             en: 'Middle Blue',
-            cn: '第2个蓝方块',
+            cn: '第2個藍方塊',
             ko: '가운데 파란색',
           },
           southRow: {
             en: 'South Blue',
-            cn: '第3个蓝方块',
+            cn: '第3個藍方塊',
             ko: '아래쪽 파란색',
           },
           leanNorth: {
@@ -2692,7 +2692,7 @@ const triggerSet: TriggerSet<Data> = {
           },
           leanEast: {
             en: 'Lean East',
-            cn: '靠右(东)',
+            cn: '靠右(東)',
             ko: '오른쪽',
           },
           leanSouth: {
@@ -2887,17 +2887,17 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         baitAlphaDebuff: {
           en: 'Avoid Shapes => Bait Proteans (Alpha)',
-          cn: '远离方块 => 引导射线 (α)',
+          cn: '遠離方塊 => 引導射線 (α)',
           ko: '도형 피하기 => 장판 유도 (알파)',
         },
         baitBetaDebuff: {
           en: 'Avoid Shapes => Bait Proteans (Beta)',
-          cn: '远离方块 => 引导射线 (β)',
+          cn: '遠離方塊 => 引導射線 (β)',
           ko: '도형 피하기 => 장판 유도 (베타)',
         },
         default: {
           en: 'Bait Proteans',
-          cn: '引导射线',
+          cn: '引導射線',
           ko: '장판 유도',
         },
       },
@@ -2917,17 +2917,17 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         baitAlphaDebuff: {
           en: 'Bait Proteans (Alpha)',
-          cn: '引导射线 (α)',
+          cn: '引導射線 (α)',
           ko: '장판 유도 (알파)',
         },
         baitBetaDebuff: {
           en: 'Bait Proteans (Beta)',
-          cn: '引导射线 (β)',
+          cn: '引導射線 (β)',
           ko: '장판 유도 (베타)',
         },
         default: {
           en: 'Bait Proteans',
-          cn: '引导射线',
+          cn: '引導射線',
           ko: '장판 유도',
         },
       },
@@ -2945,7 +2945,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         moveAvoid: {
           en: 'Move! (avoid shapes)',
-          cn: '快躲开! (远离方块)',
+          cn: '快躲開! (遠離方塊)',
           ko: '이동! (도형 피하기)',
         },
         move: Outputs.moveAway,
@@ -3034,7 +3034,7 @@ const triggerSet: TriggerSet<Data> = {
         nothing: {
           en: 'Nothing (w/${player})',
           ja: '無職: 2番目の上の塔 (${player})',
-          cn: '闲人: 踩第2轮塔 (${player})',
+          cn: '閒人: 踩第2輪塔 (${player})',
           ko: '디버프 없음 (+ ${player})',
         },
         nothingWithTower: {
@@ -3044,7 +3044,7 @@ const triggerSet: TriggerSet<Data> = {
         one: {
           en: 'One (w/${player})',
           ja: '因子1: 1番目の塔 (${player})',
-          cn: '单因子: 踩第1轮塔 (${player})',
+          cn: '單因子: 踩第1輪塔 (${player})',
           ko: '1번 (+ ${player})',
         },
         oneWithTower: {
@@ -3054,13 +3054,13 @@ const triggerSet: TriggerSet<Data> = {
         shortLight: {
           en: 'Short Light (get first dark)',
           ja: '早: 1番目のやみ塔',
-          cn: '白1: 踩第1轮黑塔',
+          cn: '白1: 踩第1輪黑塔',
           ko: '짧은 빛 (첫 어둠 대상)',
         },
         longLight: {
           en: 'Long Light (get second dark)',
           ja: '遅: 2番目の下のやみ塔',
-          cn: '白2: 踩第2轮黑塔',
+          cn: '白2: 踩第2輪黑塔',
           ko: '긴 빛 (두번째 어둠 대상)',
         },
         longLightMerge: {
@@ -3070,13 +3070,13 @@ const triggerSet: TriggerSet<Data> = {
         shortDark: {
           en: 'Short Dark (get first light)',
           ja: '早: 1番目のひかり塔',
-          cn: '黑1: 踩第1轮白塔',
+          cn: '黑1: 踩第1輪白塔',
           ko: '짧은 어둠 (첫 빛 대상)',
         },
         longDark: {
           en: 'Long Dark (get second light)',
           ja: '遅: 2番目の下のひかり塔',
-          cn: '黑2: 踩第2轮白塔',
+          cn: '黑2: 踩第2輪白塔',
           ko: '긴 어둠 (두번째 빛 대상)',
         },
         longDarkMerge: {
@@ -3146,7 +3146,7 @@ const triggerSet: TriggerSet<Data> = {
         slimeTethers: {
           en: 'Get Slime Tethers',
           ja: 'スライムの線取り',
-          cn: '接线',
+          cn: '接線',
           ko: '슬라임 선 가져가기',
         },
       },
@@ -3182,13 +3182,13 @@ const triggerSet: TriggerSet<Data> = {
           lightTowerSwitch: {
             en: 'Light Tower (switch)',
             ja: 'やみ -> ひかり塔',
-            cn: '踩白塔 (换色)',
+            cn: '踩白塔 (換色)',
             ko: '빛 기둥 (교체)',
           },
           darkTowerSwitch: {
             en: 'Dark Tower (switch)',
             ja: 'ひかり -> やみ塔',
-            cn: '踩黑塔 (换色)',
+            cn: '踩黑塔 (換色)',
             ko: '어둠 기둥 (교체)',
           },
         };
@@ -3361,7 +3361,7 @@ const triggerSet: TriggerSet<Data> = {
         uav1: {
           en: 'Break tether (w/ ${partner})',
           ja: '線切る (${partner})',
-          cn: '拉断连线 (和 ${partner})',
+          cn: '拉斷連線 (和 ${partner})',
           ko: '선 끊기 (+ ${partner})',
         },
         uav2: {
@@ -3391,12 +3391,12 @@ const triggerSet: TriggerSet<Data> = {
           blockPartner: {
             en: 'Block tether',
             ja: '相棒の前でビームを受ける',
-            cn: '挡枪',
+            cn: '擋槍',
             ko: '선 대상자 앞에 서기',
           },
           stretchTether: {
             en: 'Stretch tether',
-            cn: '拉线',
+            cn: '拉線',
             ko: '선 늘리기',
           },
         };
@@ -3477,7 +3477,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Initial Fire (w/ ${partner})',
           ja: '自分に初炎 (${partner})', // FIXME
-          cn: '火标记点名 (和 ${partner})',
+          cn: '火標記點名 (和 ${partner})',
           ko: '첫 불 대상자 (+ ${partner})',
         },
       },
@@ -3504,7 +3504,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Fire again',
           ja: '再び炎！無職とあたまわり',
-          cn: '二次火标记点名',
+          cn: '二次火標記點名',
           ko: '두번째 불',
         },
       },
@@ -3526,13 +3526,13 @@ const triggerSet: TriggerSet<Data> = {
         none: {
           en: 'Stack with Fire',
           ja: '無職！炎とあたまわり', // FIXME
-          cn: '与火标记分摊',
+          cn: '與火標記集合',
           ko: '불 쉐어',
         },
         wind: {
           en: 'Spread Wind',
           ja: '風！ 散会',
-          cn: '风点名散开',
+          cn: '風點名散開',
           ko: '바람 산개',
         },
       },
@@ -3551,19 +3551,19 @@ const triggerSet: TriggerSet<Data> = {
           fire: {
             en: 'Fire (w/${team})',
             ja: '自分に炎 (${team})',
-            cn: '火标记点名 (和 ${team})',
+            cn: '火標記點名 (和 ${team})',
             ko: '불 (+ ${team})',
           },
           wind: {
             en: 'Wind (w/${team})',
             ja: '自分に風 (${team})',
-            cn: '风标记点名 (和 ${team})',
+            cn: '風標記點名 (和 ${team})',
             ko: '바람 (+ ${team})',
           },
           windBeacon: {
             en: 'Initial Wind',
             ja: '自分に初風', // FIXME
-            cn: '风标记点名',
+            cn: '風標記點名',
             ko: '첫 바람 대상자',
           },
         };
@@ -3609,13 +3609,13 @@ const triggerSet: TriggerSet<Data> = {
             // This is meant to be "person without wind who gets an extra stack".
             en: 'Fire Marker',
             ja: '自分に初炎!', // FIXME
-            cn: '火标记点名',
+            cn: '火標記點名',
             ko: '불 대상자',
           },
           fireOn: {
             en: 'Fire on ${player}',
             ja: '初炎: ${player}',
-            cn: '火标记点 ${player}',
+            cn: '火標記點 ${player}',
             ko: '불: ${player}',
           },
         };
@@ -3645,7 +3645,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Wind Spread',
           ja: '自分に風、散会',
-          cn: '风点名散开',
+          cn: '風點名散開',
           ko: '바람 산개',
         },
       },
@@ -3662,7 +3662,7 @@ const triggerSet: TriggerSet<Data> = {
           passFire: {
             en: 'Pass Fire',
             ja: '次に移る！',
-            cn: '传火!',
+            cn: '傳火!',
             ko: '불 건네기',
           },
           moveAway: Outputs.moveAway,
@@ -3708,7 +3708,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Exaflare + Große AoE!', // FIXME
           fr: 'ExaBrasier + Grosse AoE!', // FIXME
           ja: 'エクサフレア + 全体攻撃',
-          cn: '地火 + 大AoE伤害!',
+          cn: '地火 + 大AoE傷害!',
           ko: '엑사플레어 + 전체 공격!',
         },
       },
@@ -3888,6 +3888,79 @@ const triggerSet: TriggerSet<Data> = {
     },
     {
       'locale': 'ja',
+      'missingTranslations': true,
+      'replaceSync': {
+        'Anthropos': 'アンスロポス',
+        '(?<! )Athena': 'アテナ',
+        'Concept of Water': '水の概念',
+        'Forbidden Factor': '禁忌因子',
+        'Hemitheos': 'ヘーミテオス',
+        'Pallas Athena': 'パラスアテナ',
+      },
+      'replaceText': {
+        'Apodialogos': 'アポ・ディアロゴス',
+        'Astral Advance': 'アストラルアドバンス',
+        'Astral Advent': 'アストラルアドベント',
+        'Astral Glow': 'アストラルグロウ',
+        'Astral Impact': '星撃',
+        'Caloric Theory': 'カロリックセオリー',
+        'Crush Helm': '星天爆撃打',
+        'Demi Parhelion': 'デミパルヘリオン',
+        '(?<!(Apo|Peri))Dialogos': 'ディアロゴス',
+        'Divine Excoriation': '神罰',
+        'Dynamic Atmosphere': '衝風',
+        'Ekpyrosis': 'エクピロシス',
+        'Engravement of Souls': '魂の刻印',
+        'Entropic Excess': '焦熱波',
+        'Factor In': '因子還元',
+        'Gaiaochos': 'ガイアオコス',
+        'Geocentrism': 'ジオセントリズム',
+        'Glaukopis': 'グラウコピス',
+        'Ignorabimus': 'イグノラビムス',
+        'Implode': '自壊',
+        'Missing Link': '苦痛の鎖',
+        'On the Soul': 'オン・ザ・ソウル',
+        'Palladian Grasp': 'パラスの手',
+        'Palladian Ray': 'パラスレイ',
+        'Palladion': 'パラディオン',
+        'Pangenesis': 'パンゲネシス',
+        'Panta Rhei': 'パンタレイ',
+        'Paradeigma': 'パラデイグマ',
+        'Parthenos': 'パルテノン',
+        'Peridialogos': 'ペリ・ディアロゴス',
+        'Polarized Ray': 'ポラリティレイ',
+        'Pyre Pulse': '重熱波',
+        'Ray of Light': '光波',
+        'Sample': '貪食',
+        'Searing Radiance': 'レイディアンス',
+        'Shadowsear': 'シャドーシアー',
+        'Shock': '放電',
+        'Summon Darkness': 'サモンダークネス',
+        'Superchain Burst': 'スーパーチェイン・バースト',
+        'Superchain Coil': 'スーパーチェイン・サークル',
+        'Superchain Theory I(?!I)': 'スーパーチェイン・セオリーI',
+        'Superchain Theory IIA': 'スーパーチェイン・セオリーIIA',
+        'Superchain Theory IIB': 'スーパーチェイン・セオリーIIB',
+        'The Classical Concepts': 'イデア・エレメンタル',
+        'Theos\'s Cross': 'テオス・クロス',
+        'Theos\'s Holy': 'テオス・ホーリー',
+        'Theos\'s Saltire': 'テオス・サルタイアー',
+        'Theos\'s Ultima': 'テオス・アルテマ',
+        'Trinity of Souls': 'トリニティ・ソウル',
+        '(?<! )Ultima(?! (B|R))': 'アルテマ',
+        'Ultima Blade': 'アルテマブレイド',
+        'Ultima Blow': 'アルテマブロウ',
+        'Ultima Ray': 'アルテマレイ',
+        'Umbral Advance': 'アンブラルアドバンス',
+        'Umbral Advent': 'アンブラルアドベント',
+        'Umbral Glow': 'アンブラルグロウ',
+        'Umbral Impact': '霊撃',
+        'Unnatural Enchainment': '魂の鎖',
+        'White Flame': '白火',
+      },
+    },
+    {
+      'locale': 'cn',
       'missingTranslations': true,
       'replaceSync': {
         'Anthropos': 'アンスロポス',
