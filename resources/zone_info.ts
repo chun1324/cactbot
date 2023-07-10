@@ -20,7 +20,7 @@ const data: ZoneInfoType = {
     'contentType': 9,
     'exVersion': 4,
     'name': {
-      'cn': '惊奇百宝城',
+      'cn': '驚奇百寶城',
       'de': 'Euphoratron',
       'en': 'The Excitatron 6000',
       'fr': 'Le Ludodrome',
@@ -36,7 +36,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '万魔殿 边境之狱1',
+      'cn': '萬魔殿 邊境之獄1',
       'de': 'Asphodelos - Erster Kreis',
       'en': 'Asphodelos: The First Circle',
       'fr': 'Les Limbes du Pandæmonium - Parvis',
@@ -52,7 +52,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '零式万魔殿 边境之狱1',
+      'cn': '零式萬魔殿 邊境之獄1',
       'de': 'Asphodelos - Erster Kreis (episch)',
       'en': 'Asphodelos: The First Circle (Savage)',
       'fr': 'Les Limbes du Pandæmonium - Parvis (sadique)',
@@ -68,7 +68,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '万魔殿 边境之狱2',
+      'cn': '萬魔殿 邊境之獄2',
       'de': 'Asphodelos - Zweiter Kreis',
       'en': 'Asphodelos: The Second Circle',
       'fr': 'Les Limbes du Pandæmonium - Cloaque',
@@ -84,7 +84,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '零式万魔殿 边境之狱2',
+      'cn': '零式萬魔殿 邊境之獄2',
       'de': 'Asphodelos - Zweiter Kreis (episch)',
       'en': 'Asphodelos: The Second Circle (Savage)',
       'fr': 'Les Limbes du Pandæmonium - Cloaque (sadique)',
@@ -100,7 +100,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '万魔殿 边境之狱3',
+      'cn': '萬魔殿 邊境之獄3',
       'de': 'Asphodelos - Dritter Kreis',
       'en': 'Asphodelos: The Third Circle',
       'fr': 'Les Limbes du Pandæmonium - Fournaise',
@@ -116,7 +116,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '零式万魔殿 边境之狱3',
+      'cn': '零式萬魔殿 邊境之獄3',
       'de': 'Asphodelos - Dritter Kreis (episch)',
       'en': 'Asphodelos: The Third Circle (Savage)',
       'fr': 'Les Limbes du Pandæmonium - Fournaise (sadique)',
@@ -132,7 +132,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '万魔殿 边境之狱4',
+      'cn': '萬魔殿 邊境之獄4',
       'de': 'Asphodelos - Vierter Kreis',
       'en': 'Asphodelos: The Fourth Circle',
       'fr': 'Les Limbes du Pandæmonium - Abîme',
@@ -148,7 +148,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '零式万魔殿 边境之狱4',
+      'cn': '零式萬魔殿 邊境之獄4',
       'de': 'Asphodelos - Vierter Kreis (episch)',
       'en': 'Asphodelos: The Fourth Circle (Savage)',
       'fr': 'Les Limbes du Pandæmonium - Abîme (sadique)',
@@ -164,7 +164,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '踏破风雪',
+      'cn': '踏破風雪',
       'de': 'Ein frostiger Empfang',
       'en': 'A Frosty Reception',
       'fr': 'Un accueil glacial',
@@ -180,7 +180,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '无尽寒夜',
+      'cn': '無盡寒夜',
       'de': 'In fremder Haut',
       'en': 'In from the Cold',
       'fr': 'Le voleur de corps',
@@ -196,7 +196,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '扩散的末日',
+      'cn': '擴散的末日',
       'de': 'Rote Himmel, roter Schnee',
       'en': 'As the Heavens Burn',
       'fr': 'L\'arène des neiges',
@@ -212,7 +212,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '晓月之终途',
+      'cn': '曉月之終途',
       'de': 'Endschreiter',
       'en': 'Endwalker',
       'fr': 'Arpenteur des finitudes',
@@ -228,7 +228,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '上一任阿谢姆的教导',
+      'cn': '上一任阿謝姆的教導',
       'de': ' Es reimt sich auf Gebell',
       'en': 'Worthy of His Back',
       'fr': 'Le défi de l\'ancienne Azem',
@@ -244,7 +244,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '未来之路',
+      'cn': '未來之路',
       'de': 'Offen für neue Wege',
       'en': 'A Path Unveiled',
       'fr': 'Des esprits et des hommes',
@@ -260,7 +260,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '驶向融合的巨轮',
+      'cn': '駛向融合的巨輪',
       'de': 'Im Hafen des Friedens',
       'en': 'To Calmer Seas',
       'fr': 'Cap sur la paix',
@@ -292,7 +292,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '仰望苍穹，不断迈进',
+      'cn': '仰望蒼穹，不斷邁進',
       'de': 'Der Weg zur Erneuerung',
       'en': 'Ever March Heavensward',
       'fr': 'La voie du renouveau',
@@ -324,7 +324,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '大镰的意义',
+      'cn': '大鐮的意義',
       'de': 'Die Bedeutung der Sense',
       'en': 'The Harvest Begins',
       'fr': 'La vraie puissance de la faux',
@@ -340,7 +340,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '暗杀道',
+      'cn': '暗殺道',
       'de': 'Die Kunst des Tötens',
       'en': 'The Killing Art',
       'fr': 'La voie du néant',
@@ -356,7 +356,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '贤者的短杖',
+      'cn': '賢者的短杖',
       'de': 'Des Weisen wundersames Werkzeug',
       'en': 'Sage\'s Focus',
       'fr': 'Les armes du sage',
@@ -372,7 +372,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '生命瞬逝，术道恒久',
+      'cn': '生命瞬逝，術道恆久',
       'de': 'Das Leben ist kurz, die Kunst ist lang',
       'en': 'Life Ephemeral, Path Eternal',
       'fr': 'Existences éphémères et savoir éternel',
@@ -388,7 +388,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '究极神兵幻巧战',
+      'cn': '究極神兵幻巧戰',
       'de': 'Traumprüfung - Ultima',
       'en': 'Ultima\'s Bane (Unreal)',
       'fr': 'Le fléau d\'Ultima (irréel)',
@@ -419,7 +419,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '地下灵殿塔姆·塔拉墓园',
+      'cn': '地下靈殿塔姆·塔拉墓園',
       'de': 'Totenacker Tam-Tara',
       'en': 'The Tam–Tara Deepcroft',
       'fr': 'L\'Hypogée de Tam-Tara',
@@ -435,7 +435,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '封锁坑道铜铃铜山',
+      'cn': '封鎖坑道銅鈴銅山',
       'de': 'Kupferglocken-Mine',
       'en': 'Copperbell Mines',
       'fr': 'Les Mines de Clochecuivre',
@@ -451,7 +451,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '监狱废墟托托·拉克千狱',
+      'cn': '監獄廢墟托托·拉克千獄',
       'de': 'Tausend Löcher von Toto-Rak',
       'en': 'The Thousand Maws of Toto–Rak',
       'fr': 'Les Mille Gueules de Toto-Rak',
@@ -467,7 +467,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '名门府邸静语庄园',
+      'cn': '名門府邸靜語莊園',
       'de': 'Haukke-Herrenhaus',
       'en': 'Haukke Manor',
       'fr': 'Le Manoir des Haukke',
@@ -483,7 +483,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '休养胜地布雷福洛克斯野营地',
+      'cn': '休養勝地布雷福洛克斯野營地',
       'de': 'Brüllvolx\' Langrast',
       'en': 'Brayflox\'s Longstop',
       'fr': 'Le Bivouac de Brayflox',
@@ -499,7 +499,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '对龙城塞石卫塔',
+      'cn': '對龍城塞石衛塔',
       'de': 'Steinerne Wacht',
       'en': 'The Stone Vigil',
       'fr': 'Le Vigile de Pierre',
@@ -515,7 +515,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '神兵要塞帝国南方堡',
+      'cn': '神兵要塞帝國南方堡',
       'de': 'Castrum Meridianum - Außenbereich',
       'en': 'Castrum Meridianum',
       'fr': 'Castrum Meridianum',
@@ -531,7 +531,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '最终决战天幕魔导城',
+      'cn': '最終決戰天幕魔導城',
       'de': 'Castrum Meridianum - Praetorium',
       'en': 'The Praetorium',
       'fr': 'Le Praetorium',
@@ -547,7 +547,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '伊弗利特讨伐战',
+      'cn': '伊弗利特討伐戰',
       'de': 'Das Grab der Lohe',
       'en': 'The Bowl of Embers',
       'fr': 'Le Cratère des tisons',
@@ -563,7 +563,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '泰坦讨伐战',
+      'cn': '泰坦討伐戰',
       'de': 'Der Nabel',
       'en': 'The Navel',
       'fr': 'Le Nombril',
@@ -579,7 +579,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '迦楼罗讨伐战',
+      'cn': '迦樓羅討伐戰',
       'de': 'Das Tosende Auge',
       'en': 'The Howling Eye',
       'fr': 'Hurlœil',
@@ -595,7 +595,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '究极神兵破坏作战',
+      'cn': '究極神兵破壞作戰',
       'de': 'Porta Decumana',
       'en': 'The Porta Decumana',
       'fr': 'Porta Decumana',
@@ -611,7 +611,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 0,
     'name': {
-      'cn': '里塔提恩强攻战',
+      'cn': '里塔提恩強攻戰',
       'de': 'Kap Westwind',
       'en': 'Cape Westwind',
       'fr': 'Le Cap Vendouest',
@@ -627,7 +627,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '近东秘宝阿尔扎达尔海底遗迹群',
+      'cn': '近東秘寶阿爾扎達爾海底遺跡群',
       'de': 'Alzadaals Vermächtnis',
       'en': 'Alzadaal\'s Legacy',
       'fr': 'Le legs d\'Alzadaal',
@@ -643,7 +643,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '涅尔瓦的帝国',
+      'cn': '涅爾瓦的帝國',
       'de': 'Nervas Reich',
       'en': 'Forlorn Glory',
       'fr': 'Nerva, le patriote',
@@ -659,7 +659,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 0,
     'name': {
-      'cn': '拉哈布雷亚讨伐战',
+      'cn': '拉哈布雷亞討伐戰',
       'de': 'Das Antlitz der Kaltblütigkeit',
       'en': 'Devastation',
       'fr': 'Le Praetorium en flammes',
@@ -675,7 +675,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '灿烂神域阿格莱亚',
+      'cn': '燦爛神域阿格萊亞',
       'de': 'Aglaia',
       'en': 'Aglaia',
       'fr': 'Domaine divin - Aglaé',
@@ -691,7 +691,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '水晶冲突（角力学校：自定赛）',
+      'cn': '水晶衝突（角力學校：自定賽）',
       'de': 'Crystalline Conflict: Die Palästra (Schaukampf)',
       'en': 'Crystalline Conflict (Custom Match - The Palaistra)',
       'fr': 'Crystalline Conflict (partie personnalisée - Le Palestre)',
@@ -707,7 +707,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '水晶冲突（火山之心：自定赛）',
+      'cn': '水晶衝突（火山之心：自定賽）',
       'de': 'Crystalline Conflict: Das Herz des Vulkans (Schaukampf)',
       'en': 'Crystalline Conflict (Custom Match - The Volcanic Heart)',
       'fr': 'Crystalline Conflict (partie personnalisée - Le Cœur volcanique)',
@@ -723,7 +723,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '水晶冲突（九霄云上：自定赛）',
+      'cn': '水晶衝突（九霄雲上：自定賽）',
       'de': 'Crystalline Conflict: Wolke Sieben (Schaukampf)',
       'en': 'Crystalline Conflict (Custom Match - Cloud Nine)',
       'fr': 'Crystalline Conflict (partie personnalisée - Le Petit Nuage)',
@@ -739,7 +739,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '凛冽洞天披雪大冰壁',
+      'cn': '凜冽洞天披雪大冰壁',
       'de': 'Das Schneekleid',
       'en': 'Snowcloak',
       'fr': 'Manteneige',
@@ -755,7 +755,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '幻龙残骸密约之塔',
+      'cn': '幻龍殘骸密約之塔',
       'de': 'Hüter des Sees',
       'en': 'The Keeper of the Lake',
       'fr': 'Le Gardien du lac',
@@ -771,7 +771,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '天山绝顶索姆阿尔灵峰',
+      'cn': '天山絕頂索姆阿爾靈峰',
       'de': 'Sohm Al',
       'en': 'Sohm Al',
       'fr': 'Sohm Al',
@@ -787,7 +787,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '邪龙王座龙巢神殿',
+      'cn': '邪龍王座龍巢神殿',
       'de': 'Nest des Drachen',
       'en': 'The Aery',
       'fr': 'L\'Aire',
@@ -803,7 +803,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '圣教中枢伊修加德教皇厅',
+      'cn': '聖教中樞伊修加德教皇廳',
       'de': 'Erzbasilika',
       'en': 'The Vault',
       'fr': 'La Voûte',
@@ -819,7 +819,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '莫古力贤王歼灭战',
+      'cn': '莫古力賢王殲滅戰',
       'de': 'Königliche Konfrontation (schwer)',
       'en': 'Thornmarch (Hard)',
       'fr': 'La Lisière de ronces (brutal)',
@@ -835,7 +835,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 0,
     'name': {
-      'cn': '皇都伊修加德保卫战',
+      'cn': '皇都伊修加德保衛戰',
       'de': 'Der Schicksalsweg',
       'en': 'The Steps of Faith',
       'fr': 'Le Siège de la sainte Cité d\'Ishgard',
@@ -867,7 +867,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '异界孤城特罗亚宫廷',
+      'cn': '異界孤城特羅亞宮廷',
       'de': 'Der Schwarze Hof von Troia',
       'en': 'The Fell Court of Troia',
       'fr': 'Le Château de Troïa',
@@ -883,7 +883,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '巴尔巴莉希娅歼灭战',
+      'cn': '巴爾巴莉希婭殲滅戰',
       'de': 'Prophetie - Barbarizia',
       'en': 'Storm\'s Crown',
       'fr': 'La Toison des tempêtes',
@@ -899,7 +899,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '巴尔巴莉希娅歼殛战',
+      'cn': '巴爾巴莉希婭殲殛戰',
       'de': 'Eschatos - Barbarizia',
       'en': 'Storm\'s Crown (Extreme)',
       'fr': 'La Toison des tempêtes (extrême)',
@@ -947,7 +947,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '万魔殿 炼净之狱1',
+      'cn': '萬魔殿 煉淨之獄1',
       'de': 'Abyssos - Fünfter Kreis',
       'en': 'Abyssos: The Fifth Circle',
       'fr': 'Le Purgatoire du Pandæmonium - Cages',
@@ -963,7 +963,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '零式万魔殿 炼净之狱1',
+      'cn': '零式萬魔殿 煉淨之獄1',
       'de': 'Abyssos - Fünfter Kreis (episch)',
       'en': 'Abyssos: The Fifth Circle (Savage)',
       'fr': 'Le Purgatoire du Pandæmonium - Cages (sadique)',
@@ -979,7 +979,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '万魔殿 炼净之狱2',
+      'cn': '萬魔殿 煉淨之獄2',
       'de': 'Abyssos - Sechster Kreis',
       'en': 'Abyssos: The Sixth Circle',
       'fr': 'Le Purgatoire du Pandæmonium - Croisements',
@@ -995,7 +995,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '零式万魔殿 炼净之狱2',
+      'cn': '零式萬魔殿 煉淨之獄2',
       'de': 'Abyssos - Sechster Kreis (episch)',
       'en': 'Abyssos: The Sixth Circle (Savage)',
       'fr': 'Le Purgatoire du Pandæmonium - Croisements (sadique)',
@@ -1011,7 +1011,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '万魔殿 炼净之狱3',
+      'cn': '萬魔殿 煉淨之獄3',
       'de': 'Abyssos - Siebter Kreis',
       'en': 'Abyssos: The Seventh Circle',
       'fr': 'Le Purgatoire du Pandæmonium - Racines',
@@ -1027,7 +1027,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '零式万魔殿 炼净之狱3',
+      'cn': '零式萬魔殿 煉淨之獄3',
       'de': 'Abyssos - Siebter Kreis (episch)',
       'en': 'Abyssos: The Seventh Circle (Savage)',
       'fr': 'Le Purgatoire du Pandæmonium - Racines (sadique)',
@@ -1043,7 +1043,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '万魔殿 炼净之狱4',
+      'cn': '萬魔殿 煉淨之獄4',
       'de': 'Abyssos - Achter Kreis',
       'en': 'Abyssos: The Eighth Circle',
       'fr': 'Le Purgatoire du Pandæmonium - Hérédité',
@@ -1059,7 +1059,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '零式万魔殿 炼净之狱4',
+      'cn': '零式萬魔殿 煉淨之獄4',
       'de': 'Abyssos - Achter Kreis (episch)',
       'en': 'Abyssos: The Eighth Circle (Savage)',
       'fr': 'Le Purgatoire du Pandæmonium - Hérédité (sadique)',
@@ -1075,7 +1075,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '萨菲洛特幻巧战',
+      'cn': '薩菲洛特幻巧戰',
       'de': 'Traumprüfung - Sephirot',
       'en': 'Containment Bay S1T7 (Unreal)',
       'fr': 'Unité de contention S1P7 (irréel)',
@@ -1090,7 +1090,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '失传的力量',
+      'cn': '失傳的力量',
       'de': 'Wo alles seinen Anfang nimmt',
       'en': 'Where Everything Begins',
       'fr': 'Au commencement était Zero',
@@ -1106,7 +1106,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '卢比坎特歼灭战',
+      'cn': '盧比坎特殲滅戰',
       'de': 'Prophetie - Rubicante',
       'en': 'Mount Ordeals',
       'fr': 'Le Mont du Supplice',
@@ -1122,7 +1122,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '卢比坎特歼殛战',
+      'cn': '盧比坎特殲殛戰',
       'de': 'Eschatos - Rubicante',
       'en': 'Mount Ordeals (Extreme)',
       'fr': 'Le Mont du Supplice (extrême)',
@@ -1138,7 +1138,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '雪山奥窟冥魂石洞',
+      'cn': '雪山奧窟冥魂石洞',
       'de': 'Lapis Manalis',
       'en': 'Lapis Manalis',
       'fr': 'Lapis Manalis',
@@ -1404,7 +1404,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '机关大殿',
+      'cn': '機關大殿',
       'de': 'Die Mechanische Menagerie',
       'en': 'The Clockwork Castletown',
       'fr': 'Le Traquenard oriental',
@@ -1420,7 +1420,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '水晶冲突（机关大殿：自定赛）',
+      'cn': '水晶衝突（機關大殿：自定賽）',
       'de': 'Crystalline Conflict: Die Mechanische Menagerie (Schaukampf)',
       'en': 'Crystalline Conflict (Custom Match - The Clockwork Castletown)',
       'fr': 'Crystalline Conflict (partie personnalisée - Le Traquenard oriental)',
@@ -1436,7 +1436,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 4,
     'name': {
-      'cn': '喜悦神域欧芙洛绪涅',
+      'cn': '喜悅神域歐芙洛緒涅',
       'de': 'Euphrosyne',
       'en': 'Euphrosyne',
       'fr': 'Domaine divin - Euphrosyne',
@@ -1452,7 +1452,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '未料想过的交易',
+      'cn': '未料想過的交易',
       'de': 'Der Wert einer Buuds',
       'en': 'An Unforeseen Bargain',
       'fr': 'Pour une bouchée de pain',
@@ -1468,7 +1468,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '索菲娅幻巧战',
+      'cn': '索菲婭幻巧戰',
       'de': 'Traumprüfung - Sophia',
       'en': 'Containment Bay P1T6 (Unreal)',
       'fr': 'Unité de contention P1P6 (irréel)',
@@ -1498,7 +1498,7 @@ const data: ZoneInfoType = {
     'contentType': 9,
     'exVersion': 4,
     'name': {
-      'cn': '厄尔庇斯育体宝殿',
+      'cn': '厄爾庇斯育體寶殿',
       'de': 'Gymnasion Agonon',
       'en': 'The Shifting Gymnasion Agonon',
       'fr': 'Elpis Gymnasion',
@@ -1761,7 +1761,7 @@ const data: ZoneInfoType = {
   128: {
     'exVersion': 0,
     'name': {
-      'cn': '利姆萨·罗敏萨上层甲板',
+      'cn': '利姆薩·羅敏薩上層甲板',
       'de': 'Obere Decks',
       'en': 'Limsa Lominsa Upper Decks',
       'fr': 'Limsa Lominsa - Le Tillac',
@@ -1776,7 +1776,7 @@ const data: ZoneInfoType = {
   129: {
     'exVersion': 0,
     'name': {
-      'cn': '利姆萨·罗敏萨下层甲板',
+      'cn': '利姆薩·羅敏薩下層甲板',
       'de': 'Untere Decks',
       'en': 'Limsa Lominsa Lower Decks',
       'fr': 'Limsa Lominsa - L\'Entrepont',
@@ -1791,7 +1791,7 @@ const data: ZoneInfoType = {
   130: {
     'exVersion': 0,
     'name': {
-      'cn': '乌尔达哈现世回廊',
+      'cn': '烏爾達哈現世迴廊',
       'de': 'Nald-Kreuzgang',
       'en': 'Ul\'dah - Steps of Nald',
       'fr': 'Ul\'dah - Faubourg de Nald',
@@ -1806,7 +1806,7 @@ const data: ZoneInfoType = {
   131: {
     'exVersion': 0,
     'name': {
-      'cn': '乌尔达哈来生回廊',
+      'cn': '烏爾達哈來生迴廊',
       'de': 'Thal-Kreuzgang',
       'en': 'Ul\'dah - Steps of Thal',
       'fr': 'Ul\'dah - Faubourg de Thal',
@@ -1821,7 +1821,7 @@ const data: ZoneInfoType = {
   132: {
     'exVersion': 0,
     'name': {
-      'cn': '格里达尼亚新街',
+      'cn': '格里達尼亞新街',
       'de': 'Neu-Gridania',
       'en': 'New Gridania',
       'fr': 'Nouvelle Gridania',
@@ -1836,7 +1836,7 @@ const data: ZoneInfoType = {
   133: {
     'exVersion': 0,
     'name': {
-      'cn': '格里达尼亚旧街',
+      'cn': '格里達尼亞舊街',
       'de': 'Alt-Gridania',
       'en': 'Old Gridania',
       'fr': 'Vieille Gridania',
@@ -1851,7 +1851,7 @@ const data: ZoneInfoType = {
   134: {
     'exVersion': 0,
     'name': {
-      'cn': '中拉诺西亚',
+      'cn': '中拉諾西亞',
       'de': 'Zentrales La Noscea',
       'en': 'Middle La Noscea',
       'fr': 'Noscea centrale',
@@ -1866,7 +1866,7 @@ const data: ZoneInfoType = {
   135: {
     'exVersion': 0,
     'name': {
-      'cn': '拉诺西亚低地',
+      'cn': '拉諾西亞低地',
       'de': 'Unteres La Noscea',
       'en': 'Lower La Noscea',
       'fr': 'Basse-Noscea',
@@ -1881,7 +1881,7 @@ const data: ZoneInfoType = {
   136: {
     'exVersion': 0,
     'name': {
-      'cn': '海雾村',
+      'cn': '海霧村',
       'de': 'Dorf des Nebels',
       'en': 'Mist',
       'fr': 'Brumée',
@@ -1896,7 +1896,7 @@ const data: ZoneInfoType = {
   137: {
     'exVersion': 0,
     'name': {
-      'cn': '东拉诺西亚',
+      'cn': '東拉諾西亞',
       'de': 'Östliches La Noscea',
       'en': 'Eastern La Noscea',
       'fr': 'Noscea orientale',
@@ -1911,7 +1911,7 @@ const data: ZoneInfoType = {
   138: {
     'exVersion': 0,
     'name': {
-      'cn': '西拉诺西亚',
+      'cn': '西拉諾西亞',
       'de': 'Westliches La Noscea',
       'en': 'Western La Noscea',
       'fr': 'Noscea occidentale',
@@ -1926,7 +1926,7 @@ const data: ZoneInfoType = {
   139: {
     'exVersion': 0,
     'name': {
-      'cn': '拉诺西亚高地',
+      'cn': '拉諾西亞高地',
       'de': 'Oberes La Noscea',
       'en': 'Upper La Noscea',
       'fr': 'Haute-Noscea',
@@ -1941,7 +1941,7 @@ const data: ZoneInfoType = {
   140: {
     'exVersion': 0,
     'name': {
-      'cn': '西萨纳兰',
+      'cn': '西薩納蘭',
       'de': 'Westliches Thanalan',
       'en': 'Western Thanalan',
       'fr': 'Thanalan occidental',
@@ -1956,7 +1956,7 @@ const data: ZoneInfoType = {
   141: {
     'exVersion': 0,
     'name': {
-      'cn': '中萨纳兰',
+      'cn': '中薩納蘭',
       'de': 'Zentrales Thanalan',
       'en': 'Central Thanalan',
       'fr': 'Thanalan central',
@@ -1972,7 +1972,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '艾玛吉娜杯斗技大会决赛',
+      'cn': '艾瑪吉娜杯鬥技大會決賽',
       'de': 'Das Drachenhals-Kolosseum',
       'en': 'The Dragon\'s Neck',
       'fr': 'Le Col du dragon',
@@ -1988,7 +1988,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '(6.1)皇都伊修加德保卫战',
+      'cn': '(6.1)皇都伊修加德保衛戰',
       'de': '(6.1)Der Schicksalsweg',
       'en': '(6.1)The Steps of Faith',
       'fr': '(6.1)Le Siège de la sainte Cité d\'Ishgard',
@@ -2003,7 +2003,7 @@ const data: ZoneInfoType = {
   145: {
     'exVersion': 0,
     'name': {
-      'cn': '东萨纳兰',
+      'cn': '東薩納蘭',
       'de': 'Östliches Thanalan',
       'en': 'Eastern Thanalan',
       'fr': 'Thanalan oriental',
@@ -2018,7 +2018,7 @@ const data: ZoneInfoType = {
   146: {
     'exVersion': 0,
     'name': {
-      'cn': '南萨纳兰',
+      'cn': '南薩納蘭',
       'de': 'Südliches Thanalan',
       'en': 'Southern Thanalan',
       'fr': 'Thanalan méridional',
@@ -2033,7 +2033,7 @@ const data: ZoneInfoType = {
   147: {
     'exVersion': 0,
     'name': {
-      'cn': '北萨纳兰',
+      'cn': '北薩納蘭',
       'de': 'Nördliches Thanalan',
       'en': 'Northern Thanalan',
       'fr': 'Thanalan septentrional',
@@ -2048,7 +2048,7 @@ const data: ZoneInfoType = {
   148: {
     'exVersion': 0,
     'name': {
-      'cn': '黑衣森林中央林区',
+      'cn': '黑衣森林中央林區',
       'de': 'Tiefer Wald',
       'en': 'Central Shroud',
       'fr': 'Forêt centrale',
@@ -2064,7 +2064,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '(6.1)幻龙残骸密约之塔',
+      'cn': '(6.1)幻龍殘骸密約之塔',
       'de': '(6.1)Hüter des Sees',
       'en': '(6.1)The Keeper of the Lake',
       'fr': '(6.1)Le Gardien du lac',
@@ -2095,7 +2095,7 @@ const data: ZoneInfoType = {
   152: {
     'exVersion': 0,
     'name': {
-      'cn': '黑衣森林东部林区',
+      'cn': '黑衣森林東部林區',
       'de': 'Ostwald',
       'en': 'East Shroud',
       'fr': 'Forêt de l\'est',
@@ -2110,7 +2110,7 @@ const data: ZoneInfoType = {
   153: {
     'exVersion': 0,
     'name': {
-      'cn': '黑衣森林南部林区',
+      'cn': '黑衣森林南部林區',
       'de': 'Südwald',
       'en': 'South Shroud',
       'fr': 'Forêt du sud',
@@ -2125,7 +2125,7 @@ const data: ZoneInfoType = {
   154: {
     'exVersion': 0,
     'name': {
-      'cn': '黑衣森林北部林区',
+      'cn': '黑衣森林北部林區',
       'de': 'Nordwald',
       'en': 'North Shroud',
       'fr': 'Forêt du nord',
@@ -2140,7 +2140,7 @@ const data: ZoneInfoType = {
   155: {
     'exVersion': 0,
     'name': {
-      'cn': '库尔札斯中央高地',
+      'cn': '庫爾札斯中央高地',
       'de': 'Zentrales Hochland von Coerthas',
       'en': 'Coerthas Central Highlands',
       'fr': 'Hautes terres du Coerthas central',
@@ -2155,7 +2155,7 @@ const data: ZoneInfoType = {
   156: {
     'exVersion': 0,
     'name': {
-      'cn': '摩杜纳',
+      'cn': '摩杜納',
       'de': 'Mor Dhona',
       'en': 'Mor Dhona',
       'fr': 'Mor Dhona',
@@ -2171,7 +2171,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '神灵圣域放浪神古神殿',
+      'cn': '神靈聖域放浪神古神殿',
       'de': 'Palast des Wanderers',
       'en': 'The Wanderer\'s Palace',
       'fr': 'Le Palais du Vagabond',
@@ -2187,7 +2187,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '领航明灯天狼星灯塔',
+      'cn': '領航明燈天狼星燈塔',
       'de': 'Pharos Sirius',
       'en': 'Pharos Sirius',
       'fr': 'Le Phare de Sirius',
@@ -2203,7 +2203,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '魔兽领域日影地修炼所',
+      'cn': '魔獸領域日影地修煉所',
       'de': 'Halatali',
       'en': 'Halatali',
       'fr': 'Halatali',
@@ -2219,7 +2219,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '古代遗迹喀恩埋没圣堂',
+      'cn': '古代遺跡喀恩埋沒聖堂',
       'de': 'Versunkener Tempel von Qarn',
       'en': 'The Sunken Temple of Qarn',
       'fr': 'Le Temple enseveli de Qarn',
@@ -2235,7 +2235,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '邪教驻地无限城古堡',
+      'cn': '邪教駐地無限城古堡',
       'de': 'Die Ruinen von Amdapor',
       'en': 'Amdapor Keep',
       'fr': 'Le Château d\'Amdapor',
@@ -2251,7 +2251,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '流沙迷宫樵鸣洞',
+      'cn': '流沙迷宮樵鳴洞',
       'de': 'Sägerschrei',
       'en': 'Cutter\'s Cry',
       'fr': 'Le Gouffre hurlant',
@@ -2267,7 +2267,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '山中战线泽梅尔要塞',
+      'cn': '山中戰線澤梅爾要塞',
       'de': 'Die Feste Dzemael',
       'en': 'Dzemael Darkhold',
       'fr': 'La Forteresse de Dzemael',
@@ -2283,7 +2283,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '毒雾洞窟黄金谷',
+      'cn': '毒霧洞窟黃金谷',
       'de': 'Goldklamm',
       'en': 'The Aurum Vale',
       'fr': 'Le Val d\'Aurum',
@@ -2299,7 +2299,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '水晶塔 古代人迷宫',
+      'cn': '水晶塔 古代人迷宮',
       'de': 'Kristallturm - Das Labyrinth der Alten',
       'en': 'The Labyrinth of the Ancients',
       'fr': 'La Tour de Cristal - Dédale antique',
@@ -2314,7 +2314,7 @@ const data: ZoneInfoType = {
   180: {
     'exVersion': 0,
     'name': {
-      'cn': '拉诺西亚外地',
+      'cn': '拉諾西亞外地',
       'de': 'Äußeres La Noscea',
       'en': 'Outer La Noscea',
       'fr': 'Noscea extérieure',
@@ -2330,7 +2330,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '武装圣域放浪神古神殿',
+      'cn': '武裝聖域放浪神古神殿',
       'de': 'Palast des Wanderers (schwer)',
       'en': 'The Wanderer\'s Palace (Hard)',
       'fr': 'Le Palais du Vagabond (brutal)',
@@ -2346,7 +2346,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '邪念妖地无限城古堡',
+      'cn': '邪念妖地無限城古堡',
       'de': 'Die Ruinen von Amdapor (schwer)',
       'en': 'Amdapor Keep (Hard)',
       'fr': 'Le Château d\'Amdapor (brutal)',
@@ -2362,7 +2362,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '讨伐彷徨死灵！',
+      'cn': '討伐彷徨死靈！',
       'de': 'Bockmanns Gefolge',
       'en': 'Under the Armor',
       'fr': 'Chasse au fantôme fantoche',
@@ -2378,7 +2378,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '驱除剧毒妖花！',
+      'cn': '驅除劇毒妖花！',
       'de': 'Unkraut jäten',
       'en': 'Pulling Poison Posies',
       'fr': 'Opération fleurs du mal',
@@ -2394,7 +2394,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '消灭恶徒团伙寄生蜂团！',
+      'cn': '消滅惡徒團夥寄生蜂團！',
       'de': 'Ins Wespennest stechen',
       'en': 'Stinging Back',
       'fr': 'Expédition punitive contre les Ventrerouge',
@@ -2410,7 +2410,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 真源之章1',
+      'cn': '巴哈姆特大迷宮 真源之章1',
       'de': 'Verschlungene Schatten 3 - 1',
       'en': 'The Final Coil of Bahamut - Turn 1',
       'fr': 'L\'Abîme de Bahamut I',
@@ -2426,7 +2426,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 真源之章2',
+      'cn': '巴哈姆特大迷宮 真源之章2',
       'de': 'Verschlungene Schatten 3 - 2',
       'en': 'The Final Coil of Bahamut - Turn 2',
       'fr': 'L\'Abîme de Bahamut II',
@@ -2442,7 +2442,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 真源之章3',
+      'cn': '巴哈姆特大迷宮 真源之章3',
       'de': 'Verschlungene Schatten 3 - 3',
       'en': 'The Final Coil of Bahamut - Turn 3',
       'fr': 'L\'Abîme de Bahamut III',
@@ -2458,7 +2458,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 真源之章4',
+      'cn': '巴哈姆特大迷宮 真源之章4',
       'de': 'Verschlungene Schatten 3 - 4',
       'en': 'The Final Coil of Bahamut - Turn 4',
       'fr': 'L\'Abîme de Bahamut IV',
@@ -2474,7 +2474,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '(6.1)莫古力贤王歼灭战',
+      'cn': '(6.1)莫古力賢王殲滅戰',
       'de': '(6.1)Königliche Konfrontation (schwer)',
       'en': '(6.1)Thornmarch (Hard)',
       'fr': '(6.1)La Lisière de ronces (brutal)',
@@ -2490,7 +2490,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '完成集团战训练！',
+      'cn': '完成集團戰訓練！',
       'de': 'Einer für alle, alle für einen',
       'en': 'Basic Training: Enemy Parties',
       'fr': 'Entraînement<Indent/>: groupes d\'ennemis',
@@ -2506,7 +2506,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '突破所有关门，讨伐最深处的敌人！',
+      'cn': '突破所有關門，討伐最深處的敵人！',
       'de': 'Sturmkommando',
       'en': 'Basic Training: Enemy Strongholds',
       'fr':
@@ -2523,7 +2523,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '捕获金币龟！',
+      'cn': '捕獲金幣龜！',
       'de': 'Gil oder Leben',
       'en': 'Hero on the Half Shell',
       'fr': 'Reconquête d\'une carapace escamotée',
@@ -2539,7 +2539,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '击溃哥布林炸弹军团！',
+      'cn': '擊潰哥布林炸彈軍團！',
       'de': 'Bombige Goblins',
       'en': 'Flicking Sticks and Taking Names',
       'fr': 'Les Gobelins bombardiers',
@@ -2555,7 +2555,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '讨伐梦幻之布拉奇希奥！',
+      'cn': '討伐夢幻之布拉奇希奧！',
       'de': 'Briaxio ausschalten',
       'en': 'All\'s Well that Ends in the Well',
       'fr': 'Briaxio à bras raccourcis',
@@ -2571,7 +2571,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '讨伐污染源头魔界花！',
+      'cn': '討伐汙染源頭魔界花！',
       'de': 'Tödliches Rankenspiel',
       'en': 'More than a Feeler',
       'fr': 'Sus au morbol pollueur',
@@ -2587,7 +2587,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '讨伐坑道中出现的妖异！',
+      'cn': '討伐坑道中出現的妖異！',
       'de': 'Gefahr aus dem Nichts',
       'en': 'Annoy the Void',
       'fr': 'Buso l\'immolateur',
@@ -2603,7 +2603,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '注意无敌的眷属，讨伐大型妖异！',
+      'cn': '注意無敵的眷屬，討伐大型妖異！',
       'de': 'Kampf gegen Schatten',
       'en': 'Shadow and Claw',
       'fr': 'Ombres et griffes',
@@ -2619,7 +2619,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 邂逅之章1',
+      'cn': '巴哈姆特大迷宮 邂逅之章1',
       'de': 'Verschlungene Schatten 1',
       'en': 'The Binding Coil of Bahamut - Turn 1',
       'fr': 'Le Labyrinthe de Bahamut I',
@@ -2635,7 +2635,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 邂逅之章2',
+      'cn': '巴哈姆特大迷宮 邂逅之章2',
       'de': 'Verschlungene Schatten 2',
       'en': 'The Binding Coil of Bahamut - Turn 2',
       'fr': 'Le Labyrinthe de Bahamut II',
@@ -2651,7 +2651,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 邂逅之章3',
+      'cn': '巴哈姆特大迷宮 邂逅之章3',
       'de': 'Verschlungene Schatten 3',
       'en': 'The Binding Coil of Bahamut - Turn 3',
       'fr': 'Le Labyrinthe de Bahamut III',
@@ -2667,7 +2667,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 邂逅之章4',
+      'cn': '巴哈姆特大迷宮 邂逅之章4',
       'de': 'Verschlungene Schatten 4',
       'en': 'The Binding Coil of Bahamut - Turn 4',
       'fr': 'Le Labyrinthe de Bahamut IV',
@@ -2683,7 +2683,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 邂逅之章5',
+      'cn': '巴哈姆特大迷宮 邂逅之章5',
       'de': 'Verschlungene Schatten 5',
       'en': 'The Binding Coil of Bahamut - Turn 5',
       'fr': 'Le Labyrinthe de Bahamut V',
@@ -2698,7 +2698,7 @@ const data: ZoneInfoType = {
   250: {
     'exVersion': 0,
     'name': {
-      'cn': '狼狱停船场',
+      'cn': '狼獄停船場',
       'de': 'Wolfshöhlen-Pier',
       'en': 'Wolves\' Den Pier',
       'fr': 'Jetée de l\'Antre des loups',
@@ -2714,7 +2714,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '利维亚桑歼灭战',
+      'cn': '利維亞桑殲滅戰',
       'de': 'Götterdämmerung - Leviathan',
       'en': 'The <Emphasis>Whorleater</Emphasis> (Hard)',
       'fr': 'Le Briseur de marées (brutal)',
@@ -2730,7 +2730,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '伊弗利特歼灭战',
+      'cn': '伊弗利特殲滅戰',
       'de': 'Götterdämmerung - Ifrit',
       'en': 'The Bowl of Embers (Hard)',
       'fr': 'Le Cratère des tisons (brutal)',
@@ -2746,7 +2746,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '泰坦歼灭战',
+      'cn': '泰坦殲滅戰',
       'de': 'Götterdämmerung - Titan',
       'en': 'The Navel (Hard)',
       'fr': 'Le Nombril (brutal)',
@@ -2762,7 +2762,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '迦楼罗歼灭战',
+      'cn': '迦樓羅殲滅戰',
       'de': 'Götterdämmerung - Garuda',
       'en': 'The Howling Eye (Hard)',
       'fr': 'Hurlœil (brutal)',
@@ -2778,7 +2778,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '伊弗利特歼殛战',
+      'cn': '伊弗利特殲殛戰',
       'de': 'Zenit der Götter - Ifrit',
       'en': 'The Bowl of Embers (Extreme)',
       'fr': 'Le Cratère des tisons (extrême)',
@@ -2794,7 +2794,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '泰坦歼殛战',
+      'cn': '泰坦殲殛戰',
       'de': 'Zenit der Götter - Titan',
       'en': 'The Navel (Extreme)',
       'fr': 'Le Nombril (extrême)',
@@ -2810,7 +2810,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '迦楼罗歼殛战',
+      'cn': '迦樓羅殲殛戰',
       'de': 'Zenit der Götter - Garuda',
       'en': 'The Howling Eye (Extreme)',
       'fr': 'Hurlœil (extrême)',
@@ -2826,7 +2826,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '讨伐爆弹怪的女王！',
+      'cn': '討伐爆彈怪的女王！',
       'de': 'Miss Bombastic',
       'en': 'Long Live the Queen',
       'fr': 'Longue vie à la Reine',
@@ -2842,7 +2842,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '歼灭特殊阵型的妖异！',
+      'cn': '殲滅特殊陣型的妖異！',
       'de': 'Unzertrennlich',
       'en': 'Ward Up',
       'fr': 'Quintettes infernaux',
@@ -2858,7 +2858,7 @@ const data: ZoneInfoType = {
     'contentType': 3,
     'exVersion': 0,
     'name': {
-      'cn': '制止三方混战的巨人族，守住遗物！',
+      'cn': '制止三方混戰的巨人族，守住遺物！',
       'de': 'Wuchtige Dreifaltigkeit',
       'en': 'Solemn Trinity',
       'fr': 'Trinité sinistre',
@@ -2874,7 +2874,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '究极神兵假想作战',
+      'cn': '究極神兵假想作戰',
       'de': 'Heldenlied von Ultima',
       'en': 'The Minstrel\'s Ballad: Ultima\'s Bane',
       'fr': 'Le fléau d\'Ultima',
@@ -2890,7 +2890,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '骚乱坑道铜铃铜山',
+      'cn': '騷亂坑道銅鈴銅山',
       'de': 'Kupferglocken-Mine (schwer)',
       'en': 'Copperbell Mines (Hard)',
       'fr': 'Les Mines de Clochecuivre (brutal)',
@@ -2906,7 +2906,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '恶灵府邸静语庄园',
+      'cn': '惡靈府邸靜語莊園',
       'de': 'Haukke-Herrenhaus (schwer)',
       'en': 'Haukke Manor (Hard)',
       'fr': 'Le Manoir des Haukke (brutal)',
@@ -2922,7 +2922,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '活动挑战2',
+      'cn': '活動挑戰2',
       'de': 'Event-Inhalt 1',
       'en': 'Special Event I',
       'fr': 'Défi spécial I',
@@ -2938,7 +2938,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '活动挑战3',
+      'cn': '活動挑戰3',
       'de': 'Event-Inhalt 2',
       'en': 'Special Event II',
       'fr': 'Défi spécial II',
@@ -2954,7 +2954,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 入侵之章1',
+      'cn': '巴哈姆特大迷宮 入侵之章1',
       'de': 'Verschlungene Schatten 2 - 1',
       'en': 'The Second Coil of Bahamut - Turn 1',
       'fr': 'Les Méandres de Bahamut I',
@@ -2970,7 +2970,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 入侵之章2',
+      'cn': '巴哈姆特大迷宮 入侵之章2',
       'de': 'Verschlungene Schatten 2 - 2',
       'en': 'The Second Coil of Bahamut - Turn 2',
       'fr': 'Les Méandres de Bahamut II',
@@ -2986,7 +2986,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 入侵之章3',
+      'cn': '巴哈姆特大迷宮 入侵之章3',
       'de': 'Verschlungene Schatten 2 - 3',
       'en': 'The Second Coil of Bahamut - Turn 3',
       'fr': 'Les Méandres de Bahamut III',
@@ -3002,7 +3002,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特大迷宫 入侵之章4',
+      'cn': '巴哈姆特大迷宮 入侵之章4',
       'de': 'Verschlungene Schatten 2 - 4',
       'en': 'The Second Coil of Bahamut - Turn 4',
       'fr': 'Les Méandres de Bahamut IV',
@@ -3018,7 +3018,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '利维亚桑歼殛战',
+      'cn': '利維亞桑殲殛戰',
       'de': 'Zenit der Götter - Leviathan',
       'en': 'The <Emphasis>Whorleater</Emphasis> (Extreme)',
       'fr': 'Le Briseur de marées (extrême)',
@@ -3034,7 +3034,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '剑斗领域日影地修炼所',
+      'cn': '劍鬥領域日影地修煉所',
       'de': 'Halatali (schwer)',
       'en': 'Halatali (Hard)',
       'fr': 'Halatali (brutal)',
@@ -3050,7 +3050,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '财宝传说破舰岛',
+      'cn': '財寶傳說破艦島',
       'de': 'Schiffbrecher-Insel',
       'en': 'Hullbreaker Isle',
       'fr': 'L\'Île de Crèvecarène',
@@ -3066,7 +3066,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '纷争要地布雷福洛克斯野营地',
+      'cn': '紛爭要地布雷福洛克斯野營地',
       'de': 'Brüllvolx\' Langrast (schwer)',
       'en': 'Brayflox\'s Longstop (Hard)',
       'fr': 'Le Bivouac de Brayflox (brutal)',
@@ -3082,7 +3082,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '腐坏遗迹无限城市街古迹',
+      'cn': '腐壞遺跡無限城市街古蹟',
       'de': 'Historisches Amdapor',
       'en': 'The Lost City of Amdapor',
       'fr': 'Les Vestiges de la cité d\'Amdapor',
@@ -3098,7 +3098,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '莫古力贤王歼殛战',
+      'cn': '莫古力賢王殲殛戰',
       'de': 'Königliche Konfrontation (extrem)',
       'en': 'Thornmarch (Extreme)',
       'fr': 'La Lisière de ronces (extrême)',
@@ -3114,7 +3114,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '激战城塞石卫塔',
+      'cn': '激戰城塞石衛塔',
       'de': 'Steinerne Wacht (schwer)',
       'en': 'The Stone Vigil (Hard)',
       'fr': 'Le Vigile de Pierre (brutal)',
@@ -3130,7 +3130,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '大桥上的决斗',
+      'cn': '大橋上的決鬥',
       'de': 'Duell auf der großen Brücke',
       'en': 'Battle on the Big Bridge',
       'fr': 'Affrontement sur le grand pont',
@@ -3146,7 +3146,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '苏醒遗迹喀恩埋没圣堂',
+      'cn': '甦醒遺跡喀恩埋沒聖堂',
       'de': 'Versunkener Tempel von Qarn (schwer)',
       'en': 'The Sunken Temple of Qarn (Hard)',
       'fr': 'Le Temple enseveli de Qarn (brutal)',
@@ -3162,7 +3162,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '死化奇美拉讨伐战',
+      'cn': '死化奇美拉討伐戰',
       'de': 'Kampf gegen die Dhorme-Chimära',
       'en': 'A Relic Reborn: the Chimera',
       'fr': 'La chimère dhorme du Coerthas',
@@ -3178,7 +3178,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '海德拉讨伐战',
+      'cn': '海德拉討伐戰',
       'de': 'Kampf gegen die Hydra',
       'en': 'A Relic Reborn: the Hydra',
       'fr': 'L\'hydre d\'Halatali',
@@ -3194,7 +3194,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '(6.1)凛冽洞天披雪大冰壁',
+      'cn': '(6.1)凜冽洞天披雪大冰壁',
       'de': '(6.1)Das Schneekleid',
       'en': '(6.1)Snowcloak',
       'fr': '(6.1)Manteneige',
@@ -3210,7 +3210,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '水晶塔 希尔科斯塔',
+      'cn': '水晶塔 希爾科斯塔',
       'de': 'Kristallturm - Der Syrcus-Turm',
       'en': 'Syrcus Tower',
       'fr': 'La Tour de Cristal - Tour de Syrcus',
@@ -3226,7 +3226,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '惨剧灵殿塔姆·塔拉墓园',
+      'cn': '慘劇靈殿塔姆·塔拉墓園',
       'de': 'Totenacker Tam-Tara (schwer)',
       'en': 'The Tam–Tara Deepcroft (Hard)',
       'fr': 'L\'Hypogée de Tam-Tara (brutal)',
@@ -3242,7 +3242,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '拉姆歼灭战',
+      'cn': '拉姆殲滅戰',
       'de': 'Götterdämmerung - Ramuh',
       'en': 'The Striking Tree (Hard)',
       'fr': 'L\'Arbre du jugement (brutal)',
@@ -3258,7 +3258,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '拉姆歼殛战',
+      'cn': '拉姆殲殛戰',
       'de': 'Zenit der Götter - Ramuh',
       'en': 'The Striking Tree (Extreme)',
       'fr': 'L\'Arbre du jugement (extrême)',
@@ -3274,7 +3274,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '周边遗迹群（阵地战）',
+      'cn': '周邊遺跡群（陣地戰）',
       'de': 'Äußere Ruinen (Sicherung)',
       'en': 'The Borderland Ruins (Secure)',
       'fr': 'Les Ruines frontalières (annexion)',
@@ -3290,7 +3290,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '希瓦歼灭战',
+      'cn': '希瓦殲滅戰',
       'de': 'Götterdämmerung - Shiva',
       'en': 'The Akh Afah Amphitheatre (Hard)',
       'fr': 'L\'Amphithéâtre d\'Akh Afah (brutal)',
@@ -3306,7 +3306,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '希瓦歼殛战',
+      'cn': '希瓦殲殛戰',
       'de': 'Zenit der Götter - Shiva',
       'en': 'The Akh Afah Amphitheatre (Extreme)',
       'fr': 'L\'Amphithéâtre d\'Akh Afah (extrême)',
@@ -3322,7 +3322,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特零式大迷宫 入侵之章1',
+      'cn': '巴哈姆特零式大迷宮 入侵之章1',
       'de': 'Verschlungene Schatten 2 - 1 (episch)',
       'en': 'The Second Coil of Bahamut (Savage) - Turn 1',
       'fr': 'Les Méandres de Bahamut I (sadique)',
@@ -3338,7 +3338,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特零式大迷宫 入侵之章2',
+      'cn': '巴哈姆特零式大迷宮 入侵之章2',
       'de': 'Verschlungene Schatten 2 - 2 (episch)',
       'en': 'The Second Coil of Bahamut (Savage) - Turn 2',
       'fr': 'Les Méandres de Bahamut II (sadique)',
@@ -3354,7 +3354,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特零式大迷宫 入侵之章3',
+      'cn': '巴哈姆特零式大迷宮 入侵之章3',
       'de': 'Verschlungene Schatten 2 - 3 (episch)',
       'en': 'The Second Coil of Bahamut (Savage) - Turn 3',
       'fr': 'Les Méandres de Bahamut III (sadique)',
@@ -3370,7 +3370,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 0,
     'name': {
-      'cn': '巴哈姆特零式大迷宫 入侵之章4',
+      'cn': '巴哈姆特零式大迷宮 入侵之章4',
       'de': 'Verschlungene Schatten 2 - 4 (episch)',
       'en': 'The Second Coil of Bahamut (Savage) - Turn 4',
       'fr': 'Les Méandres de Bahamut IV (sadique)',
@@ -3386,7 +3386,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '逆转要害沙斯塔夏溶洞',
+      'cn': '逆轉要害沙斯塔夏溶洞',
       'de': 'Sastasha (schwer)',
       'en': 'Sastasha (Hard)',
       'fr': 'Sastasha (brutal)',
@@ -3402,7 +3402,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '陆行鸟竞赛：太阳海岸',
+      'cn': '陸行鳥競賽：太陽海岸',
       'de': 'Chocobo-Rennen: Sonnenküste',
       'en': 'Chocobo Race: Costa del Sol',
       'fr': 'Course de chocobos<Indent/>: Costa del Sol',
@@ -3418,7 +3418,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '陆行鸟竞赛：荒野大道',
+      'cn': '陸行鳥競賽：荒野大道',
       'de': 'Chocobo-Rennen: Sagolii-Straße',
       'en': 'Chocobo Race: Sagolii Road',
       'fr': 'Course de chocobos<Indent/>: Route de Sagolii',
@@ -3434,7 +3434,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '陆行鸟竞赛：恬静小路',
+      'cn': '陸行鳥競賽：恬靜小路',
       'de': 'Chocobo-Rennen: Pfad der Seelenruhe',
       'en': 'Chocobo Race: Tranquil Paths',
       'fr': 'Course de chocobos<Indent/>: Sentes tranquilles',
@@ -3450,7 +3450,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '奥丁歼灭战',
+      'cn': '奧丁殲滅戰',
       'de': 'Jenseits Urths Quelle',
       'en': 'Urth\'s Fount',
       'fr': 'La Fontaine d\'Urth',
@@ -3466,7 +3466,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '无限城的死斗',
+      'cn': '無限城的死鬥',
       'de': 'Revanche in den Ruinen',
       'en': 'Battle in the Big Keep',
       'fr': 'Revanche au vieux château',
@@ -3481,7 +3481,7 @@ const data: ZoneInfoType = {
   397: {
     'exVersion': 1,
     'name': {
-      'cn': '库尔札斯西部高地',
+      'cn': '庫爾札斯西部高地',
       'de': 'Westliches Hochland von Coerthas',
       'en': 'Coerthas Western Highlands',
       'fr': 'Hautes terres du Coerthas occidental',
@@ -3496,7 +3496,7 @@ const data: ZoneInfoType = {
   398: {
     'exVersion': 1,
     'name': {
-      'cn': '龙堡参天高地',
+      'cn': '龍堡參天高地',
       'de': 'Dravanisches Vorland',
       'en': 'The Dravanian Forelands',
       'fr': 'Avant-pays dravanien',
@@ -3511,7 +3511,7 @@ const data: ZoneInfoType = {
   399: {
     'exVersion': 1,
     'name': {
-      'cn': '龙堡内陆低地',
+      'cn': '龍堡內陸低地',
       'de': 'Dravanisches Hinterland',
       'en': 'The Dravanian Hinterlands',
       'fr': 'Arrière-pays dravanien',
@@ -3526,7 +3526,7 @@ const data: ZoneInfoType = {
   400: {
     'exVersion': 1,
     'name': {
-      'cn': '翻云雾海',
+      'cn': '翻雲霧海',
       'de': 'Wallende Nebel',
       'en': 'The Churning Mists',
       'fr': 'L\'Écume des cieux de Dravania',
@@ -3541,7 +3541,7 @@ const data: ZoneInfoType = {
   401: {
     'exVersion': 1,
     'name': {
-      'cn': '阿巴拉提亚云海',
+      'cn': '阿巴拉提亞雲海',
       'de': 'Abalathisches Wolkenmeer',
       'en': 'The Sea of Clouds',
       'fr': 'L\'Écume des cieux d\'Abalathia',
@@ -3556,7 +3556,7 @@ const data: ZoneInfoType = {
   402: {
     'exVersion': 1,
     'name': {
-      'cn': '魔大陆阿济兹拉',
+      'cn': '魔大陸阿濟茲拉',
       'de': 'Azys Lla',
       'en': 'Azys Lla',
       'fr': 'Azys Lla',
@@ -3572,7 +3572,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '英雄归来',
+      'cn': '英雄歸來',
       'de': 'Verrat der Qalyana',
       'en': 'Return of the Bull',
       'fr': 'Retour au bercail',
@@ -3588,7 +3588,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '学识宝库迦巴勒幻想图书馆',
+      'cn': '學識寶庫迦巴勒幻想圖書館',
       'de': 'Große Gubal-Bibliothek',
       'en': 'The Great Gubal Library',
       'fr': 'La Grande bibliothèque de Gubal',
@@ -3604,7 +3604,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '陆行鸟竞赛：竞赛教学',
+      'cn': '陸行鳥競賽：競賽教學',
       'de': 'Chocobo-Rennen: Übungsbahn',
       'en': 'Chocobo Race: Tutorial',
       'fr': 'Course d\'appentissage',
@@ -3619,7 +3619,7 @@ const data: ZoneInfoType = {
   418: {
     'exVersion': 1,
     'name': {
-      'cn': '伊修加德基础层',
+      'cn': '伊修加德基礎層',
       'de': 'Fundamente',
       'en': 'Foundation',
       'fr': 'Ishgard - L\'Assise',
@@ -3634,7 +3634,7 @@ const data: ZoneInfoType = {
   419: {
     'exVersion': 1,
     'name': {
-      'cn': '伊修加德砥柱层',
+      'cn': '伊修加德砥柱層',
       'de': 'Strebewerk',
       'en': 'The Pillars',
       'fr': 'Ishgard - Les Contreforts',
@@ -3650,7 +3650,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '空中神域不获岛',
+      'cn': '空中神域不獲島',
       'de': 'Nimmerreich',
       'en': 'Neverreap',
       'fr': 'Nalloncques',
@@ -3666,7 +3666,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.1)圣教中枢伊修加德教皇厅',
+      'cn': '(6.1)聖教中樞伊修加德教皇廳',
       'de': '(6.1)Erzbasilika',
       'en': '(6.1)The Vault',
       'fr': '(6.1)La Voûte',
@@ -3682,7 +3682,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '那布里亚勒斯讨伐战',
+      'cn': '那布里亞勒斯討伐戰',
       'de': 'Chrysalis',
       'en': 'The Chrysalis',
       'fr': 'La Chrysalide',
@@ -3698,7 +3698,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '博物战舰无限回廊',
+      'cn': '博物戰艦無限迴廊',
       'de': 'Die Fraktal-Kontinuum',
       'en': 'The Fractal Continuum',
       'fr': 'Le Continuum fractal',
@@ -3714,7 +3714,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '尘封秘岩（争夺战）',
+      'cn': '塵封秘岩（爭奪戰）',
       'de': 'Robbenholm (Eroberung)',
       'en': 'Seal Rock (Seize)',
       'fr': 'Le Rocher des tréfonds (invasion)',
@@ -3730,7 +3730,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '罗波那歼灭战',
+      'cn': '羅波那殲滅戰',
       'de': 'Götterdämmerung - Ravana',
       'en': 'Thok ast Thok (Hard)',
       'fr': 'Thok ast Thok (brutal)',
@@ -3746,7 +3746,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '冰雪废堡暮卫塔',
+      'cn': '冰雪廢堡暮衛塔',
       'de': 'Abendrot-Wacht',
       'en': 'The Dusk Vigil',
       'fr': 'Le Vigile du Crépuscule',
@@ -3762,7 +3762,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.1)邪龙王座龙巢神殿',
+      'cn': '(6.1)邪龍王座龍巢神殿',
       'de': '(6.1)Nest des Drachen',
       'en': '(6.1)The Aery',
       'fr': '(6.1)L\'Aire',
@@ -3778,7 +3778,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '俾斯麦歼灭战',
+      'cn': '俾斯麥殲滅戰',
       'de': 'Götterdämmerung - Bismarck',
       'en': 'The Limitless Blue (Hard)',
       'fr': 'L\'Immensité bleue (brutal)',
@@ -3794,7 +3794,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '圆桌骑士歼灭战',
+      'cn': '圓桌騎士殲滅戰',
       'de': 'Singularitäts-Reaktor',
       'en': 'The Singularity Reactor',
       'fr': 'Le Réacteur de singularité',
@@ -3810,7 +3810,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '血战苍穹魔科学研究所',
+      'cn': '血戰蒼穹魔科學研究所',
       'de': 'Ätherochemisches For<SoftHyphen/>schungs<SoftHyphen/>labor',
       'en': 'The Aetherochemical Research Facility',
       'fr': 'Le Laboratoire de magismologie',
@@ -3826,7 +3826,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.1)天山绝顶索姆阿尔灵峰',
+      'cn': '(6.1)天山絕頂索姆阿爾靈峰',
       'de': '(6.1)Sohm Al',
       'en': '(6.1)Sohm Al',
       'fr': '(6.1)Sohm Al',
@@ -3842,7 +3842,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 启动之章1',
+      'cn': '亞歷山大機神城 啟動之章1',
       'de': 'Alexander - Faust des Vaters',
       'en': 'Alexander - The Fist of the Father',
       'fr': 'Alexander - Le Poing du Père',
@@ -3858,7 +3858,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 启动之章2',
+      'cn': '亞歷山大機神城 啟動之章2',
       'de': 'Alexander - Elle des Vaters',
       'en': 'Alexander - The Cuff of the Father',
       'fr': 'Alexander - Le Poignet du Père',
@@ -3874,7 +3874,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 启动之章3',
+      'cn': '亞歷山大機神城 啟動之章3',
       'de': 'Alexander - Arm des Vaters',
       'en': 'Alexander - The Arm of the Father',
       'fr': 'Alexander - Le Bras du Père',
@@ -3890,7 +3890,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 启动之章4',
+      'cn': '亞歷山大機神城 啟動之章4',
       'de': 'Alexander - Last des Vaters',
       'en': 'Alexander - The Burden of the Father',
       'fr': 'Alexander - Le Fardeau du Père',
@@ -3906,7 +3906,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '罗波那歼殛战',
+      'cn': '羅波那殲殛戰',
       'de': 'Zenit der Götter - Ravana',
       'en': 'Thok ast Thok (Extreme)',
       'fr': 'Thok ast Thok (extrême)',
@@ -3922,7 +3922,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '俾斯麦歼殛战',
+      'cn': '俾斯麥殲殛戰',
       'de': 'Zenit der Götter - Bismarck',
       'en': 'The Limitless Blue (Extreme)',
       'fr': 'L\'Immensité bleue (extrême)',
@@ -3938,7 +3938,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '圆桌骑士幻想歼灭战',
+      'cn': '圓桌騎士幻想殲滅戰',
       'de': 'Heldenlied von Thordans Fall',
       'en': 'The Minstrel\'s Ballad: Thordan\'s Reign',
       'fr': 'Le règne de Thordan',
@@ -3954,7 +3954,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 启动之章1',
+      'cn': '亞歷山大零式機神城 啟動之章1',
       'de': 'Alexander - Faust des Vaters (episch)',
       'en': 'Alexander - The Fist of the Father (Savage)',
       'fr': 'Alexander - Le Poing du Père (sadique)',
@@ -3970,7 +3970,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 启动之章2',
+      'cn': '亞歷山大零式機神城 啟動之章2',
       'de': 'Alexander - Elle des Vaters (episch)',
       'en': 'Alexander - The Cuff of the Father (Savage)',
       'fr': 'Alexander - Le Poignet du Père (sadique)',
@@ -3986,7 +3986,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 启动之章3',
+      'cn': '亞歷山大零式機神城 啟動之章3',
       'de': 'Alexander - Arm des Vaters (episch)',
       'en': 'Alexander - The Arm of the Father (Savage)',
       'fr': 'Alexander - Le Bras du Père (sadique)',
@@ -4002,7 +4002,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 启动之章4',
+      'cn': '亞歷山大零式機神城 啟動之章4',
       'de': 'Alexander - Last des Vaters (episch)',
       'en': 'Alexander - The Burden of the Father (Savage)',
       'fr': 'Alexander - Le Fardeau du Père (sadique)',
@@ -4017,7 +4017,7 @@ const data: ZoneInfoType = {
   478: {
     'exVersion': 1,
     'name': {
-      'cn': '田园郡',
+      'cn': '田園郡',
       'de': 'Frohehalde',
       'en': 'Idyllshire',
       'fr': 'Idyllée',
@@ -4033,7 +4033,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '萌宠之王：大赛对战（人机对战）',
+      'cn': '萌寵之王：大賽對戰（人機對戰）',
       'de': 'Kampf der Trabanten: Turnier (gegen Arenameister)',
       'en': 'LoVM: Master Tournament',
       'fr': 'Bataille de tournoi contre l\'ordinateur',
@@ -4049,7 +4049,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '魔航船虚无方舟',
+      'cn': '魔航船虛無方舟',
       'de': 'Die Nichts-Arche',
       'en': 'The Void Ark',
       'fr': 'L\'Arche du néant',
@@ -4065,7 +4065,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '地脉灵灯天狼星灯塔',
+      'cn': '地脈靈燈天狼星燈塔',
       'de': 'Pharos Sirius (schwer)',
       'en': 'Pharos Sirius (Hard)',
       'fr': 'Le Phare de Sirius (brutal)',
@@ -4081,7 +4081,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '草木庭园圣茉夏娜植物园',
+      'cn': '草木庭園聖茉夏娜植物園',
       'de': 'Sankt Mocianne-Arboretum',
       'en': 'Saint Mocianne\'s Arboretum',
       'fr': 'L\'Arboretum Sainte-Mocianne',
@@ -4097,7 +4097,7 @@ const data: ZoneInfoType = {
     'contentType': 23,
     'exVersion': 1,
     'name': {
-      'cn': '云冠群岛白昼探索',
+      'cn': '雲冠群島白晝探索',
       'de': 'Das Diadem (leicht)',
       'en': 'The Diadem (Easy)',
       'fr': 'Le Diadème (facile)',
@@ -4113,7 +4113,7 @@ const data: ZoneInfoType = {
     'contentType': 23,
     'exVersion': 1,
     'name': {
-      'cn': '云冠群岛夜晚探索',
+      'cn': '雲冠群島夜晚探索',
       'de': 'Das Diadem (schwer)',
       'en': 'The Diadem (Hard)',
       'fr': 'Le Diadème (brutal)',
@@ -4129,7 +4129,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '星海空间颠倒塔',
+      'cn': '星海空間顛倒塔',
       'de': 'Antiturm',
       'en': 'The Antitower',
       'fr': 'L\'Antitour',
@@ -4145,7 +4145,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '萨菲洛特歼灭战',
+      'cn': '薩菲洛特殲滅戰',
       'de': 'Götterdämmerung - Sephirot',
       'en': 'Containment Bay S1T7',
       'fr': 'Unité de contention S1P7',
@@ -4161,7 +4161,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '神圣遗迹无限城市街古迹',
+      'cn': '神聖遺跡無限城市街古蹟',
       'de': 'Historisches Amdapor (schwer)',
       'en': 'The Lost City of Amdapor (Hard)',
       'fr': 'Les Vestiges de la cité d\'Amdapor (brutal)',
@@ -4177,7 +4177,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 律动之章1',
+      'cn': '亞歷山大機神城 律動之章1',
       'de': 'Alexander - Faust des Sohnes',
       'en': 'Alexander - The Fist of the Son',
       'fr': 'Alexander - Le Poing du Fils',
@@ -4193,7 +4193,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 律动之章2',
+      'cn': '亞歷山大機神城 律動之章2',
       'de': 'Alexander - Elle des Sohnes',
       'en': 'Alexander - The Cuff of the Son',
       'fr': 'Alexander - Le Poignet du Fils',
@@ -4209,7 +4209,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 律动之章3',
+      'cn': '亞歷山大機神城 律動之章3',
       'de': 'Alexander - Arm des Sohnes',
       'en': 'Alexander - The Arm of the Son',
       'fr': 'Alexander - Le Bras du Fils',
@@ -4225,7 +4225,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 律动之章4',
+      'cn': '亞歷山大機神城 律動之章4',
       'de': 'Alexander - Last des Sohnes',
       'en': 'Alexander - The Burden of the Son',
       'fr': 'Alexander - Le Fardeau du Fils',
@@ -4241,7 +4241,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '萨菲洛特歼殛战',
+      'cn': '薩菲洛特殲殛戰',
       'de': 'Zenit der Götter - Sephirot',
       'en': 'Containment Bay S1T7 (Extreme)',
       'fr': 'Unité de contention S1P7 (extrême)',
@@ -4257,7 +4257,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 律动之章1',
+      'cn': '亞歷山大零式機神城 律動之章1',
       'de': 'Alexander - Faust des Sohnes (episch)',
       'en': 'Alexander - The Fist of the Son (Savage)',
       'fr': 'Alexander - Le Poing du Fils (sadique)',
@@ -4273,7 +4273,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 律动之章2',
+      'cn': '亞歷山大零式機神城 律動之章2',
       'de': 'Alexander - Elle des Sohnes (episch)',
       'en': 'Alexander - The Cuff of the Son (Savage)',
       'fr': 'Alexander - Le Poignet du Fils (sadique)',
@@ -4289,7 +4289,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 律动之章3',
+      'cn': '亞歷山大零式機神城 律動之章3',
       'de': 'Alexander - Arm des Sohnes (episch)',
       'en': 'Alexander - The Arm of the Son (Savage)',
       'fr': 'Alexander - Le Bras du Fils (sadique)',
@@ -4305,7 +4305,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 律动之章4',
+      'cn': '亞歷山大零式機神城 律動之章4',
       'de': 'Alexander - Last des Sohnes (episch)',
       'en': 'Alexander - The Burden of the Son (Savage)',
       'fr': 'Alexander - Le Fardeau du Fils (sadique)',
@@ -4321,7 +4321,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 1,
     'name': {
-      'cn': '四国联合军演',
+      'cn': '四國聯合軍演',
       'de': 'Truppenübung der Eorzäischen Allianz',
       'en': 'A Spectacle for the Ages',
       'fr': 'La grande manœuvre éorzéenne',
@@ -4337,7 +4337,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '躲避范围攻击',
+      'cn': '躲避範圍攻擊',
       'de': 'Flächenangriffen ausweichen',
       'en': 'Avoid Area of Effect Attacks',
       'fr': 'Éviter les attaques à aire d\'effet',
@@ -4353,7 +4353,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '掌握仇恨连击',
+      'cn': '掌握仇恨連擊',
       'de': 'Mit Kombos Feindseligkeit auf sich ziehen',
       'en': 'Execute a Combo to Increase Enmity',
       'fr': 'Générer de l\'inimitié avec un combo',
@@ -4369,7 +4369,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '控制敌人的仇恨',
+      'cn': '控制敵人的仇恨',
       'de': 'Kombos im Kampf einsetzen',
       'en': 'Execute a Combo in Battle',
       'fr': 'Effectuer le combo en combat',
@@ -4385,7 +4385,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '控制多个敌人的仇恨',
+      'cn': '控制多個敵人的仇恨',
       'de': 'Feindseligkeit mehrerer Gegner auf sich ziehen',
       'en': 'Accrue Enmity from Multiple Targets',
       'fr': 'Attirer l\'inimitié de plusieurs ennemis sur soi',
@@ -4401,7 +4401,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '实战控制多个敌人的仇恨',
+      'cn': '實戰控制多個敵人的仇恨',
       'de': 'Gegen mehrere Gegner auf einmal kämpfen',
       'en': 'Engage Multiple Targets',
       'fr': 'Affronter plusieurs ennemis',
@@ -4417,7 +4417,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '控制远处敌人的仇恨',
+      'cn': '控制遠處敵人的仇恨',
       'de': 'Aus der Ferne Feindseligkeit auf sich ziehen',
       'en': 'Execute a Ranged Attack to Increase Enmity',
       'fr': 'Générer de l\'inimitié à distance',
@@ -4433,7 +4433,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '留心增援的敌人',
+      'cn': '留心增援的敵人',
       'de': 'Feindliche Verstärkung aufhalten',
       'en': 'Engage Enemy Reinforcements',
       'fr': 'Faire face à des renforts ennemis',
@@ -4449,7 +4449,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '配合防护职业打倒单个敌人',
+      'cn': '配合防護職業打倒單個敵人',
       'de': 'Gegner gemeinsam besiegen',
       'en': 'Assist Allies in Defeating a Target',
       'fr': 'Vaincre un ennemi en assistant des alliés',
@@ -4465,7 +4465,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '配合防护职业打倒多个敌人',
+      'cn': '配合防護職業打倒多個敵人',
       'de': 'Den Gegner eines Verbündeten besiegen',
       'en': 'Defeat an Occupied Target',
       'fr': 'Vaincre un ennemi occupé par un allié',
@@ -4481,7 +4481,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '躲避范围攻击的同时进行战斗',
+      'cn': '躲避範圍攻擊的同時進行戰鬥',
       'de': 'Angriffen ausweichen',
       'en': 'Avoid Engaged Targets',
       'fr': 'Combattre en évitant les attaques ennemies',
@@ -4497,7 +4497,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '灵活运用场地机关',
+      'cn': '靈活運用場地機關',
       'de': 'Mit dem Gelände interagieren',
       'en': 'Interact with the Battlefield',
       'fr': 'Interagir avec le décor en combat',
@@ -4513,7 +4513,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '治疗防护职业',
+      'cn': '治療防護職業',
       'de': 'Verbündete heilen',
       'en': 'Heal an Ally',
       'fr': 'Soigner un allié',
@@ -4529,7 +4529,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '治疗小队队员',
+      'cn': '治療小隊隊員',
       'de': 'Mehrere Verbündete heilen',
       'en': 'Heal Multiple Allies',
       'fr': 'Soigner plusieurs alliés',
@@ -4545,7 +4545,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '最终训练',
+      'cn': '最終訓練',
       'de': 'Letzte Übung',
       'en': 'Final Exercise',
       'fr': 'Exercice final',
@@ -4561,7 +4561,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '荣誉野（碎冰战）',
+      'cn': '榮譽野（碎冰戰）',
       'de': 'Feld der Ehre (Zersplitterung)',
       'en': 'The Fields of Glory (Shatter)',
       'fr': 'Les Champs de la Gloire (brise-glace)',
@@ -4577,7 +4577,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '天龙宫殿忆罪宫',
+      'cn': '天龍宮殿憶罪宮',
       'de': 'Sohr Khai',
       'en': 'Sohr Khai',
       'fr': 'Sohr Khai',
@@ -4593,7 +4593,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '禁忌城邦玛哈',
+      'cn': '禁忌城邦瑪哈',
       'de': 'Die Stadt der Tränen',
       'en': 'The Weeping City of Mhach',
       'fr': 'La Cité défendue de Mhach',
@@ -4609,7 +4609,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '黑涡传说破舰岛',
+      'cn': '黑渦傳說破艦島',
       'de': 'Schiffbrecher-Insel (schwer)',
       'en': 'Hullbreaker Isle (Hard)',
       'fr': 'L\'Île de Crèvecarène (brutal)',
@@ -4625,7 +4625,7 @@ const data: ZoneInfoType = {
     'contentType': 9,
     'exVersion': 0,
     'name': {
-      'cn': '水城宝物库',
+      'cn': '水城寶物庫',
       'de': 'Aquapolis',
       'en': 'The Aquapolis',
       'fr': 'L\'Aquapole',
@@ -4641,7 +4641,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '尼德霍格征龙战',
+      'cn': '尼德霍格徵龍戰',
       'de': 'Der letzte Schicksalsweg',
       'en': 'The Final Steps of Faith',
       'fr': 'La Dernière avancée de la Foi',
@@ -4657,7 +4657,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 1,
     'name': {
-      'cn': '雷古拉·范·休著斯追击战',
+      'cn': '雷古拉·範·休著斯追擊戰',
       'de': 'Blutiges Wieder<SoftHyphen/>sehen',
       'en': 'A Bloody Reunion',
       'fr': 'Course-poursuite dans le laboratoire',
@@ -4673,7 +4673,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 0,
     'name': {
-      'cn': '死者宫殿 地下1～10层',
+      'cn': '死者宮殿 地下1～10層',
       'de': 'Palast der Toten (Ebenen 1-10)',
       'en': 'The Palace of the Dead (Floors 1-10)',
       'fr': 'Le Palais des morts (sous-sols 1-10)',
@@ -4689,7 +4689,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 0,
     'name': {
-      'cn': '死者宫殿 地下11～20层',
+      'cn': '死者宮殿 地下11～20層',
       'de': 'Palast der Toten (Ebenen 11-20)',
       'en': 'The Palace of the Dead (Floors 11-20)',
       'fr': 'Le Palais des morts (sous-sols 11-20)',
@@ -4705,7 +4705,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 0,
     'name': {
-      'cn': '死者宫殿 地下21～30层',
+      'cn': '死者宮殿 地下21～30層',
       'de': 'Palast der Toten (Ebenen 21-30)',
       'en': 'The Palace of the Dead (Floors 21-30)',
       'fr': 'Le Palais des morts (sous-sols 21-30)',
@@ -4721,7 +4721,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 0,
     'name': {
-      'cn': '死者宫殿 地下31～40层',
+      'cn': '死者宮殿 地下31～40層',
       'de': 'Palast der Toten (Ebenen 31-40)',
       'en': 'The Palace of the Dead (Floors 31-40)',
       'fr': 'Le Palais des morts (sous-sols 31-40)',
@@ -4737,7 +4737,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下41～50层',
+      'cn': '死者宮殿 地下41～50層',
       'de': 'Palast der Toten (Ebenen 41-50)',
       'en': 'The Palace of the Dead (Floors 41-50)',
       'fr': 'Le Palais des morts (sous-sols 41-50)',
@@ -4753,7 +4753,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '尼德霍格传奇征龙战',
+      'cn': '尼德霍格傳奇徵龍戰',
       'de': 'Das Lied von Nidhoggs letztem Ruf',
       'en': 'The Minstrel\'s Ballad: Nidhogg\'s Rage',
       'fr': 'L\'ire de Nidhogg',
@@ -4769,7 +4769,7 @@ const data: ZoneInfoType = {
     'contentType': 22,
     'exVersion': 0,
     'name': {
-      'cn': '亡灵府邸闹鬼庄园',
+      'cn': '亡靈府邸鬧鬼莊園',
       'de': 'Das Geisterschloss',
       'en': 'The Haunted Manor',
       'fr': 'Le Manoir hanté',
@@ -4785,7 +4785,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '险峻峡谷塞尔法特尔溪谷',
+      'cn': '險峻峽谷塞爾法特爾溪谷',
       'de': 'Xelphatol',
       'en': 'Xelphatol',
       'fr': 'Xelphatol',
@@ -4801,7 +4801,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '索菲娅歼灭战',
+      'cn': '索菲婭殲滅戰',
       'de': 'Götterdämmerung - Sophia',
       'en': 'Containment Bay P1T6',
       'fr': 'Unité de contention P1P6',
@@ -4817,7 +4817,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '索菲娅歼殛战',
+      'cn': '索菲婭殲殛戰',
       'de': 'Zenit der Götter - Sophia',
       'en': 'Containment Bay P1T6 (Extreme)',
       'fr': 'Unité de contention P1P6 (extrême)',
@@ -4833,7 +4833,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '秘本宝库迦巴勒幻想图书馆',
+      'cn': '秘本寶庫迦巴勒幻想圖書館',
       'de': 'Große Gubal-Bibliothek (schwer)',
       'en': 'The Great Gubal Library (Hard)',
       'fr': 'La Grande bibliothèque de Gubal (brutal)',
@@ -4849,7 +4849,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '九宫幻卡：幻卡对局室',
+      'cn': '九宮幻卡：幻卡對局室',
       'de': 'Triple Triad: Weltensalon',
       'en': 'The Triple Triad Battlehall',
       'fr': 'Arène Triple Triade',
@@ -4865,7 +4865,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 天动之章1',
+      'cn': '亞歷山大機神城 天動之章1',
       'de': 'Alexander - Augen des Schöpfers',
       'en': 'Alexander - The Eyes of the Creator',
       'fr': 'Alexander - Les Yeux du Créateur',
@@ -4881,7 +4881,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 天动之章2',
+      'cn': '亞歷山大機神城 天動之章2',
       'de': 'Alexander - Atem des Schöpfers',
       'en': 'Alexander - The Breath of the Creator',
       'fr': 'Alexander - Le Souffle du Créateur',
@@ -4897,7 +4897,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 天动之章3',
+      'cn': '亞歷山大機神城 天動之章3',
       'de': 'Alexander - Herz des Schöpfers',
       'en': 'Alexander - The Heart of the Creator',
       'fr': 'Alexander - Le Cœur du Créateur',
@@ -4913,7 +4913,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大机神城 天动之章4',
+      'cn': '亞歷山大機神城 天動之章4',
       'de': 'Alexander - Seele des Schöpfers',
       'en': 'Alexander - The Soul of the Creator',
       'fr': 'Alexander - L\'Âme du Créateur',
@@ -4929,7 +4929,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 天动之章1',
+      'cn': '亞歷山大零式機神城 天動之章1',
       'de': 'Alexander - Augen des Schöpfers (episch)',
       'en': 'Alexander - The Eyes of the Creator (Savage)',
       'fr': 'Alexander - Les Yeux du Créateur (sadique)',
@@ -4945,7 +4945,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 天动之章2',
+      'cn': '亞歷山大零式機神城 天動之章2',
       'de': 'Alexander - Atem des Schöpfers (episch)',
       'en': 'Alexander - The Breath of the Creator (Savage)',
       'fr': 'Alexander - Le Souffle du Créateur (sadique)',
@@ -4961,7 +4961,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 天动之章3',
+      'cn': '亞歷山大零式機神城 天動之章3',
       'de': 'Alexander - Herz des Schöpfers (episch)',
       'en': 'Alexander - The Heart of the Creator (Savage)',
       'fr': 'Alexander - Le Cœur du Créateur (sadique)',
@@ -4977,7 +4977,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '亚历山大零式机神城 天动之章4',
+      'cn': '亞歷山大零式機神城 天動之章4',
       'de': 'Alexander - Seele des Schöpfers (episch)',
       'en': 'Alexander - The Soul of the Creator (Savage)',
       'fr': 'Alexander - L\'Âme du Créateur (sadique)',
@@ -4993,7 +4993,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '萌宠之王：玩家对战（绩点赛）',
+      'cn': '萌寵之王：玩家對戰（績點賽）',
       'de': 'Kampf der Trabanten: Gegen Spieler (um RP)',
       'en': 'LoVM: Player Battle (RP)',
       'fr': 'Bataille simple contre un joueur (avec PR)',
@@ -5009,7 +5009,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '萌宠之王：大赛对战（玩家对战）',
+      'cn': '萌寵之王：大賽對戰（玩家對戰）',
       'de': 'Kampf der Trabanten: Turnier (gegen Spieler)',
       'en': 'LoVM: Tournament',
       'fr': 'Bataille de tournoi contre des joueurs',
@@ -5025,7 +5025,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '萌宠之王：玩家对战（无绩点赛）',
+      'cn': '萌寵之王：玩家對戰（無績點賽）',
       'de': 'Kampf der Trabanten: Gegen Spieler (ohne RP)',
       'en': 'LoVM: Player Battle (Non-RP)',
       'fr': 'Bataille simple contre un joueur (sans PR)',
@@ -5041,7 +5041,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 1,
     'name': {
-      'cn': '纠缠不清的宿命',
+      'cn': '糾纏不清的宿命',
       'de': 'Weltenübergreifendes Schicksal',
       'en': 'One Life for One World',
       'fr': 'Destins entrecroisés',
@@ -5057,7 +5057,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下51～60层',
+      'cn': '死者宮殿 地下51～60層',
       'de': 'Palast der Toten (Ebenen 51 - 60)',
       'en': 'The Palace of the Dead (Floors 51-60)',
       'fr': 'Le Palais des morts (sous-sols 51-60)',
@@ -5073,7 +5073,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下61～70层',
+      'cn': '死者宮殿 地下61～70層',
       'de': 'Palast der Toten (Ebenen 61 - 70)',
       'en': 'The Palace of the Dead (Floors 61-70)',
       'fr': 'Le Palais des morts (sous-sols 61-70)',
@@ -5089,7 +5089,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下71～80层',
+      'cn': '死者宮殿 地下71～80層',
       'de': 'Palast der Toten (Ebenen 71 - 80)',
       'en': 'The Palace of the Dead (Floors 71-80)',
       'fr': 'Le Palais des morts (sous-sols 71-80)',
@@ -5105,7 +5105,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下81～90层',
+      'cn': '死者宮殿 地下81～90層',
       'de': 'Palast der Toten (Ebenen 81 - 90)',
       'en': 'The Palace of the Dead (Floors 81-90)',
       'fr': 'Le Palais des morts (sous-sols 81-90)',
@@ -5121,7 +5121,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下91～100层',
+      'cn': '死者宮殿 地下91～100層',
       'de': 'Palast der Toten (Ebenen 91 - 100)',
       'en': 'The Palace of the Dead (Floors 91-100)',
       'fr': 'Le Palais des morts (sous-sols 91-100)',
@@ -5137,7 +5137,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下101～110层',
+      'cn': '死者宮殿 地下101～110層',
       'de': 'Palast der Toten (Ebenen 101 - 110)',
       'en': 'The Palace of the Dead (Floors 101-110)',
       'fr': 'Le Palais des morts (sous-sols 101-110)',
@@ -5153,7 +5153,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下111～120层',
+      'cn': '死者宮殿 地下111～120層',
       'de': 'Palast der Toten (Ebenen 111 - 120)',
       'en': 'The Palace of the Dead (Floors 111-120)',
       'fr': 'Le Palais des morts (sous-sols 111-120)',
@@ -5169,7 +5169,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下121～130层',
+      'cn': '死者宮殿 地下121～130層',
       'de': 'Palast der Toten (Ebenen 121 - 130)',
       'en': 'The Palace of the Dead (Floors 121-130)',
       'fr': 'Le Palais des morts (sous-sols 121-130)',
@@ -5185,7 +5185,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下131～140层',
+      'cn': '死者宮殿 地下131～140層',
       'de': 'Palast der Toten (Ebenen 131 - 140)',
       'en': 'The Palace of the Dead (Floors 131-140)',
       'fr': 'Le Palais des morts (sous-sols 131-140)',
@@ -5201,7 +5201,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下141～150层',
+      'cn': '死者宮殿 地下141～150層',
       'de': 'Palast der Toten (Ebenen 141 - 150)',
       'en': 'The Palace of the Dead (Floors 141-150)',
       'fr': 'Le Palais des morts (sous-sols 141-150)',
@@ -5217,7 +5217,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下151～160层',
+      'cn': '死者宮殿 地下151～160層',
       'de': 'Palast der Toten (Ebenen 151 - 160)',
       'en': 'The Palace of the Dead (Floors 151-160)',
       'fr': 'Le Palais des morts (sous-sols 151-160)',
@@ -5233,7 +5233,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下161～170层',
+      'cn': '死者宮殿 地下161～170層',
       'de': 'Palast der Toten (Ebenen 161 - 170)',
       'en': 'The Palace of the Dead (Floors 161-170)',
       'fr': 'Le Palais des morts (sous-sols 161-170)',
@@ -5249,7 +5249,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下171～180层',
+      'cn': '死者宮殿 地下171～180層',
       'de': 'Palast der Toten (Ebenen 171 - 180)',
       'en': 'The Palace of the Dead (Floors 171-180)',
       'fr': 'Le Palais des morts (sous-sols 171-180)',
@@ -5265,7 +5265,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下181～190层',
+      'cn': '死者宮殿 地下181～190層',
       'de': 'Palast der Toten (Ebenen 181 - 190)',
       'en': 'The Palace of the Dead (Floors 181-190)',
       'fr': 'Le Palais des morts (sous-sols 181-190)',
@@ -5281,7 +5281,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 1,
     'name': {
-      'cn': '死者宫殿 地下191～200层',
+      'cn': '死者宮殿 地下191～200層',
       'de': 'Palast der Toten (Ebenen 191 - 200)',
       'en': 'The Palace of the Dead (Floors 191-200)',
       'fr': 'Le Palais des morts (sous-sols 191-200)',
@@ -5296,7 +5296,7 @@ const data: ZoneInfoType = {
   612: {
     'exVersion': 2,
     'name': {
-      'cn': '基拉巴尼亚边区',
+      'cn': '基拉巴尼亞邊區',
       'de': 'Abanisches Grenzland',
       'en': 'The Fringes',
       'fr': 'Les Marges',
@@ -5311,7 +5311,7 @@ const data: ZoneInfoType = {
   613: {
     'exVersion': 2,
     'name': {
-      'cn': '红玉海',
+      'cn': '紅玉海',
       'de': 'Rubinsee',
       'en': 'The Ruby Sea',
       'fr': 'Mer de Rubis',
@@ -5342,7 +5342,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '坚牢铁壁巴埃萨长城',
+      'cn': '堅牢鐵壁巴埃薩長城',
       'de': 'Baelsar-Wall',
       'en': 'Baelsar\'s Wall',
       'fr': 'La Muraille de Baelsar',
@@ -5358,7 +5358,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '海底宫殿紫水宫',
+      'cn': '海底宮殿紫水宮',
       'de': 'Shisui',
       'en': 'Shisui of the Violet Tides',
       'fr': 'Le Palais aux Marées violettes',
@@ -5374,7 +5374,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '天山深境索姆阿尔灵峰',
+      'cn': '天山深境索姆阿爾靈峰',
       'de': 'Sohm Al (schwer)',
       'en': 'Sohm Al (Hard)',
       'fr': 'Sohm Al (brutal)',
@@ -5389,7 +5389,7 @@ const data: ZoneInfoType = {
   620: {
     'exVersion': 2,
     'name': {
-      'cn': '基拉巴尼亚山区',
+      'cn': '基拉巴尼亞山區',
       'de': 'Die Zinnen',
       'en': 'The Peaks',
       'fr': 'Les Pics',
@@ -5404,7 +5404,7 @@ const data: ZoneInfoType = {
   621: {
     'exVersion': 2,
     'name': {
-      'cn': '基拉巴尼亚湖区',
+      'cn': '基拉巴尼亞湖區',
       'de': 'Das Fenn',
       'en': 'The Lochs',
       'fr': 'Les Lacs',
@@ -5419,7 +5419,7 @@ const data: ZoneInfoType = {
   622: {
     'exVersion': 2,
     'name': {
-      'cn': '太阳神草原',
+      'cn': '太陽神草原',
       'de': 'Azim-Steppe',
       'en': 'The Azim Steppe',
       'fr': 'Steppe d\'Azim',
@@ -5435,7 +5435,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '试炼行路巴儿达木霸道',
+      'cn': '試煉行路巴兒達木霸道',
       'de': 'Bardams Probe',
       'en': 'Bardam\'s Mettle',
       'fr': 'La Force de Bardam',
@@ -5451,7 +5451,7 @@ const data: ZoneInfoType = {
     'contentType': 23,
     'exVersion': 1,
     'name': {
-      'cn': '云冠群岛白昼探索（狩猎专用）',
+      'cn': '雲冠群島白晝探索（狩獵專用）',
       'de': 'Das Diadem - Jagdgründe (leicht)',
       'en': 'The Diadem Hunting Grounds (Easy)',
       'fr': 'Le Diadème<Indent/>: terrains de chasse (facile)',
@@ -5467,7 +5467,7 @@ const data: ZoneInfoType = {
     'contentType': 23,
     'exVersion': 1,
     'name': {
-      'cn': '云冠群岛黄昏探索（狩猎专用）',
+      'cn': '雲冠群島黃昏探索（狩獵專用）',
       'de': 'Das Diadem - Jagdgründe',
       'en': 'The Diadem Hunting Grounds',
       'fr': 'Le Diadème<Indent/>: terrains de chasse',
@@ -5499,7 +5499,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 1,
     'name': {
-      'cn': '影之国',
+      'cn': '影之國',
       'de': 'Dun Scaith',
       'en': 'Dun Scaith',
       'fr': 'Dun Scaith',
@@ -5514,7 +5514,7 @@ const data: ZoneInfoType = {
   628: {
     'exVersion': 2,
     'name': {
-      'cn': '黄金港',
+      'cn': '黃金港',
       'de': 'Kugane',
       'en': 'Kugane',
       'fr': 'Kugane',
@@ -5530,7 +5530,7 @@ const data: ZoneInfoType = {
     'contentType': 23,
     'exVersion': 0,
     'name': {
-      'cn': '云冠群岛战争神猎场',
+      'cn': '雲冠群島戰爭神獵場',
       'de': 'Das Diadem - Halones Prüfung',
       'en': 'The Diadem - Trials of the Fury',
       'fr': 'Le Diadème - Épreuves de Halone',
@@ -5546,7 +5546,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 1,
     'name': {
-      'cn': '加尔提诺平原遭遇战',
+      'cn': '加爾提諾平原遭遇戰',
       'de': 'Heliodrom',
       'en': 'The Carteneau Flats: Heliodrome',
       'fr': 'Rixe à l\'Héliodrome',
@@ -5577,7 +5577,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '祖尔宛歼灭战',
+      'cn': '祖爾宛殲滅戰',
       'de': 'Götterdämmerung - Zurvan',
       'en': 'Containment Bay Z1T9',
       'fr': 'Unité de contention Z1P9',
@@ -5593,7 +5593,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '祖尔宛歼殛战',
+      'cn': '祖爾宛殲殛戰',
       'de': 'Zenit der Götter - Zurvan',
       'en': 'Containment Bay Z1T9 (Extreme)',
       'fr': 'Unité de contention Z1P9 (extrême)',
@@ -5609,7 +5609,7 @@ const data: ZoneInfoType = {
     'contentType': 23,
     'exVersion': 1,
     'name': {
-      'cn': '云冠群岛丰饶神福地',
+      'cn': '雲冠群島豐饒神福地',
       'de': 'Das Diadem - Nophicas Prüfung',
       'en': 'The Diadem - Trials of the Matron',
       'fr': 'Le Diadème - Épreuves de Nophica',
@@ -5625,7 +5625,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '解放决战多玛王城',
+      'cn': '解放決戰多瑪王城',
       'de': 'Burg Doma',
       'en': 'Doma Castle',
       'fr': 'Le Château de Doma',
@@ -5641,7 +5641,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '巨炮要塞帝国白山堡',
+      'cn': '巨砲要塞帝國白山堡',
       'de': 'Castrum Abania',
       'en': 'Castrum Abania',
       'fr': 'Castrum Abania',
@@ -5657,7 +5657,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '恶党孤城黄金阁',
+      'cn': '惡黨孤城黃金閣',
       'de': 'Schloss Kugane',
       'en': 'Kugane Castle',
       'fr': 'Le Château de Kugane',
@@ -5673,7 +5673,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '修行古刹星导寺',
+      'cn': '修行古剎星導寺',
       'de': 'Tempel der Faust',
       'en': 'The Temple of the Fist',
       'fr': 'Le Temple du Poing',
@@ -5689,7 +5689,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '鱼道现身！',
+      'cn': '魚道現身！',
       'de': 'Ein zweifelhaftes Angebot',
       'en': 'It\'s Probably a Trap',
       'fr': 'Un drôle de Namazu',
@@ -5705,7 +5705,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '须佐之男歼灭战',
+      'cn': '須佐之男殲滅戰',
       'de': 'Götterdämmerung - Susano',
       'en': 'The Pool of Tribute',
       'fr': 'La Crique aux tributs',
@@ -5721,7 +5721,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '须佐之男歼殛战',
+      'cn': '須佐之男殲殛戰',
       'de': 'Zenit der Götter - Susano',
       'en': 'The Pool of Tribute (Extreme)',
       'fr': 'La Crique aux tributs (extrême)',
@@ -5737,7 +5737,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '神龙歼灭战',
+      'cn': '神龍殲滅戰',
       'de': 'Königliche Menagerie',
       'en': 'The Royal Menagerie',
       'fr': 'La Ménagerie royale',
@@ -5753,7 +5753,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '于里昂热的秘策',
+      'cn': '於里昂熱的秘策',
       'de': 'Wege zur Transzendenz',
       'en': 'The Resonant',
       'fr': 'La ruse d\'Urianger',
@@ -5769,7 +5769,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '那达慕',
+      'cn': '那達慕',
       'de': 'Naadam',
       'en': 'Naadam',
       'fr': 'La grande bataille du Naadam',
@@ -5785,7 +5785,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '鏖战红莲阿拉米格',
+      'cn': '鏖戰紅蓮阿拉米格',
       'de': 'Ala Mhigo',
       'en': 'Ala Mhigo',
       'fr': 'Ala Mhigo',
@@ -5801,7 +5801,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '时空狭缝外缘',
+      'cn': '時空狹縫外緣',
       'de': 'Interdimensionaler Riss',
       'en': 'Interdimensional Rift',
       'fr': 'Fissure interdimensionnelle',
@@ -5817,7 +5817,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 德尔塔幻境1',
+      'cn': '歐米茄時空狹縫 德爾塔幻境1',
       'de': 'Deltametrie 1.0',
       'en': 'Deltascape V1.0',
       'fr': 'Deltastice v1.0',
@@ -5833,7 +5833,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 德尔塔幻境2',
+      'cn': '歐米茄時空狹縫 德爾塔幻境2',
       'de': 'Deltametrie 2.0',
       'en': 'Deltascape V2.0',
       'fr': 'Deltastice v2.0',
@@ -5849,7 +5849,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 德尔塔幻境3',
+      'cn': '歐米茄時空狹縫 德爾塔幻境3',
       'de': 'Deltametrie 3.0',
       'en': 'Deltascape V3.0',
       'fr': 'Deltastice v3.0',
@@ -5865,7 +5865,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 德尔塔幻境4',
+      'cn': '歐米茄時空狹縫 德爾塔幻境4',
       'de': 'Deltametrie 4.0',
       'en': 'Deltascape V4.0',
       'fr': 'Deltastice v4.0',
@@ -5881,7 +5881,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 德尔塔幻境1',
+      'cn': '歐米茄零式時空狹縫 德爾塔幻境1',
       'de': 'Deltametrie 1.0 (episch)',
       'en': 'Deltascape V1.0 (Savage)',
       'fr': 'Deltastice v1.0 (sadique)',
@@ -5897,7 +5897,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 德尔塔幻境2',
+      'cn': '歐米茄零式時空狹縫 德爾塔幻境2',
       'de': 'Deltametrie 2.0 (episch)',
       'en': 'Deltascape V2.0 (Savage)',
       'fr': 'Deltastice v2.0 (sadique)',
@@ -5913,7 +5913,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 德尔塔幻境3',
+      'cn': '歐米茄零式時空狹縫 德爾塔幻境3',
       'de': 'Deltametrie 3.0 (episch)',
       'en': 'Deltascape V3.0 (Savage)',
       'fr': 'Deltastice v3.0 (sadique)',
@@ -5929,7 +5929,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 德尔塔幻境4',
+      'cn': '歐米茄零式時空狹縫 德爾塔幻境4',
       'de': 'Deltametrie 4.0 (episch)',
       'en': 'Deltascape V4.0 (Savage)',
       'fr': 'Deltastice v4.0 (sadique)',
@@ -5945,7 +5945,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '大会开始',
+      'cn': '大會開始',
       'de': 'Thal zu Ehren',
       'en': 'In Thal\'s Name',
       'fr': 'Le tournoi commémoratif du sultanat',
@@ -5961,7 +5961,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '为了更强',
+      'cn': '為了更強',
       'de': 'Die hohe Kunst des Schwertkampfs',
       'en': 'Raising the Sword',
       'fr': 'La finale des champions',
@@ -5977,7 +5977,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '抗争之力',
+      'cn': '抗爭之力',
       'de': 'Die Kraft des Widerstands',
       'en': 'With Heart and Steel',
       'fr': 'Transmigration démoniaque',
@@ -5993,7 +5993,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '海都路人身首异',
+      'cn': '海都路人身首異',
       'de': 'Mord ist sein Hobby',
       'en': 'Blood on the Deck',
       'fr': 'La légende de Musosai<Indent/>: l\'assassin de Limsa Lominsa',
@@ -6009,7 +6009,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '极恶之人木枯',
+      'cn': '極惡之人木枯',
       'de': 'Der Inbegriff des Bösen',
       'en': 'The Face of True Evil',
       'fr': 'L\'abominable Kogarashi',
@@ -6025,7 +6025,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '松叶门外之变',
+      'cn': '松葉門外之變',
       'de': 'Vorfall auf dem Matsuba-Platz',
       'en': 'Matsuba Mayhem',
       'fr': 'Règlement de compte au square Matsuba',
@@ -6041,7 +6041,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '决战龟甲岛',
+      'cn': '決戰龜甲島',
       'de': 'Ent<SoftHyphen/>schei<SoftHyphen/>dungs<SoftHyphen/>schlacht auf Bekko',
       'en': 'The Battle on Bekko',
       'fr': 'L\'af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ment de deux justices',
@@ -6057,7 +6057,7 @@ const data: ZoneInfoType = {
     'contentType': 9,
     'exVersion': 2,
     'name': {
-      'cn': '运河宝物库',
+      'cn': '運河寶物庫',
       'de': 'Kanäle von Uznair',
       'en': 'The Lost Canals of Uznair',
       'fr': 'Les Canaux perdus d\'Uznair',
@@ -6073,7 +6073,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '漆黑的巨龙',
+      'cn': '漆黑的巨龍',
       'de': 'Der tobende Drache',
       'en': 'Dark as the Night Sky',
       'fr': 'Aussi sombre que la nuit',
@@ -6089,7 +6089,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '红血之龙骑士',
+      'cn': '紅血之龍騎士',
       'de': 'Der Rubin-Drachenreiter',
       'en': 'Dragon Sound',
       'fr': 'Le Dragon écarlate',
@@ -6105,7 +6105,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '遥远的憧憬',
+      'cn': '遙遠的憧憬',
       'de': 'Probe des Meisters',
       'en': 'The Orphans and the Broken Blade',
       'fr': 'L\'aspiration refoulée',
@@ -6121,7 +6121,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '再次相见',
+      'cn': '再次相見',
       'de': 'Aus der Tiefe des Herzens',
       'en': 'Our Compromise',
       'fr': 'La dernière séparation',
@@ -6137,7 +6137,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '原初的战士',
+      'cn': '原初的戰士',
       'de': 'Die Urkraft in ihr',
       'en': 'Curious Gorge Meets His Match',
       'fr': 'L\'épreuve de force',
@@ -6153,7 +6153,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '燃烧吧高吉',
+      'cn': '燃燒吧高吉',
       'de': 'Kriegerische Leidenschaft',
       'en': 'The Heart of the Problem',
       'fr': 'Passion guerrière',
@@ -6169,7 +6169,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '吉祥天女歼灭战',
+      'cn': '吉祥天女殲滅戰',
       'de': 'Götterdämmerung - Lakshmi',
       'en': 'Emanation',
       'fr': 'Émanation',
@@ -6185,7 +6185,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '吉祥天女歼殛战',
+      'cn': '吉祥天女殲殛戰',
       'de': 'Zenit der Götter - Lakshmi',
       'en': 'Emanation (Extreme)',
       'fr': 'Émanation (extrême)',
@@ -6201,7 +6201,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '穿越时空的夙愿',
+      'cn': '穿越時空的夙願',
       'de': 'Ein Wunsch aus alten Zeiten',
       'en': 'Our Unsung Heroes',
       'fr': 'L\'espoir en héritage',
@@ -6217,7 +6217,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '影隐忍法贴',
+      'cn': '影隱忍法貼',
       'de': 'Aus dem Verborgenen',
       'en': 'When Clans Collide',
       'fr': 'La bataille des clans',
@@ -6233,7 +6233,7 @@ const data: ZoneInfoType = {
     'contentType': 9,
     'exVersion': 2,
     'name': {
-      'cn': '运河宝物库深层',
+      'cn': '運河寶物庫深層',
       'de': 'Vergessene Kanäle von Uznair',
       'en': 'The Hidden Canals of Uznair',
       'fr': 'Les Canaux cachés d\'Uznair',
@@ -6249,7 +6249,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '距骨研究所（机动战）',
+      'cn': '距骨研究所（機動戰）',
       'de': 'Astragalos',
       'en': 'Astragalos',
       'fr': 'Astragalos (machinerie)',
@@ -6265,7 +6265,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '神龙梦幻歼灭战',
+      'cn': '神龍夢幻殲滅戰',
       'de': 'Heldenlied von Shinryu',
       'en': 'The Minstrel\'s Ballad: Shinryu\'s Domain',
       'fr': 'Le domaine de Shinryu',
@@ -6281,7 +6281,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '沉没神殿斯卡拉遗迹',
+      'cn': '沉沒神殿斯卡拉遺跡',
       'de': 'Die versunkene Stadt Skalla',
       'en': 'The Drowned City of Skalla',
       'fr': 'La Cité engloutie de Skalla',
@@ -6297,7 +6297,7 @@ const data: ZoneInfoType = {
     'contentType': 26,
     'exVersion': 2,
     'name': {
-      'cn': '禁地优雷卡 常风之地',
+      'cn': '禁地優雷卡 常風之地',
       'de': 'Eureka Anemos',
       'en': 'The Forbidden Land, Eureka Anemos',
       'fr': 'Eurêka Anemos',
@@ -6313,7 +6313,7 @@ const data: ZoneInfoType = {
     'contentType': 28,
     'exVersion': 2,
     'name': {
-      'cn': '巴哈姆特绝境战',
+      'cn': '巴哈姆特絕境戰',
       'de': 'Endlose Schatten von Bahamut (fatal)',
       'en': 'The Unending Coil of Bahamut (Ultimate)',
       'fr': 'L\'Abîme infini de Bahamut (fatal)',
@@ -6329,7 +6329,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '失落之都拉巴纳斯塔',
+      'cn': '失落之都拉巴納斯塔',
       'de': 'Rabanastre',
       'en': 'The Royal City of Rabanastre',
       'fr': 'La Cité royale de Rabanastre',
@@ -6345,7 +6345,7 @@ const data: ZoneInfoType = {
     'contentType': 22,
     'exVersion': 0,
     'name': {
-      'cn': '良缘仪式',
+      'cn': '良緣儀式',
       'de': 'Valentionzeremonie',
       'en': 'The Valentione\'s Ceremony',
       'fr': 'La Cérémonie de la Valention',
@@ -6361,7 +6361,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '红玉火山狱之盖',
+      'cn': '紅玉火山獄之蓋',
       'de': 'Höllenspund',
       'en': 'Hells\' Lid',
       'fr': 'Le Couvercle des enfers',
@@ -6377,7 +6377,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '疯狂战舰无限回廊',
+      'cn': '瘋狂戰艦無限迴廊',
       'de': 'Die Fraktal-Kontinuum (schwer)',
       'en': 'The Fractal Continuum (Hard)',
       'fr': 'Le Continuum fractal (brutal)',
@@ -6393,7 +6393,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '白虎镇魂战',
+      'cn': '白虎鎮魂戰',
       'de': 'Seelentanz - Byakko',
       'en': 'The Jade Stoa',
       'fr': 'La Clairière de Jade',
@@ -6409,7 +6409,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 西格玛幻境1',
+      'cn': '歐米茄時空狹縫 西格瑪幻境1',
       'de': 'Sigmametrie 1.0',
       'en': 'Sigmascape V1.0',
       'fr': 'Sigmastice v1.0',
@@ -6425,7 +6425,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 西格玛幻境2',
+      'cn': '歐米茄時空狹縫 西格瑪幻境2',
       'de': 'Sigmametrie 2.0',
       'en': 'Sigmascape V2.0',
       'fr': 'Sigmastice v2.0',
@@ -6441,7 +6441,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 西格玛幻境3',
+      'cn': '歐米茄時空狹縫 西格瑪幻境3',
       'de': 'Sigmametrie 3.0',
       'en': 'Sigmascape V3.0',
       'fr': 'Sigmastice v3.0',
@@ -6457,7 +6457,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 西格玛幻境4',
+      'cn': '歐米茄時空狹縫 西格瑪幻境4',
       'de': 'Sigmametrie 4.0',
       'en': 'Sigmascape V4.0',
       'fr': 'Sigmastice v4.0',
@@ -6473,7 +6473,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 西格玛幻境1',
+      'cn': '歐米茄零式時空狹縫 西格瑪幻境1',
       'de': 'Sigmametrie 1.0 (episch)',
       'en': 'Sigmascape V1.0 (Savage)',
       'fr': 'Sigmastice v1.0 (sadique)',
@@ -6489,7 +6489,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 西格玛幻境2',
+      'cn': '歐米茄零式時空狹縫 西格瑪幻境2',
       'de': 'Sigmametrie 2.0 (episch)',
       'en': 'Sigmascape V2.0 (Savage)',
       'fr': 'Sigmastice v2.0 (sadique)',
@@ -6505,7 +6505,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 西格玛幻境3',
+      'cn': '歐米茄零式時空狹縫 西格瑪幻境3',
       'de': 'Sigmametrie 3.0 (episch)',
       'en': 'Sigmascape V3.0 (Savage)',
       'fr': 'Sigmastice v3.0 (sadique)',
@@ -6521,7 +6521,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 西格玛幻境4',
+      'cn': '歐米茄零式時空狹縫 西格瑪幻境4',
       'de': 'Sigmametrie 4.0 (episch)',
       'en': 'Sigmascape V4.0 (Savage)',
       'fr': 'Sigmastice v4.0 (sadique)',
@@ -6537,7 +6537,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '白虎诗魂战',
+      'cn': '白虎詩魂戰',
       'de': 'Seelensturm - Byakko',
       'en': 'The Jade Stoa (Extreme)',
       'fr': 'La Clairière de Jade (extrême)',
@@ -6552,7 +6552,7 @@ const data: ZoneInfoType = {
   759: {
     'exVersion': 2,
     'name': {
-      'cn': '多玛飞地',
+      'cn': '多瑪飛地',
       'de': 'Domanische Enklave',
       'en': 'The Doman Enclave',
       'fr': 'Quartier enclavé de Doma',
@@ -6568,7 +6568,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '火龙狩猎战',
+      'cn': '火龍狩獵戰',
       'de': 'Jagd auf Rathalos',
       'en': 'The Great Hunt',
       'fr': 'Chasse au Rathalos',
@@ -6584,7 +6584,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '火龙上位狩猎战',
+      'cn': '火龍上位狩獵戰',
       'de': 'Jagd auf Rathalos (schwer)',
       'en': 'The Great Hunt (Extreme)',
       'fr': 'Chasse au Rathalos (extrême)',
@@ -6600,7 +6600,7 @@ const data: ZoneInfoType = {
     'contentType': 26,
     'exVersion': 2,
     'name': {
-      'cn': '禁地优雷卡 恒冰之地',
+      'cn': '禁地優雷卡 恆冰之地',
       'de': 'Eureka Pagos',
       'en': 'The Forbidden Land, Eureka Pagos',
       'fr': 'Eurêka Pagos',
@@ -6616,7 +6616,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '风水灵庙岩燕庙',
+      'cn': '風水靈廟岩燕廟',
       'de': 'Kompass der Schwalbe',
       'en': 'The Swallow\'s Compass',
       'fr': 'Le Compas de l\'Hirondelle',
@@ -6632,7 +6632,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '拂晓的少年',
+      'cn': '拂曉的少年',
       'de': 'Der Knabe der Morgenröte',
       'en': 'Emissary of the Dawn',
       'fr': 'Voyage en terre hostile',
@@ -6648,7 +6648,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 1～10层',
+      'cn': '天之御柱 1～10層',
       'de': 'Himmelssäule (Ebenen 1-10)',
       'en': 'Heaven-on-High  (Floors 1-10)',
       'fr': 'Le Pilier des Cieux (étages 1-10)',
@@ -6664,7 +6664,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 11～20层',
+      'cn': '天之御柱 11～20層',
       'de': 'Himmelssäule (Ebenen 11-20)',
       'en': 'Heaven-on-High  (Floors 11-20)',
       'fr': 'Le Pilier des Cieux (étages 11-20)',
@@ -6680,7 +6680,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 21～30层',
+      'cn': '天之御柱 21～30層',
       'de': 'Himmelssäule (Ebenen 21-30)',
       'en': 'Heaven-on-High  (Floors 21-30)',
       'fr': 'Le Pilier des Cieux (étages 21-30)',
@@ -6696,7 +6696,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 41～50层',
+      'cn': '天之御柱 41～50層',
       'de': 'Himmelssäule (Ebenen 41-50)',
       'en': 'Heaven-on-High  (Floors 41-50)',
       'fr': 'Le Pilier des Cieux (étages 41-50)',
@@ -6712,7 +6712,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 61～70层',
+      'cn': '天之御柱 61～70層',
       'de': 'Himmelssäule (Ebenen 61-70)',
       'en': 'Heaven-on-High  (Floors 61-70)',
       'fr': 'Le Pilier des Cieux (étages 61-70)',
@@ -6728,7 +6728,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 81～90层',
+      'cn': '天之御柱 81～90層',
       'de': 'Himmelssäule (Ebenen 81-90)',
       'en': 'Heaven-on-High  (Floors 81-90)',
       'fr': 'Le Pilier des Cieux (étages 81-90)',
@@ -6744,7 +6744,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '封闭圣塔黎铎拉纳大灯塔',
+      'cn': '封閉聖塔黎鐸拉納大燈塔',
       'de': 'Richtfeuer von Ridorana',
       'en': 'The Ridorana Lighthouse',
       'fr': 'Le Phare de Ridorana',
@@ -6760,7 +6760,7 @@ const data: ZoneInfoType = {
     'contentType': 28,
     'exVersion': 2,
     'name': {
-      'cn': '究极神兵绝境战',
+      'cn': '究極神兵絕境戰',
       'de': 'Heldenlied von Ultima (fatal)',
       'en': 'The Weapon\'s Refrain (Ultimate)',
       'fr': 'La Fantasmagorie d\'Ultima (fatal)',
@@ -6776,7 +6776,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '月读歼灭战',
+      'cn': '月讀殲滅戰',
       'de': 'Götterdämmerung - Tsukuyomi',
       'en': 'Castrum Fluminis',
       'fr': 'Castrum Fluminis',
@@ -6792,7 +6792,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '月读幽夜歼灭战',
+      'cn': '月讀幽夜殲滅戰',
       'de': 'Zenit der Götter - Tsukuyomi',
       'en': 'The Minstrel\'s Ballad: Tsukuyomi\'s Pain',
       'fr': 'Castrum Fluminis (extrême)',
@@ -6808,7 +6808,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 31～40层',
+      'cn': '天之御柱 31～40層',
       'de': 'Himmelssäule (Ebenen 31-40)',
       'en': 'Heaven-on-High  (Floors 31-40)',
       'fr': 'Le Pilier des Cieux (étages 31-40)',
@@ -6824,7 +6824,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 51～60层',
+      'cn': '天之御柱 51～60層',
       'de': 'Himmelssäule (Ebenen 51-60)',
       'en': 'Heaven-on-High  (Floors 51-60)',
       'fr': 'Le Pilier des Cieux (étages 51-60)',
@@ -6840,7 +6840,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 71～80层',
+      'cn': '天之御柱 71～80層',
       'de': 'Himmelssäule (Ebenen 71-80)',
       'en': 'Heaven-on-High  (Floors 71-80)',
       'fr': 'Le Pilier des Cieux (étages 71-80)',
@@ -6856,7 +6856,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 2,
     'name': {
-      'cn': '天之御柱 91～100层',
+      'cn': '天之御柱 91～100層',
       'de': 'Himmelssäule (Ebenen 91-100)',
       'en': 'Heaven-on-High  (Floors 91-100)',
       'fr': 'Le Pilier des Cieux (étages 91-100)',
@@ -6872,7 +6872,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '污染庭园圣茉夏娜植物园',
+      'cn': '汙染庭園聖茉夏娜植物園',
       'de': 'Sankt Mocianne-Arboretum (schwer)',
       'en': 'Saint Mocianne\'s Arboretum (Hard)',
       'fr': 'L\'Arboretum Sainte-Mocianne (brutal)',
@@ -6888,7 +6888,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '死亡大地终末焦土',
+      'cn': '死亡大地終末焦土',
       'de': 'Das Kargland',
       'en': 'The Burn',
       'fr': 'L\'Escarre',
@@ -6904,7 +6904,7 @@ const data: ZoneInfoType = {
     'contentType': 22,
     'exVersion': 0,
     'name': {
-      'cn': '灾厄重现军事演习',
+      'cn': '災厄重現軍事演習',
       'de': 'Gedenkschlacht der Eorzäischen Allianz',
       'en': 'The Calamity Retold',
       'fr': 'Les grandes manœuvres commémoratives',
@@ -6920,7 +6920,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '隐塞（机动战）',
+      'cn': '隱塞（機動戰）',
       'de': 'Verborgene Schlucht',
       'en': 'Hidden Gorge',
       'fr': 'Gorge dérobée (machinerie)',
@@ -6936,7 +6936,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '虚景跳跳乐大挑战',
+      'cn': '虛景跳跳樂大挑戰',
       'de': 'Kaktor-Kletterwand',
       'en': 'Leap of Faith',
       'fr': 'Haute voltige',
@@ -6952,7 +6952,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '国境防线基姆利特暗区',
+      'cn': '國境防線基姆利特暗區',
       'de': 'Die Ghimlyt-Finsternis',
       'en': 'The Ghimlyt Dark',
       'fr': 'Les Ténèbres de Ghimlyt',
@@ -6968,7 +6968,7 @@ const data: ZoneInfoType = {
     'contentType': 9,
     'exVersion': 2,
     'name': {
-      'cn': '运河宝物库神殿',
+      'cn': '運河寶物庫神殿',
       'de': 'Glücksaltäre von Uznair',
       'en': 'The Shifting Altars of Uznair',
       'fr': 'Le Temple sacré d\'Uznair',
@@ -6984,7 +6984,7 @@ const data: ZoneInfoType = {
     'contentType': 26,
     'exVersion': 2,
     'name': {
-      'cn': '禁地优雷卡 涌火之地',
+      'cn': '禁地優雷卡 湧火之地',
       'de': 'Eureka Pyros',
       'en': 'The Forbidden Land, Eureka Pyros',
       'fr': 'Eurêka Pyros',
@@ -7000,7 +7000,7 @@ const data: ZoneInfoType = {
     'contentType': 27,
     'exVersion': 0,
     'name': {
-      'cn': '出道战',
+      'cn': '出道戰',
       'de': 'Debüt in der Himmlischen Arena',
       'en': 'All\'s Well That Starts Well',
       'fr': 'Début du spectacle',
@@ -7032,7 +7032,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 阿尔法幻境1',
+      'cn': '歐米茄時空狹縫 阿爾法幻境1',
       'de': 'Alphametrie 1.0',
       'en': 'Alphascape V1.0',
       'fr': 'Alphastice v1.0',
@@ -7048,7 +7048,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 阿尔法幻境2',
+      'cn': '歐米茄時空狹縫 阿爾法幻境2',
       'de': 'Alphametrie 2.0',
       'en': 'Alphascape V2.0',
       'fr': 'Alphastice v2.0',
@@ -7064,7 +7064,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 阿尔法幻境3',
+      'cn': '歐米茄時空狹縫 阿爾法幻境3',
       'de': 'Alphametrie 3.0',
       'en': 'Alphascape V3.0',
       'fr': 'Alphastice v3.0',
@@ -7080,7 +7080,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄时空狭缝 阿尔法幻境4',
+      'cn': '歐米茄時空狹縫 阿爾法幻境4',
       'de': 'Alphametrie 4.0',
       'en': 'Alphascape V4.0',
       'fr': 'Alphastice v4.0',
@@ -7096,7 +7096,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 阿尔法幻境1',
+      'cn': '歐米茄零式時空狹縫 阿爾法幻境1',
       'de': 'Alphametrie 1.0 (episch)',
       'en': 'Alphascape V1.0 (Savage)',
       'fr': 'Alphastice v1.0 (sadique)',
@@ -7112,7 +7112,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 阿尔法幻境2',
+      'cn': '歐米茄零式時空狹縫 阿爾法幻境2',
       'de': 'Alphametrie 2.0 (episch)',
       'en': 'Alphascape V2.0 (Savage)',
       'fr': 'Alphastice v2.0 (sadique)',
@@ -7128,7 +7128,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 阿尔法幻境3',
+      'cn': '歐米茄零式時空狹縫 阿爾法幻境3',
       'de': 'Alphametrie 3.0 (episch)',
       'en': 'Alphascape V3.0 (Savage)',
       'fr': 'Alphastice v3.0 (sadique)',
@@ -7144,7 +7144,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '欧米茄零式时空狭缝 阿尔法幻境4',
+      'cn': '歐米茄零式時空狹縫 阿爾法幻境4',
       'de': 'Alphametrie 4.0 (episch)',
       'en': 'Alphascape V4.0 (Savage)',
       'fr': 'Alphastice v4.0 (sadique)',
@@ -7160,7 +7160,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '保镖歼灭战',
+      'cn': '保鏢殲滅戰',
       'de': 'Duell auf der Kugane-Brücke',
       'en': 'Kugane Ohashi',
       'fr': 'Le Pont Ohashi',
@@ -7176,7 +7176,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '朱雀镇魂战',
+      'cn': '朱雀鎮魂戰',
       'de': 'Seelentanz - Suzaku',
       'en': 'Hells\' Kier',
       'fr': 'Le Nid des Lamentations',
@@ -7192,7 +7192,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '朱雀诗魂战',
+      'cn': '朱雀詩魂戰',
       'de': 'Seelensturm - Suzaku',
       'en': 'Hells\' Kier (Extreme)',
       'fr': 'Le Nid des Lamentations (extrême)',
@@ -7207,7 +7207,7 @@ const data: ZoneInfoType = {
   813: {
     'exVersion': 3,
     'name': {
-      'cn': '雷克兰德',
+      'cn': '雷克蘭德',
       'de': 'Seenland',
       'en': 'Lakeland',
       'fr': 'Grand-Lac',
@@ -7222,7 +7222,7 @@ const data: ZoneInfoType = {
   814: {
     'exVersion': 3,
     'name': {
-      'cn': '珂露西亚岛',
+      'cn': '珂露西亞島',
       'de': 'Kholusia',
       'en': 'Kholusia',
       'fr': 'Kholusia',
@@ -7237,7 +7237,7 @@ const data: ZoneInfoType = {
   815: {
     'exVersion': 3,
     'name': {
-      'cn': '安穆·艾兰',
+      'cn': '安穆·艾蘭',
       'de': 'Amh Araeng',
       'en': 'Amh Araeng',
       'fr': 'Amh Araeng',
@@ -7252,7 +7252,7 @@ const data: ZoneInfoType = {
   816: {
     'exVersion': 3,
     'name': {
-      'cn': '伊尔美格',
+      'cn': '伊爾美格',
       'de': 'Il Mheg',
       'en': 'Il Mheg',
       'fr': 'Il Mheg',
@@ -7267,7 +7267,7 @@ const data: ZoneInfoType = {
   817: {
     'exVersion': 3,
     'name': {
-      'cn': '拉凯提卡大森林',
+      'cn': '拉凱提卡大森林',
       'de': 'Der Große Wald Rak\'tika',
       'en': 'The Rak\'tika Greatwood',
       'fr': 'Rak\'tika',
@@ -7282,7 +7282,7 @@ const data: ZoneInfoType = {
   818: {
     'exVersion': 3,
     'name': {
-      'cn': '黑风海',
+      'cn': '黑風海',
       'de': 'Tempest',
       'en': 'The Tempest',
       'fr': 'La Tempête',
@@ -7312,7 +7312,7 @@ const data: ZoneInfoType = {
   820: {
     'exVersion': 3,
     'name': {
-      'cn': '游末邦',
+      'cn': '遊末邦',
       'de': 'Eulmore',
       'en': 'Eulmore',
       'fr': 'Eulmore',
@@ -7328,7 +7328,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '水妖幻园多恩美格禁园',
+      'cn': '水妖幻園多恩美格禁園',
       'de': 'Dohn Mheg',
       'en': 'Dohn Mheg',
       'fr': 'Dohn Mheg',
@@ -7344,7 +7344,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '伪造天界格鲁格火山',
+      'cn': '偽造天界格魯格火山',
       'de': 'Der Gulg',
       'en': 'Mt. Gulg',
       'fr': 'Mont Gulg',
@@ -7360,7 +7360,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '文明古迹奇坦那神影洞',
+      'cn': '文明古蹟奇坦那神影洞',
       'de': 'Irrungen der Qitari',
       'en': 'The Qitana Ravel',
       'fr': 'L\'Enchevêtrement des Qitari',
@@ -7376,7 +7376,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '青龙镇魂战',
+      'cn': '青龍鎮魂戰',
       'de': 'Seelentanz - Seiryu',
       'en': 'The Wreath of Snakes',
       'fr': 'L\'Îlot des Amertumes',
@@ -7392,7 +7392,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 2,
     'name': {
-      'cn': '青龙诗魂战',
+      'cn': '青龍詩魂戰',
       'de': 'Seelensturm - Seiryu',
       'en': 'The Wreath of Snakes (Extreme)',
       'fr': 'L\'Îlot des Amertumes (extrême)',
@@ -7408,7 +7408,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 2,
     'name': {
-      'cn': '乐欲之所瓯博讷修道院',
+      'cn': '樂欲之所甌博訥修道院',
       'de': 'Kloster von Orbonne',
       'en': 'The Orbonne Monastery',
       'fr': 'Le Monastère d\'Orbonne',
@@ -7424,7 +7424,7 @@ const data: ZoneInfoType = {
     'contentType': 26,
     'exVersion': 2,
     'name': {
-      'cn': '禁地优雷卡 丰水之地',
+      'cn': '禁地優雷卡 豐水之地',
       'de': 'Eureka Hydatos',
       'en': 'The Forbidden Land, Eureka Hydatos',
       'fr': 'Eurêka Hydatos',
@@ -7440,7 +7440,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 2,
     'name': {
-      'cn': '英雄挽歌',
+      'cn': '英雄輓歌',
       'de': 'Requiem der Helden',
       'en': 'A Requiem for Heroes',
       'fr': 'Un requiem pour les héros',
@@ -7456,7 +7456,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '多玛方城战：东风战4人亲友桌（不带食断）',
+      'cn': '多瑪方城戰：東風戰4人親友桌（不帶食斷）',
       'de': '4-Spieler-Mahjong (schnelle Partie, Kuitan deaktiviert)',
       'en': 'Four-player Mahjong (Quick Match, Kuitan Disabled)',
       'fr': 'Mahjong domien<Indent/>: 4 joueurs (partie rapide sans kuitan)',
@@ -7472,7 +7472,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '空军装甲驾驶员',
+      'cn': '空軍裝甲駕駛員',
       'de': 'Luftwaffe, Feuer frei!',
       'en': 'Air Force One',
       'fr': 'As de l\'air',
@@ -7488,7 +7488,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 0,
     'name': {
-      'cn': '风之使者',
+      'cn': '風之使者',
       'de': 'Durch den Sturm und zurück',
       'en': 'Messenger of the Winds',
       'fr': 'La Messagère du vent',
@@ -7504,7 +7504,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '避暑离宫马利卡大井',
+      'cn': '避暑離宮馬利卡大井',
       'de': 'Malikahs Brunnen',
       'en': 'Malikah\'s Well',
       'fr': 'Le Puits de Malikah',
@@ -7520,7 +7520,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '遇袭集落水滩村',
+      'cn': '遇襲集落水灘村',
       'de': 'Holminster',
       'en': 'Holminster Switch',
       'fr': 'Holminster',
@@ -7536,7 +7536,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '末日暗影亚马乌罗提',
+      'cn': '末日暗影亞馬烏羅提',
       'de': 'Amaurot',
       'en': 'Amaurot',
       'fr': 'Amaurote',
@@ -7552,7 +7552,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '异界遗构希尔科斯孪晶塔',
+      'cn': '異界遺構希爾科斯孿晶塔',
       'de': 'Der Kristallzwilling',
       'en': 'The Twinning',
       'fr': 'La Macle de Syrcus',
@@ -7568,7 +7568,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '创造机构阿尼德罗学院',
+      'cn': '創造機構阿尼德羅學院',
       'de': 'Akadaemia Anyder',
       'en': 'Akadaemia Anyder',
       'fr': 'Akadaemia Anydre',
@@ -7584,7 +7584,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '缇坦妮雅歼灭战',
+      'cn': '緹坦妮雅殲滅戰',
       'de': 'Offenbarung - Titania',
       'en': 'The Dancing Plague',
       'fr': 'La Valse du Monarque',
@@ -7600,7 +7600,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '无瑕灵君歼灭战',
+      'cn': '無瑕靈君殲滅戰',
       'de': 'Offenbarung - Innozenz',
       'en': 'The Crown of the Immaculate',
       'fr': 'La Couronne de l\'Immaculé',
@@ -7616,7 +7616,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '哈迪斯歼灭战',
+      'cn': '哈迪斯殲滅戰',
       'de': 'Offenbarung - Hades',
       'en': 'The Dying Gasp',
       'fr': 'Le Râle de l\'Agonie',
@@ -7632,7 +7632,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '无瑕灵君歼殛战',
+      'cn': '無瑕靈君殲殛戰',
       'de': 'Letzte Läuterung - Innozenz',
       'en': 'The Crown of the Immaculate (Extreme)',
       'fr': 'La Couronne de l\'Immaculé (extrême)',
@@ -7648,7 +7648,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 觉醒之章1',
+      'cn': '伊甸希望樂園 覺醒之章1',
       'de': 'Edens Erwachen - Auferstehung',
       'en': 'Eden\'s Gate: Resurrection',
       'fr': 'L\'Éveil d\'Éden - Résurrection',
@@ -7664,7 +7664,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 觉醒之章2',
+      'cn': '伊甸希望樂園 覺醒之章2',
       'de': 'Edens Erwachen - Niederkunft',
       'en': 'Eden\'s Gate: Descent',
       'fr': 'L\'Éveil d\'Éden - Descente',
@@ -7680,7 +7680,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 觉醒之章3',
+      'cn': '伊甸希望樂園 覺醒之章3',
       'de': 'Edens Erwachen - Überflutung',
       'en': 'Eden\'s Gate: Inundation',
       'fr': 'L\'Éveil d\'Éden - Déluge',
@@ -7696,7 +7696,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 觉醒之章4',
+      'cn': '伊甸希望樂園 覺醒之章4',
       'de': 'Edens Erwachen - Beerdigung',
       'en': 'Eden\'s Gate: Sepulture',
       'fr': 'L\'Éveil d\'Éden - Inhumation',
@@ -7712,7 +7712,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 觉醒之章1',
+      'cn': '伊甸零式希望樂園 覺醒之章1',
       'de': 'Edens Erwachen - Auferstehung (episch)',
       'en': 'Eden\'s Gate: Resurrection (Savage)',
       'fr': 'L\'Éveil d\'Éden - Résurrection (sadique)',
@@ -7728,7 +7728,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 觉醒之章2',
+      'cn': '伊甸零式希望樂園 覺醒之章2',
       'de': 'Edens Erwachen - Niederkunft (episch)',
       'en': 'Eden\'s Gate: Descent (Savage)',
       'fr': 'L\'Éveil d\'Éden - Descente (sadique)',
@@ -7744,7 +7744,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 觉醒之章3',
+      'cn': '伊甸零式希望樂園 覺醒之章3',
       'de': 'Edens Erwachen - Überflutung (episch)',
       'en': 'Eden\'s Gate: Inundation (Savage)',
       'fr': 'L\'Éveil d\'Éden - Déluge (sadique)',
@@ -7760,7 +7760,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 觉醒之章4',
+      'cn': '伊甸零式希望樂園 覺醒之章4',
       'de': 'Edens Erwachen - Beerdigung (episch)',
       'en': 'Eden\'s Gate: Sepulture (Savage)',
       'fr': 'L\'Éveil d\'Éden - Inhumation (sadique)',
@@ -7776,7 +7776,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '缇坦妮雅歼殛战',
+      'cn': '緹坦妮雅殲殛戰',
       'de': 'Letzte Läuterung - Titania',
       'en': 'The Dancing Plague (Extreme)',
       'fr': 'La Valse du Monarque (extrême)',
@@ -7792,7 +7792,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '机关、诅咒、剧毒与……',
+      'cn': '機關、詛咒、劇毒與……',
       'de': 'Der Beichtstuhl von Toupasa dem Älteren',
       'en': 'Legend of the Not-so-hidden Temple',
       'fr': 'Le Confessionnal de Toupasa l\'ancien',
@@ -7808,7 +7808,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '废都拿巴示艾兰',
+      'cn': '廢都拿巴示艾蘭',
       'de': 'Vater und Bruder',
       'en': 'Coming Clean',
       'fr': 'Sur les rails de Nabaath Areng',
@@ -7824,7 +7824,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '摇摆的天平',
+      'cn': '搖擺的天平',
       'de': 'Ob Mitleid oder Hass',
       'en': 'The Hardened Heart',
       'fr': 'Naissance d\'un bourreau',
@@ -7856,7 +7856,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '勇敢的猎人',
+      'cn': '勇敢的獵人',
       'de': 'Der Legende auf der Spur',
       'en': 'The Hunter\'s Legacy',
       'fr': 'La chasseuse de légende',
@@ -7872,7 +7872,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '奈贝尔特的后悔',
+      'cn': '奈貝爾特的後悔',
       'de': 'Ein großes Opfer',
       'en': 'Nyelbert\'s Lament',
       'fr': 'Une cupidité bien généreuse',
@@ -7888,7 +7888,7 @@ const data: ZoneInfoType = {
     'contentType': 9,
     'exVersion': 3,
     'name': {
-      'cn': '梦羽宝境',
+      'cn': '夢羽寶境',
       'de': 'Verliese von Lyhe Ghiah',
       'en': 'The Dungeons of Lyhe Ghiah',
       'fr': 'Le Donjon hypogéen du Lyhe Ghiah',
@@ -7904,7 +7904,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '复制工厂废墟',
+      'cn': '複製工廠廢墟',
       'de': 'Die kopierte Fabrik',
       'en': 'The Copied Factory',
       'fr': 'La réplique de l\'usine désaffectée',
@@ -7920,7 +7920,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '魔法宫殿宇宙宫',
+      'cn': '魔法宮殿宇宙宮',
       'de': 'Chateau Cosmea',
       'en': 'The Grand Cosmos',
       'fr': 'Le Cosmos coruscant',
@@ -7936,7 +7936,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '哈迪斯孤念歼灭战',
+      'cn': '哈迪斯孤念殲滅戰',
       'de': 'Letzte Läuterung - Hades',
       'en': 'The Minstrel\'s Ballad: Hades\'s Elegy',
       'fr': 'Le Râle de l\'Agonie (extrême)',
@@ -7952,7 +7952,7 @@ const data: ZoneInfoType = {
     'contentType': 28,
     'exVersion': 3,
     'name': {
-      'cn': '亚历山大绝境战',
+      'cn': '亞歷山大絕境戰',
       'de': 'Alexander (fatal)',
       'en': 'The Epic of Alexander (Ultimate)',
       'fr': 'L\'Odyssée d\'Alexander (fatal)',
@@ -7968,7 +7968,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '昂萨哈凯尔（竞争战）',
+      'cn': '昂薩哈凱爾（競爭戰）',
       'de': 'Onsal Hakair (Danshig Naadam)',
       'en': 'Onsal Hakair (Danshig Naadam)',
       'fr': 'Onsal Hakair (Danshig Naadam)',
@@ -7984,7 +7984,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '纯白誓约、漆黑密约',
+      'cn': '純白誓約、漆黑密約',
       'de': 'Der Wolf und der Drachenreiter',
       'en': 'Vows of Virtue, Deeds of Cruelty',
       'fr': 'Vœux de vertu, actes de cruauté',
@@ -8000,7 +8000,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '我心依旧',
+      'cn': '我心依舊',
       'de': 'Trubel im Traumland',
       'en': 'As the Heart Bids',
       'fr': 'À l\'écoute de soi',
@@ -8016,7 +8016,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '红宝石神兵破坏作战',
+      'cn': '紅寶石神兵破壞作戰',
       'de': 'Rubinfeuer - Entfesselung',
       'en': 'Cinder Drift',
       'fr': 'Les Nuées de Brandons',
@@ -8032,7 +8032,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '黑风海底阿尼德罗追忆馆',
+      'cn': '黑風海底阿尼德羅追憶館',
       'de': 'Anamnesis Anyder',
       'en': 'Anamnesis Anyder',
       'fr': 'Anamnesis Anydre',
@@ -8048,7 +8048,7 @@ const data: ZoneInfoType = {
     'contentType': 16,
     'exVersion': 0,
     'name': {
-      'cn': '出海垂钓',
+      'cn': '出海垂釣',
       'de': 'Auf großer Fahrt',
       'en': 'Ocean Fishing',
       'fr': 'Pêche en mer',
@@ -8064,7 +8064,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 共鸣之章1',
+      'cn': '伊甸希望樂園 共鳴之章1',
       'de': 'Edens Resonanz - Entladung',
       'en': 'Eden\'s Verse: Fulmination',
       'fr': 'Les Accords d\'Éden - Fulmination',
@@ -8080,7 +8080,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 共鸣之章2',
+      'cn': '伊甸希望樂園 共鳴之章2',
       'de': 'Edens Resonanz - Raserei',
       'en': 'Eden\'s Verse: Furor',
       'fr': 'Les Accords d\'Éden - Fureur',
@@ -8096,7 +8096,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 共鸣之章3',
+      'cn': '伊甸希望樂園 共鳴之章3',
       'de': 'Edens Resonanz - Bildersturm',
       'en': 'Eden\'s Verse: Iconoclasm',
       'fr': 'Les Accords d\'Éden - Iconoclasme',
@@ -8112,7 +8112,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 共鸣之章4',
+      'cn': '伊甸希望樂園 共鳴之章4',
       'de': 'Edens Resonanz - Erstarrung',
       'en': 'Eden\'s Verse: Refulgence',
       'fr': 'Les Accords d\'Éden - Éclat',
@@ -8128,7 +8128,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 共鸣之章1',
+      'cn': '伊甸零式希望樂園 共鳴之章1',
       'de': 'Edens Resonanz - Entladung (episch)',
       'en': 'Eden\'s Verse: Fulmination (Savage)',
       'fr': 'Les Accords d\'Éden - Fulmination (sadique)',
@@ -8144,7 +8144,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 共鸣之章2',
+      'cn': '伊甸零式希望樂園 共鳴之章2',
       'de': 'Edens Resonanz - Raserei (episch)',
       'en': 'Eden\'s Verse: Furor (Savage)',
       'fr': 'Les Accords d\'Éden - Fureur (sadique)',
@@ -8160,7 +8160,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 共鸣之章3',
+      'cn': '伊甸零式希望樂園 共鳴之章3',
       'de': 'Edens Resonanz - Bildersturm (episch)',
       'en': 'Eden\'s Verse: Iconoclasm (Savage)',
       'fr': 'Les Accords d\'Éden - Iconoclasme (sadique)',
@@ -8176,7 +8176,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 共鸣之章4',
+      'cn': '伊甸零式希望樂園 共鳴之章4',
       'de': 'Edens Resonanz - Erstarrung (episch)',
       'en': 'Eden\'s Verse: Refulgence (Savage)',
       'fr': 'Les Accords d\'Éden - Éclat (sadique)',
@@ -8192,7 +8192,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '博兹雅堡垒蒸发事件',
+      'cn': '博茲雅堡壘蒸發事件',
       'de': 'Der Bozja-Vorfall',
       'en': 'The Bozja Incident',
       'fr': 'Prélude à la catastrophe',
@@ -8208,7 +8208,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '红宝石神兵狂想作战',
+      'cn': '紅寶石神兵狂想作戰',
       'de': 'Rubinfeuer - Trauma',
       'en': 'Cinder Drift (Extreme)',
       'fr': 'Les Nuées de Brandons (extrême)',
@@ -8224,7 +8224,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '博兹雅堡垒追忆战',
+      'cn': '博茲雅堡壘追憶戰',
       'de': 'Memoria Misera (extrem)',
       'en': 'Memoria Misera (Extreme)',
       'fr': 'Memoria Misera (extrême)',
@@ -8240,7 +8240,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '英雄无法安息',
+      'cn': '英雄無法安息',
       'de': 'Von schlafenden Helden',
       'en': 'A Sleep Disturbed',
       'fr': 'L\'épreuve ronka',
@@ -8256,7 +8256,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '暗影决战诺弗兰特',
+      'cn': '暗影決戰諾弗蘭特',
       'de': 'Schlacht um Norvrandt',
       'en': 'The Heroes\' Gauntlet',
       'fr': 'La Traversée de Norvrandt',
@@ -8272,7 +8272,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '人偶军事基地',
+      'cn': '人偶軍事基地',
       'de': 'Die Puppenfestung',
       'en': 'The Puppets\' Bunker',
       'fr': 'La base militaire des Pantins',
@@ -8288,7 +8288,7 @@ const data: ZoneInfoType = {
     'contentType': 29,
     'exVersion': 3,
     'name': {
-      'cn': '南方博兹雅战线',
+      'cn': '南方博茲雅戰線',
       'de': 'Bozja-Südfront',
       'en': 'The Bozjan Southern Front',
       'fr': 'Front sud de Bozja',
@@ -8304,7 +8304,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '光之战士歼灭战',
+      'cn': '光之戰士殲滅戰',
       'de': 'Krieger des Lichts',
       'en': 'The Seat of Sacrifice',
       'fr': 'Le Trône du Sacrifice',
@@ -8320,7 +8320,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '光之战士幻耀歼灭战',
+      'cn': '光之戰士幻耀殲滅戰',
       'de': 'Krieger des Lichts (extrem)',
       'en': 'The Seat of Sacrifice (Extreme)',
       'fr': 'Le Trône du Sacrifice (extrême)',
@@ -8336,7 +8336,7 @@ const data: ZoneInfoType = {
     'contentType': 9,
     'exVersion': 3,
     'name': {
-      'cn': '梦羽宝殿',
+      'cn': '夢羽寶殿',
       'de': 'Das Karussell von Lyhe Ghiah',
       'en': 'The Shifting Oubliettes of Lyhe Ghiah',
       'fr': 'Le Jardin secret du Lyhe Ghiah',
@@ -8352,7 +8352,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '飞翔吧，前往维尔利特！',
+      'cn': '飛翔吧，前往維爾利特！',
       'de': 'Luftangriff auf Werlyt',
       'en': 'Sleep Now in Sapphire',
       'fr': 'Sur la mer de saphir',
@@ -8368,7 +8368,7 @@ const data: ZoneInfoType = {
     'contentType': 16,
     'exVersion': 1,
     'name': {
-      'cn': '天上福地云冠群岛',
+      'cn': '天上福地雲冠群島',
       'de': 'Das Diadem - Erschließung',
       'en': 'The Diadem',
       'fr': 'Le Diadème',
@@ -8384,7 +8384,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '希瓦幻巧战',
+      'cn': '希瓦幻巧戰',
       'de': 'Traumprüfung - Shiva',
       'en': 'The Akh Afah Amphitheatre (Unreal)',
       'fr': 'L\'Amphithéâtre d\'Akh Afah (irréel)',
@@ -8400,7 +8400,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '褪色的记忆',
+      'cn': '褪色的記憶',
       'de': 'Verblasste Erinnerungen',
       'en': 'Faded Memories',
       'fr': 'Souvenir périssable',
@@ -8416,7 +8416,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '魔术工房玛托雅工作室',
+      'cn': '魔術工房瑪托雅工作室',
       'de': 'Matoyas Atelier',
       'en': 'Matoya\'s Relict',
       'fr': 'L\'Atelier abandonné de Matoya',
@@ -8432,7 +8432,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '绿宝石神兵破坏作战',
+      'cn': '綠寶石神兵破壞作戰',
       'de': 'Smaragdsturm - Entfesselung',
       'en': 'Castrum Marinum',
       'fr': 'Castrum Marinum',
@@ -8448,7 +8448,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '绿宝石神兵狂想作战',
+      'cn': '綠寶石神兵狂想作戰',
       'de': 'Smaragdsturm - Trauma',
       'en': 'Castrum Marinum (Extreme)',
       'fr': 'Castrum Marinum (extrême)',
@@ -8496,7 +8496,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 3,
     'name': {
-      'cn': '黄金平原帕戈尔赞草原',
+      'cn': '黃金平原帕戈爾贊草原',
       'de': 'Die Goldene Ebene von Paglth\'an',
       'en': 'Paglth\'an',
       'fr': 'La grande prairie de Paglth\'an',
@@ -8512,7 +8512,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '九宫幻卡：官方锦标赛',
+      'cn': '九宮幻卡：官方錦標賽',
       'de': 'Triple Triad: Manderville-Turnier',
       'en': 'Triple Triad Open Tournament',
       'fr': 'Tournoi officiel de Triple Triade',
@@ -8528,7 +8528,7 @@ const data: ZoneInfoType = {
     'contentType': 19,
     'exVersion': 0,
     'name': {
-      'cn': '九宫幻卡：锦标赛对局室',
+      'cn': '九宮幻卡：錦標賽對局室',
       'de': 'Triple Triad: Privatturnier',
       'en': 'Triple Triad Invitational Parlor',
       'fr': 'Salle de tournoi libre de Triple Triade',
@@ -8544,7 +8544,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 再生之章1',
+      'cn': '伊甸希望樂園 再生之章1',
       'de': 'Edens Verheißung - Umbra',
       'en': 'Eden\'s Promise: Umbra',
       'fr': 'La Promesse d\'Éden - Nuée',
@@ -8560,7 +8560,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 再生之章2',
+      'cn': '伊甸希望樂園 再生之章2',
       'de': 'Edens Verheißung - Litanei',
       'en': 'Eden\'s Promise: Litany',
       'fr': 'La Promesse d\'Éden - Litanie',
@@ -8576,7 +8576,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 再生之章3',
+      'cn': '伊甸希望樂園 再生之章3',
       'de': 'Edens Verheißung - Anamorphose',
       'en': 'Eden\'s Promise: Anamorphosis',
       'fr': 'La Promesse d\'Éden - Anamorphose',
@@ -8592,7 +8592,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸希望乐园 再生之章4',
+      'cn': '伊甸希望樂園 再生之章4',
       'de': 'Edens Verheißung - Ewigkeit',
       'en': 'Eden\'s Promise: Eternity',
       'fr': 'La Promesse d\'Éden - Éternité',
@@ -8608,7 +8608,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 再生之章1',
+      'cn': '伊甸零式希望樂園 再生之章1',
       'de': 'Edens Verheißung - Umbra (episch)',
       'en': 'Eden\'s Promise: Umbra (Savage)',
       'fr': 'La Promesse d\'Éden - Nuée (sadique)',
@@ -8624,7 +8624,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 再生之章2',
+      'cn': '伊甸零式希望樂園 再生之章2',
       'de': 'Edens Verheißung - Litanei (episch)',
       'en': 'Eden\'s Promise: Litany (Savage)',
       'fr': 'La Promesse d\'Éden - Litanie (sadique)',
@@ -8640,7 +8640,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 再生之章3',
+      'cn': '伊甸零式希望樂園 再生之章3',
       'de': 'Edens Verheißung - Anamorphose (episch)',
       'en': 'Eden\'s Promise: Anamorphosis (Savage)',
       'fr': 'La Promesse d\'Éden - Anamorphose (sadique)',
@@ -8656,7 +8656,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '伊甸零式希望乐园 再生之章4',
+      'cn': '伊甸零式希望樂園 再生之章4',
       'de': 'Edens Verheißung - Ewigkeit (episch)',
       'en': 'Eden\'s Promise: Eternity (Savage)',
       'fr': 'La Promesse d\'Éden - Éternité (sadique)',
@@ -8672,7 +8672,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '钻石神兵捕获作战',
+      'cn': '鑽石神兵捕獲作戰',
       'de': 'Diamantblitz - Entfesselung',
       'en': 'The Cloud Deck',
       'fr': 'Le Tillac des Cirrus',
@@ -8688,7 +8688,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '钻石神兵狂想作战',
+      'cn': '鑽石神兵狂想作戰',
       'de': 'Diamantblitz - Trauma',
       'en': 'The Cloud Deck (Extreme)',
       'fr': 'Le Tillac des Cirrus (extrême)',
@@ -8704,7 +8704,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '异形楼阁佐特塔',
+      'cn': '異形樓閣佐特塔',
       'de': 'Der Turm von Zot',
       'en': 'The Tower of Zot',
       'fr': 'La tour de Zott',
@@ -8720,7 +8720,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '泰坦幻巧战',
+      'cn': '泰坦幻巧戰',
       'de': 'Traumprüfung - Titan',
       'en': 'The Navel (Unreal)',
       'fr': 'Le Nombril (irréel)',
@@ -8736,7 +8736,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '威尔布兰德扬帆起航',
+      'cn': '威爾布蘭德揚帆起航',
       'de': 'Gute Winde für Vylbrand',
       'en': 'The Great Ship Vylbrand',
       'fr': 'Un navire nommé Vylbrand',
@@ -8782,7 +8782,7 @@ const data: ZoneInfoType = {
   957: {
     'exVersion': 4,
     'name': {
-      'cn': '萨维奈岛',
+      'cn': '薩維奈島',
       'de': 'Thavnair',
       'en': 'Thavnair',
       'fr': 'Thavnair',
@@ -8797,7 +8797,7 @@ const data: ZoneInfoType = {
   958: {
     'exVersion': 4,
     'name': {
-      'cn': '加雷马',
+      'cn': '加雷馬',
       'de': 'Garlemald',
       'en': 'Garlemald',
       'fr': 'Garlemald',
@@ -8812,7 +8812,7 @@ const data: ZoneInfoType = {
   959: {
     'exVersion': 4,
     'name': {
-      'cn': '叹息海',
+      'cn': '嘆息海',
       'de': 'Mare Lamentorum',
       'en': 'Mare Lamentorum',
       'fr': 'Mare Lamentorum',
@@ -8842,7 +8842,7 @@ const data: ZoneInfoType = {
   961: {
     'exVersion': 4,
     'name': {
-      'cn': '厄尔庇斯',
+      'cn': '厄爾庇斯',
       'de': 'Elpis',
       'en': 'Elpis',
       'fr': 'Elpis',
@@ -8857,7 +8857,7 @@ const data: ZoneInfoType = {
   962: {
     'exVersion': 4,
     'name': {
-      'cn': '旧萨雷安',
+      'cn': '舊薩雷安',
       'de': 'Alt-Sharlayan',
       'en': 'Old Sharlayan',
       'fr': 'Vieille Sharlayan',
@@ -8888,7 +8888,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 3,
     'name': {
-      'cn': '希望之炮台：“塔”',
+      'cn': '希望之砲台：“塔”',
       'de': 'Der Turm, Paradigmenbrecher',
       'en': 'The Tower at Paradigm\'s Breach',
       'fr': 'La tour de la Contingence',
@@ -8904,7 +8904,7 @@ const data: ZoneInfoType = {
     'contentType': 28,
     'exVersion': 4,
     'name': {
-      'cn': '幻想龙诗绝境战',
+      'cn': '幻想龍詩絕境戰',
       'de': 'Drachenkrieg (fatal)',
       'en': 'Dragonsong\'s Reprise (Ultimate)',
       'fr': 'La Guerre du chant des dragons (fatal)',
@@ -8920,7 +8920,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '魔导神门巴别塔',
+      'cn': '魔導神門巴別塔',
       'de': 'Der Turm von Babil',
       'en': 'The Tower of Babil',
       'fr': 'La tour de Babil',
@@ -8936,7 +8936,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '末日树海万相森国',
+      'cn': '末日樹海萬相森國',
       'de': 'Vanaspati',
       'en': 'Vanaspati',
       'fr': 'Vanaspati',
@@ -8952,7 +8952,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '利维亚桑幻巧战',
+      'cn': '利維亞桑幻巧戰',
       'de': 'Traumprüfung - Leviathan',
       'en': 'The <Emphasis>Whorleater</Emphasis> (Unreal)',
       'fr': 'Le Briseur de marées (irréel)',
@@ -8968,7 +8968,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '最终幻想末世终迹',
+      'cn': '最終幻想末世終跡',
       'de': 'Das Sternengrab',
       'en': 'The Dead Ends',
       'fr': 'L\'Issue aux Impasses',
@@ -8984,7 +8984,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '创造环境极北造物院',
+      'cn': '創造環境極北造物院',
       'de': 'Ktisis Hyperboreia',
       'en': 'Ktisis Hyperboreia',
       'fr': 'L\'Hyperborée',
@@ -9000,7 +9000,7 @@ const data: ZoneInfoType = {
     'contentType': 29,
     'exVersion': 3,
     'name': {
-      'cn': '扎杜诺尔高原',
+      'cn': '扎杜諾爾高原',
       'de': 'Zadnor-Hochebene',
       'en': 'Zadnor',
       'fr': 'Hauts plateaux de Zadnor',
@@ -9016,7 +9016,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '乐园都市笑笑镇',
+      'cn': '樂園都市笑笑鎮',
       'de': 'Smileton',
       'en': 'Smileton',
       'fr': 'Risette-sur-lune',
@@ -9032,7 +9032,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 3,
     'name': {
-      'cn': '死斗至黎明',
+      'cn': '死鬥至黎明',
       'de': 'Kampf im Morgengrauen',
       'en': 'Death Unto Dawn',
       'fr': 'Aube meurtrière',
@@ -9048,7 +9048,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '星海深幽寻因星晶镜',
+      'cn': '星海深幽尋因星晶鏡',
       'de': 'Das Aitiaskop',
       'en': 'The Aitiascope',
       'fr': 'Le Prisme de l\'Aitia',
@@ -9064,7 +9064,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
-      'cn': '电脑梦境斯提格玛四',
+      'cn': '電腦夢境斯提格瑪四',
       'de': 'Stigma-Holometrie',
       'en': 'The Stigma Dreamscape',
       'fr': 'Rêve électrique de Stigma-4',
@@ -9080,7 +9080,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '佐迪亚克歼灭战',
+      'cn': '佐迪亞克殲滅戰',
       'de': 'Prophetie - Zodiark',
       'en': 'The Dark Inside',
       'fr': 'Le Cratère des Martyrs',
@@ -9096,7 +9096,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '佐迪亚克暝暗歼灭战',
+      'cn': '佐迪亞克暝暗殲滅戰',
       'de': 'Eschatos - Zodiark',
       'en': 'The Minstrel\'s Ballad: Zodiark\'s Fall',
       'fr': 'Le Cratère des Martyrs (extrême)',
@@ -9112,7 +9112,7 @@ const data: ZoneInfoType = {
     'contentType': 22,
     'exVersion': 0,
     'name': {
-      'cn': '滑稽灵殿闹鬼盛宴',
+      'cn': '滑稽靈殿鬧鬼盛宴',
       'de': 'Lustiges Bankett',
       'en': 'The Phantoms\' Feast',
       'fr': 'Le banquet cauchemardesque',
@@ -9128,7 +9128,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '海德林歼灭战',
+      'cn': '海德林殲滅戰',
       'de': 'Prophetie - Hydaelyn',
       'en': 'The Mothercrystal',
       'fr': 'Le Cristal-mère',
@@ -9144,7 +9144,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '海德林晖光歼灭战',
+      'cn': '海德林暉光殲滅戰',
       'de': 'Eschatos - Hydaelyn',
       'en': 'The Minstrel\'s Ballad: Hydaelyn\'s Call',
       'fr': 'Le Cristal-mère (extrême)',
@@ -9160,7 +9160,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '终结之战',
+      'cn': '終結之戰',
       'de': 'Prophetie - Endsängerin',
       'en': 'The Final Day',
       'fr': 'Le Répons final',
@@ -9176,7 +9176,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '终极之战',
+      'cn': '終極之戰',
       'de': 'Eschatos - Endsängerin',
       'en': 'The Minstrel\'s Ballad: Endsinger\'s Aria',
       'fr': 'Le Répons final (extrême)',

@@ -21,7 +21,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Eat Fruit',
           de: 'Frucht essen',
           fr: 'Mangez un fruit',
-          cn: '吃果实',
+          cn: '吃果實',
           ko: '열매 먹기',
         },
       },

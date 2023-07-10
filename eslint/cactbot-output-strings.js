@@ -108,7 +108,7 @@ const ruleModule = {
                        en: Outputs.killAdds.en + '(back first)',
                        de: Outputs.killAdds.de + '(hinten zuerst)',
                        ja: Outputs.killAdds.ja + '(下の雑魚から)',
-                       cn: Outputs.killAdds.cn + '(先打后方的)',
+                       cn: Outputs.killAdds.cn + '(先打後方的)',
                        ko: Outputs.killAdds.ko + '(아래쪽 먼저)',
                      },
                    },

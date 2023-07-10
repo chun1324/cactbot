@@ -43,7 +43,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Mimic spawned!',
           de: 'Mimik ist erschienen!',
           ja: 'ミミック！',
-          cn: '已生成 拟态怪!',
+          cn: '已生成 擬態怪!',
           ko: '미믹 등장!',
         },
       },
@@ -103,7 +103,7 @@ const triggerSet: TriggerSet<Data> = {
           en: '${protomander} duplicate',
           de: 'Doppelter ${protomander}',
           ja: 'もっています: ${protomander}',
-          cn: '${protomander} 重复',
+          cn: '${protomander} 重複',
           ko: '${protomander} 중복',
         },
         // protomanders: https://xivapi.com/deepdungeonItem?pretty=true
@@ -146,7 +146,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Stärkung',
           fr: 'puissance',
           ja: '自己強化',
-          cn: '强化自身',
+          cn: '強化自身',
           ko: '자기 강화',
         },
         steel: {
@@ -154,7 +154,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Abwehr',
           fr: 'protection',
           ja: '防御強化',
-          cn: '强化防御',
+          cn: '強化防禦',
           ko: '방어 강화',
         },
         affluence: {
@@ -162,7 +162,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Schätze',
           fr: 'décèlement',
           ja: '宝箱増加',
-          cn: '宝箱增加',
+          cn: '寶箱增加',
           ko: '보물상자 증가',
         },
         flight: {
@@ -170,7 +170,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindtods',
           fr: 'sécurisation',
           ja: '敵排除',
-          cn: '减少敌人',
+          cn: '減少敵人',
           ko: '적 감소',
         },
         alteration: {
@@ -178,7 +178,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindwandlung',
           fr: 'affaiblissement',
           ja: '敵変化',
-          cn: '改变敌人',
+          cn: '改變敵人',
           ko: '적 대체',
         },
         purity: {
@@ -194,7 +194,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Glücks',
           fr: 'chance',
           ja: '運気上昇',
-          cn: '运气上升',
+          cn: '運氣上升',
           ko: '운 상승',
         },
         witching: {
@@ -202,7 +202,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Wandlung',
           fr: 'mutation',
           ja: '形態変化',
-          cn: '形态变化',
+          cn: '形態變化',
           ko: '적 변형',
         },
         serenity: {
@@ -218,7 +218,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Finders',
           fr: 'intuition',
           ja: '財宝感知',
-          cn: '感知宝藏',
+          cn: '感知寶藏',
           ko: '보물 탐지',
         },
         raising: {
@@ -251,7 +251,7 @@ const triggerSet: TriggerSet<Data> = {
         duplicate: {
           en: '${demiclone} duplicate',
           de: 'Doppelter ${demiclone}',
-          cn: '${demiclone} 重复',
+          cn: '${demiclone} 重複',
           ko: '${demiclone} 중복',
         },
         // demiclones: https://xivapi.com/DeepDungeonDemiclone?pretty=true
@@ -260,7 +260,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Unei',
           fr: 'Unéi',
           ja: 'ウネ',
-          cn: '乌内',
+          cn: '烏內',
           ko: '우네',
         },
         doga: {
@@ -276,7 +276,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Zwiebelritter',
           fr: 'chevalier Oignon',
           ja: 'オニオンナイト',
-          cn: '洋葱剑士',
+          cn: '洋蔥劍士',
           ko: '양파 기사',
         },
       },

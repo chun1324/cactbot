@@ -39,7 +39,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Wirbelsturm berührt',
             fr: 'Apparition des tornades',
             ja: 'ツイスター',
-            cn: '旋风',
+            cn: '旋風',
             ko: '회오리 밟음',
           },
         };
@@ -81,7 +81,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'vom Blitz getroffen',
             fr: 'frappé(e) par la foudre',
             ja: 'チェインライトニング',
-            cn: '雷光链',
+            cn: '雷光鏈',
             ko: '번개 맞음',
           },
         };

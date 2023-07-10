@@ -27,7 +27,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Heal ${player} to full',
           de: 'Heile ${player} voll',
           fr: 'Soin complet sur ${player}',
-          cn: '奶满${player}',
+          cn: '奶滿${player}',
           ko: '완전 회복: ${player}',
         },
       },
@@ -61,7 +61,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Slithy Zolool Ja': '湿皮妖师 佐尔加',
+        'Slithy Zolool Ja': '溼皮妖師 佐爾加',
       },
     },
     {

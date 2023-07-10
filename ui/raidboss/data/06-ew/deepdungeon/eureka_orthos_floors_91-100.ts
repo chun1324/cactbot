@@ -39,7 +39,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Out or interrupt ${name}',
           de: 'Raus oder unterbreche ${name}',
           ja: '沈黙: ${name}',
-          cn: '出去或打断 ${name}',
+          cn: '出去或打斷 ${name}',
           ko: '밖으로 또는 ${name} 시전 끊기',
         },
       },

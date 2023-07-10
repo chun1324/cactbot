@@ -43,7 +43,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Stop attacking ${target}',
           de: 'Stoppe Angriffe auf ${target}',
           ja: '攻撃禁止: ${target}',
-          cn: '停止攻击 ${target}',
+          cn: '停止攻擊 ${target}',
           ko: '${target} 공격 중지',
         },
       },

@@ -906,7 +906,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Nicht stacken!',
             fr: 'Ne vous packez pas !',
             ja: 'スタックするな！',
-            cn: '分散站位！',
+            cn: '散開站位！',
             ko: '쉐어 맞지 말것',
           },
           stack: Outputs.stackMarker,
