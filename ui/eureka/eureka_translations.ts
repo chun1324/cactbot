@@ -44,9 +44,9 @@ export const timeStrings: EurekaTimeStrings = {
     cn: (nowMs, stopTime) => {
       if (stopTime) {
         const min = (stopTime - nowMs) / 1000 / 60;
-        return ` ${Math.ceil(min)}分钟后结束`;
+        return ` ${Math.ceil(min)}分鐘後結束`;
       }
-      return ' ??? 分钟';
+      return ' ??? 分鐘';
     },
     ko: (nowMs, stopTime) => {
       if (stopTime) {
@@ -88,9 +88,9 @@ export const timeStrings: EurekaTimeStrings = {
     cn: (nowMs, startTime) => {
       if (startTime) {
         const min = (startTime - nowMs) / 1000 / 60;
-        return ` ${Math.ceil(min)}分钟后`;
+        return ` ${Math.ceil(min)}分鐘後`;
       }
-      return ' ??? 后';
+      return ' ??? 後';
     },
     ko: (nowMs, startTime) => {
       if (startTime) {
@@ -105,7 +105,7 @@ export const timeStrings: EurekaTimeStrings = {
     de: (dayNightMin) => ` für ${dayNightMin}min`,
     fr: (dayNightMin) => ` pour ${dayNightMin} min `,
     ja: (dayNightMin) => ` ${dayNightMin}分`,
-    cn: (dayNightMin) => ` ${dayNightMin}分钟`,
+    cn: (dayNightMin) => ` ${dayNightMin}分鐘`,
     ko: (dayNightMin) => ` ${dayNightMin}분 동안`,
   },
   minute: {

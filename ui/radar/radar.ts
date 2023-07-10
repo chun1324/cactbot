@@ -110,7 +110,7 @@ const instanceChangedRegexes = {
   de: NetRegexes.gameLog({ code: '0039', line: 'Du bist nun in dem instanziierten Areal.*?' }),
   fr: NetRegexes.gameLog({ code: '0039', line: 'Vous êtes maintenant dans la zone instanciée.*?' }),
   ja: NetRegexes.gameLog({ code: '0039', line: 'インスタンスエリア.*?' }),
-  cn: NetRegexes.gameLog({ code: '0039', line: '当前所在副本区为.*?' }),
+  cn: NetRegexes.gameLog({ code: '0039', line: '當前所在副本區為.*?' }),
   ko: NetRegexes.gameLog({ code: '0039', line: '인스턴스 지역.*?' }),
 };
 
@@ -177,7 +177,7 @@ const PlayPullSound = (monster: Monster, options: RadarOptions) => {
       en: `${monster.name} pulled`,
       de: `${monster.name} gepullt`,
       fr: `${monster.name} a été attaqué`,
-      cn: `${monster.name} 已开怪`,
+      cn: `${monster.name} 已開怪`,
       ko: `${monster.name} 풀링됨`,
     };
     void callOverlayHandler({

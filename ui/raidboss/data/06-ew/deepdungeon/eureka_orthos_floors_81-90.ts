@@ -152,7 +152,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geh in eine Intercardinale Himmelsrichtung vom Boss',
           fr: 'Allez en intercardinal du boss',
           ja: 'ボスの斜めへ',
-          cn: '去Boss的对角线方向',
+          cn: '去Boss的對角線方向',
           ko: '보스의 대각선 방향으로 피하기',
         },
       },

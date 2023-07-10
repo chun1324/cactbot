@@ -70,7 +70,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Runtergefallen',
             fr: 'Renversé(e)',
             ja: 'ノックバック',
-            cn: '击退坠落',
+            cn: '擊退墜落',
             ko: '넉백',
           },
         };
@@ -89,7 +89,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Runtergefallen',
             fr: 'Renversé(e)',
             ja: 'ノックバック',
-            cn: '击退坠落',
+            cn: '擊退墜落',
             ko: '넉백',
           },
         };
