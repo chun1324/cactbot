@@ -851,7 +851,7 @@ const data: ZoneInfoType = {
     'contentType': 30,
     'exVersion': 4,
     'name': {
-      'cn': '多变迷宫 希拉狄哈水道',
+      'cn': '多變迷宮 希拉狄哈水道',
       'de': 'Die Unterstadt von Sil\'dih',
       'en': 'The Sil\'dihn Subterrane',
       'fr': 'Les canalisations sildiennes - Donjon à embranchements',
@@ -915,7 +915,7 @@ const data: ZoneInfoType = {
     'contentType': 30,
     'exVersion': 4,
     'name': {
-      'cn': '异闻迷宫 异闻希拉狄哈水道',
+      'cn': '異聞迷宮 異聞希拉狄哈水道',
       'de': 'Die kuriose Unterstadt von Sil\'dih',
       'en': 'Another Sil\'dihn Subterrane',
       'fr': 'Les canalisations sildiennes annexes - Donjon alternatif',
@@ -931,7 +931,7 @@ const data: ZoneInfoType = {
     'contentType': 30,
     'exVersion': 4,
     'name': {
-      'cn': '异闻迷宫 零式异闻希拉狄哈水道',
+      'cn': '異聞迷宮 零式異聞希拉狄哈水道',
       'de': 'Die kuriose Unterstadt von Sil\'dih (episch)',
       'en': 'Another Sil\'dihn Subterrane (Savage)',
       'fr': 'Les canalisations sildiennes annexes - Donjon alternatif (sadique)',
@@ -1154,7 +1154,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下1～10层',
+      'cn': '正統優雷卡 地下1～10層',
       'de': 'Eureka Orthos (Ebenen 1-10)',
       'en': 'Eureka Orthos (Floors 1-10)',
       'fr': 'Eurêka Orthos (sous-sols 1-10)',
@@ -1169,7 +1169,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下11～20层',
+      'cn': '正統優雷卡 地下11～20層',
       'de': 'Eureka Orthos (Ebenen 11-20)',
       'en': 'Eureka Orthos (Floors 11-20)',
       'fr': 'Eurêka Orthos (sous-sols 11-20)',
@@ -1184,7 +1184,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下21～30层',
+      'cn': '正統優雷卡 地下21～30層',
       'de': 'Eureka Orthos (Ebenen 21-30)',
       'en': 'Eureka Orthos (Floors 21-30)',
       'fr': 'Eurêka Orthos (sous-sols 21-30)',
@@ -1199,7 +1199,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下31～40层',
+      'cn': '正統優雷卡 地下31～40層',
       'de': 'Eureka Orthos (Ebenen 31-40)',
       'en': 'Eureka Orthos (Floors 31-40)',
       'fr': 'Eurêka Orthos (sous-sols 31-40)',
@@ -1214,7 +1214,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下41～50层',
+      'cn': '正統優雷卡 地下41～50層',
       'de': 'Eureka Orthos (Ebenen 41-50)',
       'en': 'Eureka Orthos (Floors 41-50)',
       'fr': 'Eurêka Orthos (sous-sols 41-50)',
@@ -1229,7 +1229,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下51～60层',
+      'cn': '正統優雷卡 地下51～60層',
       'de': 'Eureka Orthos (Ebenen 51-60)',
       'en': 'Eureka Orthos (Floors 51-60)',
       'fr': 'Eurêka Orthos (sous-sols 51-60)',
@@ -1244,7 +1244,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下61～70层',
+      'cn': '正統優雷卡 地下61～70層',
       'de': 'Eureka Orthos (Ebenen 61-70)',
       'en': 'Eureka Orthos (Floors 61-70)',
       'fr': 'Eurêka Orthos (sous-sols 61-70)',
@@ -1259,7 +1259,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下71～80层',
+      'cn': '正統優雷卡 地下71～80層',
       'de': 'Eureka Orthos (Ebenen 71-80)',
       'en': 'Eureka Orthos (Floors 71-80)',
       'fr': 'Eurêka Orthos (sous-sols 71-80)',
@@ -1274,7 +1274,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下81～90层',
+      'cn': '正統優雷卡 地下81～90層',
       'de': 'Eureka Orthos (Ebenen 81-90)',
       'en': 'Eureka Orthos (Floors 81-90)',
       'fr': 'Eurêka Orthos (sous-sols 81-90)',
@@ -1289,7 +1289,7 @@ const data: ZoneInfoType = {
     'contentType': 21,
     'exVersion': 4,
     'name': {
-      'cn': '正统优雷卡 地下91～100层',
+      'cn': '正統優雷卡 地下91～100層',
       'de': 'Eureka Orthos (Ebenen 91-100)',
       'en': 'Eureka Orthos (Floors 91-100)',
       'fr': 'Eurêka Orthos (sous-sols 91-100)',
@@ -1304,7 +1304,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '学识宝库迦巴勒幻想图书馆',
+      'cn': '學識寶庫迦巴勒幻想圖書館',
       'de': 'Große Gubal-Bibliothek',
       'en': 'The Great Gubal Library',
       'fr': 'La Grande bibliothèque de Gubal',
@@ -1320,7 +1320,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '血战苍穹魔科学研究所',
+      'cn': '血戰蒼穹魔科學研究所',
       'de': 'Ätherochemisches For<SoftHyphen/>schungs<SoftHyphen/>labor',
       'en': 'The Aetherochemical Research Facility',
       'fr': 'Le Laboratoire de magismologie',
@@ -1336,7 +1336,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '星海空间颠倒塔',
+      'cn': '星海空間顛倒塔',
       'de': 'Antiturm',
       'en': 'The Antitower',
       'fr': 'L\'Antitour',
@@ -1352,7 +1352,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '天龙宫殿忆罪宫',
+      'cn': '天龍宮殿憶罪宮',
       'de': 'Sohr Khai',
       'en': 'Sohr Khai',
       'fr': 'Sohr Khai',
@@ -1368,7 +1368,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '险峻峡谷塞尔法特尔溪谷',
+      'cn': '險峻峽谷塞爾法特爾溪谷',
       'de': 'Xelphatol',
       'en': 'Xelphatol',
       'fr': 'Xelphatol',
@@ -1384,7 +1384,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '坚牢铁壁巴埃萨长城',
+      'cn': '堅牢鐵壁巴埃薩長城',
       'de': 'Baelsar-Wall',
       'en': 'Baelsar\'s Wall',
       'fr': 'La Muraille de Baelsar',
@@ -1494,7 +1494,7 @@ const data: ZoneInfoType = {
     'contentType': 28,
     'exVersion': 4,
     'name': {
-      'cn': '欧米茄绝境验证战',
+      'cn': '歐米茄絕境驗證戰',
       'de': 'Omega (fatal)',
       'en': 'The Omega Protocol (Ultimate)',
       'fr': 'Le Protocole Oméga (fatal)',
@@ -1526,6 +1526,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 4,
     'name': {
+      'cn': '星霊間欠 ハーム島',
       'de': 'Ätherborn',
       'en': 'The Aetherfont',
       'fr': 'L\'île de Haam',
@@ -1554,6 +1555,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
+      'cn': 'ゴルベーザ討滅戦',
       'de': 'Prophetie - Golbez',
       'en': 'The Voidcast Dais',
       'fr': 'La Chaire de l\'Exilée',
@@ -1568,6 +1570,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
+      'cn': '極ゴルベーザ討滅戦',
       'de': 'Eschatos - Golbez',
       'en': 'The Voidcast Dais (Extreme)',
       'fr': 'La Chaire de l\'Exilée (extrême)',
@@ -1598,7 +1601,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '试炼行路巴儿达木霸道',
+      'cn': '試煉行路巴兒達木霸道',
       'de': 'Bardams Probe',
       'en': 'Bardam\'s Mettle',
       'fr': 'La Force de Bardam',
@@ -1614,7 +1617,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '解放决战多玛王城',
+      'cn': '解放決戰多瑪王城',
       'de': 'Burg Doma',
       'en': 'Doma Castle',
       'fr': 'Le Château de Doma',
@@ -1630,7 +1633,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '巨炮要塞帝国白山堡',
+      'cn': '巨炮要塞帝國白山堡',
       'de': 'Castrum Abania',
       'en': 'Castrum Abania',
       'fr': 'Castrum Abania',
@@ -1646,7 +1649,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '鏖战红莲阿拉米格',
+      'cn': '鏖戰紅蓮阿拉米格',
       'de': 'Ala Mhigo',
       'en': 'Ala Mhigo',
       'fr': 'Ala Mhigo',
