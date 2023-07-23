@@ -276,7 +276,7 @@ const triggerSet: TriggerSet<Data> = {
       },
       'replaceText': {
         'Blow Away': '重拳激震',
-        'Bold Boulder': '巨巖礫',
+        'Bold Boulder': '巨岩礫',
         'Boulder Break': '礫岩碎',
         'Brush with Death': '咒發操控',
         'Brutal Rush': '殘暴衝鋒',

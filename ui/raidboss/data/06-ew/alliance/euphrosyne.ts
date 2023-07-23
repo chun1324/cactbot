@@ -1256,7 +1256,7 @@ const triggerSet: TriggerSet<Data> = {
         'Mythril Greataxe': '祕銀大斧',
         'Neikos': '衝突',
         'Niphas': '塵雪',
-        'Petrai': '羣巖',
+        'Petrai': '群岩',
         'Philotes': '愛',
         'Playful Orbit': '遊擊機動',
         'Rain of Spears': '冰槍之雨',
