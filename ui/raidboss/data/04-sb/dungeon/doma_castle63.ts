@@ -66,7 +66,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Lege Markierung weit weg ab',
           fr: 'Déposez la charge au loin',
           ja: 'マーカーを外に捨てる',
-          cn: '将标记放远',
+          cn: '將標記放遠',
           ko: '징 멀리 두고 오기',
         },
       },

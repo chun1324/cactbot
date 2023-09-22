@@ -34,7 +34,7 @@ const interceptionOutputStrings: { [label: string]: LocaleText } = {
     en: 'cubes',
     de: 'Würfel',
     ja: '四角',
-    cn: '方块',
+    cn: '方塊',
     ko: '큐브',
   },
   ball: {
@@ -152,7 +152,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geh in eine Intercardinale Himmelsrichtung vom Boss',
           fr: 'Allez en intercardinal du boss',
           ja: 'ボスの斜めへ',
-          cn: '去Boss的对角线方向',
+          cn: '去Boss的對角線方向',
           ko: '보스의 대각선 방향으로 피하기',
         },
       },
@@ -346,7 +346,7 @@ const triggerSet: TriggerSet<Data> = {
           en: '${safe}, between eggs',
           de: '${safe}, zwichen den Eiern',
           ja: '${safe}, たまごの間',
-          cn: '${safe}, 蛋中间',
+          cn: '${safe}, 蛋中間',
           ko: '${safe}, 알 사이',
         },
         safe: {

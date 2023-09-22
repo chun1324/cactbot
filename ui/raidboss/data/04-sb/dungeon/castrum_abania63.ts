@@ -131,7 +131,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Small comet knockback',
           de: 'Kleiner Kometenrückstoß',
           fr: 'Poussée de la petite comète',
-          cn: '小彗星击退',
+          cn: '小彗星擊退',
           ko: '작은 혜성 넉백',
         },
       },
