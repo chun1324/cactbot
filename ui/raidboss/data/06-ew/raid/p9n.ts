@@ -338,7 +338,7 @@ const triggerSet: TriggerSet<Data> = {
         'Comet': '彗星',
         'Fire Sphere': '烈火晶球',
         'Ice Sphere': '冰晶球',
-        'Kokytos': '科庫託斯',
+        'Kokytos': '科庫托斯',
       },
       'replaceText': {
         '\\(Behemoth\\)': '(野獸)',

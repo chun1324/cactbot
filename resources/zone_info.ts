@@ -4718,7 +4718,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '尼德霍格徵龍戰',
+      'cn': '尼德霍格征龍戰',
       'de': 'Der letzte Schicksalsweg',
       'en': 'The Final Steps of Faith',
       'fr': 'La Dernière avancée de la Foi',
@@ -4830,7 +4830,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 1,
     'name': {
-      'cn': '尼德霍格傳奇徵龍戰',
+      'cn': '尼德霍格傳奇征龍戰',
       'de': 'Das Lied von Nidhoggs letztem Ruf',
       'en': 'The Minstrel\'s Ballad: Nidhogg\'s Rage',
       'fr': 'L\'ire de Nidhogg',

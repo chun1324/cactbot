@@ -1257,7 +1257,7 @@ const triggerSet: TriggerSet<Data> = {
         'Midnight Frost': '月地冰霜',
         'Moonset(?! Rays)': '落月踢',
         'Moonset Rays': '明月流光',
-        'Mythril Greataxe': '祕銀大斧',
+        'Mythril Greataxe': '秘銀大斧',
         'Neikos': '衝突',
         'Niphas': '塵雪',
         'Petrai': '群岩',

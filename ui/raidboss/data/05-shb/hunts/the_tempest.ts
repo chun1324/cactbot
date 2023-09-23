@@ -154,8 +154,8 @@ const triggerSet: TriggerSet<Data> = {
       'locale': 'cn',
       'replaceSync': {
         'Baal': '巴力',
-        'Gunitt': '顾尼图',
-        'Rusalka': '卢莎卡',
+        'Gunitt': '顧尼圖',
+        'Rusalka': '盧莎卡',
       },
     },
     {

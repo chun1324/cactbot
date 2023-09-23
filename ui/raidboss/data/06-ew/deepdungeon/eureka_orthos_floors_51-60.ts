@@ -225,13 +225,13 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Orthos Big Claw': '正统大螯陆蟹',
-        'Orthos Ice Sprite': '正统冰元精',
-        'Orthos Rockfin': '正统石鳍鲨',
-        'Orthos Stingray': '正统刺魟',
-        'Orthos Ymir': '正统尤弥尔',
-        'Orthos Zaratan': '正统扎拉坦',
-        'Servomechanical Minotaur 16': '自控化弥诺陶洛斯16',
+        'Orthos Big Claw': '正統大螯陸蟹',
+        'Orthos Ice Sprite': '正統冰元精',
+        'Orthos Rockfin': '正統石鰭鯊',
+        'Orthos Stingray': '正統刺魟',
+        'Orthos Ymir': '正統尤彌爾',
+        'Orthos Zaratan': '正統扎拉坦',
+        'Servomechanical Minotaur 16': '自控化彌諾陶洛斯16',
       },
     },
     {

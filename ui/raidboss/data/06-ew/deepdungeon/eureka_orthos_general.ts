@@ -362,9 +362,9 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Lamia Queen': '拉米亚女王',
-        'Meracydian Clone': '美拉西迪亚复制体',
-        'Mimic': '拟态怪',
+        'Lamia Queen': '拉米亞女王',
+        'Meracydian Clone': '美拉西迪亞複製體',
+        'Mimic': '擬態怪',
       },
     },
     {

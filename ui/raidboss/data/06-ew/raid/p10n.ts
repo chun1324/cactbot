@@ -281,7 +281,7 @@ const triggerSet: TriggerSet<Data> = {
         'Soul Grasp': '攥魂',
         'Touchdown': '空降',
         'Ultima': '究極',
-        'Wicked Step': '尖脚',
+        'Wicked Step': '尖腳',
       },
     },
   ],

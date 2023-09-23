@@ -1563,7 +1563,7 @@ const triggerSet: TriggerSet<Data> = {
         'Chirada': '妙翅',
         'Garuda': '迦樓羅',
         'Ifrit': '伊弗利特',
-        'Lahabrea': '拉哈佈雷亞',
+        'Lahabrea': '拉哈布雷亞',
         'Magitek Bit': '浮游炮射出',
         'Spiny Plume': '刺羽',
         'Suparna': '美翼',

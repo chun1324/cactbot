@@ -1032,8 +1032,8 @@ const triggerSet: TriggerSet<Data> = {
       'replaceSync': {
         'Ball of Levin': '雷球',
         'Comet': '彗星',
-        'Kokytos(?!\')': '科庫託斯',
-        'Kokytos\'s Echo': '科庫託斯的幻影',
+        'Kokytos(?!\')': '科庫托斯',
+        'Kokytos\'s Echo': '科庫托斯的幻影',
       },
       'replaceText': {
         '\\(Beast': '(野獸',

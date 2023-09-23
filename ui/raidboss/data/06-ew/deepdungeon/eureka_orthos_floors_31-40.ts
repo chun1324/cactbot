@@ -175,14 +175,14 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Orthochimera': '正统奇美拉',
-        'Orthoempuse': '正统疫虫',
-        'Orthonaga': '正统那迦',
-        'Orthos Mirrorknight': '正统镜骑士',
-        'Orthospider': '正统蜘蛛',
-        'Orthotaur': '正统弥诺陶洛斯',
-        'Phantom Orthoray': '正统幻影光',
-        'Twintania\'s Clone': '双塔尼亚复制体',
+        'Orthochimera': '正統奇美拉',
+        'Orthoempuse': '正統疫蟲',
+        'Orthonaga': '正統那迦',
+        'Orthos Mirrorknight': '正統鏡騎士',
+        'Orthospider': '正統蜘蛛',
+        'Orthotaur': '正統彌諾陶洛斯',
+        'Phantom Orthoray': '正統幻影光',
+        'Twintania\'s Clone': '雙塔尼亞複製體',
       },
     },
     {

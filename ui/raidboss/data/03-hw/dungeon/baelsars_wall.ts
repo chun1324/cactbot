@@ -237,7 +237,7 @@ const triggerSet: TriggerSet<Data> = {
         'Diffractive Laser': '擴散射線',
         'Distress Beacon': '請求支援',
         'Dull Blade': '鈍劍',
-        'Dynamic Sensory Jammer': '運動體探知幹擾器',
+        'Dynamic Sensory Jammer': '運動體探知干擾器',
         'Flash Powder': '閃光粉',
         'Gull Dive': '海鳥衝',
         'Launcher': '火箭砲',

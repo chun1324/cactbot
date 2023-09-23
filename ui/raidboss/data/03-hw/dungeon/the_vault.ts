@@ -329,7 +329,7 @@ const triggerSet: TriggerSet<Data> = {
         'Rive': '撕裂斧',
         'Sacred Flame': '聖火燃燒',
         'Shining Blade': '光芒劍',
-        'Solid Ascension': '實體昇天',
+        'Solid Ascension': '實體升天',
         'White Knight\'s Tour': '白騎士之旅',
       },
     },

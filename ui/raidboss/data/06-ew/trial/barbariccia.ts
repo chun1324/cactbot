@@ -290,7 +290,7 @@ const triggerSet: TriggerSet<Data> = {
         'Impact': '衝擊',
         'Knuckle Drum': '怒拳連震',
         'Savage Barbery': '野蠻剃',
-        'Secret Breeze': '隱祕之風',
+        'Secret Breeze': '隱秘之風',
         'Teasing Tangles': '咒發拘束',
         'Tornado Chain': '龍捲連風',
         'Touchdown': '空降',

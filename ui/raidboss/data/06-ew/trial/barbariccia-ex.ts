@@ -523,7 +523,7 @@ const triggerSet: TriggerSet<Data> = {
         'Maelstrom': '大漩渦',
         'Raging Storm': '憤怒風暴',
         'Savage Barbery': '野蠻剃',
-        'Secret Breeze': '隱祕之風',
+        'Secret Breeze': '隱秘之風',
         '(?<!(Teasing |En))Tangle': '咒發',
         'Teasing Tangles': '咒發拘束',
         'Tornado Chain': '龍捲連風',

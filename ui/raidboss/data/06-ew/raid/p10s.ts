@@ -798,7 +798,7 @@ const triggerSet: TriggerSet<Data> = {
         'Steel Web': '沉重之網',
         'Touchdown': '空降',
         'Ultima': '究極',
-        'Wicked Step': '尖脚',
+        'Wicked Step': '尖腳',
       },
     },
   ],
