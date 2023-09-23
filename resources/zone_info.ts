@@ -1410,7 +1410,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 4,
     'name': {
-      'cn': '充满活力的父子',
+      'cn': '充滿活力的父子',
       'de': 'Väterliche Liebe',
       'en': 'Generational Bonding',
       'fr': 'Tel gentilhomme, tel gentilhomme',
