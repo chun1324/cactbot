@@ -28,7 +28,7 @@ const kPullText = {
   de: 'Start',
   fr: 'Attaque',
   ja: 'タゲ取る',
-  cn: '开怪',
+  cn: '開怪',
   ko: '풀링',
 };
 

@@ -114,7 +114,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Unvermeidbarer Rückstoß',
           fr: 'Poussée inévitable',
           ja: '避けないノックバック',
-          cn: '击退 (防击退无效)',
+          cn: '擊退 (防擊退無效)',
           ko: '넉백 방지 불가',
         },
       },

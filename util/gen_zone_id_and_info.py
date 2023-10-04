@@ -66,7 +66,7 @@ synthetic_zone_info = {
         "contentType": 4,
         "exVersion": 3,
         "name": {
-            "cn": "希瓦幻巧战",
+            "cn": "希瓦幻巧戰",
             "de": "Traumprüfung - Shiva",
             "en": "The Akh Afah Amphitheatre (Unreal)",
             "fr": "L'Amphithéâtre d'Akh Afah (irréel)",
@@ -82,7 +82,7 @@ synthetic_zone_info = {
         "contentType": 4,
         "exVersion": 3,
         "name": {
-            "cn": "泰坦幻巧战",
+            "cn": "泰坦幻巧戰",
             "de": "Traumprüfung - Titan",
             "en": "The Navel (Unreal)",
             "fr": "Le Nombril (irréel)",
@@ -98,7 +98,7 @@ synthetic_zone_info = {
         "contentType": 4,
         "exVersion": 3,
         "name": {
-            "cn": "利维亚桑幻巧战",
+            "cn": "利維亞桑幻巧戰",
             "de": "Traumprüfung - Leviathan",
             "en": "The <Emphasis>Whorleater</Emphasis> (Unreal)",
             "fr": "Le Briseur de marées (irréel)",
@@ -114,7 +114,7 @@ synthetic_zone_info = {
         "contentType": 4,
         "exVersion": 4,
         "name": {
-            "cn": "究极神兵幻巧战",
+            "cn": "究極神兵幻巧戰",
             "de": "Traumprüfung - Ultima",
             "en": "Ultima's Bane (Unreal)",
             "fr": "Le fléau d'Ultima (irréel)",
@@ -129,7 +129,7 @@ synthetic_zone_info = {
         "contentType": 4,
         "exVersion": 4,
         "name": {
-            "cn": "萨菲洛特幻巧战",
+            "cn": "薩菲洛特幻巧戰",
             "de": "Traumprüfung - Sephirot",
             "en": "Containment Bay S1T7 (Unreal)",
             "fr": "Unité de contention S1P7 (irréel)",
@@ -175,7 +175,7 @@ synthetic_zone_info = {
         "contentType": 4,
         "exVersion": 0,
         "name": {
-            "cn": "(6.1)皇都伊修加德保卫战",
+            "cn": "(6.1)皇都伊修加德保衛戰",
             "de": "(6.1)Der Schicksalsweg",
             "en": "(6.1)The Steps of Faith",
             "fr": "(6.1)Le Siège de la sainte Cité d'Ishgard",
@@ -191,7 +191,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 0,
         "name": {
-            "cn": "(6.1)幻龙残骸密约之塔",
+            "cn": "(6.1)幻龍殘骸密約之塔",
             "de": "(6.1)Hüter des Sees",
             "en": "(6.1)The Keeper of the Lake",
             "fr": "(6.1)Le Gardien du lac",
@@ -207,7 +207,7 @@ synthetic_zone_info = {
         "contentType": 4,
         "exVersion": 0,
         "name": {
-            "cn": "(6.1)莫古力贤王歼灭战",
+            "cn": "(6.1)莫古力賢王殲滅戰",
             "de": "(6.1)Königliche Konfrontation (schwer)",
             "en": "(6.1)Thornmarch (Hard)",
             "fr": "(6.1)La Lisière de ronces (brutal)",
@@ -223,7 +223,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 0,
         "name": {
-            "cn": "(6.1)凛冽洞天披雪大冰壁",
+            "cn": "(6.1)凜冽洞天披雪大冰壁",
             "de": "(6.1)Das Schneekleid",
             "en": "(6.1)Snowcloak",
             "fr": "(6.1)Manteneige",
@@ -239,7 +239,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 1,
         "name": {
-            "cn": "(6.1)圣教中枢伊修加德教皇厅",
+            "cn": "(6.1)聖教中樞伊修加德教皇廳",
             "de": "(6.1)Erzbasilika",
             "en": "(6.1)The Vault",
             "fr": "(6.1)La Voûte",
@@ -255,7 +255,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 1,
         "name": {
-            "cn": "(6.1)邪龙王座龙巢神殿",
+            "cn": "(6.1)邪龍王座龍巢神殿",
             "de": "(6.1)Nest des Drachen",
             "en": "(6.1)The Aery",
             "fr": "(6.1)L'Aire",
@@ -271,7 +271,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 1,
         "name": {
-            "cn": "(6.1)天山绝顶索姆阿尔灵峰",
+            "cn": "(6.1)天山絕頂索姆阿爾靈峰",
             "de": "(6.1)Sohm Al",
             "en": "(6.1)Sohm Al",
             "fr": "(6.1)Sohm Al",
@@ -288,7 +288,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 1,
         "name": {
-            "cn": "学识宝库迦巴勒幻想图书馆",
+            "cn": "學識寶庫迦巴勒幻想圖書館",
             "de": "Große Gubal-Bibliothek",
             "en": "The Great Gubal Library",
             "fr": "La Grande bibliothèque de Gubal",
@@ -304,7 +304,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 1,
         "name": {
-            "cn": "血战苍穹魔科学研究所",
+            "cn": "血戰蒼穹魔科學研究所",
             "de": "Ätherochemisches For<SoftHyphen/>schungs<SoftHyphen/>labor",
             "en": "The Aetherochemical Research Facility",
             "fr": "Le Laboratoire de magismologie",
@@ -320,7 +320,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 1,
         "name": {
-            "cn": "星海空间颠倒塔",
+            "cn": "星海空間顛倒塔",
             "de": "Antiturm",
             "en": "The Antitower",
             "fr": "L'Antitour",
@@ -336,7 +336,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 1,
         "name": {
-            "cn": "天龙宫殿忆罪宫",
+            "cn": "天龍宮殿憶罪宮",
             "de": "Sohr Khai",
             "en": "Sohr Khai",
             "fr": "Sohr Khai",
@@ -352,7 +352,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 1,
         "name": {
-            "cn": "险峻峡谷塞尔法特尔溪谷",
+            "cn": "險峻峽谷塞爾法特爾溪谷",
             "de": "Xelphatol",
             "en": "Xelphatol",
             "fr": "Xelphatol",
@@ -368,7 +368,7 @@ synthetic_zone_info = {
         "contentType": 2,
         "exVersion": 1,
         "name": {
-            "cn": "坚牢铁壁巴埃萨长城",
+            "cn": "堅牢鐵壁巴埃薩長城",
             "de": "Baelsar-Wall",
             "en": "Baelsar's Wall",
             "fr": "La Muraille de Baelsar",
