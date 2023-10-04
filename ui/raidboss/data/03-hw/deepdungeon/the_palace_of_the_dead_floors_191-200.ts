@@ -75,10 +75,10 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Deep Palace Fachan': '深宫幽鬼之眼',
-        'Deep Palace Knight': '深宫骑士',
-        'Deep Palace Wraith': '深宫幽灵',
-        'Onyx Dragon': '奥尼克斯龙',
+        'Deep Palace Fachan': '深宮幽鬼之眼',
+        'Deep Palace Knight': '深宮騎士',
+        'Deep Palace Wraith': '深宮幽靈',
+        'Onyx Dragon': '奧尼克斯龍',
       },
     },
     {

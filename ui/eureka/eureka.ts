@@ -165,13 +165,13 @@ const defaultOptions: EurekaOptions = {
       flagRegex: NetRegexes.gameLog({
         code: '00..',
         line:
-          '(?<before>.*)\ue0bb(?:常风之地|恒冰之地|涌火之地|丰水之地) \\( (?<x>\\y{Float})\\s*, (?<y>\\y{Float}) \\)(?<after>.*?)',
+          '(?<before>.*)\ue0bb(?:常風之地|恆冰之地|湧火之地|豐水之地) \\( (?<x>\\y{Float})\\s*, (?<y>\\y{Float}) \\)(?<after>.*?)',
       }),
       trackerRegex: NetRegexes.gameLog(
         { line: '.*?(?:https://)?ffxiv-eureka\\.com/(?<id>[_\\w-]{6}).*?' },
       ),
-      importRegex: NetRegexes.gameLog({ code: '00..', line: '.*?冷却中的NM: (?<nms>\\S.*\\))*?' }),
-      timeRegex: Regexes.parse(/(.*) \((\d*)分(钟*)\)/),
+      importRegex: NetRegexes.gameLog({ code: '00..', line: '.*?冷卻中的NM: (?<nms>\\S.*\\))*?' }),
+      timeRegex: Regexes.parse(/(.*) \((\d*)分(鍾*)\)/),
     },
     ko: {
       flagRegex: NetRegexes.gameLog({

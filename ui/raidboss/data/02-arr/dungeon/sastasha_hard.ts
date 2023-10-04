@@ -21,7 +21,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Medica ${player}',
           fr: 'Guérison sur ${player}',
           ja: '${player} にエスナ',
-          cn: '驱散: ${player}',
+          cn: '驅散: ${player}',
           ko: '${player} 에스나',
         },
       },
@@ -43,7 +43,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Tail Screw on ${player}',
           de: 'Schweifschraube auf ${player}',
           fr: 'Coup de queue sur ${player}',
-          cn: '螺旋尾点${player}',
+          cn: '螺旋尾點${player}',
           ko: '${player} 꼬리 후려치기',
         },
       },
@@ -71,7 +71,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Karlabos': '真红龙虾',
+        'Karlabos': '真紅龍蝦',
       },
     },
     {

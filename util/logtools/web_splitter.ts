@@ -14,22 +14,22 @@ const pageText = {
   titleText: {
     en: 'Log Splitter and Anonymizer',
     de: 'Log Aufteiler und Anonymisierer',
-    cn: '日志分割与匿名器',
+    cn: '日誌分割與匿名器',
   },
   fileDropText: {
     en: 'Drop Network log file here',
     de: 'Network log Datei hier ablegen',
-    cn: '将网络日志文件拖放到此处',
+    cn: '將網絡日誌文件拖放到此處',
   },
   anonInput: {
     en: 'Anonymize Log',
     de: 'Log Anonymisieren',
-    cn: '对日志进行匿名化处理',
+    cn: '對日誌進行匿名化處理',
   },
   exportInput: {
     en: 'Export',
     de: 'Export',
-    cn: '导出',
+    cn: '導出',
   },
 } as const;
 
@@ -78,27 +78,27 @@ const buildTable = (state: PageState): void => {
     startTime: {
       en: 'Time',
       de: 'Zeit',
-      cn: '时间',
+      cn: '時間',
     },
     duration: {
       en: 'Duration',
       de: 'Dauer',
-      cn: '持续时间',
+      cn: '持續時間',
     },
     zone: {
       en: 'Zone',
       de: 'Zone',
-      cn: '区域',
+      cn: '區域',
     },
     encounter: {
       en: 'Encounter',
       de: 'Begegnung',
-      cn: '战斗',
+      cn: '戰鬥',
     },
     end: {
       en: 'End',
       de: 'Ende',
-      cn: '结束方式',
+      cn: '結束方式',
     },
   } as const;
 

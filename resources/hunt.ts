@@ -24,7 +24,7 @@ const data: HuntMap = {
   'Aegeiros': {
     'id': '10628',
     'name': {
-      'cn': '黑杨树精',
+      'cn': '黑楊樹精',
       'de': 'Aegeiros',
       'en': 'Aegeiros',
       'fr': 'ægeiros',
@@ -72,7 +72,7 @@ const data: HuntMap = {
   'Albin the Ashen': {
     'id': '2926',
     'name': {
-      'cn': '死灰复燃的阿尔宾',
+      'cn': '死灰復燃的阿爾賓',
       'de': 'Albin Aschfahl',
       'en': 'Albin the Ashen',
       'fr': 'Albin le blafard',
@@ -96,7 +96,7 @@ const data: HuntMap = {
   'Alteci': {
     'id': '4350',
     'name': {
-      'cn': '阿尔提克',
+      'cn': '阿爾提克',
       'de': 'Artic',
       'en': 'Alteci',
       'fr': 'Altek',
@@ -108,7 +108,7 @@ const data: HuntMap = {
   'Angada': {
     'id': '5999',
     'name': {
-      'cn': '安迦达',
+      'cn': '安迦達',
       'de': 'Angada',
       'en': 'Angada',
       'fr': 'Angada',
@@ -120,7 +120,7 @@ const data: HuntMap = {
   'Aqrabuamelu': {
     'id': '5993',
     'name': {
-      'cn': '熔骨炎蝎',
+      'cn': '熔骨炎蠍',
       'de': 'Aqrabuamelu',
       'en': 'Aqrabuamelu',
       'fr': 'Aqrabuamelu',
@@ -132,7 +132,7 @@ const data: HuntMap = {
   'Arch-Eta': {
     'id': '10634',
     'name': {
-      'cn': '伊塔总领',
+      'cn': '伊塔總領',
       'de': 'Erz-Eta',
       'en': 'Arch-Eta',
       'fr': 'Arch-Êta',
@@ -156,7 +156,7 @@ const data: HuntMap = {
   'Aswang': {
     'id': '6007',
     'name': {
-      'cn': '阿苏黄',
+      'cn': '阿蘇黃',
       'de': 'Aswang',
       'en': 'Aswang',
       'fr': 'Aswang',
@@ -180,7 +180,7 @@ const data: HuntMap = {
   'Barbastelle': {
     'id': '2929',
     'name': {
-      'cn': '宽耳凶蝠',
+      'cn': '寬耳凶蝠',
       'de': 'Barbastelle',
       'en': 'Barbastelle',
       'fr': 'Barbastelle',
@@ -192,7 +192,7 @@ const data: HuntMap = {
   'Bird of Paradise': {
     'id': '4378',
     'name': {
-      'cn': '极乐鸟',
+      'cn': '極樂鳥',
       'de': 'Paradiesvogel',
       'en': 'Bird of Paradise',
       'fr': 'oiseau de Paradis',
@@ -204,7 +204,7 @@ const data: HuntMap = {
   'Bloody Mary': {
     'id': '2930',
     'name': {
-      'cn': '血腥玛丽',
+      'cn': '血腥瑪麗',
       'de': 'Bloody Mary',
       'en': 'Bloody Mary',
       'fr': 'Mary la sanglante',
@@ -216,7 +216,7 @@ const data: HuntMap = {
   'Bone Crawler': {
     'id': '5988',
     'name': {
-      'cn': '爬骨怪龙',
+      'cn': '爬骨怪龍',
       'de': 'Knochenkriecher',
       'en': 'Bone Crawler',
       'fr': 'Mangeur d\'os',
@@ -228,7 +228,7 @@ const data: HuntMap = {
   'Bonnacon': {
     'id': '2965',
     'name': {
-      'cn': '火愤牛',
+      'cn': '火憤牛',
       'de': 'Bonnacon',
       'en': 'Bonnacon',
       'fr': 'Bonnacon',
@@ -276,7 +276,7 @@ const data: HuntMap = {
   'Burfurlur the Canny': {
     'id': '10617',
     'name': {
-      'cn': '布弗鲁',
+      'cn': '布弗魯',
       'de': [
         'Burfurlur der Gerissene',
         'Burfurlur der Gerissener',
@@ -310,7 +310,7 @@ const data: HuntMap = {
   'Chernobog': {
     'id': '2967',
     'name': {
-      'cn': '牛头黑神',
+      'cn': '牛頭黑神',
       'de': 'Czernobog',
       'en': 'Chernobog',
       'fr': 'Czernobog',
@@ -322,7 +322,7 @@ const data: HuntMap = {
   'Coquecigrue': {
     'id': '8913',
     'name': {
-      'cn': '三合鸟儿',
+      'cn': '三合鳥兒',
       'de': 'Coquecigrue',
       'en': 'Coquecigrue',
       'fr': 'Coquecigrue',
@@ -346,7 +346,7 @@ const data: HuntMap = {
   'Croakadile': {
     'id': '2963',
     'name': {
-      'cn': '咕尔呱洛斯',
+      'cn': '咕爾呱洛斯',
       'de': 'Quakquak',
       'en': 'Croakadile',
       'fr': 'Croabéros',
@@ -358,7 +358,7 @@ const data: HuntMap = {
   'Croque-mitaine': {
     'id': '2962',
     'name': {
-      'cn': '护土精灵',
+      'cn': '護土精靈',
       'de': 'Croque Mitaine',
       'en': 'Croque-mitaine',
       'fr': 'Croque-mitaine',
@@ -370,7 +370,7 @@ const data: HuntMap = {
   'Dalvag\'s Final Flame': {
     'id': '2944',
     'name': {
-      'cn': '菲兰德的遗火',
+      'cn': '菲蘭德的遺火',
       'de': [
         'Letzte Flamme Dalvags',
         'Letzter Flamme Dalvags',
@@ -470,7 +470,7 @@ const data: HuntMap = {
   'Fan Ail': {
     'id': '10633',
     'name': {
-      'cn': '凡·艾尔',
+      'cn': '凡·艾爾',
       'de': 'Fan Ail',
       'en': 'Fan Ail',
       'fr': 'Fan Ail',
@@ -482,7 +482,7 @@ const data: HuntMap = {
   'Flame Sergeant Dalvag': {
     'id': '2927',
     'name': {
-      'cn': '永恒不灭的菲兰德副耀士',
+      'cn': '永恆不滅的菲蘭德副耀士',
       'de': 'Dalvag',
       'en': 'Flame Sergeant Dalvag',
       'fr': 'sergent-major Dalvag',
@@ -494,7 +494,7 @@ const data: HuntMap = {
   'Forneus': {
     'id': '2936',
     'name': {
-      'cn': '弗内乌斯',
+      'cn': '弗內烏斯',
       'de': 'Forneus',
       'en': 'Forneus',
       'fr': 'Forneus',
@@ -506,7 +506,7 @@ const data: HuntMap = {
   'Funa Yurei': {
     'id': '5996',
     'name': {
-      'cn': '船幽灵',
+      'cn': '船幽靈',
       'de': 'Funa Yurei',
       'en': 'Funa Yurei',
       'fr': 'Funa Yurei',
@@ -518,7 +518,7 @@ const data: HuntMap = {
   'Gajasura': {
     'id': '5998',
     'name': {
-      'cn': '象魔修罗',
+      'cn': '象魔修羅',
       'de': 'Gajasura',
       'en': 'Gajasura',
       'fr': 'Gajasura',
@@ -530,7 +530,7 @@ const data: HuntMap = {
   'Gamma': {
     'id': '5985',
     'name': {
-      'cn': '伽马',
+      'cn': '伽馬',
       'de': 'Gamma',
       'en': 'Gamma',
       'fr': 'Gamma',
@@ -542,7 +542,7 @@ const data: HuntMap = {
   'Gandarewa': {
     'id': '4377',
     'name': {
-      'cn': '刚德瑞瓦',
+      'cn': '剛德瑞瓦',
       'de': 'Gandalva',
       'en': 'Gandarewa',
       'fr': 'Gandharva',
@@ -554,7 +554,7 @@ const data: HuntMap = {
   'Gatling': {
     'id': '2925',
     'name': {
-      'cn': '加特林针鼹',
+      'cn': '加特林針鼴',
       'de': 'Gatling',
       'en': 'Gatling',
       'fr': 'Acanthor',
@@ -566,7 +566,7 @@ const data: HuntMap = {
   'Gauki Strongblade': {
     'id': '6002',
     'name': {
-      'cn': '剑豪 刑具',
+      'cn': '劍豪 刑具',
       'de': 'Gauki Starkklinge',
       'en': 'Gauki Strongblade',
       'fr': 'Gauki la Lame forte',
@@ -578,7 +578,7 @@ const data: HuntMap = {
   'Ghede Ti Malice': {
     'id': '2938',
     'name': {
-      'cn': '盖得',
+      'cn': '蓋得',
       'de': 'Ghede Titus Häme',
       'en': 'Ghede Ti Malice',
       'fr': 'Guédé Ti-Malice',
@@ -590,7 +590,7 @@ const data: HuntMap = {
   'Gilshs Aath Swiftclaw': {
     'id': '8898',
     'name': {
-      'cn': '徒手抓鱼 基乌嘶·渊斯',
+      'cn': '徒手抓魚 基烏嘶·淵斯',
       'de': 'Gilshs Aath',
       'en': 'Gilshs Aath Swiftclaw',
       'fr': 'Gilshs Aath l\'étrangleur',
@@ -602,7 +602,7 @@ const data: HuntMap = {
   'Girimekhala': {
     'id': '6000',
     'name': {
-      'cn': '基里麦卡拉',
+      'cn': '基里麥卡拉',
       'de': 'Girimekhala',
       'en': 'Girimekhala',
       'fr': 'Girimekhala',
@@ -614,7 +614,7 @@ const data: HuntMap = {
   'Girtab': {
     'id': '2939',
     'name': {
-      'cn': '尾宿蛛蝎',
+      'cn': '尾宿蛛蠍',
       'de': 'Girtab',
       'en': 'Girtab',
       'fr': 'Girtab',
@@ -626,7 +626,7 @@ const data: HuntMap = {
   'Gnath cometdrone': {
     'id': '4352',
     'name': {
-      'cn': '骨颌彗星兵',
+      'cn': '骨頜彗星兵',
       'de': 'Gnath-Kometdrohne',
       'en': 'Gnath cometdrone',
       'fr': 'Gnathe myrmicomète',
@@ -650,7 +650,7 @@ const data: HuntMap = {
   'Guhuo Niao': {
     'id': '6003',
     'name': {
-      'cn': '姑获鸟',
+      'cn': '姑獲鳥',
       'de': 'Guhuo Niao',
       'en': 'Guhuo Niao',
       'fr': 'Guhuo Niao',
@@ -662,7 +662,7 @@ const data: HuntMap = {
   'Gunitt': {
     'id': '8895',
     'name': {
-      'cn': '顾尼图',
+      'cn': '顧尼圖',
       'de': 'Gunitt',
       'en': 'Gunitt',
       'fr': 'Gunitt',
@@ -674,7 +674,7 @@ const data: HuntMap = {
   'Gurangatch': {
     'id': '10631',
     'name': {
-      'cn': '固兰盖奇',
+      'cn': '固蘭蓋奇',
       'de': 'Gurangatch',
       'en': 'Gurangatch',
       'fr': 'Gurangatch',
@@ -686,7 +686,7 @@ const data: HuntMap = {
   'Gwas-y-neidr': {
     'id': '6010',
     'name': {
-      'cn': '蛇仆蚂蜓',
+      'cn': '蛇僕螞蜓',
       'de': 'Gwas-y-neidr',
       'en': 'Gwas-y-neidr',
       'fr': 'Gwas-y-neidr',
@@ -698,7 +698,7 @@ const data: HuntMap = {
   'Gyorai Quickstrike': {
     'id': '6005',
     'name': {
-      'cn': '闪雷击 鱼雷',
+      'cn': '閃雷擊 魚雷',
       'de': 'Gyorai Schnellschlag',
       'en': 'Gyorai Quickstrike',
       'fr': 'Gyorai le Vif',
@@ -710,7 +710,7 @@ const data: HuntMap = {
   'Hellsclaw': {
     'id': '2947',
     'name': {
-      'cn': '魔导地狱爪',
+      'cn': '魔導地獄爪',
       'de': 'Höllenklaue',
       'en': 'Hellsclaw',
       'fr': 'griffe des enfers magitek',
@@ -722,7 +722,7 @@ const data: HuntMap = {
   'Huracan': {
     'id': '8912',
     'name': {
-      'cn': '乌拉坎',
+      'cn': '烏拉坎',
       'de': 'Huracan',
       'en': 'Huracan',
       'fr': 'Huracan',
@@ -734,7 +734,7 @@ const data: HuntMap = {
   'Indomitable': {
     'id': '8914',
     'name': {
-      'cn': '不屈号',
+      'cn': '不屈號',
       'de': 'Unbezähmbar',
       'en': 'Indomitable',
       'fr': 'Indomptable',
@@ -746,7 +746,7 @@ const data: HuntMap = {
   'Iravati': {
     'id': '10638',
     'name': {
-      'cn': '伊罗婆缇',
+      'cn': '伊羅婆緹',
       'de': 'Iravati',
       'en': 'Iravati',
       'fr': 'Iravati',
@@ -758,7 +758,7 @@ const data: HuntMap = {
   'Itzpapalotl': {
     'id': '8909',
     'name': {
-      'cn': '伊兹帕帕洛特尔',
+      'cn': '伊茲帕帕洛特爾',
       'de': 'Itzpapalotl',
       'en': 'Itzpapalotl',
       'fr': 'Itzpapalotl',
@@ -782,7 +782,7 @@ const data: HuntMap = {
   'Juggler Hecatomb': {
     'id': '8904',
     'name': {
-      'cn': '残虐杂技师',
+      'cn': '殘虐雜技師',
       'de': 'Gaukler Hecatomb',
       'en': 'Juggler Hecatomb',
       'fr': 'Jongleur hécatombe',
@@ -794,7 +794,7 @@ const data: HuntMap = {
   'Ker': {
     'id': '10615',
     'name': {
-      'cn': '克尔',
+      'cn': '克爾',
       'de': 'Ker',
       'en': 'Ker',
       'fr': 'Kèr',
@@ -806,7 +806,7 @@ const data: HuntMap = {
   'Ker shroud': {
     'id': '10616',
     'name': {
-      'cn': '克尔的侍从',
+      'cn': '克爾的侍從',
       'de': 'Diener von Ker',
       'en': 'Ker shroud',
       'fr': 'serviteur de Kèr',
@@ -818,7 +818,7 @@ const data: HuntMap = {
   'Kiwa': {
     'id': '6013',
     'name': {
-      'cn': '奇洼',
+      'cn': '奇窪',
       'de': 'Kiwa',
       'en': 'Kiwa',
       'fr': 'Kiwa',
@@ -830,7 +830,7 @@ const data: HuntMap = {
   'Kreutzet': {
     'id': '4351',
     'name': {
-      'cn': '克鲁泽',
+      'cn': '克魯澤',
       'de': 'Kreutzet',
       'en': 'Kreutzet',
       'fr': 'Kreutzet',
@@ -854,7 +854,7 @@ const data: HuntMap = {
   'Kurrea': {
     'id': '2952',
     'name': {
-      'cn': '库雷亚',
+      'cn': '庫雷亞',
       'de': 'Kurrea',
       'en': 'Kurrea',
       'fr': 'Kurrea',
@@ -866,7 +866,7 @@ const data: HuntMap = {
   'La Velue': {
     'id': '8908',
     'name': {
-      'cn': '浓毛兽',
+      'cn': '濃毛獸',
       'de': 'La Velue',
       'en': 'La Velue',
       'fr': 'Velue',
@@ -878,7 +878,7 @@ const data: HuntMap = {
   'Laideronnette': {
     'id': '2953',
     'name': {
-      'cn': '雷德罗巨蛇',
+      'cn': '雷德羅巨蛇',
       'de': 'Laideronette',
       'en': 'Laideronnette',
       'fr': 'Laideronnette',
@@ -890,7 +890,7 @@ const data: HuntMap = {
   'Lampalagua': {
     'id': '2959',
     'name': {
-      'cn': '巴拉乌尔',
+      'cn': '巴拉烏爾',
       'de': 'Balaur',
       'en': 'Lampalagua',
       'fr': 'Balaur',
@@ -914,7 +914,7 @@ const data: HuntMap = {
   'Leucrotta': {
     'id': '4380',
     'name': {
-      'cn': '卢克洛塔',
+      'cn': '盧克洛塔',
       'de': 'Leucrotta',
       'en': 'Leucrotta',
       'fr': 'leucrotta',
@@ -926,7 +926,7 @@ const data: HuntMap = {
   'Li\'l Murderer': {
     'id': '8911',
     'name': {
-      'cn': '小小杀手',
+      'cn': '小小殺手',
       'de': [
         'Kleine Mörder',
         'Kleiner Mörder',
@@ -942,7 +942,7 @@ const data: HuntMap = {
   'Lord of the Wyverns': {
     'id': '4365',
     'name': {
-      'cn': '双足飞龙之王',
+      'cn': '雙足飛龍之王',
       'de': 'Wyvern-Lord',
       'en': 'Lord of the Wyverns',
       'fr': 'seigneur des wyvernes',
@@ -954,7 +954,7 @@ const data: HuntMap = {
   'Luminare': {
     'id': '5995',
     'name': {
-      'cn': '泛光晶体',
+      'cn': '泛光晶體',
       'de': 'Luminare',
       'en': 'Luminare',
       'fr': 'Luminare',
@@ -966,7 +966,7 @@ const data: HuntMap = {
   'Lycidas': {
     'id': '4360',
     'name': {
-      'cn': '利西达斯',
+      'cn': '利西達斯',
       'de': 'Lykidas',
       'en': 'Lycidas',
       'fr': 'Lycidas',
@@ -978,7 +978,7 @@ const data: HuntMap = {
   'Lyuba': {
     'id': '4363',
     'name': {
-      'cn': '卢芭',
+      'cn': '盧芭',
       'de': 'Lyuba',
       'en': 'Lyuba',
       'fr': 'Lyuba',
@@ -990,7 +990,7 @@ const data: HuntMap = {
   'Maahes': {
     'id': '2942',
     'name': {
-      'cn': '玛赫斯',
+      'cn': '瑪赫斯',
       'de': 'Maahes',
       'en': 'Maahes',
       'fr': 'Maahes',
@@ -1002,7 +1002,7 @@ const data: HuntMap = {
   'Mahisha': {
     'id': '5994',
     'name': {
-      'cn': '马希沙',
+      'cn': '馬希沙',
       'de': 'Mahisha',
       'en': 'Mahisha',
       'fr': 'Mahisha',
@@ -1014,7 +1014,7 @@ const data: HuntMap = {
   'Maliktender': {
     'id': '8901',
     'name': {
-      'cn': '马利克巨人掌',
+      'cn': '馬利克巨人掌',
       'de': 'Malikkaktor',
       'en': 'Maliktender',
       'fr': 'Malikpampa',
@@ -1026,7 +1026,7 @@ const data: HuntMap = {
   'Manes': {
     'id': '6012',
     'name': {
-      'cn': '玛涅斯',
+      'cn': '瑪涅斯',
       'de': 'Manes',
       'en': 'Manes',
       'fr': 'Manes',
@@ -1038,7 +1038,7 @@ const data: HuntMap = {
   'Marberry': {
     'id': '2949',
     'name': {
-      'cn': '玛贝利',
+      'cn': '瑪貝利',
       'de': 'Marberry',
       'en': 'Marberry',
       'fr': 'marberry',
@@ -1050,7 +1050,7 @@ const data: HuntMap = {
   'Marraco': {
     'id': '2951',
     'name': {
-      'cn': '马拉克',
+      'cn': '馬拉克',
       'de': 'Marraco',
       'en': 'Marraco',
       'fr': 'Marraco',
@@ -1062,7 +1062,7 @@ const data: HuntMap = {
   'Melt': {
     'id': '2937',
     'name': {
-      'cn': '千眼凝胶',
+      'cn': '千眼凝膠',
       'de': 'Schmelze',
       'en': 'Melt',
       'fr': 'Fondu',
@@ -1074,7 +1074,7 @@ const data: HuntMap = {
   'Mindmaker': {
     'id': '8893',
     'name': {
-      'cn': '启灵果',
+      'cn': '啟靈果',
       'de': 'Freigeist',
       'en': 'Mindmaker',
       'fr': 'Maître-penseur',
@@ -1098,7 +1098,7 @@ const data: HuntMap = {
   'Minhocao': {
     'id': '2961',
     'name': {
-      'cn': '蚓螈巨虫',
+      'cn': '蚓螈巨蟲',
       'de': 'Minhocao',
       'en': 'Minhocao',
       'fr': 'Minhocao',
@@ -1134,7 +1134,7 @@ const data: HuntMap = {
   'Myradrosh': {
     'id': '2932',
     'name': {
-      'cn': '米腊德罗斯蜂鸟',
+      'cn': '米臘德羅斯蜂鳥',
       'de': 'Myradrosh',
       'en': 'Myradrosh',
       'fr': 'Myradrosh',
@@ -1146,7 +1146,7 @@ const data: HuntMap = {
   'Nahn': {
     'id': '2948',
     'name': {
-      'cn': '纳恩',
+      'cn': '納恩',
       'de': 'Nahn',
       'en': 'Nahn',
       'fr': 'Nahn',
@@ -1170,7 +1170,7 @@ const data: HuntMap = {
   'Nariphon': {
     'id': '8907',
     'name': {
-      'cn': '纳里蓬',
+      'cn': '納里蓬',
       'de': 'Nariphon',
       'en': 'Nariphon',
       'fr': 'Nariphon',
@@ -1182,7 +1182,7 @@ const data: HuntMap = {
   'Narrow-rift': {
     'id': '10622',
     'name': {
-      'cn': '狭缝',
+      'cn': '狹縫',
       'de': 'Enger Riss',
       'en': 'Narrow-rift',
       'fr': 'Rift-étroit',
@@ -1194,7 +1194,7 @@ const data: HuntMap = {
   'Naul': {
     'id': '2934',
     'name': {
-      'cn': '纳乌尔',
+      'cn': '納烏爾',
       'de': 'Naul',
       'en': 'Naul',
       'fr': 'Naul',
@@ -1206,7 +1206,7 @@ const data: HuntMap = {
   'Nuckelavee': {
     'id': '8906',
     'name': {
-      'cn': '纳克拉维',
+      'cn': '納克拉維',
       'de': 'Nuckelavee',
       'en': 'Nuckelavee',
       'fr': 'Nuckelavee',
@@ -1218,7 +1218,7 @@ const data: HuntMap = {
   'Nunyunuwi': {
     'id': '2960',
     'name': {
-      'cn': '努纽努维',
+      'cn': '努紐努維',
       'de': 'Nunyunuwi',
       'en': 'Nunyunuwi',
       'fr': 'Nunyunuwi',
@@ -1230,7 +1230,7 @@ const data: HuntMap = {
   'O Poorest Pauldia': {
     'id': '8655',
     'name': {
-      'cn': '保尔迪雅',
+      'cn': '保爾迪雅',
       'de': [
         'gepeinigte Pauldia',
         'gepeinigter Pauldia',
@@ -1246,7 +1246,7 @@ const data: HuntMap = {
   'Okina': {
     'id': '5984',
     'name': {
-      'cn': '巨大鳐',
+      'cn': '巨大鰩',
       'de': 'Okina',
       'en': 'Okina',
       'fr': 'Okina',
@@ -1258,7 +1258,7 @@ const data: HuntMap = {
   'Omni': {
     'id': '4361',
     'name': {
-      'cn': '全能机甲',
+      'cn': '全能機甲',
       'de': 'Omni',
       'en': 'Omni',
       'fr': 'Omni',
@@ -1270,7 +1270,7 @@ const data: HuntMap = {
   'Oni Yumemi': {
     'id': '5997',
     'name': {
-      'cn': '鬼观梦',
+      'cn': '鬼觀夢',
       'de': 'Oni Yumemi',
       'en': 'Oni Yumemi',
       'fr': 'Oni Yumemi',
@@ -1294,7 +1294,7 @@ const data: HuntMap = {
   'Orcus': {
     'id': '5990',
     'name': {
-      'cn': '奥迦斯',
+      'cn': '奧迦斯',
       'de': 'Orcus',
       'en': 'Orcus',
       'fr': 'Orcus',
@@ -1306,7 +1306,7 @@ const data: HuntMap = {
   'Orghana': {
     'id': '5986',
     'name': {
-      'cn': '兀鲁忽乃朝鲁',
+      'cn': '兀魯忽乃朝魯',
       'de': 'Orghana',
       'en': 'Orghana',
       'fr': 'Orghana',
@@ -1318,7 +1318,7 @@ const data: HuntMap = {
   'Oskh Rhei': {
     'id': '10646',
     'name': {
-      'cn': '欧斯克·雷伊',
+      'cn': '歐斯克·雷伊',
       'de': 'Oskh Rhei',
       'en': 'Oskh Rhei',
       'fr': 'Oskh Rhei',
@@ -1330,7 +1330,7 @@ const data: HuntMap = {
   'Ouzelum': {
     'id': '6009',
     'name': {
-      'cn': '奥祖鲁姆',
+      'cn': '奧祖魯姆',
       'de': 'Ouzelum',
       'en': 'Ouzelum',
       'fr': 'Ouzelum',
@@ -1342,7 +1342,7 @@ const data: HuntMap = {
   'Ovjang': {
     'id': '2924',
     'name': {
-      'cn': '奥弗杰恩',
+      'cn': '奧弗傑恩',
       'de': 'Ovjang',
       'en': 'Ovjang',
       'fr': 'Ovjang',
@@ -1354,7 +1354,7 @@ const data: HuntMap = {
   'Pachamama': {
     'id': '8894',
     'name': {
-      'cn': '帕查玛玛',
+      'cn': '帕查瑪瑪',
       'de': 'Pachamama',
       'en': 'Pachamama',
       'fr': 'Pachamama',
@@ -1366,7 +1366,7 @@ const data: HuntMap = {
   'Phecda': {
     'id': '2922',
     'name': {
-      'cn': '天玑巨熊',
+      'cn': '天璣巨熊',
       'de': 'Phecda',
       'en': 'Phecda',
       'fr': 'Phecda',
@@ -1378,7 +1378,7 @@ const data: HuntMap = {
   'Pterygotus': {
     'id': '4354',
     'name': {
-      'cn': '翼肢鲎',
+      'cn': '翼肢鱟',
       'de': 'Pterygotus',
       'en': 'Pterygotus',
       'fr': 'Pterygotus',
@@ -1390,7 +1390,7 @@ const data: HuntMap = {
   'Pylraster': {
     'id': '4364',
     'name': {
-      'cn': '派拉斯特暴龙',
+      'cn': '派拉斯特暴龍',
       'de': 'Xhauron',
       'en': 'Pylraster',
       'fr': 'Pirlasta',
@@ -1414,7 +1414,7 @@ const data: HuntMap = {
   'Rusalka': {
     'id': '8896',
     'name': {
-      'cn': '卢莎卡',
+      'cn': '盧莎卡',
       'de': 'Rusalka',
       'en': 'Rusalka',
       'fr': 'Roussalka',
@@ -1438,7 +1438,7 @@ const data: HuntMap = {
   'Safat': {
     'id': '2968',
     'name': {
-      'cn': '萨法特',
+      'cn': '薩法特',
       'de': 'Safat',
       'en': 'Safat',
       'fr': 'Safat',
@@ -1450,7 +1450,7 @@ const data: HuntMap = {
   'Salt and Light': {
     'id': '5989',
     'name': {
-      'cn': '盐和光',
+      'cn': '鹽和光',
       'de': 'Salzlicht',
       'en': 'Salt and Light',
       'fr': 'Salaclux',
@@ -1462,7 +1462,7 @@ const data: HuntMap = {
   'Sanu Vali of Dancing Wings': {
     'id': '4359',
     'name': {
-      'cn': '飞舞翼 萨努瓦力',
+      'cn': '飛舞翼 薩努瓦力',
       'de': [
         'Sanu Vali der Tanzende Schwinge',
         'Sanu Vali der Tanzender Schwinge',
@@ -1496,7 +1496,7 @@ const data: HuntMap = {
   'Senmurv': {
     'id': '4375',
     'name': {
-      'cn': '神穆尔鸟',
+      'cn': '神穆爾鳥',
       'de': 'Simurgh',
       'en': 'Senmurv',
       'fr': 'Sênmurw',
@@ -1508,7 +1508,7 @@ const data: HuntMap = {
   'Sewer Syrup': {
     'id': '2923',
     'name': {
-      'cn': '阴沟毒液',
+      'cn': '陰溝毒液',
       'de': 'Abwasser-Sirup',
       'en': 'Sewer Syrup',
       'fr': 'Syrop d\'égout',
@@ -1520,7 +1520,7 @@ const data: HuntMap = {
   'Shadow-dweller Yamini': {
     'id': '6008',
     'name': {
-      'cn': '影中暗 雅弥尼',
+      'cn': '影中暗 雅彌尼',
       'de': 'Schattenkauer-Yamini',
       'en': 'Shadow-dweller Yamini',
       'fr': 'Yamini la Nocturne',
@@ -1568,7 +1568,7 @@ const data: HuntMap = {
   'Slipkinx Steeljoints': {
     'id': '4366',
     'name': {
-      'cn': '机工兵 斯利普金克斯',
+      'cn': '機工兵 斯利普金克斯',
       'de': 'Rutschfix Stahlscharnier',
       'en': 'Slipkinx Steeljoints',
       'fr': 'Slipkinx Joints-d\'acier',
@@ -1604,7 +1604,7 @@ const data: HuntMap = {
   'Stinging Sophie': {
     'id': '2920',
     'name': {
-      'cn': '击刺魔蜂索菲',
+      'cn': '擊刺魔蜂索菲',
       'de': [
         'Stinkige Sophie',
         'Stinkiger Sophie',
@@ -1632,7 +1632,7 @@ const data: HuntMap = {
   'Storsie': {
     'id': '10623',
     'name': {
-      'cn': '斯图希',
+      'cn': '斯圖希',
       'de': 'Storsie',
       'en': 'Storsie',
       'fr': 'Storsie',
@@ -1644,7 +1644,7 @@ const data: HuntMap = {
   'Sugaar': {
     'id': '8902',
     'name': {
-      'cn': '休格尔',
+      'cn': '休格爾',
       'de': 'Sugaar',
       'en': 'Sugaar',
       'fr': 'Sugaar',
@@ -1656,7 +1656,7 @@ const data: HuntMap = {
   'Sugriva': {
     'id': '10626',
     'name': {
-      'cn': '须羯里婆',
+      'cn': '須羯裡婆',
       'de': 'Sugriva',
       'en': 'Sugriva',
       'fr': 'Sugriva',
@@ -1668,7 +1668,7 @@ const data: HuntMap = {
   'Sum': {
     'id': '6001',
     'name': {
-      'cn': '硕姆',
+      'cn': '碩姆',
       'de': 'Sum',
       'en': 'Sum',
       'fr': 'Sum',
@@ -1680,7 +1680,7 @@ const data: HuntMap = {
   'Supay': {
     'id': '8891',
     'name': {
-      'cn': '苏帕伊',
+      'cn': '蘇帕伊',
       'de': 'Supay',
       'en': 'Supay',
       'fr': 'Supay',
@@ -1692,7 +1692,7 @@ const data: HuntMap = {
   'Tarchia': {
     'id': '8900',
     'name': {
-      'cn': '多智兽',
+      'cn': '多智獸',
       'de': 'Tarchia',
       'en': 'Tarchia',
       'fr': 'Tarchia',
@@ -1716,7 +1716,7 @@ const data: HuntMap = {
   'Thousand-cast Theda': {
     'id': '2956',
     'name': {
-      'cn': '千竿口花希达',
+      'cn': '千竿口花希達',
       'de': 'Tausendzahn Theda',
       'en': 'Thousand-cast Theda',
       'fr': 'Theda la tripoteuse',
@@ -1728,7 +1728,7 @@ const data: HuntMap = {
   'Tyger': {
     'id': '8905',
     'name': {
-      'cn': '戾虫',
+      'cn': '戾蟲',
       'de': 'Tyger',
       'en': 'Tyger',
       'fr': 'Tygre',
@@ -1740,7 +1740,7 @@ const data: HuntMap = {
   'Udumbara': {
     'id': '5987',
     'name': {
-      'cn': '优昙婆罗花',
+      'cn': '優曇婆羅花',
       'de': 'Udumbara',
       'en': 'Udumbara',
       'fr': 'Udumbara',
@@ -1752,7 +1752,7 @@ const data: HuntMap = {
   'Unktehi': {
     'id': '2946',
     'name': {
-      'cn': '乌克提希',
+      'cn': '烏克提希',
       'de': 'Unktehi',
       'en': 'Unktehi',
       'fr': 'Unktehi',
@@ -1764,7 +1764,7 @@ const data: HuntMap = {
   'Vajrakumara': {
     'id': '10637',
     'name': {
-      'cn': '金刚鸠摩罗',
+      'cn': '金剛鳩摩羅',
       'de': 'Vajrakumara',
       'en': 'Vajrakumara',
       'fr': 'vajrakumara',
@@ -1788,7 +1788,7 @@ const data: HuntMap = {
   'Vogaal Ja': {
     'id': '2945',
     'name': {
-      'cn': '丑男子 沃迦加',
+      'cn': '醜男子 沃迦加',
       'de': 'Vogaal Ja',
       'en': 'Vogaal Ja',
       'fr': 'Vogaal Ja',
@@ -1812,7 +1812,7 @@ const data: HuntMap = {
   'Vuokho': {
     'id': '2933',
     'name': {
-      'cn': '巫刻猎鹫',
+      'cn': '巫刻獵鷲',
       'de': 'Vuokho',
       'en': 'Vuokho',
       'fr': 'Vuokho',
@@ -1840,7 +1840,7 @@ const data: HuntMap = {
   'Worm of the Well': {
     'id': '8903',
     'name': {
-      'cn': '大井巨虫',
+      'cn': '大井巨蟲',
       'de': 'Wurm des Brunnens',
       'en': 'Worm of the Well',
       'fr': 'Verpuy',
@@ -1852,7 +1852,7 @@ const data: HuntMap = {
   'Wulgaru': {
     'id': '2954',
     'name': {
-      'cn': '乌尔伽鲁',
+      'cn': '烏爾伽魯',
       'de': 'Wulgaru',
       'en': 'Wulgaru',
       'fr': 'Wulgaru',
@@ -1864,7 +1864,7 @@ const data: HuntMap = {
   'Yilan': {
     'id': '10625',
     'name': {
-      'cn': '尤兰',
+      'cn': '尤蘭',
       'de': 'Yilan',
       'en': 'Yilan',
       'fr': 'yilan',
@@ -1900,7 +1900,7 @@ const data: HuntMap = {
   'Zona Seeker': {
     'id': '2957',
     'name': {
-      'cn': '虚无探索者',
+      'cn': '虛無探索者',
       'de': 'Zona Sucher',
       'en': 'Zona Seeker',
       'fr': 'Zona Seeker',
@@ -1936,7 +1936,7 @@ const data: HuntMap = {
   'forgiven gossip': {
     'id': '8916',
     'name': {
-      'cn': '得到宽恕的流言',
+      'cn': '得到寬恕的流言',
       'de': [
         'geläuterte Lästerei',
         'geläuterter Lästerei',
@@ -1952,7 +1952,7 @@ const data: HuntMap = {
   'forgiven pedantry': {
     'id': '8910',
     'name': {
-      'cn': '得到宽恕的炫学',
+      'cn': '得到寬恕的炫學',
       'de': [
         'geläuterte Pedanterie',
         'geläuterter Pedanterie',
@@ -1968,7 +1968,7 @@ const data: HuntMap = {
   'forgiven rebellion': {
     'id': '8915',
     'name': {
-      'cn': '得到宽恕的叛乱',
+      'cn': '得到寬恕的叛亂',
       'de': [
         'geläuterte Rebellion',
         'geläuterter Rebellion',
@@ -1996,7 +1996,7 @@ const data: HuntMap = {
   'green Archon': {
     'id': '10635',
     'name': {
-      'cn': '草贤人',
+      'cn': '草賢人',
       'de': [
         'grüne Exeget',
         'grüner Exeget',
@@ -2024,7 +2024,7 @@ const data: HuntMap = {
   'kaiser behemoth': {
     'id': '4374',
     'name': {
-      'cn': '凯撒贝希摩斯',
+      'cn': '凱撒貝希摩斯',
       'de': 'Kaiser-Behemoth',
       'en': 'kaiser behemoth',
       'fr': 'béhémoth empereur',
@@ -2036,7 +2036,7 @@ const data: HuntMap = {
   'level cheater': {
     'id': '10645',
     'name': {
-      'cn': '等级作弊仪',
+      'cn': '等級作弊儀',
       'de': 'Stufenschummler',
       'en': 'level cheater',
       'fr': 'tricheniveau',
@@ -2060,7 +2060,7 @@ const data: HuntMap = {
   'mindflayer': {
     'id': '2955',
     'name': {
-      'cn': '夺心魔',
+      'cn': '奪心魔',
       'de': 'Seelenbrenner',
       'en': 'mindflayer',
       'fr': 'flagelleur mental',
@@ -2084,7 +2084,7 @@ const data: HuntMap = {
   'petalodus': {
     'id': '10632',
     'name': {
-      'cn': '瓣齿鲨',
+      'cn': '瓣齒鯊',
       'de': 'Petalodus',
       'en': 'petalodus',
       'fr': 'petalodus',
@@ -2096,7 +2096,7 @@ const data: HuntMap = {
   'stench blossom': {
     'id': '4373',
     'name': {
-      'cn': '恶臭狂花',
+      'cn': '惡臭狂花',
       'de': 'Pestwurz',
       'en': 'stench blossom',
       'fr': 'fleur nauséabonde',
@@ -2120,7 +2120,7 @@ const data: HuntMap = {
   'the Pale Rider': {
     'id': '4376',
     'name': {
-      'cn': '苍白骑士',
+      'cn': '蒼白騎士',
       'de': [
         'Bleiche Reiter',
         'Bleicher Reiter',
@@ -2136,7 +2136,7 @@ const data: HuntMap = {
   'the Scarecrow': {
     'id': '4357',
     'name': {
-      'cn': '惊慌稻草龙',
+      'cn': '驚慌稻草龍',
       'de': 'Tyranno',
       'en': 'the Scarecrow',
       'fr': 'dracosaure primus',
@@ -2160,7 +2160,7 @@ const data: HuntMap = {
   'warmonger': {
     'id': '10639',
     'name': {
-      'cn': '战争贩子',
+      'cn': '戰爭販子',
       'de': 'Kriegstreiber',
       'en': 'warmonger',
       'fr': 'Belliciste',
