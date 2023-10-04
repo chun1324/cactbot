@@ -204,7 +204,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
           de: `${matches.ability} (von ${ownerNick}, #${number})`,
           fr: `${matches.ability} (de ${ownerNick}, #${number})`,
           ja: `${matches.ability} (${ownerNick}から、#${number})`,
-          cn: `${matches.ability} (来自${ownerNick}，#${number})`,
+          cn: `${matches.ability} (來自${ownerNick}，#${number})`,
           ko: `${matches.ability} (대상자 "${ownerNick}", ${number}번)`,
         };
         if (isStatuePositionKnown && isStatueNorth) {
@@ -213,7 +213,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: `${matches.ability} (von ${ownerNick}, #${number} norden)`,
             fr: `${matches.ability} (de ${ownerNick}, #${number} nord)`,
             ja: `${matches.ability} (北の${ownerNick}から、#${number})`,
-            cn: `${matches.ability} (来自北方${ownerNick}，#${number})`,
+            cn: `${matches.ability} (來自北方${ownerNick}，#${number})`,
             ko: `${matches.ability} (대상자 "${ownerNick}", ${number}번 북쪽)`,
           };
         } else if (isStatuePositionKnown && !isStatueNorth) {
@@ -222,7 +222,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: `${matches.ability} (von ${ownerNick}, #${number} Süden)`,
             fr: `${matches.ability} (de ${ownerNick}, #${number} sud)`,
             ja: `${matches.ability} (南の${ownerNick}から、#${number})`,
-            cn: `${matches.ability} (来自南方${ownerNick}，#${number})`,
+            cn: `${matches.ability} (來自南方${ownerNick}，#${number})`,
             ko: `${matches.ability} (대상자 "${ownerNick}", ${number}번 남쪽)`,
           };
         }
@@ -265,7 +265,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: `${matches.ability} (von ${pillarOwner})`,
             fr: `${matches.ability} (de ${pillarOwner})`,
             ja: `${matches.ability} (${pillarOwner}から)`,
-            cn: `${matches.ability} (来自${pillarOwner})`,
+            cn: `${matches.ability} (來自${pillarOwner})`,
             ko: `${matches.ability} (대상자 "${pillarOwner}")`,
           },
         };
@@ -297,7 +297,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
       netRegexDe: NetRegexes.tether({ source: 'Abbild Eines Löwen', id: '0011' }),
       netRegexFr: NetRegexes.tether({ source: 'Création Léonine', id: '0011' }),
       netRegexJa: NetRegexes.tether({ source: '創られた獅子', id: '0011' }),
-      netRegexCn: NetRegexes.tether({ source: '被创造的狮子', id: '0011' }),
+      netRegexCn: NetRegexes.tether({ source: '被創造的獅子', id: '0011' }),
       run: (data, matches) => {
         data.smallLionIdToOwner ??= {};
         data.smallLionIdToOwner[matches.sourceId.toUpperCase()] = matches.target;
@@ -312,7 +312,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
       netRegexDe: NetRegexes.abilityFull({ source: 'Abbild Eines Löwen', id: '58B9' }),
       netRegexFr: NetRegexes.abilityFull({ source: 'Création Léonine', id: '58B9' }),
       netRegexJa: NetRegexes.abilityFull({ source: '創られた獅子', id: '58B9' }),
-      netRegexCn: NetRegexes.abilityFull({ source: '被创造的狮子', id: '58B9' }),
+      netRegexCn: NetRegexes.abilityFull({ source: '被創造的獅子', id: '58B9' }),
       mistake: (data, matches) => {
         // Folks baiting the big lion second can take the first small lion hit,
         // so it's not sufficient to check only the owner.
@@ -358,7 +358,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
               de: `${matches.ability} (von ${ownerNick}, ${dirObj['de']})`,
               fr: `${matches.ability} (de ${ownerNick}, ${dirObj['fr']})`,
               ja: `${matches.ability} (${ownerNick}から, ${dirObj['ja']})`,
-              cn: `${matches.ability} (来自${ownerNick}, ${dirObj['cn']}`,
+              cn: `${matches.ability} (來自${ownerNick}, ${dirObj['cn']}`,
               ko: `${matches.ability} (대상자 "${ownerNick}", ${dirObj['ko']})`,
             },
           };
@@ -383,7 +383,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
       netRegexDe: NetRegexes.ability({ source: 'Abbild eines großen Löwen', id: '4F9E' }),
       netRegexFr: NetRegexes.ability({ source: 'création léonine royale', id: '4F9E' }),
       netRegexJa: NetRegexes.ability({ source: '創られた獅子王', id: '4F9E' }),
-      netRegexCn: NetRegexes.ability({ source: '被创造的狮子王', id: '4F9E' }),
+      netRegexCn: NetRegexes.ability({ source: '被創造的獅子王', id: '4F9E' }),
       mistake: (data, matches) => {
         const singleTarget = matches.type === '21';
         const hasFireDebuff = data.fire && data.fire[matches.target];
@@ -397,7 +397,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
           de: 'Nordem, großer Löwe',
           fr: 'Grand lion du nord',
           ja: '大ライオン(北)',
-          cn: '北方大狮子',
+          cn: '北方大獅子',
           ko: '북쪽 큰 사자',
         };
         const southBigLion: LocaleText = {
@@ -405,7 +405,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
           de: 'Süden, großer Löwe',
           fr: 'Grand lion du sud',
           ja: '大ライオン(南)',
-          cn: '南方大狮子',
+          cn: '南方大獅子',
           ko: '남쪽 큰 사자',
         };
         const shared: LocaleText = {
@@ -413,7 +413,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
           de: 'geteilt',
           fr: 'Partagé(e)',
           ja: '重ねた',
-          cn: '重叠',
+          cn: '重疊',
           ko: '같이 맞음',
         };
         const fireDebuff: LocaleText = {
@@ -464,7 +464,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Runtergefallen',
             fr: 'Renversé(e)',
             ja: 'ノックバック',
-            cn: '击退坠落',
+            cn: '擊退墜落',
             ko: '넉백',
           },
         };

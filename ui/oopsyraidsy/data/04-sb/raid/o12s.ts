@@ -62,7 +62,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Runtergefallen',
             fr: 'Renversé(e)',
             ja: 'ノックバック',
-            cn: '击退坠落',
+            cn: '擊退墜落',
             ko: '넉백',
           },
         };
@@ -104,7 +104,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: `${matches.ability} (mit Verwundbarkeit)`,
             fr: `${matches.ability} (avec Vulnérabilité)`,
             ja: `${matches.ability} (被ダメージ上昇)`,
-            cn: `${matches.ability} (带易伤)`,
+            cn: `${matches.ability} (帶易傷)`,
             ko: `${matches.ability} (받피증 상태에서 피격)`,
           },
         };

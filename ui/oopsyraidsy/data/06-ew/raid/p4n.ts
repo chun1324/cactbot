@@ -59,7 +59,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             en: 'Healer Tower',
             de: 'Heiler-Turm',
             fr: 'Tour Healer',
-            cn: '治疗塔',
+            cn: '治療塔',
             ko: '힐러 장판',
           },
         };
@@ -119,7 +119,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             en: 'Healer Orb',
             de: 'Heiler-Orb',
             fr: 'Orbe Healer',
-            cn: '治疗球',
+            cn: '治療球',
             ko: '힐러 구슬',
           },
         };
@@ -163,7 +163,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Rückstoß in die Wand',
             fr: 'Poussé(e) dans le mur',
             ja: '壁へノックバック',
-            cn: '击退至墙',
+            cn: '擊退至牆',
             ko: '벽으로 넉백',
           },
         };

@@ -41,7 +41,7 @@ const exVersionToName = {
     de: 'Heavensward (HW 3.x)',
     fr: 'Heavensward (HW 3.x)',
     ja: '蒼天のイシュガルド (3.x)',
-    cn: '苍穹之禁城 (3.x)',
+    cn: '蒼穹之禁城 (3.x)',
     ko: '창천의 이슈가르드 (3.x)',
   },
   '2': {
@@ -49,7 +49,7 @@ const exVersionToName = {
     de: 'Stormblood (SB 4.x)',
     fr: 'Stormblood (SB 4.x)',
     ja: '紅蓮のリベレーター (4.x)',
-    cn: '红莲之狂潮 (4.x)',
+    cn: '紅蓮之狂潮 (4.x)',
     ko: '홍련의 해방자 (4.x)',
   },
   '3': {
@@ -65,7 +65,7 @@ const exVersionToName = {
     de: 'Endwalker (EW 6.x)',
     fr: 'Endwalker (EW 6.x)',
     ja: '暁月のフィナーレ (6.x)',
-    cn: '晓月之终途 (6.x)',
+    cn: '曉月之終途 (6.x)',
     ko: '효월의 종언 (6.x)',
   },
 } as const;
@@ -119,7 +119,7 @@ const contentTypeToLabel: { [contentType: number]: LocaleText } = {
     de: 'Raid',
     fr: 'Raid',
     ja: 'レイド',
-    cn: '大型任务',
+    cn: '大型任務',
     ko: '레이드',
   },
   [ContentType.Trials]: {
@@ -127,7 +127,7 @@ const contentTypeToLabel: { [contentType: number]: LocaleText } = {
     de: 'Prfng',
     fr: 'Défi',
     ja: '討伐戦',
-    cn: '讨伐战',
+    cn: '討伐戰',
     ko: '토벌전',
   },
   [ContentType.UltimateRaids]: {
@@ -135,7 +135,7 @@ const contentTypeToLabel: { [contentType: number]: LocaleText } = {
     de: 'Ult',
     fr: 'Fatal',
     ja: '絶',
-    cn: '绝境战',
+    cn: '絕境戰',
     ko: '절',
   },
   [ContentType.Dungeons]: {
@@ -143,7 +143,7 @@ const contentTypeToLabel: { [contentType: number]: LocaleText } = {
     de: 'Dgn',
     fr: 'Djn',
     ja: 'ID',
-    cn: '迷宫挑战',
+    cn: '迷宮挑戰',
     ko: '던전',
   },
   [ContentType.Guildhests]: {
@@ -151,14 +151,14 @@ const contentTypeToLabel: { [contentType: number]: LocaleText } = {
     de: 'Gldgh',
     fr: 'Op. Guilde',
     ja: 'ギルド',
-    cn: '行会令',
+    cn: '行會令',
     ko: '길드작전',
   },
   [ContentType.VCDungeonFinder]: {
     en: 'V&C',
     de: 'Gewölbesuche',
     fr: 'Donjon V&C',
-    cn: '多变&异闻迷宫',
+    cn: '多變&異聞迷宮',
     ko: '변형&파생던전',
   },
 } as const;
@@ -178,7 +178,7 @@ const zoneGridHeaders = {
     de: 'Ex',
     fr: 'Ext',
     ja: 'パッチ',
-    cn: '资料片',
+    cn: '資料片',
     ko: '확장팩',
   },
   type: {
@@ -186,7 +186,7 @@ const zoneGridHeaders = {
     de: 'Art',
     fr: 'Type',
     ja: 'タイプ',
-    cn: '类型',
+    cn: '類型',
     ko: '분류',
   },
   name: {
@@ -194,7 +194,7 @@ const zoneGridHeaders = {
     de: 'Name',
     fr: 'Nom',
     ja: '名前',
-    cn: '名称',
+    cn: '名稱',
     ko: '이름',
   },
   triggers: {
@@ -202,7 +202,7 @@ const zoneGridHeaders = {
     de: 'Triggers',
     fr: 'Triggers',
     ja: 'トリガー',
-    cn: '触发器',
+    cn: '觸發器',
     ko: '트리거',
   },
   timeline: {
@@ -210,7 +210,7 @@ const zoneGridHeaders = {
     de: 'Timeline',
     fr: 'Timeline',
     ja: 'タイムライン',
-    cn: '时间轴',
+    cn: '時間軸',
     ko: '타임라인',
   },
   oopsy: {
@@ -218,14 +218,14 @@ const zoneGridHeaders = {
     de: 'Oopsy',
     fr: 'Oopsy',
     ja: 'Oopsy',
-    cn: '犯错监控',
+    cn: '犯錯監控',
     ko: 'Oopsy',
   },
   translated: {
     en: 'Translated',
     de: 'Übersetzt',
     fr: 'Traduit',
-    cn: '已翻译',
+    cn: '已翻譯',
     ko: '번역됨',
   },
 } as const;
@@ -237,7 +237,7 @@ const miscStrings = {
     de: 'Cactbot Inhaltsabdeckung',
     fr: 'Contenus présents dans Cactbot',
     ja: 'Cactbot コンテンツ完成度',
-    cn: 'Cactbot 内容覆盖率',
+    cn: 'Cactbot 內容覆蓋率',
     ko: 'Cactbot 컨텐츠 커버리지',
   },
   // Overall label for the expansion table.
@@ -246,7 +246,7 @@ const miscStrings = {
     de: 'Insgesamt',
     fr: 'Total',
     ja: '概要',
-    cn: '总览',
+    cn: '總覽',
     ko: '전체',
   },
   // Oopsy label for the expansion table.
@@ -264,7 +264,7 @@ const miscStrings = {
     ja:
       'このリストは開発中機能や最新リリースバージョンに公開されていないコンテンツを含まれています。リストに含まれているコンテンツは次バージョンに公開される予定があります。また、OverlayPluginのURL欄に<a href="https://github.com/quisquous/cactbot/blob/main/CONTRIBUTING.md#validating-changes-via-remote-urls">「quisquous.github.io」のページのURL</a>を入力している場合はこのリストに含まれているコンテンツと一致し、すべてのコンテンツを使えるようになります。',
     cn:
-      '该列表中可能存在正在开发中的功能及未发布在cactbot最新发行版中的更新内容。该列表中显示的更新将会在下一个版本的cactbot发行版中发布。若您在OverlayPlugin中使用的是<a href="https://github.com/quisquous/cactbot/blob/main/CONTRIBUTING.md#validating-changes-via-remote-urls">「quisquous.github.io」开头的URL</a>，则更新进度与该列表一致，即该列表中的所有内容均可用。',
+      '該列表中可能存在正在開發中的功能及未發布在cactbot最新發行版中的更新內容。該列表中顯示的更新將會在下一個版本的cactbot發行版中發布。若您在OverlayPlugin中使用的是<a href="https://github.com/quisquous/cactbot/blob/main/CONTRIBUTING.md#validating-changes-via-remote-urls">「quisquous.github.io」開頭的URL</a>，則更新進度與該列表一致，即該列表中的所有內容均可用。',
     ko:
       '이 목록에는 아직 개발 중인 컨텐츠가 포함되어 있을 수 있고 최신 cactbot 릴리즈에 포함되어 있지 않을 수 있습니다. 여기에 나열된 컨텐츠 목록은 최소한 다음 릴리즈에는 포함되게 됩니다. 만약 <a href="https://github.com/quisquous/cactbot/blob/main/CONTRIBUTING.md#validating-changes-via-remote-urls">quisquous.github.io 버전</a>을 오버레이 url로 연결해서 사용하고 계시다면, 이 목록이 오버레이의 컨텐츠 커버리지와 일치합니다.',
   },
@@ -274,7 +274,7 @@ const miscStrings = {
     de: 'Error: Führe npm run coverage-report aus um die Daten zu generieren.',
     fr: 'Erreur : Lancez npm run coverage-report pour générer des données.',
     ja: 'エラー：npm run coverage-report を実行し、データを生成しよう。',
-    cn: '错误：请先运行 npm run coverage-report 以生成数据。',
+    cn: '錯誤：請先運行 npm run coverage-report 以生成數據。',
     ko: '에러: 데이터를 생성하려면 node npm run coverage-report를 실행하세요.',
   },
 } as const;
@@ -284,21 +284,21 @@ const translationGridHeaders = {
     en: 'Translations',
     de: 'Übersetzungen',
     fr: 'Traductions',
-    cn: '翻译',
+    cn: '翻譯',
     ko: '번역',
   },
   coverage: {
     en: 'Coverage',
     de: 'Abdeckung',
     fr: 'Couvert',
-    cn: '覆盖率',
+    cn: '覆蓋率',
     ko: '커버리지',
   },
   errors: {
     en: 'Errors',
     de: 'Fehler',
     fr: 'Erreurs',
-    cn: '错误',
+    cn: '錯誤',
     ko: '오류',
   },
   missingFiles: {
@@ -310,7 +310,7 @@ const translationGridHeaders = {
     en: 'Link to Missing Translation List',
     de: 'Link zur Liste mit den fehlenden Übersetzungen',
     fr: 'Lien vers la liste des traductions manquantes',
-    cn: '缺失翻译表链接',
+    cn: '缺失翻譯錶鏈接',
     ko: '번역 누락 리스트 링크',
   },
 } as const;

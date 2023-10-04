@@ -45,7 +45,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Orthos Sawtooth': '正统锯齿花',
+        'Orthos Sawtooth': '正統鋸齒花',
       },
     },
     {
