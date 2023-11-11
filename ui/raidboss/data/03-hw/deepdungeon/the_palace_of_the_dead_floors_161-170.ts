@@ -52,7 +52,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Deep Palace Diplocaulus': '深宫笠头螈',
+        'Deep Palace Diplocaulus': '深宮笠頭螈',
       },
     },
     {

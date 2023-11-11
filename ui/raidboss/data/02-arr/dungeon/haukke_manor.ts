@@ -64,7 +64,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Schalte die Lampen aus',
           fr: 'Éteignez les lampes',
           ja: '消灯する',
-          cn: '关灯',
+          cn: '關燈',
           ko: '등불 끄기',
         },
       },
@@ -92,7 +92,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Wachposten besiegen',
           fr: 'Tuez la sentinelle',
           ja: '守衛を倒す',
-          cn: '击杀守卫',
+          cn: '擊殺守衛',
           ko: '경비원 죽이기',
         },
       },
@@ -134,11 +134,11 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Manor Maidservant': '庄园的女仆',
-        'Manor Claviger': '随从女工',
+        'Manor Maidservant': '莊園的女僕',
+        'Manor Claviger': '隨從女工',
         'Lady Amandine': '阿芒迪娜女士',
-        'Manor Steward': '庄园的总管',
-        'The void lamps have begun emitting an eerie glow': '怪异的灯开始发出令人不安的光芒',
+        'Manor Steward': '莊園的總管',
+        'The void lamps have begun emitting an eerie glow': '怪異的燈開始發出令人不安的光芒',
       },
     },
     {

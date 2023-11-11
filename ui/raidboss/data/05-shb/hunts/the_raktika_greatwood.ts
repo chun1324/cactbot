@@ -96,7 +96,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Heal to Full',
           de: 'Voll heilen',
-          cn: '奶满全员',
+          cn: '奶滿全員',
           ko: '체력 풀피로',
         },
       },
@@ -170,7 +170,7 @@ const triggerSet: TriggerSet<Data> = {
       'replaceSync': {
         'Grassman': '格拉斯曼',
         'Ixtab': '伊休妲',
-        'Supay': '苏帕伊',
+        'Supay': '蘇帕伊',
       },
     },
     {

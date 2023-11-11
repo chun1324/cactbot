@@ -39,7 +39,7 @@ const triggerSet: TriggerSet<Data> = {
           avoidStack: {
             en: 'Avoid Stack',
             de: 'Vermeide Sammeln',
-            cn: '远离分摊',
+            cn: '遠離集合',
             ko: '쉐어징 피하기',
           },
         };
@@ -77,7 +77,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geh raus mit dem Marker',
           fr: 'Partez avec le marquage',
           ja: 'ボスから離れる',
-          cn: '快躲开标记',
+          cn: '快躲開標記',
           ko: '나에게 징 멀리 빠지기',
         },
       },
@@ -92,7 +92,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Away from Dash',
           de: 'Weg vom Anstrum',
-          cn: '躲避冲锋',
+          cn: '躲避衝鋒',
           ko: '돌진한 곳 피하기',
         },
       },
@@ -107,7 +107,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Go Back/Right',
           de: 'Geh nach Hinten/Rechts',
-          cn: '去背后/右侧',
+          cn: '去背後/右側',
           ko: '뒤/오른쪽으로',
         },
       },
@@ -129,7 +129,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Go Back/Left',
           de: 'Geh nach Hinten/Links',
-          cn: '去背后/左侧',
+          cn: '去背後/左側',
           ko: '뒤/왼쪽으로',
         },
       },
@@ -187,9 +187,9 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Nariphon': '纳里蓬',
-        'Nuckelavee': '纳克拉维',
-        'Tyger': '戾虫',
+        'Nariphon': '納里蓬',
+        'Nuckelavee': '納克拉維',
+        'Tyger': '戾蟲',
       },
     },
     {
