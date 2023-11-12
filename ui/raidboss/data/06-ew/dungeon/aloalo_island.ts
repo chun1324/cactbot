@@ -162,7 +162,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Schau von den Ringen weg',
           fr: 'Ne regardez pas l\'anneau',
           ja: '輪から視線回避',
-          cn: '视线避开圆环',
+          cn: '視線避開圓環',
           ko: '고리 모양 눈 시선 피하기',
         },
       },
@@ -250,7 +250,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Weiche den verfolgenden AoEs aus',
           fr: 'Évitez les AoEs',
           ja: 'ついてくるAOE回避',
-          cn: '躲避追踪AOE',
+          cn: '躲避追蹤AOE',
           ko: '따라오는 장판 피하기',
         },
       },
@@ -388,7 +388,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Zeige Öffnung zum Boss',
           fr: 'Pointez l\'ouverture vers Boss', // FIXME
           ja: '未解析の方角をボスに向ける',
-          cn: '脚下光环缺口对准boss',
+          cn: '腳下光環缺口對準boss',
           ko: '문양이 빈 쪽을 보스쪽으로 향하게 하기', // FIXME
         },
       },
@@ -478,7 +478,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung',
           fr: 'Piratage mental', // FIXME
           ja: '強制移動',
-          cn: '强制移动', // FIXME
+          cn: '強制移動', // FIXME
           ko: '강제이동', // FIXME
         },
         front: {
@@ -486,7 +486,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Vorwärts',
           fr: 'Piratage mental : Vers l\'avant',
           ja: '強制移動 : 前',
-          cn: '强制移动 : 前',
+          cn: '強制移動 : 前',
           ko: '강제이동: 앞',
         },
         back: {
@@ -494,7 +494,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Rückwärts',
           fr: 'Piratage mental : Vers l\'arrière',
           ja: '強制移動 : 後ろ',
-          cn: '强制移动 : 后',
+          cn: '強制移動 : 後',
           ko: '강제이동: 뒤',
         },
         left: {
@@ -502,7 +502,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Links',
           fr: 'Piratage mental : Vers la gauche',
           ja: '強制移動 : 左',
-          cn: '强制移动 : 左',
+          cn: '強制移動 : 左',
           ko: '강제이동: 왼쪽',
         },
         right: {
@@ -510,7 +510,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Rechts',
           fr: 'Piratage mental : Vers la droite',
           ja: '強制移動 : 右',
-          cn: '强制移动 : 右',
+          cn: '強制移動 : 右',
           ko: '강제이동: 오른쪽',
         },
       },

@@ -279,7 +279,7 @@ const templateOptions: OptionsTemplate = {
       id: 'DefaultPlayerLabel',
       name: {
         en: 'Default Player Label',
-        cn: '默认玩家代称',
+        cn: '默認玩家代稱',
         ko: '플레이어를 언급하는 기본 방법',
       },
       type: 'select',
@@ -406,7 +406,7 @@ const templateOptions: OptionsTemplate = {
       name: {
         en: 'Minimum time to show overwritten mit (seconds)',
         de: 'Minimum Zeit überschriebene Mitigation anzuzeigen (Sekunden)',
-        cn: '显示被顶减伤最小时间 (秒)',
+        cn: '顯示被頂減傷最小時間 (秒)',
         ko: '파티 생존기 덮어씀 경고를 표시할 기준 시간 (초)',
       },
       type: 'float',

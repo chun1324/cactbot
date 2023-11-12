@@ -199,7 +199,7 @@ const kDetailKeys = {
       // people who know what they're doing.
       en: 'DEBUG delay adjust (sec)',
       de: 'DEBUG Verzögerungseinstellung (sec)',
-      cn: 'DEBUG 延时调整 (秒)',
+      cn: 'DEBUG 延時調整 (秒)',
       ko: '"디버그" 딜레이 조절 (초)',
     },
     cls: 'delay-adjust-text',
@@ -1851,7 +1851,7 @@ const defaultTriggerSetAlertOutput = {
   name: {
     en: 'Default trigger set alert output',
     de: 'Standard trigger-Set Alert Ausgabe',
-    cn: '默认触发器集合提示输出模式',
+    cn: '默認觸發器集合提示輸出模式',
     ko: '기본 트리거 세트 알람 출력 방식',
   },
 } as const;
@@ -2140,7 +2140,7 @@ const templateOptions: OptionsTemplate = {
         en: 'Reverse timeline order (bottom-to-top)',
         de: 'Umgekehrte Timeline Reihenfolge (unten-nach-oben)',
         fr: 'Timeline inversée (de bas en haut)',
-        cn: '反转时间轴顺序 (从下到上)',
+        cn: '反轉時間軸順序 (從下到上)',
         ko: '타임라인 순서 반전 (아래에서 위)',
       },
       type: 'checkbox',
@@ -2153,7 +2153,7 @@ const templateOptions: OptionsTemplate = {
              nicknames/first names. This can be used to print out player jobs instead.
              If you are not in a party or players are out of a party (or there are bugs),
              it will default to the player's nickname if there's no other information.`,
-        cn: `在触发器输出中指定玩家的默认方式。默认选项为输出昵称/名字。
+        cn: `在觸發器輸出中指定玩家的默認方式。默認選項為輸出暱稱/名字。
              使用此选项可将输出方式更改为玩家的职能名或职业名。
              若你不在小队中或玩家离开小队 (或出现错误时), 将默认输出玩家昵称。
              (注：国服对于昵称和全名不做区分)`,
@@ -2165,7 +2165,7 @@ const templateOptions: OptionsTemplate = {
       },
       name: {
         en: 'Default Player Label',
-        cn: '默认玩家代称',
+        cn: '默認玩家代稱',
         ko: '플레이어를 언급하는 기본 방법',
       },
       type: 'select',

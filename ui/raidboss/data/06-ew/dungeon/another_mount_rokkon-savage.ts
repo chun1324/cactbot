@@ -1227,7 +1227,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Um den Boss verteilen',
           fr: 'Changement',
           ja: 'ボスを基準として散開',
-          cn: '和队友分散路径',
+          cn: '和隊友散開路徑',
           ko: '산개',
         },
       },

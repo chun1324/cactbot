@@ -107,7 +107,7 @@ export default {
     de: 'Tank Cleaves auf DIR',
     fr: 'Tank cleaves sur VOUS',
     ja: 'MT・ST同時範囲攻撃(自分対象)',
-    cn: '坦克顺劈点名',
+    cn: '坦克順劈點名',
     ko: '광역 탱버 대상자',
   },
   avoidTankCleave: {
@@ -505,7 +505,7 @@ export default {
     de: 'Im Uhrzeigersinn',
     fr: 'Sens horaire',
     ja: '時針回り',
-    cn: '顺时针',
+    cn: '順時針',
     ko: '시계방향',
   },
   counterclockwise: {
@@ -513,7 +513,7 @@ export default {
     de: 'Gegen den Uhrzeigersinn',
     fr: 'Anti-horaire',
     ja: '反時針回り',
-    cn: '逆时针',
+    cn: '逆時針',
     ko: '반시계방향',
   },
   // killAdds is used for adds that will always be available

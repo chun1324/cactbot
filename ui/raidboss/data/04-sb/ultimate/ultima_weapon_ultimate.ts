@@ -81,7 +81,7 @@ const gaolConfig = (id: GaolKey): NamedConfigEntry<GaolKey> => {
     name: {
       en: `Titan Gaol Order ${numStr}`,
       de: `Titan Gefängnis Reihenfolge ${numStr}`,
-      cn: `泰坦石牢顺序 ${numStr}`,
+      cn: `泰坦石牢順序 ${numStr}`,
       ko: `돌감옥 순서 ${numStr}`,
     },
     type: 'string',
@@ -188,7 +188,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Eruption Baits',
           de: 'Köder Eruption',
-          cn: '诱导地火',
+          cn: '誘導地火',
           ko: '용암 분출 유도',
         },
       },
@@ -406,7 +406,7 @@ const triggerSet: TriggerSet<Data> = {
           'Where the two sisters are for the tanks to block. dir1 is always the first sister location starting North and going clockwise',
         de:
           'Wo sich die beiden Schwestern befinden, die die Tanks blockieren sollen. dir1 ist immer die erste Schwester, die im Norden beginnt und im Uhrzeigersinn verläuft.',
-        cn: '两分身待坦克阻挡的位置。dir1 始终是从上 (北) 开始顺时针方向的第一个分身位置',
+        cn: '兩分身待坦克阻擋的位置。dir1 始終是從上 (北) 開始順時針方向的第一個分身位置',
         ko: '탱커가 막을 두 분신의 위치. dir1은 북쪽에서 시계방향으로 도는 것을 기준으로 항상 첫 번째 분신의 위치입니다',
       },
       type: 'StartsUsing',
@@ -484,28 +484,28 @@ const triggerSet: TriggerSet<Data> = {
           garuda2: {
             en: 'Get Sister Tether!!!',
             de: 'Nimm Verbindung von der Schwester!!!',
-            cn: '接分身的线!!!',
+            cn: '接分身的線!!!',
             ko: '분신 줄 가져가기!!!',
           },
           // Other people with 1 stack can be informed about it.
           garuda1: {
             en: 'Sister Tethers',
             de: 'Schwester Verbindungen',
-            cn: '分身连线',
+            cn: '分身連線',
             ko: '분신 줄',
           },
           // Usually static on a ranged.
           annihilation1: {
             en: 'Tether',
             de: 'Verbindungen',
-            cn: '连线',
+            cn: '連線',
             ko: '줄',
           },
           // Late in the raid, so make sure anybody with a stack remembers this.
           suppression1: {
             en: 'Tether!!!',
             de: 'Verbindungen!!!',
-            cn: '连线!!!',
+            cn: '連線!!!',
             ko: '줄!!!',
           },
         };
@@ -800,7 +800,7 @@ const triggerSet: TriggerSet<Data> = {
         fetters: {
           en: 'Fetters (w/${player})',
           de: 'Fesseln (mit ${player})',
-          cn: '锁链 (与 /${player})',
+          cn: '鎖鏈 (與 /${player})',
           ko: '사슬 (+${player})',
         },
       },
@@ -899,7 +899,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Adjust 45° ${rotation}',
           de: 'Rotiere 45° ${rotation}',
-          cn: '${rotation} 旋转 45°',
+          cn: '${rotation} 旋轉 45°',
           ko: '${rotation} 45° 이동',
         },
         clockwise: Outputs.clockwise,
@@ -1244,7 +1244,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Healer LB NOW!',
           de: 'Heiler LB JETZT!',
-          cn: '奶妈LB!',
+          cn: '奶媽LB!',
           ko: '힐러 리밋!',
         },
       },
@@ -1260,7 +1260,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Melee LB NOW!',
           de: 'Nahkämpfer LB JETZT!',
-          cn: '近战LB!',
+          cn: '近戰LB!',
           ko: '근딜 리밋!',
         },
       },
@@ -1289,7 +1289,7 @@ const triggerSet: TriggerSet<Data> = {
         en: '"early safe" here means that you can move before the first Ifrit dash.',
         de:
           '"früh sicher" bedeutet hier, dass man such auch schon for dem ersten Ifrit Dash bewegen kann.',
-        cn: '这里的 "提前安全" 指你可以在伊弗利特第一次冲锋前移动。',
+        cn: '這裡的 "提前安全" 指你可以在伊弗利特第一次衝鋒前移動。',
         ko: '여기서 "안전"이란 첫 이프리트 돌진 전에 미리 가 있어도 된다는 의미입니다.',
       },
       type: 'StartsUsing',

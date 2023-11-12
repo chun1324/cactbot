@@ -50,7 +50,7 @@ const galeSphereOutputStrings = {
     de: 'Mit Partner sammeln',
     fr: 'Package partenaire',
     ja: 'ペア',
-    cn: '2 人分摊',
+    cn: '2 人集合',
     ko: '2인 쉐어',
   },
 } as const;
@@ -161,13 +161,13 @@ const triggerSet: TriggerSet<Data> = {
         dirNWSE: {
           en: 'NW / SE',
           de: 'NW / SO',
-          cn: '左上 (西北) / 右下 (东南)',
+          cn: '左上 (西北) / 右下 (東南)',
           ko: '북서 / 남동',
         },
         dirNESW: {
           en: 'NE / SW',
           de: 'NO / SW',
-          cn: '右上 (东北) / 左下 (西南)',
+          cn: '右上 (東北) / 左下 (西南)',
           ko: '북동 / 남서',
         },
       },
@@ -229,13 +229,13 @@ const triggerSet: TriggerSet<Data> = {
         backThenFrontThenHealerGroups: {
           en: 'Back => Front => Out => Stacks',
           de: 'Hinten => Vorne => Raus => Sammeln',
-          cn: '后 => 前 => 钢铁 => 集合',
+          cn: '後 => 前 => 鋼鐵 => 集合',
           ko: '뒤 => 앞 => 밖 => 쉐어',
         },
         backThenFrontThenSpread: {
           en: 'Back => Front => Under => Spread',
           de: 'Hinten => Vorne => Unter ihn => Verteilen',
-          cn: '后 => 前 => 月环 => 分散',
+          cn: '後 => 前 => 月環 => 散開',
           ko: '뒤 => 앞 => 안 => 산개',
         },
       },
@@ -258,13 +258,13 @@ const triggerSet: TriggerSet<Data> = {
         frontThenHealerGroups: {
           en: 'Front => Out => Stacks',
           de: 'Vorne => Raus => Sammeln',
-          cn: '前 => 钢铁 => 集合',
+          cn: '前 => 鋼鐵 => 集合',
           ko: '앞 => 밖 => 쉐어',
         },
         frontThenSpread: {
           en: 'Front => Under',
           de: 'Vorne => Unter ihn',
-          cn: '前 => 月环',
+          cn: '前 => 月環',
           ko: '앞 => 안',
         },
       },
@@ -279,7 +279,7 @@ const triggerSet: TriggerSet<Data> = {
         outAndSpread: {
           en: 'Spread Out',
           de: 'Außen verteilen',
-          cn: '分散',
+          cn: '散開',
           ko: '산개',
         },
       },
@@ -358,7 +358,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: '(out + healer groups, for later)',
           de: '(raus + Heiler Gruppen, für später)',
-          cn: '(钢铁 + 稍后治疗分组分摊)',
+          cn: '(鋼鐵 + 稍後治療分組集合)',
           ko: '(밖으로 + 힐러 그룹 쉐어, 나중에)',
         },
       },
@@ -635,7 +635,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: '${dir} => Healer Groups',
           de: '${dir} => Heiler Gruppen',
-          cn: '${dir} => 治疗分组分摊',
+          cn: '${dir} => 治療分組集合',
           ko: '${dir} => 힐러 그룹 쉐어',
         },
         northeast: Outputs.northeast,
@@ -708,7 +708,7 @@ const triggerSet: TriggerSet<Data> = {
         middleLean: {
           en: 'Middle (lean ${dir})',
           de: 'Mitte (${dir} halten)',
-          cn: '中间 (偏 ${dir})',
+          cn: '中間 (偏 ${dir})',
           ko: '중앙 (약간 ${dir})',
         },
       },
@@ -726,7 +726,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Knockback on YOU',
           de: 'Rückstoß auf DIR',
-          cn: '击退点名',
+          cn: '擊退點名',
           ko: '넉백 대상자',
         },
       },
@@ -744,7 +744,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Flare on YOU',
           de: 'Flare auf DIR',
-          cn: '陨石点名',
+          cn: '隕石點名',
           ko: '플레어 대상자',
         },
       },

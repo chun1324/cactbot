@@ -171,7 +171,7 @@ const whiteFlameDelayOutputStrings = {
   delay1: {
     en: 'now',
     de: 'jetzt',
-    cn: '现在!',
+    cn: '現在!',
     ko: '바로',
   },
   delay2: {
@@ -503,7 +503,7 @@ const triggerSet: TriggerSet<Data> = {
       name: {
         en: 'Classical Concepts 2: Actual only & no inversion',
         de: 'Classical Concepts 2: Nur tatsächlich & keine Umkehrung',
-        cn: '经典概念2: 实际位置 (没有位置变换)',
+        cn: '經典概念2: 實際位置 (沒有位置變換)',
         ko: '원소 이데아 2: 반전 없이 실제 위치만 알림',
       },
       type: 'checkbox',
@@ -3967,7 +3967,7 @@ const triggerSet: TriggerSet<Data> = {
           noBeacon: {
             en: 'Initial Fire: ${player1}, ${player2}',
             de: 'Initiales Feuer: ${player1}, ${player2}',
-            cn: '火标记点: ${player1}, ${player2}',
+            cn: '火標記點: ${player1}, ${player2}',
             ko: '첫 불: ${player1}, ${player2}',
           },
           beacon: {

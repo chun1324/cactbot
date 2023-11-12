@@ -151,7 +151,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geh nach Hinten und Raus',
           fr: 'Passez derrière et extérieur',
           ja: '後ろの外側へ',
-          cn: '去背后远离',
+          cn: '去背後遠離',
           ko: '보스 뒤 바깥쪽으로',
         },
       },

@@ -217,7 +217,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Rechts/Osten',
           fr: 'Droite/Est',
           ja: '右/東へ',
-          cn: '右(东)',
+          cn: '右(東)',
           ko: '오른쪽/동쪽',
         },
       },

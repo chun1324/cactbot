@@ -1489,7 +1489,7 @@ const triggerSet: TriggerSet<Data> = {
           de: '(weiche Himmelsrichtungen aus)',
           fr: '(évitez les positions)',
           ja: '(十字で回避)',
-          cn: '(遠離回避)',
+          cn: '(遠離迴避)',
           ko: '(피하기)',
         },
       },
