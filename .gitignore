@@ -30,3 +30,5 @@ env/
 venv/
 npm-package/
 .eslintcache
+
+.yarn

@@ -25,7 +25,7 @@ const triggerSet: TriggerSet<Data> = {
     en: 'Heaven-on-High (All Floors)',
     de: 'Himmelssäule (Alle Ebenen)',
     fr: 'Pilier des cieux (Tous niveaux)',
-    cn: '天之御柱 (全楼层)',
+    cn: '天之御柱 (全樓層)',
     ko: '천궁탑 (전체 층)',
   },
 
@@ -45,7 +45,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Quivering Coffer spawned!',
           de: 'zuckende Schnapptruhe ist erschienen',
           fr: 'Coffre gigotant apparaît !',
-          cn: '已生成 抖动的宝箱!',
+          cn: '已生成 抖動的寶箱!',
           ko: '꿈틀거리는 보물상자 등장!',
         },
       },
@@ -112,7 +112,7 @@ const triggerSet: TriggerSet<Data> = {
           en: '${pomander} duplicate',
           de: 'Doppelter ${pomander}',
           fr: '${pomander} dupliquée',
-          cn: '${pomander} 重复',
+          cn: '${pomander} 重複',
           ko: '${pomander} 중복',
         },
         // pomanders: https://xivapi.com/deepdungeonItem?pretty=true
@@ -137,7 +137,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Stärkung',
           fr: 'Puissance',
           ja: '自己強化',
-          cn: '强化自身',
+          cn: '強化自身',
           ko: '자기 강화',
         },
         steel: {
@@ -145,7 +145,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Abwehr',
           fr: 'Protection',
           ja: '防御強化',
-          cn: '强化防御',
+          cn: '強化防禦',
           ko: '방어 강화',
         },
         affluence: {
@@ -153,7 +153,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Schätze',
           fr: 'Décèlement',
           ja: '宝箱増加',
-          cn: '宝箱增加',
+          cn: '寶箱增加',
           ko: '보물상자 증가',
         },
         flight: {
@@ -161,7 +161,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindtods',
           fr: 'Sécurisation',
           ja: '敵排除',
-          cn: '减少敌人',
+          cn: '減少敵人',
           ko: '적 감소',
         },
         alteration: {
@@ -169,7 +169,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindwandlung',
           fr: 'Affaiblissement',
           ja: '敵変化',
-          cn: '改变敌人',
+          cn: '改變敵人',
           ko: '적 대체',
         },
         purity: {
@@ -185,7 +185,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Glücks',
           fr: 'Chance',
           ja: '運気上昇',
-          cn: '运气上升',
+          cn: '運氣上升',
           ko: '운 상승',
         },
         witching: {
@@ -193,7 +193,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Wandlung',
           fr: 'Mutation',
           ja: '形態変化',
-          cn: '形态变化',
+          cn: '形態變化',
           ko: '적 변형',
         },
         serenity: {
@@ -217,7 +217,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sukkuben',
           fr: 'Succube',
           ja: 'サキュバス化',
-          cn: '梦魔化',
+          cn: '夢魔化',
           ko: '서큐버스 변신',
         },
         intuition: {
@@ -225,7 +225,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Finders',
           fr: 'Intuition',
           ja: '財宝感知',
-          cn: '感知宝藏',
+          cn: '感知寶藏',
           ko: '보물 탐지',
         },
         raising: {
@@ -249,7 +249,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindschwächung',
           fr: 'Incapacité',
           ja: '敵弱体',
-          cn: '弱化敌人',
+          cn: '弱化敵人',
           ko: '적 약화',
         },
         concealment: {
@@ -257,7 +257,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Verschwindens',
           fr: 'Invisibilité',
           ja: 'バニシュ',
-          cn: '隐形',
+          cn: '隱形',
           ko: '배니시',
         },
         petrification: {
@@ -265,7 +265,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Feindversteinerung',
           fr: 'Pétrification',
           ja: '敵石化',
-          cn: '石化敌人',
+          cn: '石化敵人',
           ko: '적 석화',
         },
       },
@@ -293,7 +293,7 @@ const triggerSet: TriggerSet<Data> = {
           en: '${magicite} duplicate',
           de: 'Doppelter ${magicite} Stein',
           fr: '${magicite} dupliquée',
-          cn: '${magicite} 重复',
+          cn: '${magicite} 重複',
           ko: '${magicite} 중복',
         },
         // magicite: https://xivapi.com/DeepDungeonMagicStone?pretty=true
@@ -318,7 +318,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Garuda',
           fr: 'Garuda',
           ja: 'ガルーダ',
-          cn: '迦楼罗',
+          cn: '迦樓羅',
           ko: '가루다',
         },
         elder: {
@@ -326,7 +326,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Odin',
           fr: 'Odin',
           ja: 'オーディン',
-          cn: '奥丁',
+          cn: '奧丁',
           ko: '오딘',
         },
       },
@@ -345,7 +345,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Beacon of Passage activated',
           de: 'Weglaterne aktiviert',
           fr: 'La lanterne de téléportation s\'est activée !',
-          cn: '转移灯笼已启动',
+          cn: '轉移燈籠已啟動',
           ko: '전송 등불 활성화',
         },
       },
@@ -373,7 +373,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Quivering Coffer': '抖动的宝箱',
+        'Quivering Coffer': '抖動的寶箱',
       },
     },
     {

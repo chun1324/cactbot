@@ -46,7 +46,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Stop attacking ${target}',
           de: 'Stoppe Angriffe auf ${target}',
           fr: 'N\'attaquez plus ${target}',
-          cn: '停止攻击 ${target}',
+          cn: '停止攻擊 ${target}',
           ko: '${target} 공격 중지',
         },
       },
@@ -64,7 +64,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Knockback into Safe Spot',
           de: 'Rückstoß zur sicheren Stelle',
           fr: 'Faites-vous pousser dans une zone sûre',
-          cn: '击退到安全区',
+          cn: '擊退到安全區',
           ko: '안전지대로 넉백되기',
         },
       },
@@ -101,10 +101,10 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Palace Deepeye': '地宫深瞳',
-        'Palace Imp': '地宫小魔精',
-        'Palace Pot': '地宫魔力罐',
-        'The Black Rider': '深黑骑士',
+        'Palace Deepeye': '地宮深瞳',
+        'Palace Imp': '地宮小魔精',
+        'Palace Pot': '地宮魔力罐',
+        'The Black Rider': '深黑騎士',
       },
     },
     {
