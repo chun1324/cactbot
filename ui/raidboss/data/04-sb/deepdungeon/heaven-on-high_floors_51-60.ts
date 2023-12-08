@@ -26,7 +26,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Get Behind or Look Away',
           de: 'Geh hinter oder schau weg',
           fr: 'Allez derrière ou Regardez ailleurs',
-          cn: '去背后或看向其他方向',
+          cn: '去背後或看向其他方向',
           ko: '보스 뒤로 또는 뒤돌기',
         },
       },
@@ -73,7 +73,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Heavenly Gowan': '天之铁臂',
+        'Heavenly Gowan': '天之鐵臂',
         'Heavenly Naga': '天之那迦',
         'Suikazura': '忍冬',
       },
