@@ -90,7 +90,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
     {
       // Trigger id for internally generated early pull warning.
       id: 'General Early Pull',
-      comment: { cn: '抢开' },
+      comment: { cn: '搶開' },
     },
     {
       id: 'General Food Buff',
@@ -187,7 +187,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
               de: `überschrieb ${originalRaiserShort}'s Wiederbeleben`,
               fr: `a écrasé la résurrection de ${originalRaiserShort}`,
               ja: `${originalRaiserShort}と重複蘇生`,
-              cn: `顶掉了${originalRaiserShort}的复活`,
+              cn: `頂掉了${originalRaiserShort}的復活`,
               ko: `${originalRaiserShort}의 부활과 겹침`,
             },
           };
@@ -221,7 +221,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
                 de: `überschrieb ${originalRaiserShort}'s Wiederbeleben`,
                 fr: `a écrasé la résurrection de ${originalRaiserShort}`,
                 ja: `${originalRaiserShort}と重複蘇生`,
-                cn: `顶掉了${originalRaiserShort}的复活`,
+                cn: `頂掉了${originalRaiserShort}的復活`,
                 ko: `${originalRaiserShort}의 부활과 겹침`,
               },
             };
@@ -274,7 +274,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
                 de: `überschrieb ${lastSourceShort}'s ${matches.ability}`,
                 fr: `a écrasé la résurrection de ${lastSourceShort} ${matches.ability}`,
                 ja: `${lastSourceShort}の${matches.ability}を上書き`,
-                cn: `顶掉了${lastSourceShort}的${matches.ability}`,
+                cn: `頂掉了${lastSourceShort}的${matches.ability}`,
                 ko: `${lastSourceShort}의 ${matches.ability} 덮어씀`,
               },
             };
