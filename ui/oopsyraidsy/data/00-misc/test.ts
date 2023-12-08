@@ -23,7 +23,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
         line: 'Vous vous inclinez devant le mannequin d\'entraînement.*?',
       }),
       netRegexJa: NetRegexes.gameNameLog({ line: '.*は木人にお辞儀した.*?' }),
-      netRegexCn: NetRegexes.gameNameLog({ line: '.*恭敬地对木人行礼.*?' }),
+      netRegexCn: NetRegexes.gameNameLog({ line: '.*恭敬地對木人行禮.*?' }),
       netRegexKo: NetRegexes.gameNameLog({ line: '.*나무인형에게 공손하게 인사합니다.*?' }),
       mistake: (data) => {
         return {
@@ -48,7 +48,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
         line: 'Vous faites vos adieux au mannequin d\'entraînement.*?',
       }),
       netRegexJa: NetRegexes.gameNameLog({ line: '.*は木人に別れの挨拶をした.*?' }),
-      netRegexCn: NetRegexes.gameNameLog({ line: '.*向木人告别.*?' }),
+      netRegexCn: NetRegexes.gameNameLog({ line: '.*向木人告別.*?' }),
       netRegexKo: NetRegexes.gameNameLog({ line: '.*나무인형에게 작별 인사를 합니다.*?' }),
       mistake: (data) => {
         return {
@@ -59,7 +59,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Gruppenwipe',
             fr: 'Party Wipe',
             ja: 'ワイプ',
-            cn: '团灭',
+            cn: '團滅',
             ko: '파티 전멸',
           },
         };
