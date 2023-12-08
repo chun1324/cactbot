@@ -1447,7 +1447,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Um den Boss verteilen',
           fr: 'Changement',
           ja: 'ボス基準て散開',
-          cn: '四方分散',
+          cn: '四方散開',
           ko: '산개',
         },
       },

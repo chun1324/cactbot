@@ -148,7 +148,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Schau von den Ringen weg',
           fr: 'Ne regardez pas l\'anneau',
           ja: '輪から視線回避',
-          cn: '视线避开圆环',
+          cn: '視線避開圓環',
           ko: '고리 모양 눈 시선 피하기',
         },
       },
@@ -460,7 +460,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Vorwärts',
           fr: 'Piratage mental : Vers l\'avant', // FIXME
           ja: '強制移動 : 前', // FIXME
-          cn: '强制移动 : 前', // FIXME
+          cn: '強制移動 : 前', // FIXME
           ko: '강제이동: 앞', // FIXME
         },
         back: {
@@ -468,7 +468,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Rückwärts',
           fr: 'Piratage mental : Vers l\'arrière', // FIXME
           ja: '強制移動 : 後ろ', // FIXME
-          cn: '强制移动 : 后', // FIXME
+          cn: '強制移動 : 後', // FIXME
           ko: '강제이동: 뒤', // FIXME
         },
         left: {
@@ -476,7 +476,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Links',
           fr: 'Piratage mental : Vers la gauche', // FIXME
           ja: '強制移動 : 左', // FIXME
-          cn: '强制移动 : 左', // FIXME
+          cn: '強制移動 : 左', // FIXME
           ko: '강제이동: 왼쪽', // FIXME
         },
         right: {
@@ -484,7 +484,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Rechts',
           fr: 'Piratage mental : Vers la droite', // FIXME
           ja: '強制移動 : 右', // FIXME
-          cn: '强制移动 : 右', // FIXME
+          cn: '強制移動 : 右', // FIXME
           ko: '강제이동: 오른쪽', // FIXME
         },
       },

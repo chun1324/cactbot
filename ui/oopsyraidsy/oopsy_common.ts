@@ -149,7 +149,7 @@ export const GetSoloMistakeText = (ability: string | LocaleText): LocaleText => 
     de: `${localeText['de'] ?? localeText['en']} (allein)`,
     fr: `${localeText['fr'] ?? localeText['en']} (seul(e))`,
     ja: `${localeText['ja'] ?? localeText['en']} (一人)`,
-    cn: `${localeText['cn'] ?? localeText['en']} (单吃)`,
+    cn: `${localeText['cn'] ?? localeText['en']} (單吃)`,
     ko: `${localeText['ko'] ?? localeText['en']} (혼자 맞음)`,
   };
 };
@@ -164,7 +164,7 @@ export const GetShareMistakeText = (
     de: `${localeText['de'] ?? localeText['en']} (geteilt mit ${numTargets})`,
     fr: `${localeText['fr'] ?? localeText['en']} (partage x${numTargets})`,
     ja: `${localeText['ja'] ?? localeText['en']} (頭割り: ${numTargets}人)`,
-    cn: `${localeText['cn'] ?? localeText['en']} (重叠: ${numTargets}次)`,
+    cn: `${localeText['cn'] ?? localeText['en']} (重疊: ${numTargets}次)`,
     ko: `${localeText['ko'] ?? localeText['en']} (같이 맞음: ${numTargets}명)`,
   };
 };

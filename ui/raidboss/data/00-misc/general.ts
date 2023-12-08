@@ -16,7 +16,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       id: 'General Provoke',
       comment: {
-        cn: '仅在非自身小队成员释放“挑衅”且自身为坦克/治疗/青魔法师时触发。',
+        cn: '僅在非自身小隊成員釋放“挑釁”且自身為坦克/治療/青魔法師時觸發。',
       },
       type: 'Ability',
       netRegex: { id: '1D6D' },
@@ -34,7 +34,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Herausforderung: ${player}',
           fr: 'Provocation: ${player}',
           ja: '挑発: ${player}',
-          cn: '挑衅: ${player}',
+          cn: '挑釁: ${player}',
           ko: '도발: ${player}',
         },
       },
@@ -42,7 +42,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       id: 'General Frog Legs',
       comment: {
-        cn: '仅在非自身小队成员释放“蛙腿”且自身为坦克/治疗/青魔法师时触发。',
+        cn: '僅在非自身小隊成員釋放“蛙腿”且自身為坦克/治療/青魔法師時觸發。',
       },
       type: 'Ability',
       netRegex: { id: '4783' },
@@ -63,7 +63,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Herausforderung: ${player}',
           fr: 'Provocation: ${player}',
           ja: '挑発: ${player}',
-          cn: '挑衅: ${player}',
+          cn: '挑釁: ${player}',
           ko: '도발: ${player}',
         },
         noTarget: {
@@ -71,7 +71,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Herausforderung: ${player} (verfehlt)',
           fr: 'Provocation: ${player} (manquée)',
           ja: '挑発: ${player} (タゲなし)',
-          cn: '挑衅: ${player} (无目标)',
+          cn: '挑釁: ${player} (無目標)',
           ko: '도발: ${player} (빗나감)',
         },
       },
@@ -79,7 +79,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       id: 'General Shirk',
       comment: {
-        cn: '仅在非自身小队成员释放“退避”且自身为坦克/治疗/青魔法师时触发。',
+        cn: '僅在非自身小隊成員釋放“退避”且自身為坦克/治療/青魔法師時觸發。',
       },
       type: 'Ability',
       netRegex: { id: '1D71' },
@@ -104,7 +104,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       id: 'General Holmgang',
       comment: {
-        cn: '仅在非自身小队成员释放“死斗”且自身为坦克/治疗/青魔法师时触发。',
+        cn: '僅在非自身小隊成員釋放“死鬥”且自身為坦克/治療/青魔法師時觸發。',
       },
       type: 'Ability',
       netRegex: { id: '2B' },
@@ -121,7 +121,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Holmgang: ${player}',
           fr: 'Holmgang: ${player}',
           ja: 'ホルムギャング: ${player}',
-          cn: '死斗: ${player}',
+          cn: '死鬥: ${player}',
           ko: '일대일 결투: ${player}',
         },
       },
@@ -129,7 +129,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       id: 'General Hallowed',
       comment: {
-        cn: '仅在非自身小队成员释放“神圣领域”且自身为坦克/治疗/青魔法师时触发。',
+        cn: '僅在非自身小隊成員釋放“神聖領域”且自身為坦克/治療/青魔法師時觸發。',
       },
       type: 'Ability',
       netRegex: { id: '1E' },
@@ -146,7 +146,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Heiliger Boden: ${player}',
           fr: 'Invincible: ${player}',
           ja: 'インビンシブル: ${player}',
-          cn: '神圣领域: ${player}',
+          cn: '神聖領域: ${player}',
           ko: '천하무적: ${player}',
         },
       },
@@ -154,7 +154,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       id: 'General Superbolide',
       comment: {
-        cn: '仅在非自身小队成员释放“超火流星”且自身为坦克/治疗/青魔法师时触发。',
+        cn: '僅在非自身小隊成員釋放“超火流星”且自身為坦克/治療/青魔法師時觸發。',
       },
       type: 'Ability',
       netRegex: { id: '3F18' },
@@ -179,7 +179,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       id: 'General Living',
       comment: {
-        cn: '仅在非自身小队成员释放“行尸走肉”且自身为坦克/治疗/青魔法师时触发。',
+        cn: '僅在非自身小隊成員釋放“行屍走肉”且自身為坦克/治療/青魔法師時觸發。',
       },
       type: 'Ability',
       netRegex: { id: 'E36' },
@@ -196,7 +196,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Totenerweckung: ${player}',
           fr: 'Mort-vivant: ${player}',
           ja: 'リビングデッド: ${player}',
-          cn: '行尸走肉: ${player}',
+          cn: '行屍走肉: ${player}',
           ko: '산송장: ${player}',
         },
       },
@@ -204,7 +204,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       id: 'General Walking',
       comment: {
-        cn: '仅在非自身小队成员获得“死而不僵”且自身为坦克/治疗/青魔法师时触发。',
+        cn: '僅在非自身小隊成員獲得“死而不僵”且自身為坦克/治療/青魔法師時觸發。',
       },
       type: 'GainsEffect',
       netRegex: { effectId: '32B' },
@@ -232,7 +232,7 @@ const triggerSet: TriggerSet<Data> = {
       // would be sent to the 0239 channel.  (Sometimes this is also sent to 0139, unknown why?)
       id: 'General Ready Check',
       comment: {
-        cn: '在队友发起准备确认时，播放D.Va的“Game on”音效(^-^)V',
+        cn: '在隊友發起準備確認時，播放D.Va的“Game on”音效(^-^)V',
       },
       type: 'GameLog',
       netRegex: {
@@ -285,12 +285,12 @@ const triggerSet: TriggerSet<Data> = {
     {
       locale: 'cn',
       replaceSync: {
-        ' has initiated a ready check': '发起了准备确认',
-        'You have commenced a ready check': '发起了准备确认',
+        ' has initiated a ready check': '發起了準備確認',
+        'You have commenced a ready check': '發起了準備確認',
         'You poke the striking dummy': '.*用手指戳向木',
-        'You psych yourself up alongside the striking dummy': '.*激励木人',
-        'You burst out laughing at the striking dummy': '.*看着木人高声大笑',
-        'You clap for the striking dummy': '.*向木人送上掌声',
+        'You psych yourself up alongside the striking dummy': '.*激勵木人',
+        'You burst out laughing at the striking dummy': '.*看著木人高聲大笑',
+        'You clap for the striking dummy': '.*向木人送上掌聲',
       },
     },
     {

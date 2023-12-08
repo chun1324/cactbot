@@ -87,7 +87,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Schau nach den Grimm der Erde Marker',
           fr: 'Repérez une marque de Terre maléfique',
           ja: '範囲見て',
-          cn: '观察地板',
+          cn: '觀察地板',
           ko: '사악한 대지 패턴 확인',
         },
       },
@@ -149,7 +149,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Hintere Ecken',
           fr: 'Coins arrière',
           ja: 'ランスラくるよ',
-          cn: '后方角落',
+          cn: '後方角落',
           ko: '뒤쪽 구석으로',
         },
       },
@@ -166,7 +166,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Bombe auf DIR',
           fr: 'Bombe sur VOUS',
           ja: 'マーカーついた',
-          cn: '炸弹点名',
+          cn: '炸彈點名',
           ko: '거리감쇠 징 대상자',
         },
       },
@@ -215,7 +215,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Im Osten vestecken',
           fr: 'Cachez-vous derrière à l\'est',
           ja: '東',
-          cn: '右边躲避',
+          cn: '右邊躲避',
           ko: '동쪽으로',
         },
         hideBehindWest: {
@@ -223,7 +223,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Im Westen vestecken',
           fr: 'Cachez-vous derrière à l\'ouest',
           ja: '西',
-          cn: '左边躲避',
+          cn: '左邊躲避',
           ko: '서쪽으로',
         },
         goCardinalsFirst: {
@@ -255,7 +255,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Räder: Zur Seite',
           fr: 'Roues : Sur les côtés',
           ja: '車輪: 横へ',
-          cn: '车轮：两侧',
+          cn: '車輪：兩側',
           ko: '바퀴: 옆으로',
         },
       },
@@ -271,7 +271,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Tank wird angefahren',
           fr: 'Charge tank',
           ja: 'タンクに突進',
-          cn: '坦克冲锋',
+          cn: '坦克衝鋒',
           ko: '탱커를 향해 돌진',
         },
       },
@@ -383,7 +383,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Weg von den Tanks',
           fr: 'Éloignez-vous des tanks',
           ja: 'タンクから離れ',
-          cn: '远离坦克',
+          cn: '遠離坦克',
           ko: '탱커에서 멀어지기',
         },
         stackOnYou: Outputs.stackOnYou,
@@ -432,7 +432,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'VON VORNE RECHTS RUNTER', // FIXME
           fr: 'PARTEZ DE L\'AVANT DROITE', // FIXME
           ja: '右前壊れるよ', // FIXME
-          cn: '破坏右前', // FIXME
+          cn: '破壞右前', // FIXME
           ko: '앞 오른쪽 피하기', // FIXME
         },
         left: Outputs.left,
@@ -459,7 +459,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'VON HINTEN RECHTS RUNTER', // FIXME
           fr: 'PARTEZ DE L\'ARRIÈRE DROITE', // FIXME
           ja: '右後ろ壊れるよ', // FIXME
-          cn: '破坏右后', // FIXME
+          cn: '破壞右後', // FIXME
           ko: '뒤 오른쪽 피하기', // FIXME
         },
         left: Outputs.left,
@@ -486,7 +486,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'VON HINTEN LINKS RUNTER', // FIXME
           fr: 'PARTEZ DE L\'ARRIÈRE GAUCHE', // FIXME
           ja: '左後ろ壊れるよ', // FIXME
-          cn: '破坏左后', // FIXME
+          cn: '破壞左後', // FIXME
           ko: '뒤 왼쪽 피하기', // FIXME
         },
         right: Outputs.right,
@@ -513,7 +513,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'VON VORNE LINKS RUNTER', // FIXME
           fr: 'PARTEZ DE L\'AVANT GAUCHE', // FIXME
           ja: '左前壊れるよ', // FIXME
-          cn: '破坏左前', // FIXME
+          cn: '破壞左前', // FIXME
           ko: '앞 왼쪽 피하기', // FIXME
         },
         right: Outputs.right,
@@ -649,37 +649,37 @@ const triggerSet: TriggerSet<Data> = {
       'replaceSync': {
         'Bomb Boulder': '爆破岩石',
         'Titan(?! )': '泰坦',
-        'Titan Maximum': '极大泰坦',
+        'Titan Maximum': '極大泰坦',
       },
       'replaceText': {
         'Bomb Boulders': '爆破岩石',
-        'Crumbling Down': '岩层崩落',
-        'Dual Earthen Fists': '大地之双拳',
+        'Crumbling Down': '岩層崩落',
+        'Dual Earthen Fists': '大地之雙拳',
         'Earthen Anguish': '大地之痛',
-        'Earthen Armor': '大地之铠',
+        'Earthen Armor': '大地之鎧',
         '(?<! )Earthen Fist': '大地之拳',
         'Earthen Fury': '大地之怒',
         'Earthen Gauntlets': '大地之手甲',
-        'Earthen Wheels(?!/)': '大地之车轮',
-        'Earthen Wheels/Gauntlets': '大地之车轮/手甲',
+        'Earthen Wheels(?!/)': '大地之車輪',
+        'Earthen Wheels/Gauntlets': '大地之車輪/手甲',
         'Evil Earth': '邪土',
-        'Force of the Land': '大地之轰',
+        'Force of the Land': '大地之轟',
         'Geocrush': '大地粉碎',
         '(?<! )Landslide': '地裂',
-        'Magnitude 5.0': '震级5.0',
+        'Magnitude 5.0': '震級5.0',
         'Megalith': '巨石',
         'Orogenesis': '造山',
-        'Plate Fracture': '岩盘粉碎',
-        'Pulse of the Land': '大地之响',
+        'Plate Fracture': '岩盤粉碎',
+        'Pulse of the Land': '大地之響',
         'Right/Left Landslide': '右/左地裂',
-        'Rock Throw': '花岗岩牢狱',
+        'Rock Throw': '花崗岩牢獄',
         'Seismic Wave': '地震波',
         'Stonecrusher': '崩岩',
-        'Tectonic Uplift': '地壳上升',
+        'Tectonic Uplift': '地殼上升',
         'Tumult': '怒震',
-        'Voice of the Land': '大地之号',
+        'Voice of the Land': '大地之號',
         'Weight of the Land': '大地之重',
-        'Weight of the World': '铁球',
+        'Weight of the World': '鐵球',
       },
     },
     {

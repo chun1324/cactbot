@@ -24,7 +24,7 @@ const triggerSet: TriggerSet<Data> = {
     en: 'SS Rank Hunts',
     de: 'SS Jagdziele',
     ja: 'SSモブ',
-    cn: 'SS 级狩猎怪',
+    cn: 'SS 級狩獵怪',
     ko: 'SS급 마물',
   },
   triggers: [
@@ -107,7 +107,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Ker': '克尔',
+        'Ker': '克爾',
       },
     },
     {
