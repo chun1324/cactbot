@@ -169,7 +169,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Schau von den Ringen weg',
           fr: 'Ne regardez pas l\'anneau',
           ja: '輪から視線回避',
-          cn: '视线避开圆环',
+          cn: '視線避開圓環',
           ko: '고리 모양 눈 시선 피하기',
         },
       },
@@ -520,7 +520,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Vorwärts',
           fr: 'Vers l\'avant (1 carreau)',
           ja: '強制移動 : 前', // FIXME
-          cn: '强制移动 : 前',
+          cn: '強制移動 : 前',
           ko: '강제이동: 앞 (1칸)',
         },
         back: {
@@ -528,7 +528,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Rückwärts',
           fr: 'Vers l\'arrière (1 carreau)',
           ja: '強制移動 : 後ろ', // FIXME
-          cn: '强制移动 : 后',
+          cn: '強制移動 : 後',
           ko: '강제이동: 뒤 (1칸)',
         },
         left: {
@@ -536,7 +536,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Links',
           fr: 'Vers la gauche (1 carreau)',
           ja: '強制移動 : 左', // FIXME
-          cn: '强制移动 : 左',
+          cn: '強制移動 : 左',
           ko: '강제이동: 왼쪽 (1칸)',
         },
         right: {
@@ -544,7 +544,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geistlenkung: Rechts',
           fr: 'Vers la droite (1 carreau)',
           ja: '強制移動 : 右', // FIXME
-          cn: '强制移动 : 右',
+          cn: '強制移動 : 右',
           ko: '강제이동: 오른쪽 (1칸)',
         },
       },
@@ -1137,7 +1137,7 @@ const triggerSet: TriggerSet<Data> = {
         'Repuruba Loqua': '雷普鲁巴·罗库阿',
         'Rodiaki': '罗德亚基',
         'Seasong\'s Rest': '鲸的归处',
-        'Spring Crystal': '涌水水晶',
+        'Spring Crystal': '湧水水晶',
         'Statice': '斯塔缇丝',
         'Summoned Anila': '被召唤的阿尼罗',
         'Summoned Apa': '被召唤的阿帕斯',
@@ -1189,7 +1189,7 @@ const triggerSet: TriggerSet<Data> = {
         'Hunks of Junk': '金属废料',
         'Hydroblast': '水力爆发',
         'Hydrobomb': '水化爆弹',
-        'Hydrosurge': '水力浪涌',
+        'Hydrosurge': '水力浪湧',
         'Inferno Theorem': '散火法',
         'Islebloom Light': '岛屿之光',
         'Jack-in-the-box': '真假魔术箱',
@@ -1222,7 +1222,7 @@ const triggerSet: TriggerSet<Data> = {
         'Shockwave': '冲击波',
         'Sledgemagic': '魔法长柄大锤',
         'Sphere Shatter': '碎裂',
-        'Spring Crystals': '涌水水晶',
+        'Spring Crystals': '湧水水晶',
         'Stirring of Spirits': '祭祀重踏',
         'Strategic Strike': '强击',
         'Strewn Bubbles': '散布气泡',

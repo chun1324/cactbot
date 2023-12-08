@@ -116,7 +116,7 @@ const triggerSet: TriggerSet<Data> = {
       'locale': 'cn',
       'replaceSync': {
         'Aglaope': '阿格拉俄珀',
-        'O Poorest Pauldia': '保尔迪雅',
+        'O Poorest Pauldia': '保爾迪雅',
         'The Mudman': '泥人',
       },
     },
