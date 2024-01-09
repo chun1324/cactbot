@@ -796,7 +796,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Raus+Flare',
           fr: 'Extérieur + Brasier',
           ja: '外側＋フレア',
-          cn: '外侧＋核爆',
+          cn: '外側＋核爆',
           ko: '바깥+플레어',
         },
         inStack: {
@@ -804,7 +804,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Rein+Sammeln',
           fr: 'Intérieur + Package',
           ja: '内側＋頭割り',
-          cn: '内侧＋分摊',
+          cn: '內側＋集合',
           ko: '안+쉐어',
         },
         supportStack: {

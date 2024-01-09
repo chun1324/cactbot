@@ -224,7 +224,7 @@ const triggerSet: TriggerSet<Data> = {
         'Iai-Giri': '居合斬',
         'Inoshikacho': '豬鹿蝶',
         'Issen': '一閃',
-        'Juji Shuriken': '十字手裡劍',
+        'Juji Shuriken': '十字手裏劍',
         'Kenki Release': '劍氣解放',
         'Metta-Giri': '居合多段斬',
         'Tatami-Gaeshi': '掀地板之術',

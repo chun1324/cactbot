@@ -121,14 +121,14 @@ const triggerSet: TriggerSet<Data> = {
              Les tanks s'adaptent à l'emplacement des miroirs rouge et vert.
              Un tank doit être entre les deux groupes, l'autre doit être le plus proche du miroir vert.
              Une fois que le miroir vert s'éteint, les tanks s'ajustent au miroir rouge.`,
-        cn: `此选项可让 cactbot 提示第四次镜中奇遇的双击退。
-             会在 BOSS 转身期间或之后播报提示, 需要小于 1.4 秒
-             的反应时间来同时躲避绿镜和红镜击退。
+        cn: `此選項可讓 cactbot 提示第四次鏡中奇遇的雙擊退。
+             會在 BOSS 轉身期間或之後播報提示, 需要小於 1.4 秒
+             的反應時間來同時躲避綠鏡和紅鏡擊退。
              示例: https://clips.twitch.tv/CreativeDreamyAsparagusKlappa
-             人群在 BOSS 瞬移后分成两组, 分别站在 BOSS 身后。
-             坦克根据红镜和绿镜的位置进行调整。
-             一个坦克必须在分组中间，另一个坦克最靠近绿镜。
-             绿镜熄灭后，坦克调整到红镜位置。`,
+             人群在 BOSS 瞬移後分成兩組, 分別站在 BOSS 身後。
+             坦克根據紅鏡和綠鏡的位置進行調整。
+             一個坦克必須在分組中間，另一個坦克最靠近綠鏡。
+             綠鏡熄滅後，坦克調整到紅鏡位置。`,
         ko: `캑트봇이 거울 나라 4의 이중 넉백을 호출하게 하려면 이 옵션을 활성화하세요.
              알람은 보스의 시전 중간이나 이후에 발생하며
              녹색 및 빨강 거울의 넉백을 모두 피하려면 반응 시간이 1.4초 미만이어야 합니다.
@@ -250,13 +250,13 @@ const triggerSet: TriggerSet<Data> = {
           en: '(under boss => under mirrors soon)',
           de: '(unter den Boss => gleich unter den Spiegel)',
           fr: '(sous le boss => sous les miroirs bientôt',
-          cn: '(BOSS 下方 => 即将去镜子下方)',
+          cn: '(BOSS 下方 => 即將去鏡子下方)',
           ko: '(보스 밑 => 이후 거울 밑)',
         },
         axeNext: {
           en: '(out => middle soon)',
           de: '(raus => gleich Mitte)',
-          cn: '(外 => 即将去中间)',
+          cn: '(外 => 即將去中間)',
           ko: '(밖 => 이후 중앙)',
         },
       },
@@ -291,14 +291,14 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Behind => SW',
           de: 'Hinten => SW',
           fr: 'Derrière => SO',
-          cn: '后 => 左下 (西南)',
+          cn: '後 => 左下 (西南)',
           ko: '뒤 => 남서',
         },
         redMirrorEast: {
           en: 'Behind => SE',
           de: 'Hinten => SO',
           fr: 'Derrière => SE',
-          cn: '后 => 右下 (东南)',
+          cn: '後 => 右下 (東南)',
           ko: '뒤 => 남동',
         },
         getBehind: Outputs.getBehind,
@@ -328,7 +328,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Front => NE',
           de: 'Vorne => NO',
           fr: 'Devant => NE',
-          cn: '前 => 右上 (东北)',
+          cn: '前 => 右上 (東北)',
           ko: '앞 => 북동',
         },
         goFront: Outputs.goFront,
@@ -454,7 +454,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Star on YOU',
           de: 'Stern auf DIR',
           fr: 'Étoile sur VOUS',
-          cn: '冰针点名',
+          cn: '冰針點名',
           ko: '별 징 대상자',
         },
       },
@@ -548,7 +548,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Out => Middle',
           de: 'Raus => Mitte',
           fr: 'Extérieur => Milieu',
-          cn: '远离 => 中间',
+          cn: '遠離 => 中間',
           ko: '밖 => 중앙',
         },
         out: Outputs.out,
@@ -657,14 +657,14 @@ const triggerSet: TriggerSet<Data> = {
             en: 'Get Final Tower',
             de: 'Nimm letzten Turm',
             fr: 'Prenez la tour finale',
-            cn: '踩最后塔',
+            cn: '踩最後塔',
             ko: '마지막 기둥 들어가기',
           },
           avoidFinalTower: {
             en: 'Avoid Final Tower',
             de: 'Vermeide letzten Turm',
             fr: 'Évitez la tour finale',
-            cn: '躲最后塔',
+            cn: '躲最後塔',
             ko: '마지막 기둥 피하기',
           },
         };
@@ -823,9 +823,9 @@ const triggerSet: TriggerSet<Data> = {
         fr: `Rapide signifie que vous pouvez passer directement du premier au troisième point sûr.
              Lent signifie que vous devez aller de 1 => 2 => 3 sans omettre 2.
              C'est pour les lanceurs de sorts qui ne veulent pas se déplacer autant.`,
-        cn: `快指你可以从第 1 个安全点直接到达第 3 个安全点。
-             慢指你需要走 1 => 2 => 3 ,不跳过 2。
-             适用于不想移动太多的读条职业。`,
+        cn: `快指你可以從第 1 個安全點直接到達第 3 個安全點。
+             慢指你需要走 1 => 2 => 3 ,不跳過 2。
+             適用於不想移動太多的讀條職業。`,
         ko: `빠름은 첫 번째 안전 지점에서 세 번째 안전 지점으로 바로 이동할 수 있음을 의미합니다.
              느림은 2번을 건너뛰지 않고 1번 => 2번 => 3번으로 이동해야 한다는 뜻입니다.
              많이 움직이고 싶지 않은 캐스터를 위한 옵션입니다.`,
@@ -1231,14 +1231,14 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Protean => Get Final Tower',
           de: 'Himmelsrichtung => Nimm letzten Turm',
           fr: 'Positions => Prenez la tour finale',
-          cn: '八方分散 => 踩最后塔',
+          cn: '八方散開 => 踩最後塔',
           ko: '8방향 산개 => 마지막 기둥 들어가기',
         },
         proteanAvoidFinalTower: {
           en: 'Protean => Avoid Final Tower',
           de: 'Himmelsrichtung => Vermeide letzten Turm',
           fr: 'Position => Évitez la tour finale',
-          cn: '八方分散 => 躲最后塔',
+          cn: '八方散開 => 躲最後塔',
           ko: '8방향 산개 => 마지막 기둥 피하기',
         },
       },

@@ -139,7 +139,7 @@ const triggerSet: TriggerSet<Data> = {
         breakTether: {
           en: 'Break Tether (w/${player})',
           de: 'Verbindungen brechen (mit ${player})',
-          cn: '拉断连线 (与${player})',
+          cn: '拉斷連線 (與${player})',
           ko: '선 끊기 (+${player})',
         },
       },

@@ -1624,7 +1624,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Zuerst verteilen (mit ${player})',
           fr: 'Écartez-vous d\'abord (avec ${player})',
           ja: 'さきに散会 (+${player})',
-          cn: '先分散 (與${player})',
+          cn: '先散開 (與${player})',
           ko: '산개 먼저 (${player})',
         },
         unknown: Outputs.unknown,

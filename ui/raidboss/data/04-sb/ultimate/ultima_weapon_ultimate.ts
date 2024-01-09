@@ -106,7 +106,7 @@ const triggerSet: TriggerSet<Data> = {
         de:
           'Jeder Eintrag kann aus drei Buchstaben des Jobs bestehen (z. B. "war" oder "SGE") oder aus dem vollständigen Namen (z. B. "Tini Poutini"), wobei Groß- und Kleinschreibung nicht berücksichtigt werden. Kleinere Nummern werden in der Reihenfolge der Gefängnisse zuerst aufgeführt. Bei doppelten Aufträgen werden die Spieler alphabetisch sortiert. Jeder nicht aufgeführte Spieler wird am Ende alphabetisch eingeordnet. Leere Einträge werden ignoriert. Wenn Spieler mehrfach nach Namen oder Beruf aufgelistet sind, wird die niedrigere Nummer berücksichtigt.',
         cn:
-          '每个条目可以是三个字母的职业缩写 (例如 "war" 或  "SGE") 或玩家全名（例如 "Tini Poutini"），所有字母不区分大小写。编号较小的将在石牢顺序中排列在前。重复的职业将按姓名字母顺序对玩家进行排序。未列出的队员将按字母顺序添加到末尾。空白条目将被忽略。如果玩家按姓名或职业被多次列出，则以较小编号为准。',
+          '每個條目可以是三個字母的職業縮寫 (例如 "war" 或  "SGE") 或玩家全名（例如 "Tini Poutini"），所有字母不區分大小寫。編號較小的將在石牢順序中排列在前。重複的職業將按姓名字母順序對玩家進行排序。未列出的隊員將按字母順序新增到末尾。空白條目將被忽略。如果玩家按姓名或職業被多次列出，則以較小編號為準。',
         ko:
           '각 항목에는 대소문자를 구분하지 않는 세 글자 직업명(예: "war" 또는 "SGE") 또는 전체 이름(예: "빛의전사")을 입력할 수 있습니다. 먼저 입력된 항목이 감옥 순서에서 먼저 나열됩니다. 직업이 중복된 경우에는  알파벳 순(가나다 순)으로 나타납니다. 목록에 없는 사람은 알파벳 순으로 맨 끝에 추가됩니다. 빈 칸은 무시됩니다. 플레이어가 이름 또는 직업별로 여러 번 나열된 경우, 먼저 입력된 항목이 사용됩니다.',
       },
@@ -849,9 +849,9 @@ const triggerSet: TriggerSet<Data> = {
           `Wenn der erste Nagel SO ist, wird dies SO/NW sowohl für Umgekehrtes-Z als auch für Normal-Z aufgerufen.
              Wenn der erste Nagel S ist, wird dies SO/NW für Umgekehrtes-Z und SW/NO für Normal-Z aufgerufen.
              Andere Nagelreihenfolgen werden ebenfalls unterstützt, dies sind nur Beispiele.`,
-        cn: `如果第一个火神柱在东南，则反向 Z 和正常 Z 都会提示东南/西北
-             如果第一个火神柱在南, 则反向 Z 将提示东南/西北，正常 Z 将提示西南/东北。
-             这些只是示例, 还支持其他火神柱顺序。`,
+        cn: `如果第一個火神柱在東南，則反向 Z 和正常 Z 都會提示東南/西北
+             如果第一個火神柱在南, 則反向 Z 將提示東南/西北，正常 Z 將提示西南/東北。
+             這些只是示例, 還支援其他火神柱順序。`,
         ko: `첫 번째 기둥이 남동쪽인 경우, 역방향 Z와 일반 Z 모두에 대해 남동/북서를 호출합니다.
              첫 번째 기둥이 남쪽인 경우, 역방향 Z는 남동/북서를, 일반 Z는 남서/북동를 호출합니다.
              다른 기둥 순서도 지원되며, 이는 예시일 뿐입니다.`,
@@ -901,9 +901,9 @@ const triggerSet: TriggerSet<Data> = {
           `Wenn der erste Nagel Interkardinal war, dann ist der erste Ifrit-Ansturm auf einer Interkardinalen
              und dieser optionale Aufruf besteht darin, sich in die Nähe dieses ersten Ansturms zu bewegen.
              Wenn man bereits in Sicherheit ist, wird dies nicht aufgerufen.`,
-        cn: `如果第一个火神柱在对角线上，那么第一次火神冲也在对角线上。
-             这个可选提示会提示你移动到第一次火神冲附近的位置。
-             如果你已在安全区，则不会输出此提示。`,
+        cn: `如果第一個火神柱在對角線上，那麼第一次火神衝也在對角線上。
+             這個可選提示會提示你移動到第一次火神衝附近的位置。
+             如果你已在安全區，則不會輸出此提示。`,
         ko: `첫 번째 기둥이 대각선에 있으면 첫 번째 이프리트 돌진도 대각선에 있으며,
              이 알람은 첫 번째 돌진 옆으로 이동하라는 것이 됩니다.
              이미 안전하다면 이 알람은 호출되지 않습니다.`,
@@ -952,10 +952,10 @@ const triggerSet: TriggerSet<Data> = {
              Sowohl die Gruppe als auch der Heiler bewegen sich entweder um 45 oder 90 Grad.
              Es ist eine "schnelle" Bewegung, wenn man sich schnell bewegen muss, um dem Ifrit-Folgeschlag auszuweichen.
              Es ist eine "langsame" Bewegung, wenn man mehr Zeit hat, dies zu tun.`,
-        cn: `这是从第一次火神冲附近开始的火神冲主要移动。
-             人群和奶妈都将移动 45 度或 90 度。
-             "快" 可以让你快速移动，躲避第二次火神冲。
-             "慢" 当你有足够的时间来移动时使用。`,
+        cn: `這是從第一次火神衝附近開始的火神衝主要移動。
+             人群和奶媽都將移動 45 度或 90 度。
+             "快" 可以讓你快速移動，躲避第二次火神衝。
+             "慢" 當你有足夠的時間來移動時使用。`,
         ko: `첫 번째 돌진 직후부터 시작되는 이프리트 돌진의 주요 동선입니다.
              본대와 힐러 모두 45도 또는 90도로 움직입니다.
              이프리트의 후속 돌진을 피하기 위해 빠르게 이동해야 하는 경우 "빠른" 이동입니다.

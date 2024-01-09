@@ -491,11 +491,11 @@ const triggerSet: TriggerSet<Data> = {
         },
         cn: {
           'X□○Δ (BPOG)': 'xsct',
-          '○XΔ□ (1234笔画)': 'cxts',
+          '○XΔ□ (1234筆畫)': 'cxts',
           '○Δ□X (Rocketship)': 'ctsx',
           '○ΔX□ (彩虹)': 'ctxs',
           'Δ○X□ (TOXS)': 'tcxs',
-          '只报形状和debuff': 'shapeAndDebuff',
+          '只報形狀和debuff': 'shapeAndDebuff',
         },
         ko: {
           'X□○Δ (파보빨초)': 'xsct',
@@ -518,7 +518,7 @@ const triggerSet: TriggerSet<Data> = {
         fr:
           'Afficher la position finale uniquement dans l\'ordre des paires choisies, sans inversion. Par exemple, pour le BPOG, le X bleu (croix) sera loin à l\'ouest. <a href="https://quisquous.github.io/cactbot/resources/images/06ew_raid_p12s_classic2_noflip.webp" target="_blank">Visual</a>',
         cn:
-          '只报自己图案的最终位置，没有位置变换。例如，对于 BPOG 打法，蓝 X 是第一列（西面最远）。 <a href="https://quisquous.github.io/cactbot/resources/images/06ew_raid_p12s_classic2_noflip.webp" target="_blank">Visual</a>',
+          '只報自己圖案的最終位置，沒有位置變換。例如，對於 BPOG 打法，藍 X 是第一列（西面最遠）。 <a href="https://quisquous.github.io/cactbot/resources/images/06ew_raid_p12s_classic2_noflip.webp" target="_blank">Visual</a>',
         ko:
           '선택한 도형 순서에 따른 최종 위치만 알립니다. 예시에서 파보빨초를 기준으로 파랑 X는 1열이 됩니다. <a href="https://quisquous.github.io/cactbot/resources/images/06ew_raid_p12s_classic2_noflip.webp" target="_blank">Visual</a>',
       },
