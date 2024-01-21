@@ -8040,7 +8040,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 0,
     'name': {
-      'cn': '裏塔提恩強攻戰',
+      'cn': '里塔提恩強攻戰',
       'de': 'Kap Westwind',
       'en': 'Cape Westwind',
       'fr': 'Le Cap Vendouest',

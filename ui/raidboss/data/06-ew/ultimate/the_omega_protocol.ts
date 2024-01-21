@@ -189,7 +189,7 @@ const triggerSet: TriggerSet<Data> = {
         ja:
           '<a href="https://github.com/quisquous/cactbot/releases/tag/v0.28.19" target="_blank">ノート参考</a>',
         cn:
-          '<a href="https://github.com/quisquous/cactbot/releases/tag/v0.28.19" target="_blank">阅读笔记</a>',
+          '<a href="https://github.com/quisquous/cactbot/releases/tag/v0.28.19" target="_blank">閱讀筆記</a>',
         ko:
           '<a href="https://github.com/quisquous/cactbot/releases/tag/v0.28.19" target="_blank">참고</a>',
       },

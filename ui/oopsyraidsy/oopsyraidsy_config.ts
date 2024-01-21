@@ -309,10 +309,10 @@ const templateOptions: OptionsTemplate = {
           '名前 (Tini Poutini)': 'name',
         },
         cn: {
-          '昵称 (弗雷)': 'nick',
-          '职能 (坦克)': 'role',
-          '职业简称 (暗骑)': 'job',
-          '职业全称 (暗黑骑士)': 'jobFull',
+          '暱稱 (弗雷)': 'nick',
+          '職能 (坦克)': 'role',
+          '職業簡稱 (暗騎)': 'job',
+          '職業全稱 (暗黑騎士)': 'jobFull',
           '全名 (弗雷)': 'name',
         },
         ko: {
