@@ -32,17 +32,17 @@ const pageText = {
   analysisFilterInput: {
     en: 'Apply Analysis Filter (Dev Only)',
     fr: 'Appliquer le filtre d\'analyse (Dev seulement)',
-    cn: '应用分析过滤器（开发中选项）',
+    cn: '應用分析過濾器（開發中選項）',
   },
   exportSelectedInput: {
     en: 'Export Selected',
     fr: 'Exporter la sélection',
-    cn: '导出已选择日志',
+    cn: '導出已選擇日誌',
   },
   exportAllInput: {
     en: 'Export Entire Log',
     fr: 'Exporter tout le log',
-    cn: '导出全部日志',
+    cn: '導出全部日誌',
   },
 } as const;
 

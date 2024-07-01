@@ -501,7 +501,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Nimm Verbindung von der Schwester!!!',
             fr: 'Prenez le lien de la sœur !!!',
             ja: '分身の線を取って!!!',
-            cn: '接分身的线!!!',
+            cn: '接分身的線!!!',
             ko: '분신 줄 가져가기!!!',
           },
           // Other people with 1 stack can be informed about it.
@@ -510,7 +510,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Schwester Verbindungen',
             fr: 'Lien de la sœur',
             ja: '分身の線',
-            cn: '分身连线',
+            cn: '分身連線',
             ko: '분신 줄',
           },
           // Usually static on a ranged.
