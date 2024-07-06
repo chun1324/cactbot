@@ -64,7 +64,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Catoblepas': '卡托布莱帕斯',
+        'Catoblepas': '卡托布萊帕斯',
         'Mumuepo the Beholden': '退位主教 穆穆埃珀',
       },
     },
