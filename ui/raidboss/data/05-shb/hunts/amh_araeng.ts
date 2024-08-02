@@ -126,9 +126,9 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Maliktender': '马利克巨人掌',
-        'Sugaar': '休格尔',
-        'Tarchia': '多智兽',
+        'Maliktender': '馬利克巨人掌',
+        'Sugaar': '休格爾',
+        'Tarchia': '多智獸',
       },
     },
     {
