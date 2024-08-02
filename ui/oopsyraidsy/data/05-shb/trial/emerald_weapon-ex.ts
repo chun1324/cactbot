@@ -92,7 +92,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: `${matches.ability} (falsche Farbe)`,
             fr: `${matches.ability} (mauvaise couleur)`,
             ja: `${matches.ability} (色違う)`,
-            cn: `${matches.ability} (颜色错了)`,
+            cn: `${matches.ability} (顏色錯了)`,
             ko: `${matches.ability} (색 틀림)`,
           },
         };
@@ -113,7 +113,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: `${matches.ability} (falsche Farbe)`,
             fr: `${matches.ability} (mauvaise couleur)`,
             ja: `${matches.ability} (色違う)`,
-            cn: `${matches.ability} (颜色错了)`,
+            cn: `${matches.ability} (顏色錯了)`,
             ko: `${matches.ability} (색 틀림)`,
           },
         };
