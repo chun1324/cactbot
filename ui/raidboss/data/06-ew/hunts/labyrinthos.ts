@@ -28,7 +28,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Folge dem Ansturm',
           fr: 'Suivez la charge',
           ja: 'ボス従う',
-          cn: '跟随冲锋',
+          cn: '跟隨衝鋒',
           ko: '돌진 따라가기',
         },
       },
@@ -114,7 +114,7 @@ const triggerSet: TriggerSet<Data> = {
       'locale': 'cn',
       'replaceSync': {
         'Hulder': '胡睹',
-        'Storsie': '斯图希',
+        'Storsie': '斯圖希',
       },
     },
     {

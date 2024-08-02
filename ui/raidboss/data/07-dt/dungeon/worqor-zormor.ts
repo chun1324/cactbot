@@ -44,7 +44,7 @@ const coldFeatOutputStrings = {
   start: {
     en: 'Start ${dir}',
     fr: 'Début ${dir}',
-    cn: '从 ${dir} 开始',
+    cn: '從 ${dir} 開始',
     ko: '${dir}쪽 시작',
   },
   followup: {
@@ -56,13 +56,13 @@ const coldFeatOutputStrings = {
   avoidStart: {
     en: 'Avoid cleaves from untethered adds',
     fr: 'Évitez les cleaves des adds non-liés',
-    cn: '躲避未连线的小怪攻击',
+    cn: '躲避未連線的小怪攻擊',
     ko: '연결 안 된 쫄 장판 피하기',
   },
   avoidFollowup: {
     en: 'Avoid cleaves from remaining adds',
     fr: 'Évitez les cleaves des adds restants',
-    cn: '躲避剩余小怪攻击',
+    cn: '躲避剩餘小怪攻擊',
     ko: '남아있는 쫄 장판 피하기',
   },
   or: Outputs.or,
@@ -245,7 +245,7 @@ const triggerSet: TriggerSet<Data> = {
         avoidAndSpread: {
           en: 'Avoid lines => Spread after',
           fr: 'Évitez les lignes => Dispersion ensuite',
-          cn: '躲避直线 => 然后散开',
+          cn: '躲避直線 => 然後散開',
           ko: '직선 장판 피하기 => 이후 산개',
         },
       },
@@ -277,13 +277,13 @@ const triggerSet: TriggerSet<Data> = {
         stackInHole: {
           en: 'Stack donuts in hole',
           fr: 'Pack donuts dans le trou',
-          cn: '在安全环内重叠月环',
+          cn: '在安全環內重疊月環',
           ko: '안전지대에서 도넛 겹치기',
         },
         stackInLines: {
           en: 'Stack donuts in safe lines',
           fr: 'Pack donuts dans les lignes sûres',
-          cn: '在安全直线内重叠月环',
+          cn: '在安全直線內重疊月環',
           ko: '선 위에서 도넛 겹치기',
         },
       },
@@ -301,13 +301,13 @@ const triggerSet: TriggerSet<Data> = {
         spreadFromHole: {
           en: 'Spread + Away from puddle',
           fr: 'Dispersion + Loin des flaques',
-          cn: '分散 + 远离圈圈',
+          cn: '散開 + 遠離圈圈',
           ko: '산개 + 장판 피하기',
         },
         spreadFromLines: {
           en: 'Spread + Away from lines',
           fr: 'Dispersion + Loin des lignes',
-          cn: '分散 + 远离直线',
+          cn: '散開 + 遠離直線',
           ko: '산개 + 직선 장판 피하기',
         },
       },
@@ -344,7 +344,7 @@ const triggerSet: TriggerSet<Data> = {
         spreadBreak: {
           en: 'Spread => Break crystals',
           fr: 'Dispersion => Cassez les cristaux',
-          cn: '分散 => 击碎水晶',
+          cn: '散開 => 擊碎水晶',
           ko: '산개 => 크리스탈 부수기',
         },
       },
@@ -409,7 +409,7 @@ const triggerSet: TriggerSet<Data> = {
         kb: {
           en: 'Knockback (from West)',
           fr: 'Poussée (depuis l\'ouest)',
-          cn: '击退 (从左边)',
+          cn: '擊退 (從左邊)',
           ko: '넉백 (서쪽에서)',
         },
       },
@@ -428,7 +428,7 @@ const triggerSet: TriggerSet<Data> = {
         dodgeSpread: {
           en: 'Dodge toward fire crystal => Spread',
           fr: 'Esquivez vers le cristal de feu => Dispersion',
-          cn: '向火石板移动躲避扩散攻击 => 分散',
+          cn: '向火石板移動躲避擴散攻擊 => 散開',
           ko: '퍼지는 불 장판 피하기 => 산개',
         },
       },
@@ -449,13 +449,13 @@ const triggerSet: TriggerSet<Data> = {
         kbEast: {
           en: 'Knockback (from East) to Fire crystal => Spread',
           fr: 'Poussée (depuis l\'est) vers le cristal de feu => Dispersion',
-          cn: '从右边击退到火石板 => 分散',
+          cn: '從右邊擊退到火石板 => 散開',
           ko: '불 크리스탈로 넉백 (동쪽에서) => 산개',
         },
         kbWest: {
           en: 'Knockback (from West) to Fire crystal => Spread',
           fr: 'Poussée (depuis l\'ouest) vers le cristal de feu => Dispersion',
-          cn: '从左边击退到火石板 => 分散',
+          cn: '從左邊擊退到火石板 => 散開',
           ko: '불 크리스탈로 넉백 (서쪽에서) => 산개',
         },
       },
@@ -470,7 +470,7 @@ const triggerSet: TriggerSet<Data> = {
         kbAoe: {
           en: 'Knockback + AoE',
           fr: 'Poussée + AoE',
-          cn: '击退 + AOE',
+          cn: '擊退 + AOE',
           ko: '넉백 + 전체공격',
         },
       },
@@ -485,7 +485,7 @@ const triggerSet: TriggerSet<Data> = {
         kbAoe2: {
           en: 'Knockback + AoE (avoid tornadoes)',
           fr: 'Poussée + AoE (évitez les tornades)',
-          cn: '击退 + AOE (躲避龙卷风)',
+          cn: '擊退 + AOE (躲避龍捲風)',
           ko: '넉백 + 전체공격 (회오리 피하기)',
         },
       },

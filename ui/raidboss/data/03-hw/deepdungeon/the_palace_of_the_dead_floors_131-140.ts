@@ -62,8 +62,8 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Deep Palace Ahriman': '深宫冥鬼之眼',
-        'Deep Palace Catoblepas': '深宫卡托布莱帕斯',
+        'Deep Palace Ahriman': '深宮冥鬼之眼',
+        'Deep Palace Catoblepas': '深宮卡托布萊帕斯',
       },
     },
     {
