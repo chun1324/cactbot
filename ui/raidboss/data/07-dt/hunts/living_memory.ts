@@ -114,7 +114,7 @@ const cardOutputStrings = {
   unknown: Outputs.unknown,
   start: {
     en: 'Start ${dir}',
-    cn: '${dir} 开始',
+    cn: '${dir} 開始',
   },
 };
 
@@ -159,7 +159,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Face away from landing marker',
           de: 'Schau weg von der Ziel-Markierung',
           fr: 'Orientez-vous ailleurs du marqueur d\'arrivée',
-          cn: '背对落地点',
+          cn: '背對落地點',
           ko: '바닥징 뒤돌기',
         },
       },
@@ -176,7 +176,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Face toward landing marker',
           de: 'Schau zur Ziel-Markierung',
           fr: 'Orientez-vous vers le marqueur d\'arrivée',
-          cn: '面向落地点',
+          cn: '面向落地點',
           ko: '바닥징 쳐다보기',
         },
       },
@@ -191,7 +191,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Stack (face away from target)',
           de: 'Sammeln (Schau weg vom Ziel)',
           fr: 'Pack (ne regardez pas la cible)',
-          cn: '分摊 (背对目标)',
+          cn: '集合 (背對目標)',
           ko: '쉐어 (대상에게서 뒤돌기)',
         },
       },
@@ -205,7 +205,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Stack (face toward target)',
           fr: 'Pack (regardez la cible)',
-          cn: '分摊 (面向目标)',
+          cn: '集合 (面向目標)',
           ko: '쉐어 (대상 바라보기)',
         },
       },
@@ -574,10 +574,10 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Cat\'s Eye': '猫眼',
-        'Sally the Sweeper': '清除者萨利',
-        'The Forecaster': '天气预报机器人',
-        'Mica the Magical Mu': '亩鼠米卡',
+        'Cat\'s Eye': '貓眼',
+        'Sally the Sweeper': '清除者薩利',
+        'The Forecaster': '天氣預報機器人',
+        'Mica the Magical Mu': '畝鼠米卡',
       },
     },
   ],

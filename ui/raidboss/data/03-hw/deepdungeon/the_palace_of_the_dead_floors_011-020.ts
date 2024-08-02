@@ -62,7 +62,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Palace Cobra': '地宫眼镜蛇',
+        'Palace Cobra': '地宮眼鏡蛇',
         'Spurge': '大戟花',
       },
     },
