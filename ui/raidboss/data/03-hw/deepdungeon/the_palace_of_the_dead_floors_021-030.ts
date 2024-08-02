@@ -83,9 +83,9 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Ningishzida': '宁吉兹济达',
-        'Palace Minotaur': '地宫弥诺陶洛斯',
-        'Palace Skatene': '地宫斯卡尼特',
+        'Ningishzida': '寧吉茲濟達',
+        'Palace Minotaur': '地宮彌諾陶洛斯',
+        'Palace Skatene': '地宮斯卡尼特',
       },
     },
     {

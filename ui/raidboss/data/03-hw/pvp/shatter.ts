@@ -53,7 +53,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Grosses Eis: Süden',
           fr: 'Grosse Glace : Sud-Est',
           ja: '氷: 南東',
-          cn: '大冰: 东南',
+          cn: '大冰: 東南',
           ko: '큰 얼음: 남동쪽',
         },
         southwest: {
