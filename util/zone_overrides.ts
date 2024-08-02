@@ -128,7 +128,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '希瓦幻巧战',
+      'cn': '希瓦幻巧戰',
       'de': 'Traumprüfung - Shiva',
       'en': 'The Akh Afah Amphitheatre (Unreal)',
       'fr': 'L\'Amphithéâtre d\'Akh Afah (irréel)',
@@ -144,7 +144,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '泰坦幻巧战',
+      'cn': '泰坦幻巧戰',
       'de': 'Traumprüfung - Titan',
       'en': 'The Navel (Unreal)',
       'fr': 'Le Nombril (irréel)',
@@ -160,7 +160,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 3,
     'name': {
-      'cn': '利维亚桑幻巧战',
+      'cn': '利維亞桑幻巧戰',
       'de': 'Traumprüfung - Leviathan',
       'en': 'The <Emphasis>Whorleater</Emphasis> (Unreal)',
       'fr': 'Le Briseur de marées (irréel)',
@@ -176,7 +176,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '究极神兵幻巧战',
+      'cn': '究極神兵幻巧戰',
       'de': 'Traumprüfung - Ultima',
       'en': 'Ultima\'s Bane (Unreal)',
       'fr': 'Le fléau d\'Ultima (irréel)',
@@ -191,7 +191,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '萨菲洛特幻巧战',
+      'cn': '薩菲洛特幻巧戰',
       'de': 'Traumprüfung - Sephirot',
       'en': 'Containment Bay S1T7 (Unreal)',
       'fr': 'Unité de contention S1P7 (irréel)',
@@ -206,7 +206,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '索菲娅幻巧战',
+      'cn': '索菲婭幻巧戰',
       'de': 'Traumprüfung - Sophia',
       'en': 'Containment Bay P1T6 (Unreal)',
       'fr': 'Unité de contention P1P6 (irréel)',
@@ -221,7 +221,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 4,
     'name': {
-      'cn': '祖尔宛幻巧战',
+      'cn': '祖爾宛幻巧戰',
       'de': 'Traumprüfung - Zurvan',
       'en': 'Containment Bay Z1T9 (Unreal)',
       'fr': 'Unité de contention Z1P9 (irréel)',
@@ -254,7 +254,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '(6.1)皇都伊修加德保卫战',
+      'cn': '(6.1)皇都伊修加德保衛戰',
       'de': '(6.1)Der Schicksalsweg',
       'en': '(6.1)The Steps of Faith',
       'fr': '(6.1)Le Siège de la sainte Cité d\'Ishgard',
@@ -270,7 +270,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '(6.1)幻龙残骸密约之塔',
+      'cn': '(6.1)幻龍殘骸密約之塔',
       'de': '(6.1)Hüter des Sees',
       'en': '(6.1)The Keeper of the Lake',
       'fr': '(6.1)Le Gardien du lac',
@@ -286,7 +286,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 0,
     'name': {
-      'cn': '(6.1)莫古力贤王歼灭战',
+      'cn': '(6.1)莫古力賢王殲滅戰',
       'de': '(6.1)Königliche Konfrontation (schwer)',
       'en': '(6.1)Thornmarch (Hard)',
       'fr': '(6.1)La Lisière de ronces (brutal)',
@@ -302,7 +302,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '(6.1)凛冽洞天披雪大冰壁',
+      'cn': '(6.1)凜冽洞天披雪大冰壁',
       'de': '(6.1)Das Schneekleid',
       'en': '(6.1)Snowcloak',
       'fr': '(6.1)Manteneige',
@@ -318,7 +318,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.1)圣教中枢伊修加德教皇厅',
+      'cn': '(6.1)聖教中樞伊修加德教皇廳',
       'de': '(6.1)Erzbasilika',
       'en': '(6.1)The Vault',
       'fr': '(6.1)La Voûte',
@@ -334,7 +334,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.1)邪龙王座龙巢神殿',
+      'cn': '(6.1)邪龍王座龍巢神殿',
       'de': '(6.1)Nest des Drachen',
       'en': '(6.1)The Aery',
       'fr': '(6.1)L\'Aire',
@@ -350,7 +350,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.1)天山绝顶索姆阿尔灵峰',
+      'cn': '(6.1)天山絕頂索姆阿爾靈峰',
       'de': '(6.1)Sohm Al',
       'en': '(6.1)Sohm Al',
       'fr': '(6.1)Sohm Al',
@@ -368,7 +368,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.2)学识宝库迦巴勒幻想图书馆',
+      'cn': '(6.2)學識寶庫迦巴勒幻想圖書館',
       'de': '(6.2)Große Gubal-Bibliothek',
       'en': '(6.2)The Great Gubal Library',
       'fr': '(6.2)La Grande bibliothèque de Gubal',
@@ -384,7 +384,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.2)血战苍穹魔科学研究所',
+      'cn': '(6.2)血戰蒼穹魔科學研究所',
       'de': '(6.2)Ätherochemisches For<SoftHyphen/>schungs<SoftHyphen/>labor',
       'en': '(6.2)The Aetherochemical Research Facility',
       'fr': '(6.2)Le Laboratoire de magismologie',
@@ -400,7 +400,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.2)星海空间颠倒塔',
+      'cn': '(6.2)星海空間顛倒塔',
       'de': '(6.2)Antiturm',
       'en': '(6.2)The Antitower',
       'fr': '(6.2)L\'Antitour',
@@ -416,7 +416,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.2)天龙宫殿忆罪宫',
+      'cn': '(6.2)天龍宮殿憶罪宮',
       'de': '(6.2)Sohr Khai',
       'en': '(6.2)Sohr Khai',
       'fr': '(6.2)Sohr Khai',
@@ -432,7 +432,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.2)险峻峡谷塞尔法特尔溪谷',
+      'cn': '(6.2)險峻峽谷塞爾法特爾溪谷',
       'de': '(6.2)Xelphatol',
       'en': '(6.2)Xelphatol',
       'fr': '(6.2)Xelphatol',
@@ -448,7 +448,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 1,
     'name': {
-      'cn': '(6.2)坚牢铁壁巴埃萨长城',
+      'cn': '(6.2)堅牢鐵壁巴埃薩長城',
       'de': '(6.2)Baelsar-Wall',
       'en': '(6.2)Baelsar\'s Wall',
       'fr': '(6.2)La Muraille de Baelsar',
@@ -466,7 +466,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '(6.3)试炼行路巴儿达木霸道',
+      'cn': '(6.3)試煉行路巴兒達木霸道',
       'de': '(6.3)Bardams Probe',
       'en': '(6.3)Bardam\'s Mettle',
       'fr': '(6.3)La Force de Bardam',
@@ -498,7 +498,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '(6.3)解放决战多玛王城',
+      'cn': '(6.3)解放決戰多瑪王城',
       'de': '(6.3)Burg Doma',
       'en': '(6.3)Doma Castle',
       'fr': '(6.3)Le Château de Doma',
@@ -514,7 +514,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '(6.3)巨炮要塞帝国白山堡',
+      'cn': '(6.3)巨炮要塞帝國白山堡',
       'de': '(6.3)Castrum Abania',
       'en': '(6.3)Castrum Abania',
       'fr': '(6.3)Castrum Abania',
@@ -530,7 +530,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '(6.3)鏖战红莲阿拉米格',
+      'cn': '(6.3)鏖戰紅蓮阿拉米格',
       'de': '(6.3)Ala Mhigo',
       'en': '(6.3)Ala Mhigo',
       'fr': '(6.3)Ala Mhigo',
@@ -548,7 +548,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '(6.4)死亡大地终末焦土',
+      'cn': '(6.4)死亡大地終末焦土',
       'de': '(6.4)Das Kargland',
       'en': '(6.4)The Burn',
       'fr': '(6.4)L\'Escarre',
@@ -564,7 +564,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '(6.4)沉没神殿斯卡拉遗迹',
+      'cn': '(6.4)沉沒神殿斯卡拉遺蹟',
       'de': '(6.4)Die versunkene Stadt Skalla',
       'en': '(6.4)The Drowned City of Skalla',
       'fr': '(6.4)La Cité engloutie de Skalla',
@@ -580,7 +580,7 @@ const _SYNTHETIC_ZONE_INFO: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 2,
     'name': {
-      'cn': '(6.4)国境防线基姆利特暗区',
+      'cn': '(6.4)國境防線基姆利特暗區',
       'de': '(6.4)Die Ghimlyt-Finsternis',
       'en': '(6.4)The Ghimlyt Dark',
       'fr': '(6.4)Les Ténèbres de Ghimlyt',
