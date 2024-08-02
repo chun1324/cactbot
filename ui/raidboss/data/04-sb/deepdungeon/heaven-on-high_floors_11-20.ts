@@ -55,7 +55,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Beccho': '别蝶',
+        'Beccho': '別蝶',
         'Heavenly Otokage': '天之巨蜥',
       },
     },
