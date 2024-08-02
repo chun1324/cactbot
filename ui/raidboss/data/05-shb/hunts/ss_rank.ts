@@ -19,7 +19,7 @@ const triggerSet: TriggerSet<Data> = {
     en: 'SS Rank Hunts',
     de: 'SS Jagdziele',
     fr: 'Objectifs de chasse SS',
-    cn: 'SS 级狩猎怪',
+    cn: 'SS 級狩獵怪',
     ko: 'SS급 마물',
   },
   triggers: [
@@ -81,7 +81,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Forgiven Rebellion': '得到宽恕的叛乱',
+        'Forgiven Rebellion': '得到寬恕的叛亂',
       },
     },
     {

@@ -57,7 +57,7 @@ const pushedIntoWall = (
           de: 'Rückstoß in die Wand',
           fr: 'Poussé(e) dans le mur',
           ja: '壁へノックバック',
-          cn: '击退至墙',
+          cn: '擊退至牆',
           ko: '넉백',
         },
       };
@@ -169,7 +169,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
       de: 'Tornado',
       fr: 'Tornade',
       ja: 'トルネド',
-      cn: '龙卷风',
+      cn: '龍捲風',
       ko: '토네이도',
     }),
     pushedIntoWall('AAI Angry Seas', '8AC1'),
