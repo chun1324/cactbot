@@ -1225,7 +1225,7 @@ const triggerSet: TriggerSet<Data> = {
         'Spring Crystals': '湧水水晶',
         'Stirring of Spirits': '祭祀重踏',
         'Strategic Strike': '強擊',
-        'Strewn Bubbles': '散佈氣泡',
+        'Strewn Bubbles': '散布氣泡',
         'Summon(?!\\w)': '召喚',
         'Summoning Rite': '召喚',
         'Surprise Balloon': '驚喜氣球',

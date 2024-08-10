@@ -91,7 +91,7 @@ export default {
     de: 'Tank-Verbindungen',
     fr: 'Liens Tank',
     ja: 'タンク線取り',
-    cn: '坦克截线',
+    cn: '坦克截線',
     ko: '탱커가 선 가로채기',
   },
   avoidTetherBusters: {
@@ -99,7 +99,7 @@ export default {
     de: 'Vermeide Tank Verbindungen',
     fr: 'Évitez les liens des Tanks',
     ja: 'タンクの線を避けて',
-    cn: '远离坦克连线',
+    cn: '遠離坦克連線',
     ko: '탱커 선 피하기',
   },
   tankCleave: {
@@ -195,7 +195,7 @@ export default {
     de: 'Ehrenstrafe aud DIR',
     fr: 'Diffamation sur VOUS',
     ja: '自分に巨大な爆発',
-    cn: '大圈点名',
+    cn: '大圈點名',
     ko: '광역징 대상자',
   },
   protean: {
@@ -203,7 +203,7 @@ export default {
     de: 'Himmelsrichtungen',
     fr: 'Positions',
     ja: '基本散会',
-    cn: '八方分散',
+    cn: '八方散開',
     ko: '8방향 산개',
   },
   stackMarker: {
@@ -245,7 +245,7 @@ export default {
     de: 'Auf ${player} sammeln',
     fr: 'Packez-vous sur ${player}',
     ja: '${player}に頭割り',
-    cn: '靠近 ${player}分摊',
+    cn: '靠近 ${player}集合',
     ko: '"${player}" 쉐어징',
   },
   stackPartner: {
@@ -253,7 +253,7 @@ export default {
     de: 'Mit Partner stacken',
     fr: 'Packez-vous avec votre partenaire',
     ja: 'ペア',
-    cn: '与搭档分摊',
+    cn: '與搭檔集合',
     ko: '파트너와 쉐어',
   },
   stackMiddle: {
@@ -269,7 +269,7 @@ export default {
     de: 'Flächen Ködern',
     fr: 'Attirez les flaques',
     ja: 'AOE誘導',
-    cn: '诱导圈圈',
+    cn: '誘導圈圈',
     ko: '장판 유도',
   },
   // For general more-than-one-stack-at-a-time situations
@@ -278,7 +278,7 @@ export default {
     de: 'Sammeln',
     fr: 'Package',
     ja: '頭割り',
-    cn: '分摊',
+    cn: '集合',
     ko: '쉐어',
   },
   doritoStack: {
@@ -766,7 +766,7 @@ export default {
     de: 'Kardinal',
     fr: 'Cardinaux',
     ja: '十字回避',
-    cn: '去正点',
+    cn: '去正點',
     ko: '십자방향으로',
   },
   intercards: {
