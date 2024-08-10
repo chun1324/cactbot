@@ -77,13 +77,13 @@ const triggerSet: TriggerSet<Data> = {
         cardinals: {
           en: '(cardinals later)',
           de: '(später Kardinal)',
-          cn: '(稍后去正点)',
+          cn: '(稍後去正點)',
           ko: '(나중에 십자방향)',
         },
         intercards: {
           en: '(intercards later)',
           de: '(später Interkardinal)',
-          cn: '(稍后去斜角)',
+          cn: '(稍後去斜角)',
           ko: '(나중에 대각선)',
         },
       },
@@ -167,13 +167,13 @@ const triggerSet: TriggerSet<Data> = {
         repel: {
           en: 'Forced knockback',
           de: 'Erzwungener Rückstoß',
-          cn: '强制击退',
+          cn: '強制擊退',
           ko: '강제 넉백',
         },
         attract: {
           en: 'Forced draw-in',
           de: 'Erzwungenes Rein-Ziehen',
-          cn: '强制吸引',
+          cn: '強制吸引',
           ko: '강제 끌어당김',
         },
         combo: {
@@ -206,13 +206,13 @@ const triggerSet: TriggerSet<Data> = {
         repel: {
           en: 'Forced knockback',
           de: 'Erzwungener Rückstoß',
-          cn: '强制击退',
+          cn: '強制擊退',
           ko: '강제 넉백',
         },
         attract: {
           en: 'Forced draw-in',
           de: 'Erzwungenes Rein-Ziehen',
-          cn: '强制吸引',
+          cn: '強制吸引',
           ko: '강제 끌어당김',
         },
         combo: {
@@ -406,6 +406,14 @@ const triggerSet: TriggerSet<Data> = {
     },
     {
       'locale': 'ja',
+      'replaceSync': {
+        'Heshuala': 'ヘシュワラ',
+        'Urna Variabilis': 'ヴァリアポッド',
+        'Atticus the Primogenitor': '先駆けのアティカス',
+      },
+    },
+    {
+      'locale': 'cn',
       'replaceSync': {
         'Heshuala': 'ヘシュワラ',
         'Urna Variabilis': 'ヴァリアポッド',
