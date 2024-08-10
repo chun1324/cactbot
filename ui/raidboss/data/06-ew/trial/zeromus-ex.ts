@@ -966,7 +966,7 @@ const triggerSet: TriggerSet<Data> = {
         'Zeromus': '澤羅姆斯',
       },
       'replaceText': {
-        '--spread--': '--分散--',
+        '--spread--': '--散開--',
         '--towers--': '--塔--',
         'Abyssal Echoes': '深淵回聲',
         'Abyssal Nox': '深淵之夜',

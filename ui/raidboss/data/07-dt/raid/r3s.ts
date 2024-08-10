@@ -44,7 +44,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Out + Spread',
           de: 'Raus + Verteilen',
-          cn: '外 + 分散',
+          cn: '外 + 散開',
         },
       },
     },
@@ -57,7 +57,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'In + Spread',
           de: 'Rein + Verteilen',
-          cn: '内 + 分散',
+          cn: '內 + 散開',
         },
       },
     },
@@ -70,7 +70,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Away + Spread',
           de: 'Weg + Verteilen',
-          cn: '远离 + 分散',
+          cn: '遠離 + 散開',
         },
       },
     },
@@ -83,7 +83,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Knockback + Spread',
           de: 'Rückstoß + Verteilen',
-          cn: '击退 + 分散',
+          cn: '擊退 + 散開',
         },
       },
     },
@@ -101,7 +101,7 @@ const triggerSet: TriggerSet<Data> = {
         getHit: {
           en: 'Get hit by mist',
           de: 'Werde vom Nebel getroffen',
-          cn: '吃连线分身半场刀',
+          cn: '吃連線分身半場刀',
         },
       },
     },
@@ -114,7 +114,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Away + Partners',
           de: 'Weg + Partner',
-          cn: '远离 + 分摊',
+          cn: '遠離 + 集合',
         },
       },
     },
@@ -127,7 +127,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Knockback + Partners',
           de: 'Rückstoß + Partner',
-          cn: '击退 + 分摊',
+          cn: '擊退 + 集合',
         },
       },
     },
@@ -140,7 +140,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Out + Partners',
           de: 'Raus + Partner',
-          cn: '外 + 分摊',
+          cn: '外 + 集合',
         },
       },
     },
@@ -153,7 +153,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'In + Partners',
           de: 'Rein + Partner',
-          cn: '内 + 分摊',
+          cn: '內 + 集合',
         },
       },
     },
@@ -167,7 +167,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Short Fuse',
           de: 'Kurze Lunte',
-          cn: '短引线',
+          cn: '短引線',
         },
       },
     },
@@ -181,7 +181,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Long Fuse',
           de: 'Lange Lunte',
-          cn: '长引线',
+          cn: '長引線',
         },
       },
     },
@@ -199,12 +199,12 @@ const triggerSet: TriggerSet<Data> = {
         short: {
           en: 'Short Fuse',
           de: 'Kurze Lunte',
-          cn: '短引线',
+          cn: '短引線',
         },
         long: {
           en: 'Long Fuse',
           de: 'Lange Lunte',
-          cn: '长引线',
+          cn: '長引線',
         },
       },
     },
@@ -290,6 +290,44 @@ const triggerSet: TriggerSet<Data> = {
     },
     {
       'locale': 'ja',
+      'missingTranslations': true,
+      'replaceSync': {
+        'Brute Bomber': 'ブルートボンバー',
+        'Brute Distortion': 'ブルートボンバーの幻影',
+        'Lit Fuse': 'フューズボム',
+      },
+      'replaceText': {
+        'Barbarous Barrage': 'ボンバリアンボム',
+        'Blazing Lariat': 'ラリアット・ブレイザー',
+        'Bombarian Flame': 'ボンバリアンファイヤー',
+        '(?<! )Bombarian Special': 'ボンバリアンスペシャル',
+        'Bombariboom': 'ボンバリアン・ショック',
+        'Brutal Impact': 'スマッシュインパクト',
+        'Chain Deathmatch': 'チェーンデスマッチ',
+        'Diveboom': 'パワーダイブ・ショック',
+        'Doping Draught': 'ドーピング',
+        'Explosion': '爆発',
+        'Explosive Rain': 'ボムレイン',
+        'Final Fusedown': '零式フューズボム',
+        'Fuse or Foe': 'アタッチ・フューズボム',
+        'Fusefield': 'フューズフィールド',
+        'Fuses of Fury': 'フューズボム',
+        'Infernal Spin': '極盛り式スピニングファイヤー',
+        'Knuckle Sandwich': 'ナックルパート',
+        'Lariat Combo': 'ラリアットコンビネーション',
+        'Murderous Mist': 'グリーンミスト',
+        'Octoboom Bombarian Special': '8ショック・ボンバリアンスペシャル',
+        'Octoboom Dive': '8ショック・パワーダイブ',
+        'Octuple Lariat': '8ウェイ・ダブルラリアット',
+        'Quadroboom Dive': '4ショック・パワーダイブ',
+        'Quadruple Lariat': '4ウェイ・ダブルラリアット',
+        'Self-Destruct': '自爆',
+        'Special Bombarian Special': 'アルティメット・ボンバリアンスペシャル',
+        'Tag Team': 'タッグマッチ',
+      },
+    },
+    {
+      'locale': 'cn',
       'missingTranslations': true,
       'replaceSync': {
         'Brute Bomber': 'ブルートボンバー',
