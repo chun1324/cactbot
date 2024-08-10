@@ -24,7 +24,7 @@ const triggerSet: TriggerSet<Data> = {
     de: 'SS Jagdziele',
     fr: 'Objectifs de chasse SS',
     ja: 'SSモブ',
-    cn: 'SS 级狩猎怪',
+    cn: 'SS 級狩獵怪',
     ko: 'SS급 마물',
   },
   triggers: [

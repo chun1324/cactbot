@@ -1454,7 +1454,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
         de: 'Wellenkanone Himmelsrichtung',
         fr: 'Position pour le canon',
         ja: '散会波動砲',
-        cn: '分散波動炮',
+        cn: '散開波動炮',
         ko: '산개 파동포',
       }),
     },
