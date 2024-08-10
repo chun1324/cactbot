@@ -607,7 +607,7 @@ const triggerSet: TriggerSet<Data> = {
       },
       'replaceText': {
         '\\(cast\\)': '(詠唱)',
-        '\\(spread\\)': '(分散)',
+        '\\(spread\\)': '(散開)',
         'Abyssal Outburst': '黑暗爆發',
         'Antipodal Assault': '對跖強刺',
         'Antlion March': '蟻獅行軍',
