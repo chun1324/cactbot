@@ -119,9 +119,9 @@ const triggerSet: TriggerSet<Data> = {
           '全ての塔': 'all',
         },
         cn: {
-          '关闭功能': 'none',
-          '第一个塔': 'first',
-          '前两个塔 (推荐)': 'two',
+          '關閉功能': 'none',
+          '第一個塔': 'first',
+          '前兩個塔 (推薦)': 'two',
           '全部塔': 'all',
         },
       },

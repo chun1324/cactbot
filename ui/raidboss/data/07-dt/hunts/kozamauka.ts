@@ -48,7 +48,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Out (then behind)',
           de: 'Raus (danach Hinten)',
-          cn: '远离 (然后去背后)',
+          cn: '遠離 (然後去背後)',
           ko: '밖으로 (그리고 뒤로)',
         },
       },
@@ -68,7 +68,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Follow jump (then out => behind)',
           de: 'Sprung folgen (dann Raus => Hinten)',
-          cn: '跟随跳跃 (然后远离 => 背后)',
+          cn: '跟隨跳躍 (然後遠離 => 背後)',
           ko: '돌진 따라가기 (그리고 밖 => 뒤로)',
         },
       },
@@ -83,7 +83,7 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: 'Out => Behind',
           de: 'Raus => Hinten',
-          cn: '远离 => 背后',
+          cn: '遠離 => 背後',
           ko: '밖 => 뒤로',
         },
       },
@@ -176,6 +176,14 @@ const triggerSet: TriggerSet<Data> = {
     },
     {
       'locale': 'ja',
+      'replaceSync': {
+        'Pkuucha': 'プクーチャ',
+        'The Raintriller': 'レイントリラー',
+        'Ihnuxokiy': 'イヌショキー',
+      },
+    },
+    {
+      'locale': 'cn',
       'replaceSync': {
         'Pkuucha': 'プクーチャ',
         'The Raintriller': 'レイントリラー',

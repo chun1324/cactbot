@@ -354,9 +354,9 @@ const triggerSet: TriggerSet<Data> = {
              Par souci de concision, "à côté de" signifie toujours horizontal
              à l'est ou à l'ouest de quelque chose.
              Voir le déclencheur source pour les diagrammes dans les commentaires.`,
-        cn: `这些方向假设你一直选的是同一面向的四块地板方格上的水晶。
-             简洁起见，"相邻" 指的是左右水平相邻的某一个水晶。
-             请参阅触发器源代码注释中的图表。`,
+        cn: `這些方向假設你一直選的是同一面向的四塊地板方格上的水晶。
+             簡潔起見，"相鄰" 指的是左右水平相鄰的某一個水晶。
+             請參閱觸發器源代碼註釋中的圖表。`,
         ko: `이곳의 방향 지시는 항상 지정된 수정과 같은 사분면에 있는 정사각형을 선택한다고 가정합니다.
              간결성을 위해, '옆'은 항상 무언가의 동쪽/서쪽을 의미합니다.
              트리거 소스코드에 주석으로 작성된 다이어그램을 참고하세요.`,

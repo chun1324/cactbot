@@ -796,7 +796,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Mit Partner sammeln (auf dir)',
           fr: 'Package partenaire (sur vous)',
           ja: 'ペア頭割り（自分が対象）',
-          cn: '與同伴分攤 (原地分攤)',
+          cn: '與同伴集合 (原地集合)',
           ko: '파트너 쉐어 (대상자)',
         },
         enumKnockback: {
@@ -804,7 +804,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Mit Partner sammeln (Rückstoß)',
           fr: 'Package partenaire (poussée)',
           ja: 'ペア頭割り（跳ばされる）',
-          cn: '與同伴分攤 (被擊飛)',
+          cn: '與同伴集合 (被擊飛)',
           ko: '파트너 쉐어 (넉백)',
         },
       },
