@@ -2232,7 +2232,7 @@ const triggerSet: TriggerSet<Data> = {
         'Sphere Shatter': '碎裂',
         'Spring Crystals': '湧水水晶',
         'Strategic Strike': '強擊',
-        'Strewn Bubbles': '散佈氣泡',
+        'Strewn Bubbles': '散布氣泡',
         'Surprise Balloon': '驚喜氣球',
         'Surprise Needle': '驚喜飛針',
         'Symmetric Surge': '雙數爆炸',

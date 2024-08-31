@@ -210,7 +210,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Ziehle auf nich gerissene Fläche',
           fr: 'Visez une tuile non-brisée',
           ja: '割れていない床を狙う',
-          cn: '瞄準完好的平臺',
+          cn: '瞄準完好的平台',
           ko: '부서지지 않은 칸으로 유도',
         },
       },
