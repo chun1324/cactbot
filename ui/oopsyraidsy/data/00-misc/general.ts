@@ -382,7 +382,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
                 de: `überschrieb ${lastSourceShort}'s ${matches.ability}`,
                 fr: `a écrasé ${matches.ability} de ${lastSourceShort}`,
                 ja: `${lastSourceShort}の${matches.ability}を上書き`,
-                cn: `顶掉了${lastSourceShort}的${matches.ability}`,
+                cn: `頂掉了${lastSourceShort}的${matches.ability}`,
                 ko: `${lastSourceShort}의 ${matches.ability} 덮어씀`,
               },
             };

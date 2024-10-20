@@ -56,7 +56,7 @@ const triggerSet: TriggerSet<Data> = {
         inside: {
           en: 'Go inside',
           fr: 'Intérieur',
-          cn: '去里面',
+          cn: '去裡面',
         },
       },
     },
@@ -73,12 +73,12 @@ const triggerSet: TriggerSet<Data> = {
         northSouth: {
           en: 'Dodge North/South line cleaves',
           fr: 'Esquivez les cleaves en ligne N/S',
-          cn: '躲避 南/北 直线攻击',
+          cn: '躲避 南/北 直線攻擊',
         },
         grid: {
           en: 'Spread + dodge grid cleaves',
           fr: 'Dispersion + esquivez les cleaves en grille',
-          cn: '分散 + 躲避网格攻击',
+          cn: '散開 + 躲避網格攻擊',
         },
       },
     },
