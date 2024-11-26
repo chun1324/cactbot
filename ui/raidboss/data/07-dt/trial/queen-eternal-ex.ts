@@ -230,11 +230,11 @@ const triggerSet: TriggerSet<Data> = {
         rightLeft: Outputs.rightThenLeft,
         left: {
           en: 'Knockback Left',
-          cn: '向左击退',
+          cn: '向左擊退',
         },
         right: {
           en: 'Knockback Right',
-          cn: '向右击退',
+          cn: '向右擊退',
         },
         break: Outputs.breakChains,
         unknown: Outputs.unknown,
@@ -310,7 +310,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         cone: {
           en: 'Cone on YOU',
-          cn: '扇形点名',
+          cn: '扇形點名',
         },
       },
     },
@@ -347,7 +347,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         text: {
           en: 'Hide behind rocks',
-          cn: '躲在石头后',
+          cn: '躲在石頭後',
         },
       },
     },
@@ -445,7 +445,7 @@ const triggerSet: TriggerSet<Data> = {
         ...Directions.outputStringsCardinalDir,
         text: {
           en: '${laserDir} laser, ${sideDir} side, w/ ${partner}',
-          cn: '${laserDir} 激光, ${sideDir} 侧, 和 ${partner}',
+          cn: '${laserDir} 雷射, ${sideDir} 側, 和 ${partner}',
         },
         unknown: Outputs.unknown,
       },
@@ -481,7 +481,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         spread: {
           en: 'Flare Marker Spread',
-          cn: '核爆点名分散',
+          cn: '核爆點名散開',
         },
         stack: Outputs.stackMarker,
         dorito: Outputs.doritoStack,
@@ -549,15 +549,15 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         unknown: {
           en: 'Spread ???, stretch tethers',
-          cn: '???分散, 拉线至变色',
+          cn: '???散開, 拉線至變色',
         },
         west: {
           en: 'Spread West, stretch tethers',
-          cn: '左分散, 拉线至变色',
+          cn: '左散開, 拉線至變色',
         },
         east: {
           en: 'Spread East, stretch tethers',
-          cn: '右分散, 拉线至变色',
+          cn: '右散開, 拉線至變色',
         },
       },
     },
@@ -622,15 +622,15 @@ const triggerSet: TriggerSet<Data> = {
         unknown: Outputs.unknown,
         wind: {
           en: 'Wind/Green',
-          cn: '风/绿地板',
+          cn: '風/綠地板',
         },
         earth: {
           en: 'Earth/Yellow',
-          cn: '土/黄地板',
+          cn: '土/黃地板',
         },
         ice: {
           en: 'Ice/Blue',
-          cn: '冰/蓝地板',
+          cn: '冰/藍地板',
         },
         combo: {
           en: '${elem} => ${spread}',
@@ -668,7 +668,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         back: {
           en: 'Back, Tank Towers => AoE',
-          cn: '去后半场, 坦克踩塔 => AoE',
+          cn: '去後半場, 坦克踩塔 => AoE',
         },
       },
     },

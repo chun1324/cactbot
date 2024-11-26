@@ -54,7 +54,7 @@ const triggerSet: TriggerSet<Data> = {
         wave: {
           en: 'Look away from party',
           fr: 'Ne regardez pas le groupe',
-          cn: '背对小队成员',
+          cn: '背對小隊成員',
           ko: '파티원쪽 쳐다보지 않기',
         },
       },
@@ -154,13 +154,13 @@ const triggerSet: TriggerSet<Data> = {
         avoidDir: {
           en: 'Safe: ${dir} (on hitbox)',
           fr: 'Sûr : ${dir} (sur la hitbox)',
-          cn: '安全区: ${dir} (判定圈上)',
+          cn: '安全區: ${dir} (判定圈上)',
           ko: '안전: ${dir} (히트박스 안)',
         },
         avoid: {
           en: 'Avoid shifting bubbles',
           fr: 'Éviter les bulles mobiles',
-          cn: '躲避被击退的泡泡',
+          cn: '躲避被擊退的泡泡',
           ko: '밀려나는 거품 피하기',
         },
         ...Directions.outputStringsIntercardDir,
@@ -193,13 +193,13 @@ const triggerSet: TriggerSet<Data> = {
         awayFromOrb: {
           en: 'North + Away from orb',
           fr: 'Nord + Évitez les orbes',
-          cn: '上 + 远离黄球',
+          cn: '上 + 遠離黃球',
           ko: '북쪽 + 구슬에서 멀리 떨어지기',
         },
         nearOrb: {
           en: 'Be close to North orb',
           fr: 'Près de l\'orbe nord',
-          cn: '靠近上半场黄球',
+          cn: '靠近上半場黃球',
           ko: '북쪽 구슬에 가까이 붙기',
         },
       },
@@ -237,13 +237,13 @@ const triggerSet: TriggerSet<Data> = {
         stackThree: {
           en: 'Stack (3 hits)',
           fr: 'Pack (3 coups)',
-          cn: '分摊 (3次)',
+          cn: '集合 (3次)',
           ko: '쉐어 (3번)',
         },
         stackFive: {
           en: 'Stack (5 hits)',
           fr: 'Pack (5 coups)',
-          cn: '分摊 (5次)',
+          cn: '集合 (5次)',
           ko: '쉐어 (5번)',
         },
       },
@@ -273,7 +273,7 @@ const triggerSet: TriggerSet<Data> = {
         kbAoeSpread: {
           en: 'Knockback (AoE) => Spread',
           fr: 'Poussée (AoE) => Dispersion',
-          cn: '击退 (AOE) => 分散',
+          cn: '擊退 (AOE) => 散開',
           ko: '넉백 => 산개',
         },
       },
@@ -288,7 +288,7 @@ const triggerSet: TriggerSet<Data> = {
         dodgeSides: {
           en: 'Avoid AoEs (sides after)',
           fr: 'Évitez les AoE (côtés ensuite)',
-          cn: '躲 AOE (然后去两侧)',
+          cn: '躲 AOE (然後去兩側)',
           ko: '장판 피하기 (이후 옆으로)',
         },
       },
@@ -311,7 +311,7 @@ const triggerSet: TriggerSet<Data> = {
         dodgeMiddle: {
           en: 'Avoid AoEs (middle after)',
           fr: 'Évitez les AoE (milieu ensuite)',
-          cn: '躲 AOE (然后去中间)',
+          cn: '躲 AOE (然後去中間)',
           ko: '장판 피하기 (이후 중앙으로)',
         },
       },
@@ -338,13 +338,13 @@ const triggerSet: TriggerSet<Data> = {
         east: {
           en: '<== Knockback Back Left (Right After)',
           fr: '<== Poussée arrière gauche (Droite ensuite)',
-          cn: '<== 击退到左后 (然后去右)',
+          cn: '<== 擊退到左後 (然後去右)',
           ko: '<== 왼쪽으로 넉백 (이후 오른쪽)',
         },
         west: {
           en: 'Knockback Back Right (Left After) ==>',
           fr: 'Poussée arrière droite (Gauche ensuite) ==>',
-          cn: '击退到右后 (然后去左) ==>',
+          cn: '擊退到右後 (然後去左) ==>',
           ko: '오른쪽으로 넉백 (이후 왼쪽) ==>',
         },
       },
@@ -362,7 +362,7 @@ const triggerSet: TriggerSet<Data> = {
         knockback: {
           en: 'Knockback (to ${dir})',
           fr: 'Poussée (vers ${dir})',
-          cn: '击退 (去 ${dir})',
+          cn: '擊退 (去 ${dir})',
           ko: '넉백 (${dir}쪽으로)',
         },
         dirNE: Outputs.dirNE,
@@ -381,7 +381,7 @@ const triggerSet: TriggerSet<Data> = {
         spreadAfter: {
           en: '(spread after)',
           fr: '(dispersion ensuite)',
-          cn: '(然后分散)',
+          cn: '(然後散開)',
           ko: '(이후 산개)',
         },
       },
@@ -397,7 +397,7 @@ const triggerSet: TriggerSet<Data> = {
         stackAfter: {
           en: '(stack after)',
           fr: '(pack ensuite)',
-          cn: '(然后集合)',
+          cn: '(然後集合)',
           ko: '(이후 쉐어)',
         },
       },
