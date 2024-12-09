@@ -60,7 +60,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Tuligora Troupes spawned, kill in order!',
           de: 'Turalische Truppen sind erschienen, besiege sie in der Reihenfolge!',
           fr: 'Les troupes de Tuligora sont apparues, tuez-les dans l\'ordre !',
-          cn: '图拉尔蔓德拉战队 已生成，按顺序击杀！',
+          cn: '圖拉爾蔓德拉戰隊 已生成，按順序擊殺！',
         },
       },
     },

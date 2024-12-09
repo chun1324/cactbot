@@ -45,7 +45,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Fäulnis auf ${player}',
           fr: 'Pourriture sur ${player}',
           ja: '${player}にアラガンロット',
-          cn: '毒点 ${player}',
+          cn: '毒點 ${player}',
           ko: '${player} 알라그 부패',
         },
         rotOnYou: {
@@ -53,7 +53,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Fäulnis auf DIR',
           fr: 'Pourriture sur VOUS',
           ja: '自分にアラガンロット',
-          cn: '毒点名',
+          cn: '毒點名',
           ko: '알라그 부패 대상자',
         },
       },
@@ -76,7 +76,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Fäulnis abgeben',
           fr: 'Passez la pourriture',
           ja: 'ロットを移す',
-          cn: '传毒',
+          cn: '傳毒',
           ko: '부패 전달하기',
         },
       },
@@ -111,7 +111,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Allagan Rot': '亚拉戈古病毒',
+        'Allagan Rot': '亞拉戈古病毒',
       },
     },
     {

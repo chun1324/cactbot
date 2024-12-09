@@ -46,7 +46,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Nicht verteilt!',
             fr: 'Ne s\'est pas dispersé(e) !',
             ja: '散開しなかった!',
-            cn: '没有散开!',
+            cn: '沒有散開!',
             ko: '산개하지 않았음!',
           },
         };

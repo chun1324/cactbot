@@ -26,7 +26,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Bananenbaum schütteln',
           fr: 'Secouez le bananier',
           ja: 'バナナの木を振って',
-          cn: '摇晃香蕉树',
+          cn: '搖晃香蕉樹',
           ko: '바나나 나무 사용하기',
         },
       },
@@ -54,7 +54,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Sasquatch': '大脚巨猿',
+        'Sasquatch': '大腳巨猿',
       },
     },
     {

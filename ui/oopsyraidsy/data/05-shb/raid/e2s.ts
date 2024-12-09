@@ -51,7 +51,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Nyx berührt',
             fr: 'Malus de dégâts',
             ja: '雑魚に当たる',
-            cn: '吃头了',
+            cn: '吃頭了',
             ko: '닉스',
           },
         };
