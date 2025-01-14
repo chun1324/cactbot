@@ -63,7 +63,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Mandragoras erscheinen, in Reihenfolge besiegen!',
           fr: 'Les mandragores apparaissent, tuez-les dans l\'ordre',
           ja: 'マンドラゴラ！順番に倒して！',
-          cn: '已生成 惊奇蔓德拉战队, 依次击杀!',
+          cn: '已生成 驚奇蔓德拉戰隊, 依次擊殺!',
           ko: '만드라즈 등장, 순서대로 잡기',
         },
       },
@@ -199,8 +199,8 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Lucky Face': '幸运石面',
-        'Lucky Sphinx': '幸运斯芬克斯',
+        'Lucky Face': '幸運石面',
+        'Lucky Sphinx': '幸運斯芬克斯',
       },
     },
     {
