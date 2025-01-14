@@ -83,15 +83,15 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         smallCircle: {
           en: 'Outside small circle => in',
-          cn: '内环外 => 进',
+          cn: '內環外 => 進',
         },
         midCircle: {
           en: 'Outside mid circle => in',
-          cn: '中环外 => 进',
+          cn: '中環外 => 進',
         },
         bigCircle: {
           en: 'Outside big circle => in',
-          cn: '外环外 => 进',
+          cn: '外環外 => 進',
         },
         unknownCircle: Outputs.unknown,
       },
@@ -110,7 +110,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         avoidCircles: {
           en: 'Avoid radiating circles',
-          cn: '躲避步进圆圈',
+          cn: '躲避步進圓圈',
         },
       },
     },
@@ -158,15 +158,15 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         shortKnockback: {
           en: 'Knockback (short)',
-          cn: '击退 (短距离)',
+          cn: '擊退 (短距離)',
         },
         midKnockback: {
           en: 'Knockback (mid)',
-          cn: '击退 (中距离)',
+          cn: '擊退 (中距離)',
         },
         bigKnockback: {
           en: 'Knockback (big)',
-          cn: '击退 (长距离)',
+          cn: '擊退 (長距離)',
         },
         unknownKnockback: Outputs.unknown,
       },
@@ -187,7 +187,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         avoidOrbs: {
           en: 'Avoid exploding orbs',
-          cn: '躲开即将爆炸的球',
+          cn: '躲開即將爆炸的球',
         },
       },
     },
@@ -254,7 +254,7 @@ const triggerSet: TriggerSet<Data> = {
         getOut: Outputs.out,
         outAtDirection: {
           en: 'Get out toward ${safeDir}',
-          cn: '去 ${safeDir} 远离',
+          cn: '去 ${safeDir} 遠離',
         },
         dirN: Outputs.north,
         dirE: Outputs.east,
@@ -346,7 +346,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         outerFirst: {
           en: 'Rings out to in',
-          cn: '步进月环 (由外到内)',
+          cn: '步進月環 (由外到內)',
         },
       },
     },
@@ -359,7 +359,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         outerFirst: {
           en: 'Rings in to out',
-          cn: '步进月环 (由内到外)',
+          cn: '步進月環 (由內到外)',
         },
       },
     },
@@ -401,11 +401,11 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         attackAngel: {
           en: 'Attack ${angel}',
-          cn: '攻击 ${angel}',
+          cn: '攻擊 ${angel}',
         },
         unknownAngel: {
           en: 'Attack angel with matching buff',
-          cn: '攻击对应Buff的Boss',
+          cn: '攻擊對應Buff的Boss',
         },
       },
     },
@@ -515,7 +515,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         killShield: {
           en: 'Kill Ark Shield',
-          cn: '击杀 Ark Shield', // FIXME: Update name while cn 7.1
+          cn: '擊殺 Ark Shield', // FIXME: Update name while cn 7.1
         },
       },
     },
@@ -530,7 +530,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         interruptHM: {
           en: 'Interrupt HM',
-          cn: '打断 HM', // FIXME: Update name while cn 7.1
+          cn: '打斷 HM', // FIXME: Update name while cn 7.1
         },
       },
     },
@@ -545,7 +545,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         runFromTether: {
           en: 'Chasing tether -- run away!',
-          cn: '追踪连线 -- 快跑!',
+          cn: '追蹤連線 -- 快跑!',
         },
       },
     },
@@ -603,7 +603,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         avoidRadiatingLines: {
           en: 'Avoid Radiating Lines',
-          cn: '躲避步进直线',
+          cn: '躲避步進直線',
         },
       },
     },
@@ -653,15 +653,15 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         getInCircles: {
           en: 'Get in circles',
-          cn: '去圆圈内',
+          cn: '去圓圈內',
         },
         moatWithBattlements: {
           en: 'In circles + Close to boss',
-          cn: '圆圈内 + 靠近Boss',
+          cn: '圓圈內 + 靠近Boss',
         },
         moatWithKeep: {
           en: 'In circles + Away from boss',
-          cn: '圆圈内 + 远离Boss',
+          cn: '圓圈內 + 遠離Boss',
         },
       },
     },
@@ -682,15 +682,15 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         outOfCircles: {
           en: 'Out of circles',
-          cn: '去圆圈外',
+          cn: '去圓圈外',
         },
         courtWithBattlements: {
           en: 'Out of circles + close to boss',
-          cn: '圆圈外 + 靠近Boss',
+          cn: '圓圈外 + 靠近Boss',
         },
         courtWithKeep: {
           en: 'Out of circles + away from boss',
-          cn: '圆圈外 + 远离Boss',
+          cn: '圓圈外 + 遠離Boss',
         },
       },
     },
@@ -707,11 +707,11 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         leftAndOut: {
           en: 'Go left + get out',
-          cn: '左 + 远离',
+          cn: '左 + 遠離',
         },
         rightAndOut: {
           en: 'Go right + get out',
-          cn: '右 + 远离',
+          cn: '右 + 遠離',
         },
       },
     },
@@ -729,11 +729,11 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         leftAndOut: {
           en: 'Left of shadow + get out',
-          cn: '分身 左 + 远离',
+          cn: '分身 左 + 遠離',
         },
         rightAndOut: {
           en: 'Right of shadow + get out',
-          cn: '分身 右 + 远离',
+          cn: '分身 右 + 遠離',
         },
       },
     },
@@ -750,11 +750,11 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         lineMultiKnockback: {
           en: '4x knockback from lines',
-          cn: '4x 直线击退',
+          cn: '4x 直線擊退',
         },
         lineSingleKnockback: {
           en: 'Knockback from line',
-          cn: '从直线击退',
+          cn: '從直線擊退',
         },
       },
     },
@@ -812,7 +812,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         sigilDodge: {
           en: 'Dodge puddles 3 to 1',
-          cn: '三穿一躲避圆圈',
+          cn: '三穿一躲避圓圈',
         },
       },
     },
@@ -843,7 +843,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         rightLeftBack: {
           en: 'Start right => left => back',
-          cn: '右 => 左 => 后',
+          cn: '右 => 左 => 後',
         },
         rightLeftFront: {
           en: 'Start right => left => front',
@@ -851,7 +851,7 @@ const triggerSet: TriggerSet<Data> = {
         },
         leftRightBack: {
           en: 'Start left => right => back',
-          cn: '左 => 右 => 后',
+          cn: '左 => 右 => 後',
         },
         leftRightFront: {
           en: 'Start left => right => front',
@@ -868,7 +868,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         smashDodge: {
           en: 'Dodge Exalines, out => in',
-          cn: '躲避步进直线, 远离 => 靠近',
+          cn: '躲避步進直線, 遠離 => 靠近',
         },
       },
     },
