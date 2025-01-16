@@ -28,7 +28,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Fläche draußen ablegen',
           fr: 'Déposez les flaques à l\'extérieur',
           ja: '外周に捨てる',
-          cn: '远离放置圈圈',
+          cn: '遠離放置圈圈',
           ko: '바깥쪽으로 장판 유도하기',
         },
       },
@@ -66,7 +66,7 @@ const triggerSet: TriggerSet<Data> = {
       'locale': 'cn',
       'replaceSync': {
         'Chudo-Yudo': '丘都尤都',
-        'Diabolos': '迪亚波罗斯',
+        'Diabolos': '迪亞波羅斯',
       },
     },
     {

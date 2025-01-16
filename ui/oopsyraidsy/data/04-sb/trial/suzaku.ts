@@ -36,7 +36,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
             de: 'Runter geschubst!',
             fr: 'Repoussé(e) !',
             ja: '落ちた',
-            cn: '击退坠落',
+            cn: '擊退墜落',
             ko: '낙사',
           },
         };

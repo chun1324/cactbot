@@ -87,9 +87,9 @@ const triggerSet: TriggerSet<Data> = {
       'replaceSync': {
         'Heavenly Hyoga': '天之冰牙',
         'Heavenly Ichijama': '天之生邪魔',
-        'Heavenly Mammoth': '天之长毛象',
+        'Heavenly Mammoth': '天之長毛象',
         'Heavenly Tofu': '天之豆腐',
-        'Kajigakaka': '锻冶媪',
+        'Kajigakaka': '鍛冶媼',
       },
     },
     {

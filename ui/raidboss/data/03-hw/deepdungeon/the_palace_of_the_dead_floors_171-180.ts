@@ -68,8 +68,8 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Bird of the Deep Palace': '深宫妖鸟',
-        'Deep Palace Snowclops': '深宫独眼雪巨人',
+        'Bird of the Deep Palace': '深宮妖鳥',
+        'Deep Palace Snowclops': '深宮獨眼雪巨人',
         'Dendainsonne': '丹代恩索涅',
       },
     },
