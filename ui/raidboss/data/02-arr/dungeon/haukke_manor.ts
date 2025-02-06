@@ -63,7 +63,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Wachposten besiegen',
           fr: 'Tuez la sentinelle',
           ja: '守衛を倒す',
-          cn: '击杀守卫',
+          cn: '擊殺守衛',
           ko: '경비원 죽이기',
         },
       },
@@ -102,10 +102,10 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Manor Maidservant': '庄园的女仆',
-        'Manor Claviger': '随从女工',
+        'Manor Maidservant': '莊園的女僕',
+        'Manor Claviger': '隨從女工',
         'Lady Amandine': '阿芒迪娜女士',
-        'Manor Steward': '庄园的总管',
+        'Manor Steward': '莊園的總管',
       },
     },
     {

@@ -70,7 +70,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Geh mit Wasser raus',
             fr: 'Partez avec l\'eau',
             ja: 'ボスから離れる',
-            cn: '远离人群',
+            cn: '遠離人群',
             ko: '나에게 물징 멀리 빠지기',
           },
           waterMarker: {
@@ -78,7 +78,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Weg vom Wasser Marker',
             fr: 'Éloignez-vous du marquage eau',
             ja: 'AOEから離れる',
-            cn: '躲开水标记',
+            cn: '躲開水標記',
             ko: '물징에서 멀리 떨어지기',
           },
         };
@@ -136,7 +136,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sprung folgen => Unter den Boss',
           fr: 'Suivre le saut => Sous le boss',
           ja: 'ジャンプ近づく => 下へ',
-          cn: '跟随跳跃 => 脚下',
+          cn: '跟隨跳躍 => 腳下',
           ko: '점프 따라가기 => 보스 아래로',
         },
       },
@@ -154,7 +154,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Weg vom Sprung',
           fr: 'Loin du saut',
           ja: 'ジャンプから離れる',
-          cn: '远离跳跃',
+          cn: '遠離跳躍',
           ko: '점프뛴 곳에서 멀리 떨어지기',
         },
       },
@@ -188,9 +188,9 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Gurangatch': '固兰盖奇',
+        'Gurangatch': '固蘭蓋奇',
         'Ophioneus': '俄菲翁尼厄斯',
-        'Petalodus': '瓣齿鲨',
+        'Petalodus': '瓣齒鯊',
       },
     },
     {

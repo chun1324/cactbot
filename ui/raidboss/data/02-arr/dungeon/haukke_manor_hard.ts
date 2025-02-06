@@ -49,8 +49,8 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Halicarnassus': '哈利卡纳苏斯',
-        'Manor Sentry': '庄园的石像',
+        'Halicarnassus': '哈利卡納蘇斯',
+        'Manor Sentry': '莊園的石像',
       },
     },
     {
