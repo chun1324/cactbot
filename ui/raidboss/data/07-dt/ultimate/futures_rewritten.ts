@@ -118,7 +118,7 @@ const p3UROutputStrings = {
   },
   fireSpread: {
     en: 'Fire - Spread',
-    cn: '火分散',
+    cn: '火散開',
   },
   dropRewind: {
     en: 'Drop Rewind',
@@ -126,11 +126,11 @@ const p3UROutputStrings = {
   },
   baitStoplight: {
     en: 'Bait Stoplight',
-    cn: '引导激光',
+    cn: '引導雷射',
   },
   avoidStoplights: {
     en: 'Avoid stoplights',
-    cn: '远离激光',
+    cn: '遠離雷射',
   },
   stack: Outputs.stackMarker,
   middle: Outputs.middle,
@@ -182,7 +182,7 @@ const triggerSet: TriggerSet<Data> = {
   zoneId: ZoneId.FuturesRewrittenUltimate,
   comments: {
     en: 'Triggers: P1-3 / Timeline: P1-5',
-    cn: '触发器: P1-3 / 时间轴: P1-5',
+    cn: '觸發器: P1-3 / 時間軸: P1-5',
   },
   config: [
     {
@@ -309,7 +309,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Clock spots => Pairs',
           de: 'Himmelsrichtungen => Paare',
           ja: '八方向 => ペア',
-          cn: '八方 => 两人分摊',
+          cn: '八方 => 兩人集合',
           ko: '8방향 => 쉐어',
         },
       },
@@ -329,7 +329,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Clock spots => Spread',
           de: 'Himmelsrichtungen => Verteilen',
           ja: '八方向 => 散開',
-          cn: '八方 => 分散',
+          cn: '八方 => 散開',
           ko: '8방향 => 산개',
         },
       },
@@ -414,7 +414,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Linien AoE => Rückstoß',
           fr: 'AoE en ligne => Poussée',
           ja: '直線範囲 => ノックバック',
-          cn: '直线 => 击退',
+          cn: '直線 => 擊退',
           ko: '직선 장판 => 넉백',
         },
       },
@@ -431,7 +431,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Linien AoE => Raus',
           fr: 'AoE en ligne => Extérieur',
           ja: '直線範囲 => 離れる',
-          cn: '直线 => 去外侧',
+          cn: '直線 => 去外側',
           ko: '직선 장판 => 바깥으로',
         },
       },
@@ -708,7 +708,7 @@ const triggerSet: TriggerSet<Data> = {
         },
         baitCleave: {
           en: 'Bait',
-          cn: '引导水波',
+          cn: '引導水波',
         },
         in: Outputs.in,
         out: Outputs.out,
@@ -863,7 +863,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         baitCleave: {
           en: 'Bait cleave',
-          cn: '引导水波',
+          cn: '引導水波',
         },
       },
     },
@@ -878,7 +878,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         baitCleave: {
           en: 'Bait cleave',
-          cn: '引导水波',
+          cn: '引導水波',
         },
       },
     },
@@ -930,7 +930,7 @@ const triggerSet: TriggerSet<Data> = {
         },
         tether: {
           en: 'Tether on you (Puddles: ${p1}, ${p2})',
-          cn: '拉线踩塔 (大圈: ${p1}, ${p2})',
+          cn: '拉線踩塔 (大圈: ${p1}, ${p2})',
         },
       },
     },
@@ -977,7 +977,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         afterTower: {
           en: '${partnerSpread} (after tower)',
-          cn: '踩塔后 + ${partnerSpread}',
+          cn: '踩塔後 + ${partnerSpread}',
         },
         partners: Outputs.stackPartner,
         spread: Outputs.spread,
@@ -1126,11 +1126,11 @@ const triggerSet: TriggerSet<Data> = {
         },
         longFire: {
           en: 'Long Fire',
-          cn: '长火',
+          cn: '長火',
         },
         ice: {
           en: 'Ice',
-          cn: '冰点名',
+          cn: '冰點名',
         },
       },
     },
@@ -1450,15 +1450,15 @@ const triggerSet: TriggerSet<Data> = {
         output.responseOutputStrings = {
           onYou: {
             en: 'Shared tank cleave on YOU',
-            cn: '坦克分摊点名',
+            cn: '坦克集合點名',
           },
           share: {
             en: 'Shared tank cleave on ${target}',
-            cn: '坦克分摊 (和 ${target})',
+            cn: '坦克集合 (和 ${target})',
           },
           avoid: {
             en: 'Avoid tank cleave',
-            cn: '远离分摊顺劈',
+            cn: '遠離集合順劈',
           },
         };
         if (data.me === matches.target)
@@ -1540,7 +1540,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         combo: {
           en: 'Stack: ${debuff} (w/ ${same})',
-          cn: '${debuff} 分摊 (和 ${same})',
+          cn: '${debuff} 集合 (和 ${same})',
         },
         short: {
           en: 'Short',
@@ -1552,11 +1552,11 @@ const triggerSet: TriggerSet<Data> = {
         },
         long: {
           en: 'Long',
-          cn: '长',
+          cn: '長',
         },
         none: {
           en: 'No Debuff',
-          cn: '无点名',
+          cn: '無點名',
         },
         unknown: Outputs.unknown,
       },
@@ -1620,7 +1620,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         safe: {
           en: '(Apoc safe later: ${dir1})',
-          cn: '${dir1} 稍后安全',
+          cn: '${dir1} 稍後安全',
         },
         ...Directions.outputStrings8Dir,
         or: Outputs.or,
@@ -1773,7 +1773,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         bait: {
           en: 'Bait Jump (${dirs})?',
-          cn: '${dirs} 引导超级跳',
+          cn: '${dirs} 引導超級跳',
         },
         ...Directions.outputStrings8Dir,
         or: Outputs.or,
@@ -1791,7 +1791,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         kbStacks: {
           en: 'Knockback => Stacks',
-          cn: '击退 => 四四分摊',
+          cn: '擊退 => 四四集合',
         },
         kbStacksSwap: {
           en: '${kbStacks} (Swapped)',

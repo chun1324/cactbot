@@ -75,7 +75,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geh nach Hinten (Rot)',
           fr: 'Passez derrière (Rouge)',
           ja: 'ボスの後ろに (赤)',
-          cn: '去背后 (红色)',
+          cn: '去背後 (紅色)',
           ko: '뒤쪽으로 (빨강)',
         },
         white: {
@@ -107,7 +107,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geh in die Kreise zum reinigen',
           fr: 'Allez dans un cercle de purification',
           ja: '床の光っている円範囲へ',
-          cn: '快踩净化圈',
+          cn: '快踩淨化圈',
           ko: '흰색 원 밟아서 선고 해제하기',
         },
       },
@@ -149,7 +149,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Angra Mainyu': '安哥拉·曼纽',
+        'Angra Mainyu': '安哥拉·曼紐',
       },
     },
     {
