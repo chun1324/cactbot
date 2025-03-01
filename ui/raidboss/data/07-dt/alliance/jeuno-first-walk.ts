@@ -84,17 +84,17 @@ const triggerSet: TriggerSet<Data> = {
         smallCircle: {
           en: 'Outside small circle => in',
           ja: '円内側 外から中',
-          cn: '内环外 => 进',
+          cn: '內環外 => 進',
         },
         midCircle: {
           en: 'Outside mid circle => in',
           ja: '円真ん中 外から中',
-          cn: '中环外 => 进',
+          cn: '中環外 => 進',
         },
         bigCircle: {
           en: 'Outside big circle => in',
           ja: '円外側 外から中',
-          cn: '外环外 => 进',
+          cn: '外環外 => 進',
         },
         unknownCircle: Outputs.unknown,
       },
@@ -114,7 +114,7 @@ const triggerSet: TriggerSet<Data> = {
         avoidCircles: {
           en: 'Avoid radiating circles',
           ja: '放射矢印をよける',
-          cn: '躲避步进圆圈',
+          cn: '躲避步進圓圈',
         },
       },
     },
@@ -163,17 +163,17 @@ const triggerSet: TriggerSet<Data> = {
         shortKnockback: {
           en: 'Knockback (short)',
           ja: '近い ノックバック',
-          cn: '击退 (短距离)',
+          cn: '擊退 (短距離)',
         },
         midKnockback: {
           en: 'Knockback (mid)',
           ja: '真ん中 ノックバック',
-          cn: '击退 (中距离)',
+          cn: '擊退 (中距離)',
         },
         bigKnockback: {
           en: 'Knockback (big)',
           ja: '遠い ノックバック',
-          cn: '击退 (长距离)',
+          cn: '擊退 (長距離)',
         },
         unknownKnockback: Outputs.unknown,
       },
@@ -195,7 +195,7 @@ const triggerSet: TriggerSet<Data> = {
         avoidOrbs: {
           en: 'Avoid exploding orbs',
           ja: '爆発する玉をよける',
-          cn: '躲开即将爆炸的球',
+          cn: '躲開即將爆炸的球',
         },
       },
     },
@@ -263,7 +263,7 @@ const triggerSet: TriggerSet<Data> = {
         outAtDirection: {
           en: 'Get out toward ${safeDir}',
           ja: '${safeDir} 安置',
-          cn: '去 ${safeDir} 远离',
+          cn: '去 ${safeDir} 遠離',
         },
         dirN: Outputs.north,
         dirE: Outputs.east,
@@ -357,7 +357,7 @@ const triggerSet: TriggerSet<Data> = {
         outerFirst: {
           en: 'Rings out to in',
           ja: 'ドーナツへ駆け込む',
-          cn: '步进月环 (由外到内)',
+          cn: '步進月環 (由外到內)',
         },
       },
     },
@@ -371,7 +371,7 @@ const triggerSet: TriggerSet<Data> = {
         outerFirst: {
           en: 'Rings in to out',
           ja: 'ドーナツの外へ',
-          cn: '步进月环 (由内到外)',
+          cn: '步進月環 (由內到外)',
         },
       },
     },
@@ -414,12 +414,12 @@ const triggerSet: TriggerSet<Data> = {
         attackAngel: {
           en: 'Attack ${angel}',
           ja: '${angel} を殴る',
-          cn: '攻击 ${angel}',
+          cn: '攻擊 ${angel}',
         },
         unknownAngel: {
           en: 'Attack angel with matching buff',
           ja: 'バフのついた敵を殴る',
-          cn: '攻击对应Buff的Boss',
+          cn: '攻擊對應Buff的Boss',
         },
       },
     },
@@ -530,7 +530,7 @@ const triggerSet: TriggerSet<Data> = {
         killShield: {
           en: 'Kill Ark Shield',
           ja: '盾持ちを殴る',
-          cn: '击杀方舟之盾',
+          cn: '擊殺方舟之盾',
         },
       },
     },
@@ -546,7 +546,7 @@ const triggerSet: TriggerSet<Data> = {
         interruptHM: {
           en: 'Interrupt HM',
           ja: 'HMへ中断',
-          cn: '打断方舟天使HM',
+          cn: '打斷方舟天使HM',
         },
       },
     },
@@ -562,7 +562,7 @@ const triggerSet: TriggerSet<Data> = {
         runFromTether: {
           en: 'Chasing tether -- run away!',
           ja: '線が付いた敵から逃げる',
-          cn: '追踪连线 -- 快跑!',
+          cn: '追蹤連線 -- 快跑!',
         },
       },
     },
@@ -623,7 +623,7 @@ const triggerSet: TriggerSet<Data> = {
         avoidRadiatingLines: {
           en: 'Avoid Radiating Lines',
           ja: '移動する直線をよける',
-          cn: '躲避步进直线',
+          cn: '躲避步進直線',
         },
       },
     },
@@ -674,17 +674,17 @@ const triggerSet: TriggerSet<Data> = {
         getInCircles: {
           en: 'Get in circles',
           ja: '円の内側',
-          cn: '去圆圈内',
+          cn: '去圓圈內',
         },
         moatWithBattlements: {
           en: 'In circles + Close to boss',
           ja: '円の内側 + ボスの近く',
-          cn: '圆圈内 + 靠近Boss',
+          cn: '圓圈內 + 靠近Boss',
         },
         moatWithKeep: {
           en: 'In circles + Away from boss',
           ja: '円の内側 + ボスから離れて',
-          cn: '圆圈内 + 远离Boss',
+          cn: '圓圈內 + 遠離Boss',
         },
       },
     },
@@ -706,17 +706,17 @@ const triggerSet: TriggerSet<Data> = {
         outOfCircles: {
           en: 'Out of circles',
           ja: '円の外側',
-          cn: '去圆圈外',
+          cn: '去圓圈外',
         },
         courtWithBattlements: {
           en: 'Out of circles + close to boss',
           ja: '円の外側 + ボスの近く',
-          cn: '圆圈外 + 靠近Boss',
+          cn: '圓圈外 + 靠近Boss',
         },
         courtWithKeep: {
           en: 'Out of circles + away from boss',
           ja: '円の外側 + ボスから離れて',
-          cn: '圆圈外 + 远离Boss',
+          cn: '圓圈外 + 遠離Boss',
         },
       },
     },
@@ -734,12 +734,12 @@ const triggerSet: TriggerSet<Data> = {
         leftAndOut: {
           en: 'Go left + get out',
           ja: '離れて 左',
-          cn: '左 + 远离',
+          cn: '左 + 遠離',
         },
         rightAndOut: {
           en: 'Go right + get out',
           ja: '離れて 右',
-          cn: '右 + 远离',
+          cn: '右 + 遠離',
         },
       },
     },
@@ -758,12 +758,12 @@ const triggerSet: TriggerSet<Data> = {
         leftAndOut: {
           en: 'Left of shadow + get out',
           ja: '分身 離れて 左',
-          cn: '分身 左 + 远离',
+          cn: '分身 左 + 遠離',
         },
         rightAndOut: {
           en: 'Right of shadow + get out',
           ja: '分身 離れて 右',
-          cn: '分身 右 + 远离',
+          cn: '分身 右 + 遠離',
         },
       },
     },
@@ -781,12 +781,12 @@ const triggerSet: TriggerSet<Data> = {
         lineMultiKnockback: {
           en: '4x knockback from lines',
           ja: '4連 線からノックバック',
-          cn: '4x 直线击退',
+          cn: '4x 直線擊退',
         },
         lineSingleKnockback: {
           en: 'Knockback from line',
           ja: '線からノックバック',
-          cn: '从直线击退',
+          cn: '從直線擊退',
         },
       },
     },
@@ -845,7 +845,7 @@ const triggerSet: TriggerSet<Data> = {
         sigilDodge: {
           en: 'Dodge puddles 3 to 1',
           ja: '最初の予兆へ駆け込む',
-          cn: '三穿一躲避圆圈',
+          cn: '三穿一躲避圓圈',
         },
       },
     },
@@ -877,7 +877,7 @@ const triggerSet: TriggerSet<Data> = {
         rightLeftBack: {
           en: 'Start right => left => back',
           ja: '右 => 左 => 後ろ',
-          cn: '右 => 左 => 后',
+          cn: '右 => 左 => 後',
         },
         rightLeftFront: {
           en: 'Start right => left => front',
@@ -887,7 +887,7 @@ const triggerSet: TriggerSet<Data> = {
         leftRightBack: {
           en: 'Start left => right => back',
           ja: '左 => 右 => 後ろ',
-          cn: '左 => 右 => 后',
+          cn: '左 => 右 => 後',
         },
         leftRightFront: {
           en: 'Start left => right => front',
@@ -906,7 +906,7 @@ const triggerSet: TriggerSet<Data> = {
         smashDodge: {
           en: 'Dodge Exalines, out => in',
           ja: '線を避ける 外から中へ',
-          cn: '躲避步进直线, 远离 => 靠近',
+          cn: '躲避步進直線, 遠離 => 靠近',
         },
       },
     },
