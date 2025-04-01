@@ -44,7 +44,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Bismarck': '俾斯麦',
+        'Bismarck': '俾斯麥',
       },
     },
     {

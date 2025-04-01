@@ -30,7 +30,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geh hinter ihn und dann raus',
           fr: 'Passez derrière et à l\'extérieur',
           ja: '後ろの外側へ',
-          cn: '去背后远离',
+          cn: '去背後遠離',
           ko: '뒤로 그리고 밖으로',
         },
       },
@@ -65,7 +65,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Geh raus mit dem Marker',
             fr: 'Partez avec le marquage',
             ja: 'ボスから離れる',
-            cn: '远离人群',
+            cn: '遠離人群',
             ko: '나에게 징 멀리 빠지기',
           },
           missleMarker: {
@@ -73,7 +73,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Weg vom Marker',
             fr: 'Éloignez-vous du marquage',
             ja: 'マーカー付きから離れる',
-            cn: '躲开标记',
+            cn: '躲開標記',
             ko: '징에서 멀리 떨어지기',
           },
         };
@@ -96,7 +96,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Platziere Donut-Marker unter ihm',
             fr: 'En dessous le marquage du donut',
             ja: 'ボスから離れる',
-            cn: 'boss脚下放置环形标记',
+            cn: 'boss腳下放置環形標記',
             ko: '나에게 도넛 장판',
           },
           missleMarker: {
@@ -104,7 +104,7 @@ const triggerSet: TriggerSet<Data> = {
             de: 'Auf dem Marker sammeln',
             fr: 'Packez-vous sur les marquages',
             ja: 'マーカー付きから離れる',
-            cn: '标记处集合',
+            cn: '標記處集合',
             ko: '도넛징 대상자에게 붙기',
           },
         };
@@ -140,7 +140,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Aegeiros': '黑杨树精',
+        'Aegeiros': '黑楊樹精',
         'Minerva': '密涅瓦',
       },
     },

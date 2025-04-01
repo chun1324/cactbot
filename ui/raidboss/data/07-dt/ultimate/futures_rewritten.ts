@@ -144,7 +144,7 @@ const p3UROutputStrings = {
   fireSpread: {
     en: 'Fire - Spread',
     de: 'Feuer - verteilen',
-    cn: '火分散',
+    cn: '火散開',
     ko: '불 - 산개',
   },
   dropRewind: {
@@ -156,13 +156,13 @@ const p3UROutputStrings = {
   baitStoplight: {
     en: 'Bait Stoplight',
     de: 'Köder Sanduhr',
-    cn: '引导激光',
+    cn: '引導雷射',
     ko: '모래시계 유도',
   },
   avoidStoplights: {
     en: 'Avoid stoplights',
     de: 'Vermeide Sanduhren',
-    cn: '远离激光',
+    cn: '遠離激光',
     ko: '모래시계 피하기',
   },
   stack: Outputs.stackMarker,
@@ -229,7 +229,7 @@ const triggerSet: TriggerSet<Data> = {
   comments: {
     en: 'Triggers: P1-4 / Timeline: P1-5',
     de: 'Triggers: P1-4 / Timeline: P1-5',
-    cn: '触发器: P1-4 / 时间轴: P1-5',
+    cn: '觸發器: P1-4 / 時間軸: P1-5',
     ko: '트리거: P1-4 / 타임라인: P1-5',
   },
   config: [
@@ -508,7 +508,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Clock spots => Pairs',
           de: 'Himmelsrichtungen => Paare',
           ja: '八方向 => ペア',
-          cn: '八方 => 两人分摊',
+          cn: '八方 => 兩人集合',
           ko: '8방향 => 쉐어',
         },
       },
@@ -528,7 +528,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Clock spots => Spread',
           de: 'Himmelsrichtungen => Verteilen',
           ja: '八方向 => 散開',
-          cn: '八方 => 分散',
+          cn: '八方 => 散開',
           ko: '8방향 => 산개',
         },
       },
@@ -613,7 +613,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Linien AoE => Rückstoß',
           fr: 'AoE en ligne => Poussée',
           ja: '直線範囲 => ノックバック',
-          cn: '直线 => 击退',
+          cn: '直線 => 擊退',
           ko: '직선 장판 => 넉백',
         },
       },
@@ -630,7 +630,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Linien AoE => Raus',
           fr: 'AoE en ligne => Extérieur',
           ja: '直線範囲 => 離れる',
-          cn: '直线 => 去外侧',
+          cn: '直線 => 去外側',
           ko: '직선 장판 => 바깥으로',
         },
       },
@@ -918,7 +918,7 @@ const triggerSet: TriggerSet<Data> = {
         baitCleave: {
           en: 'Bait',
           de: 'Ködern',
-          cn: '引导水波',
+          cn: '引導水波',
           ko: '유도',
         },
         in: Outputs.in,
@@ -1095,7 +1095,7 @@ const triggerSet: TriggerSet<Data> = {
         baitCleave: {
           en: 'Bait cleave',
           de: 'Cleve ködern',
-          cn: '引导水波',
+          cn: '引導水波',
           ko: '장판 유도',
         },
       },
@@ -1112,7 +1112,7 @@ const triggerSet: TriggerSet<Data> = {
         baitCleave: {
           en: 'Bait cleave',
           de: 'Cleve ködern',
-          cn: '引导水波',
+          cn: '引導水波',
           ko: '장판 유도',
         },
       },
@@ -1168,7 +1168,7 @@ const triggerSet: TriggerSet<Data> = {
         tether: {
           en: 'Tether on you (Puddles: ${p1}, ${p2})',
           de: 'Verbindung auf DIR (Flächen: ${p1}, ${p2})',
-          cn: '拉线踩塔 (大圈: ${p1}, ${p2})',
+          cn: '拉線踩塔 (大圈: ${p1}, ${p2})',
           ko: '사슬 대상자 (장판: ${p1}, ${p2})',
         },
       },
@@ -1221,7 +1221,7 @@ const triggerSet: TriggerSet<Data> = {
         afterTower: {
           en: '${partnerSpread} (after tower)',
           de: '${partnerSpread} (nach Turm)',
-          cn: '踩塔后 + ${partnerSpread}',
+          cn: '踩塔後 + ${partnerSpread}',
           ko: '${partnerSpread} (탑 이후)',
         },
         partners: Outputs.stackPartner,
@@ -1382,13 +1382,13 @@ const triggerSet: TriggerSet<Data> = {
         longFire: {
           en: 'Long Fire',
           de: 'Langes Feuer',
-          cn: '长火',
+          cn: '長火',
           ko: '긴 불',
         },
         ice: {
           en: 'Ice',
           de: 'Eis',
-          cn: '冰点名',
+          cn: '冰點名',
           ko: '얼음',
         },
       },
@@ -1711,19 +1711,19 @@ const triggerSet: TriggerSet<Data> = {
           onYou: {
             en: 'Shared tank cleave on YOU',
             de: 'Geteilter Tank-Cleave auf DIR',
-            cn: '坦克分摊点名',
+            cn: '坦克集合點名',
             ko: '쉐어 탱버 대상자',
           },
           share: {
             en: 'Shared tank cleave on ${target}',
             de: 'Geteilter Tank-Cleave auf ${target}',
-            cn: '坦克分摊 (和 ${target})',
+            cn: '坦克集合 (和 ${target})',
             ko: '쉐어 탱버 (${target})',
           },
           avoid: {
             en: 'Avoid tank cleave',
             de: 'Tank-Cleave vermeiden',
-            cn: '远离分摊顺劈',
+            cn: '遠離集合順劈',
             ko: '탱버 피하기',
           },
         };
@@ -1807,7 +1807,7 @@ const triggerSet: TriggerSet<Data> = {
         combo: {
           en: 'Stack: ${debuff} (w/ ${same})',
           de: 'Sammeln: ${debuff} (mit ${same})',
-          cn: '${debuff} 分摊 (和 ${same})',
+          cn: '${debuff} 集合 (和 ${same})',
           ko: '쉐어: ${debuff} (+ ${same})',
         },
         short: {
@@ -1825,13 +1825,13 @@ const triggerSet: TriggerSet<Data> = {
         long: {
           en: 'Long',
           de: 'Lang',
-          cn: '长',
+          cn: '長',
           ko: '긴',
         },
         none: {
           en: 'No Debuff',
           de: 'Kein Debuff',
-          cn: '无点名',
+          cn: '無點名',
           ko: '디버프 없음',
         },
         unknown: Outputs.unknown,
@@ -1897,7 +1897,7 @@ const triggerSet: TriggerSet<Data> = {
         safe: {
           en: '(Apoc safe later: ${dir1})',
           de: '(Apoc später sicher: ${dir1})',
-          cn: '${dir1} 稍后安全',
+          cn: '${dir1} 稍後安全',
           ko: '(대재앙 안전지대: ${dir1})',
         },
         ...Directions.outputStrings8Dir,
@@ -2057,7 +2057,7 @@ const triggerSet: TriggerSet<Data> = {
         bait: {
           en: 'Bait Jump (${dirs})?',
           de: 'Sprung ködern (${dirs})?',
-          cn: '${dirs} 引导超级跳',
+          cn: '${dirs} 引導超級跳',
           ko: '${dirs} 점프 유도?',
         },
         ...Directions.outputStrings8Dir,
@@ -2077,7 +2077,7 @@ const triggerSet: TriggerSet<Data> = {
         kbStacks: {
           en: 'Knockback => Stacks',
           de: 'Rückstoß => Sammeln',
-          cn: '击退 => 四四分摊',
+          cn: '擊退 => 四四集合',
           ko: '넉백 => 쉐어',
         },
         kbStacksSwap: {

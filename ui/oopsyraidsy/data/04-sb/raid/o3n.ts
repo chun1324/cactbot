@@ -35,7 +35,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
       netRegexDe: NetRegexes.startsUsing({ id: '2304', source: 'Halikarnassos', capture: false }),
       netRegexFr: NetRegexes.startsUsing({ id: '2304', source: 'Halicarnasse', capture: false }),
       netRegexJa: NetRegexes.startsUsing({ id: '2304', source: 'ハリカルナッソス', capture: false }),
-      netRegexCn: NetRegexes.startsUsing({ id: '2304', source: '哈利卡纳苏斯', capture: false }),
+      netRegexCn: NetRegexes.startsUsing({ id: '2304', source: '哈利卡納蘇斯', capture: false }),
       netRegexKo: NetRegexes.startsUsing({ id: '2304', source: '할리카르나소스', capture: false }),
       run: (data) => data.phaseNumber = (data.phaseNumber ?? 0) + 1,
     },
@@ -48,7 +48,7 @@ const triggerSet: OopsyTriggerSet<Data> = {
       netRegexDe: NetRegexes.ability({ id: '367', source: 'Halikarnassos', capture: false }),
       netRegexFr: NetRegexes.ability({ id: '367', source: 'Halicarnasse', capture: false }),
       netRegexJa: NetRegexes.ability({ id: '367', source: 'ハリカルナッソス', capture: false }),
-      netRegexCn: NetRegexes.ability({ id: '367', source: '哈利卡纳苏斯', capture: false }),
+      netRegexCn: NetRegexes.ability({ id: '367', source: '哈利卡納蘇斯', capture: false }),
       netRegexKo: NetRegexes.ability({ id: '367', source: '할리카르나소스', capture: false }),
       condition: (data) => !data.initialized,
       run: (data) => {
