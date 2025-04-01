@@ -53,7 +53,7 @@ const partyWipeText = {
   de: 'Gruppe ausgelöscht',
   fr: 'Party Wipe',
   ja: 'ワイプ',
-  cn: '团灭',
+  cn: '團滅',
   ko: '파티 전멸',
 };
 
@@ -62,7 +62,7 @@ const earlyPullText = {
   de: 'zu früh angegriffen',
   fr: 'early pull',
   ja: 'タゲ取り早い',
-  cn: '抢开',
+  cn: '搶開',
   ko: '풀링 빠름',
 };
 
@@ -71,7 +71,7 @@ const latePullText = {
   de: 'zu spät angegriffen',
   fr: 'late pull',
   ja: 'タゲ取り遅い',
-  cn: '晚开',
+  cn: '晚開',
   ko: '풀링 늦음',
 };
 

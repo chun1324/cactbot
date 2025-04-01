@@ -65,8 +65,8 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        '7 minutes have elapsed since your last activity.': '已经7分钟没有进行任何操作',
-        'Skoll': '斯库尔',
+        '7 minutes have elapsed since your last activity.': '已經7分鐘沒有進行任何操作',
+        'Skoll': '斯庫爾',
       },
     },
     {

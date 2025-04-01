@@ -25,7 +25,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Hinter dem Eis verstecken',
           fr: 'Cachez vous derrière un pilier de glace',
           ja: '氷柱の後ろに',
-          cn: '躲在冰柱后',
+          cn: '躲在冰柱後',
           ko: '얼음 뒤에 숨기',
         },
       },
@@ -53,7 +53,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Fenrir': '芬里尔',
+        'Fenrir': '芬里爾',
       },
     },
     {

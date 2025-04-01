@@ -104,7 +104,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Avoid Stack',
           de: 'Vermeide Sammeln',
           fr: 'Ne vous packez pas',
-          cn: '远离分摊',
+          cn: '遠離集合',
           ko: '쉐어징 피하기',
         },
       },
@@ -160,8 +160,8 @@ const triggerSet: TriggerSet<Data> = {
       'locale': 'cn',
       'replaceSync': {
         'Baal': '巴力',
-        'Gunitt': '顾尼图',
-        'Rusalka': '卢莎卡',
+        'Gunitt': '顧尼圖',
+        'Rusalka': '盧莎卡',
       },
     },
     {

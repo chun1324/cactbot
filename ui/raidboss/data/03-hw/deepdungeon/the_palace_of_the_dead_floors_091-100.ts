@@ -56,8 +56,8 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Nybeth Obdilord': '死灵术士尼博斯',
-        'Palace Wraith': '地宫幽灵',
+        'Nybeth Obdilord': '死靈術士尼博斯',
+        'Palace Wraith': '地宮幽靈',
       },
     },
     {

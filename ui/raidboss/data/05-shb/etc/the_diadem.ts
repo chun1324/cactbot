@@ -41,7 +41,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Verhüllte Sammlerstelle gefunden',
           fr: 'Point de récolte évanescent détecté',
           ja: '幻の採集場探したよ！',
-          cn: '梦幻采集点刷了！冲鸭！！',
+          cn: '夢幻採集點刷了！衝鴨！！',
           ko: '환상의 광맥/성목 발견',
         },
       },
@@ -58,7 +58,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Überprüfe die Koordinaten im Chat',
           fr: 'Vérifier les coordonnées sur le Tchat',
           ja: 'チャットに座標を確認',
-          cn: '检查聊天栏中的坐标',
+          cn: '檢查聊天欄中的座標',
           ko: '디아뎀 좌표 채팅 올라옴',
         },
       },
@@ -95,8 +95,8 @@ const triggerSet: TriggerSet<Data> = {
       'locale': 'cn',
       'missingTranslations': true,
       'replaceSync': {
-        '7 minutes have elapsed since your last activity..*?': '已经7分钟没有进行任何操作',
-        'The Diadem': '云冠群岛',
+        '7 minutes have elapsed since your last activity..*?': '已經7分鐘沒有進行任何操作',
+        'The Diadem': '雲冠群島',
       },
     },
     {
