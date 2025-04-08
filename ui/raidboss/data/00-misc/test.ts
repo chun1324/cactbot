@@ -477,7 +477,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Trigger countdown test',
           de: 'Trigger countdown test',
           fr: 'Test de décompte des triggers',
-          cn: '触发器倒计时测试',
+          cn: '觸發器倒計時測試',
           ko: '트리거 카운트다운 테스트',
         },
       },

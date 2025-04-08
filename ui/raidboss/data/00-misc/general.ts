@@ -16,7 +16,7 @@ const triggerSet: TriggerSet<Data> = {
     en: 'General triggers for all occasions and zones',
     de: 'Allgemeine Trigger für alle Anlässe und Zonen',
     fr: 'Triggers généraux pour toutes les occasions et zones',
-    cn: '适用于所有场合和区域的通用触发器',
+    cn: '適用於所有場合和區域的通用觸發器',
   },
   triggers: [
     {

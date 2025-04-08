@@ -348,7 +348,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         stacks: {
           en: 'Healer Groups (in water)',
-          cn: '治疗分组分摊 (站在水里)',
+          cn: '治療分組集合 (站在水裡)',
         },
       },
     },
@@ -361,7 +361,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         spread: {
           en: 'Spread (not in water)',
-          cn: '分散 (站在岸上)',
+          cn: '散開 (站在岸上)',
         },
       },
     },

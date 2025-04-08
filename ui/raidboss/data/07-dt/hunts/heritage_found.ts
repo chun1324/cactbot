@@ -54,7 +54,7 @@ const triggerSet: TriggerSet<Data> = {
   comments: {
     en: 'A Rank Hunts',
     de: 'A Rang Hohe Jagd',
-    cn: 'A级狩猎怪',
+    cn: 'A級狩獵怪',
   },
   initData: () => ({
     atticusCleaves: [],

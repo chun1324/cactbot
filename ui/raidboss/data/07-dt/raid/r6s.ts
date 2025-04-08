@@ -93,7 +93,7 @@ const triggerSet: TriggerSet<Data> = {
         partners: Outputs.stackPartner,
         stored: {
           en: 'Stored ${mech} for later',
-          cn: '稍后 ${mech}',
+          cn: '稍後 ${mech}',
         },
       },
     },
@@ -196,7 +196,7 @@ const triggerSet: TriggerSet<Data> = {
         ...Directions.outputStringsIntercardDir,
         text: {
           en: 'Start ${dir1}, launch towards ${dir2}',
-          cn: '从 ${dir1} 飞向 ${dir2}',
+          cn: '從 ${dir1} 飛向 ${dir2}',
         },
       },
     },

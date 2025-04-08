@@ -246,7 +246,7 @@ const triggerSet: TriggerSet<Data> = {
       name: {
         en: 'P2 Diamond Dust / Sinbound Holy',
         de: 'P2 Diamantenstaub / Sünden-Sanctus',
-        cn: 'P2 钻石星尘 / 罪神圣',
+        cn: 'P2 鑽石星塵 / 罪神聖',
       },
       type: 'select',
       options: {
@@ -290,7 +290,7 @@ const triggerSet: TriggerSet<Data> = {
       name: {
         en: 'P3 Ultimate Relativity',
         de: 'P3 Fatale Relativität',
-        cn: 'P3 时间压缩·绝',
+        cn: 'P3 時間壓縮·絕',
       },
       type: 'select',
       options: {
@@ -328,7 +328,7 @@ const triggerSet: TriggerSet<Data> = {
       name: {
         en: 'P3 Apocalypse',
         de: 'P3 Apokalypse',
-        cn: 'P3 启示',
+        cn: 'P3 啟示',
         ko: 'P3 대재앙',
       },
       type: 'select',
@@ -365,7 +365,7 @@ const triggerSet: TriggerSet<Data> = {
       name: {
         en: 'P4 Darklit Dragonsong',
         de: 'P4 Drachenlied Von Licht Und Schatten',
-        cn: 'P4 光与暗的龙诗',
+        cn: 'P4 光與暗的龍詩',
       },
       type: 'select',
       options: {
@@ -401,7 +401,7 @@ const triggerSet: TriggerSet<Data> = {
       name: {
         en: 'P4 Crystallize Time',
         de: 'P4 Chronokristall',
-        cn: 'P4 时间结晶',
+        cn: 'P4 時間結晶',
       },
       type: 'select',
       options: {
@@ -715,7 +715,7 @@ const triggerSet: TriggerSet<Data> = {
           onYou: {
             en: 'On YOU',
             de: 'Auf DIR',
-            cn: '点名',
+            cn: '點名',
             ko: '대상자',
           },
           tether: {
@@ -810,7 +810,7 @@ const triggerSet: TriggerSet<Data> = {
           busterCleanse: {
             en: '${buster} (Cleanse?)',
             de: '${buster} (Reinigen?)',
-            cn: '${buster} (驱散?)',
+            cn: '${buster} (驅散?)',
             ko: '${buster} (에스나?)',
           },
         };
@@ -995,7 +995,7 @@ const triggerSet: TriggerSet<Data> = {
         aaccCursed: {
           en: 'Cursed - Fast Clockwise',
           de: 'Verflucht - Schnell im Uhrzeigersinn',
-          cn: '180° - 快速顺时针',
+          cn: '180° - 快速順時針',
           ko: '180도 - 빠른 시계방향',
         },
         aaccRotateCCW: Outputs.counterclockwise,
@@ -1003,25 +1003,25 @@ const triggerSet: TriggerSet<Data> = {
         same: {
           en: 'Cursed - Add on knockback',
           de: 'Verflucht - Add beim Rückstoß',
-          cn: '180° - 分身在脚下',
+          cn: '180° - 分身在腳下',
           ko: '180도 - 넉백된 곳에 분신',
         },
         opposite: {
           en: 'Cursed - Add opposite you',
           de: 'Verflucht - Add gegenüber von DIR',
-          cn: '180° - 分身在对面',
+          cn: '180° - 分身在對面',
           ko: '180도 - 반대편에 분신',
         },
         clockwise: {
           en: 'Add is clockwise',
           de: 'Add ist im Uhrzeigersinn',
-          cn: '分身在顺时针',
+          cn: '分身在順時針',
           ko: '분신 시계방향',
         },
         counterclockwise: {
           en: 'Add is counterclockwise',
           de: 'Add ist gegen den Uhrzeigersinn',
-          cn: '分身在逆时针',
+          cn: '分身在逆時針',
           ko: '분신 반시계방향',
         },
       },
@@ -2014,7 +2014,7 @@ const triggerSet: TriggerSet<Data> = {
           stacksSwap: {
             en: '${stacks} (Swapped)',
             de: '${stacks} (Getauscht)',
-            cn: '${stacks} (换位后)',
+            cn: '${stacks} (換位後)',
             ko: '${stacks} (교대)',
           },
         };
@@ -2079,7 +2079,7 @@ const triggerSet: TriggerSet<Data> = {
         kbStacksSwap: {
           en: '${kbStacks} (Swapped)',
           de: '${kbStacks} (Getauscht)',
-          cn: '${kbStacks} (换位后)',
+          cn: '${kbStacks} (換位後)',
           ko: '${kbStacks} (교대)',
         },
       },
@@ -2169,19 +2169,19 @@ const triggerSet: TriggerSet<Data> = {
           towerNoSwap: {
             en: 'Tower (no swaps)',
             de: 'Turm (kein wechsel)',
-            cn: '塔 (无换位)',
+            cn: '塔 (無換位)',
             ko: '탑 (교대 없음)',
           },
           towerOtherSwap: {
             en: 'Tower (${p1} + ${p2} swap)',
             de: 'Turm (${p1} + ${p2} wechseln)',
-            cn: '塔 (${p1} + ${p2} 换位)',
+            cn: '塔 (${p1} + ${p2} 換位)',
             ko: '탑 (${p1} + ${p2} 교대)',
           },
           towerYouSwap: {
             en: 'Tower (swap w/${player})',
             de: 'Turm (wechsel mit ${player})',
-            cn: '塔 (与 ${player} 换位)',
+            cn: '塔 (與 ${player} 換位)',
             ko: '탑 (${player}와 교대)',
           },
           tower: { // if no strat set, or cannot determine
@@ -2193,13 +2193,13 @@ const triggerSet: TriggerSet<Data> = {
           bait: { // for supports in healerPlantNW, or no strat
             en: 'Bait Cone',
             de: 'Köder Kegel-AoE',
-            cn: '诱导扇形',
+            cn: '誘導扇形',
             ko: '부채꼴 유도',
           },
           baitDPS: { // for DPS in healerPlantNW
             en: 'Bait Cone (w/ ${otherDps})',
             de: 'Köder Kegel-AoE (mit ${otherDps})',
-            cn: '诱导扇形 (与 ${otherDps})',
+            cn: '誘導扇形 (與 ${otherDps})',
             ko: '부채꼴 유도 (+ ${otherDps})',
           },
         };
@@ -2350,51 +2350,51 @@ const triggerSet: TriggerSet<Data> = {
           stackOnYou: { // default/fallthrough
             en: '(stack on you later)',
             de: '(später sammeln auf dir)',
-            cn: '(稍后分摊点名)',
+            cn: '(稍後集合點名)',
             ko: '(쉐어 대상자)',
           },
           // stack is on you
           stackOnYouNoSwap: {
             en: '(stack on you later - no swap)',
             de: '(später sammeln auf dir - kein wechsel)',
-            cn: '(稍后分摊点名 - 不换位)',
+            cn: '(稍後集合點名 - 不換位)',
             ko: '(쉐어 대상자 - 교대 없음)',
           },
           dpsStackOnYouSwap: {
             en: 'Stacks: You swap w/ Support',
             de: 'Sammeln: Du wechselst mit Support',
-            cn: '分摊: 与T/奶换位',
+            cn: '集合: 與T/奶換位',
             ko: '쉐어: 탱힐과 교대',
           },
           healerStackOnYouSwap: {
             en: 'Stacks: You swap w/ Ranged/Flex',
             de: 'Sammeln: Du wechselst mit Fernkämpfer/Flex',
-            cn: '分摊: 与远程/灵活位换位',
+            cn: '集合: 與遠程/靈活位換位',
             ko: '쉐어: 원딜과 교대/상황 판단',
           },
           tankStackOnYouSwap: {
             en: 'Stacks: You swap w/ Melee/Flex',
             de: 'Sammeln: Du wechselst mit Nahkämpfer/Flex',
-            cn: '分摊: 与近战/灵活位换位',
+            cn: '集合: 與近戰/靈活位換位',
             ko: '쉐어: 근딜과 교대/상황 판단',
           },
           // stack on someone else (not your role), so you may be required to swap
           dpsStackOnHealerSwap: {
             en: 'Stacks: ${healer} swap w/ Ranged/Flex',
             de: 'Sammeln: ${healer} wechselt mit Fernkämpfer/Flex',
-            cn: '分摊: ${healer} 与远程/灵活位换位',
+            cn: '集合: ${healer} 與遠程/靈活位換位',
             ko: '쉐어: ${healer} 원딜과 교대/상황 판단',
           },
           dpsStackOnTankSwap: {
             en: 'Stacks: ${tank} swap w/ Melee/Flex',
             de: 'Sammeln: ${tank} wechselt mit Nahkämpfer/Flex',
-            cn: '分摊: ${tank} 与近战/灵活位换位',
+            cn: '集合: ${tank} 與近戰/靈活位換位',
             ko: '쉐어: ${tank} 근딜과 교대/상황 판단',
           },
           supportStackOnDpsSwap: {
             en: 'Stacks: ${dps} swap w/ Support',
             de: 'Sammeln: ${dps} wechselt mit Support',
-            cn: '分摊: ${dps} 与T/奶换位',
+            cn: '集合: ${dps} 與T/奶換位',
             ko: '쉐어: ${dps} 탱힐과 교대',
           },
         };
@@ -2593,49 +2593,49 @@ const triggerSet: TriggerSet<Data> = {
         text: {
           en: '${debuff} on You',
           de: '${debuff} auf DIR',
-          cn: '${debuff} 点名',
+          cn: '${debuff} 點名',
           ko: '${debuff} 대상자',
         },
         comboText: {
           en: '${debuff} (w/ ${player})',
           de: '${debuff} (mit ${player})',
-          cn: '${debuff} (与 ${player})',
+          cn: '${debuff} (與 ${player})',
           ko: '${debuff} (+ ${player})',
         },
         redIce: {
           en: 'Red Ice',
           de: 'Rotes Eis',
-          cn: '短红',
+          cn: '短紅',
           ko: '빨간색 얼음',
         },
         redWind: {
           en: 'Wind/Aero',
           de: 'Wind/Aero',
-          cn: '长红',
+          cn: '長紅',
           ko: '바람',
         },
         blueIce: {
           en: 'Blue Ice',
           de: 'Blaues Eis',
-          cn: '蓝冰',
+          cn: '藍冰',
           ko: '파란색 얼음',
         },
         blueWater: {
           en: 'Water (stack)',
           de: 'Wasser (sammeln)',
-          cn: '水 (分摊)',
+          cn: '水 (集合)',
           ko: '물 (쉐어)',
         },
         blueUnholy: {
           en: 'Unholy (stack)',
           de: 'Unheiliges (sammeln)',
-          cn: '圣 (分摊)',
+          cn: '聖 (集合)',
           ko: '다크 홀리 (쉐어)',
         },
         blueEruption: {
           en: 'Eruption (spread)',
           de: 'Eruption (verteilen)',
-          cn: '暗 (分散)',
+          cn: '暗 (散開)',
           ko: '어둠의 불기둥 (산개)',
         },
         unknown: Outputs.unknown,
@@ -2751,20 +2751,20 @@ const triggerSet: TriggerSet<Data> = {
         dodgeSouth: {
           en: '(dodge S after)',
           de: '(weiche nach Süden aus)',
-          cn: '(稍后避开下)',
+          cn: '(稍後避開下)',
           ko: '(이후 남쪽으로 회피)',
         },
         stackNorth: {
           en: '(stack N after)',
           de: '(sammeln im Norden danach)',
-          cn: '(稍后去上分摊)',
+          cn: '(稍後去上集合)',
           ko: '(이후 북쪽으로 쉐어)',
         },
         // used if there is a role-flex and we don't know whether they are E or W.
         partyStack: {
           en: '(party stack is ${dir})',
           de: '(Party sammeln im ${dir})',
-          cn: '(在 ${dir} 全员分摊)',
+          cn: '(在 ${dir} 全員集合)',
           ko: '(본대 쉐어 ${dir})',
         },
         spread: Outputs.spread,
@@ -2795,19 +2795,19 @@ const triggerSet: TriggerSet<Data> = {
         cleanseSpot: {
           en: 'Cleanse: ${spot}',
           de: 'Reinige: ${spot}',
-          cn: '净化: ${spot}',
+          cn: '淨化: ${spot}',
           ko: '정화: ${spot}',
         },
         cleanse: { // if no strat
           en: 'Cleanse',
           de: 'Reinigen',
-          cn: '净化',
+          cn: '淨化',
           ko: '정화',
         },
         avoidCleanse: {
           en: 'Avoid cleanse puddles',
           de: 'Vermeide Reinungs-Fläche',
-          cn: '避开净化圈',
+          cn: '避開淨化圈',
           ko: '정화 장판 피하기',
         },
         blueWater: Directions.outputStrings8Dir.dirSE!,
@@ -2872,7 +2872,7 @@ const triggerSet: TriggerSet<Data> = {
         spreadAvoid: {
           en: 'Spread -- Avoid crystal',
           de: 'Verteilen -- Vermeide Kristall',
-          cn: '分摊 -- 避开水晶',
+          cn: '集合 -- 避開水晶',
           ko: '산개 -- 크리스탈 피하기',
         },
       },
