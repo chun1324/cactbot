@@ -907,7 +907,7 @@ const triggerSet: TriggerSet<Data> = {
         '\\(platforms\\)': '(平台)',
         '\\(right tower\\)': '(右塔)',
         '\\(rotate\\)': '(转)',
-        '\\(spread\\)': '(分散)',
+        '\\(spread\\)': '(散開)',
         'Absolute Authority': '绝对君权',
         'Aeroquell': '风爆',
         'Aethertithe': '以太税',
