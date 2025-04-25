@@ -359,7 +359,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Start ${dir1}, Rückstoß nach ${dir2}',
           fr: 'Commencez ${dir1}, poussée vers ${dir2}',
           ja: '${dir1} から ${dir2} に飛ぶ',
-          cn: '从 ${dir1} 飞向 ${dir2}',
+          cn: '從 ${dir1} 飛向 ${dir2}',
           ko: '${dir1}에서 ${dir2}으로 발사되기',
         },
       },

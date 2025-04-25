@@ -200,7 +200,7 @@ const triggerSet: TriggerSet<Data> = {
   comments: {
     en: 'A Rank Hunts and Ttokrrone boss FATE',
     de: 'A Rang Hohe Jagd und Ttokrrone Boss FATE',
-    cn: 'A级狩猎怪和得酷热涅特殊FATE',
+    cn: 'A級狩獵怪和得酷熱涅特殊FATE',
     ko: 'A급 마물, 토크로네 특수돌발',
   },
   initData: () => ({
