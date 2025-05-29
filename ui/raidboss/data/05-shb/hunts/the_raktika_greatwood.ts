@@ -52,7 +52,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'GTFO + Look Away',
           de: 'Schnell raus + weg schauen',
           fr: 'Allez vous-en et regardez ailleurs',
-          cn: '远离人群 + 背对',
+          cn: '遠離人群 + 背對',
           ko: '멀리 빠지기 + 뒤돌기',
         },
       },
@@ -104,7 +104,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Heal to Full',
           de: 'Voll heilen',
           fr: 'Soignez au maximum',
-          cn: '奶满死宣',
+          cn: '奶滿死宣',
           ko: '체력 풀피로',
         },
       },
@@ -178,7 +178,7 @@ const triggerSet: TriggerSet<Data> = {
       'replaceSync': {
         'Grassman': '格拉斯曼',
         'Ixtab': '伊休妲',
-        'Supay': '苏帕伊',
+        'Supay': '蘇帕伊',
       },
     },
     {

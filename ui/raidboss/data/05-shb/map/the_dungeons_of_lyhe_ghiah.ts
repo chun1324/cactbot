@@ -62,7 +62,7 @@ const triggerSet: TriggerSet<Data> = {
           en: 'Dungeon Crew spawned, kill in order!',
           de: 'Verlies-Mandragora erscheinen, in Reihenfolge besiegen!',
           fr: 'Les mandragores apparaissent, tuez-les dans l\'ordre',
-          cn: '已生成 宝库蔓德拉战队, 依次击杀!',
+          cn: '已生成 寶庫蔓德拉戰隊, 依次擊殺!',
           ko: '만드라즈 등장, 순서대로 잡기!',
         },
       },

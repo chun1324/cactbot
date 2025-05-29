@@ -156,7 +156,7 @@ const triggerSet: TriggerSet<Data> = {
           de: '(${mech} später)',
           fr: '(${mech} après)',
           ja: '(あとで ${mech})',
-          cn: '(稍后 ${mech})',
+          cn: '(稍後 ${mech})',
           ko: '(나중에 ${mech})',
         },
         lightParty: Outputs.healerGroups,
