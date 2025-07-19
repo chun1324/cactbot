@@ -22,7 +22,7 @@ const fileDropText: LocaleText = {
   de: 'Lege Netzwerk-Log hier ab',
   fr: 'Déposez votre fichier log ici',
   ja: 'ネットワークログをここにドラッグ＆ドロップ',
-  cn: '将网络日志文件拖放到此处',
+  cn: '將網路日誌檔案拖放到此處',
   ko: '여기로 로그 파일 끌어다 놓기',
 };
 

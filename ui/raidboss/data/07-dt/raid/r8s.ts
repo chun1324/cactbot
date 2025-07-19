@@ -896,7 +896,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sammeln x8',
           fr: 'Package x8',
           ja: '頭割り x8',
-          cn: '8次分摊',
+          cn: '8次集合',
           ko: '쉐어 8번',
         },
       },
@@ -2115,7 +2115,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sammeln x8',
           fr: 'Package x8',
           ja: '頭割り x8',
-          cn: '8次分摊',
+          cn: '8次集合',
           ko: '쉐어 8번',
         },
         howlingEight2: {
@@ -2123,7 +2123,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sammeln x8',
           fr: 'Package x8',
           ja: '頭割り x8',
-          cn: '8次分摊',
+          cn: '8次集合',
           ko: '쉐어 8번',
         },
         howlingEight3: {
@@ -2131,7 +2131,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sammeln x8',
           fr: 'Package x8',
           ja: '頭割り x8',
-          cn: '8次分摊',
+          cn: '8次集合',
           ko: '쉐어 8번',
         },
         howlingEight4: {
@@ -2139,7 +2139,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sammeln x8',
           fr: 'Package x8',
           ja: '頭割り x8',
-          cn: '8次分摊',
+          cn: '8次集合',
           ko: '쉐어 8번',
         },
         howlingEight5: {
@@ -2147,7 +2147,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Sammeln x8',
           fr: 'Package x8',
           ja: '頭割り x8',
-          cn: '8次分摊',
+          cn: '8次集合',
           ko: '쉐어 8번',
         },
       },

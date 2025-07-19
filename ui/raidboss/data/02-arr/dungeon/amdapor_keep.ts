@@ -50,7 +50,7 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Demon Wall': '恶魔墙',
+        'Demon Wall': '惡魔牆',
       },
     },
     {
