@@ -1520,7 +1520,7 @@ const triggerSet: TriggerSet<Data> = {
         '\\(cast\\)': '(詠唱)',
         '\\(damage\\)': '(傷害)',
         '\\(enrage\\)': '(狂暴)',
-        '\\(lines drop\\)': '(放置直线)',
+        '\\(lines drop\\)': '(放置直線)',
         'Actualize': '自我實現',
         'Aero III': '暴風',
         'Backward Edge': '後向斬',

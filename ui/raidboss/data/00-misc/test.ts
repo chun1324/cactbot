@@ -31,7 +31,7 @@ const triggerSet: TriggerSet<Data> = {
     en: 'Cactbot Test Triggers',
     de: 'Cactbot Test Trigger',
     fr: 'Test des triggers Cactbot',
-    cn: 'Cactbot测试触发器',
+    cn: 'Cactbot測試觸發器',
     ko: 'Cactbot 테스트 트리거',
   },
   comments: {
@@ -42,7 +42,7 @@ const triggerSet: TriggerSet<Data> = {
     fr:
       'Test/Dépannage des triggers (voir : <a href="https://github.com/OverlayPlugin/cactbot/blob/main/docs/FAQ-Troubleshooting.md#summerford-farms-raidboss-test">Vergers d\'Estival Raidboss Test</a>)',
     cn:
-      '测试/排错触发器（参见：<a href="https://github.com/OverlayPlugin/cactbot/blob/main/docs/FAQ-Troubleshooting.md#summerford-farms-raidboss-test">Summerford Farms Raidboss Test</a>',
+      '測試/排錯觸發器（參見：<a href="https://github.com/OverlayPlugin/cactbot/blob/main/docs/FAQ-Troubleshooting.md#summerford-farms-raidboss-test">Summerford Farms Raidboss Test</a>',
     ko:
       '테스트/문제확인 트리거 (참고: <a href="https://github.com/OverlayPlugin/cactbot/blob/main/docs/FAQ-Troubleshooting.md#summerford-farms-raidboss-test">여름여울 농장 Raidboss 테스트</a>)',
   },

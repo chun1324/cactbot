@@ -307,7 +307,7 @@ const triggerSet: TriggerSet<Data> = {
         'The Gathering Ring': '佐爾瑪刻祭場',
       },
       'replaceText': {
-        '\\(circles\\)': '(预兆)',
+        '\\(circles\\)': '(預兆)',
         '\\(explosions\\)': '(爆炸)',
         '--Levin orbs--': '--電球--',
         'Akh Morn': '死亡輪迴',

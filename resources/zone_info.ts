@@ -8982,7 +8982,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '处理显示标记的攻击',
+      'cn': '處理顯示標記的攻击',
       'de': 'Achte auf Attackenmarkierungen!',
       'en': 'React to Attack Markers',
       'fr': 'Réagir à des marquages',
@@ -8998,7 +8998,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '处理在地面显示预兆的攻击',
+      'cn': '處理在地面顯示預兆的攻击',
       'de': 'Achte auf Geländemarkierungen!',
       'en': 'React to Floor Markers',
       'fr': 'Réagir à des indications au sol',
@@ -9014,7 +9014,7 @@ const data: ZoneInfoType = {
     'contentType': 20,
     'exVersion': 0,
     'name': {
-      'cn': '处理各种攻击',
+      'cn': '處理各种攻击',
       'de': 'Stelle dich allerlei Angriffsmanövern!',
       'en': 'React to Advanced Visual Indicators',
       'fr': 'Réagir à des mécaniques variées',
