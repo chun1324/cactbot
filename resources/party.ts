@@ -30,7 +30,7 @@ const roleLocalized: Record<Role, LocaleText> = {
     de: 'Heiler',
     fr: 'Soigneur',
     ja: 'ヒーラー',
-    cn: '治疗',
+    cn: '治療',
     ko: '힐러',
   },
   dps: {
@@ -38,7 +38,7 @@ const roleLocalized: Record<Role, LocaleText> = {
     de: 'DPS',
     fr: 'DPS',
     ja: 'DPS',
-    cn: '输出',
+    cn: '輸出',
     ko: '딜러',
   },
   crafter: {
@@ -62,7 +62,7 @@ const roleLocalized: Record<Role, LocaleText> = {
     de: 'Keine',
     fr: 'Aucun',
     ja: '冒険者',
-    cn: '冒险者',
+    cn: '冒險者',
     ko: '모험가',
   },
 };
@@ -73,7 +73,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'Keine',
     fr: 'Aucun',
     ja: '冒険者',
-    cn: '冒险',
+    cn: '冒險',
     ko: '모험가',
   },
   GLA: {
@@ -81,7 +81,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'GLA',
     fr: 'GLA',
     ja: '剣術士',
-    cn: '剑术',
+    cn: '劍術',
     ko: '검술',
   },
   PGL: {
@@ -89,7 +89,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'FST',
     fr: 'PGL',
     ja: '格闘士',
-    cn: '格斗',
+    cn: '格鬥',
     ko: '격투',
   },
   MRD: {
@@ -97,7 +97,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'MAR',
     fr: 'MRD',
     ja: '斧術士',
-    cn: '斧术',
+    cn: '斧術',
     ko: '도끼술',
   },
   LNC: {
@@ -105,7 +105,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'PIK',
     fr: 'HAS',
     ja: '槍術士',
-    cn: '枪术',
+    cn: '槍術',
     ko: '창술',
   },
   ARC: {
@@ -121,7 +121,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'DRU',
     fr: 'ÉLM',
     ja: '幻術士',
-    cn: '幻术',
+    cn: '幻術',
     ko: '환술',
   },
   THM: {
@@ -129,7 +129,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'THM',
     fr: 'OCC',
     ja: '呪術士',
-    cn: '咒术',
+    cn: '咒術',
     ko: '주술',
   },
   CRP: {
@@ -145,7 +145,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'GRS',
     fr: 'FRG',
     ja: '鍛冶',
-    cn: '锻铁',
+    cn: '鍛鐵',
     ko: '대장',
   },
   ARM: {
@@ -153,7 +153,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'PLA',
     fr: 'ARM',
     ja: '甲冑',
-    cn: '铸甲',
+    cn: '鑄甲',
     ko: '갑주',
   },
   GSM: {
@@ -169,7 +169,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'GER',
     fr: 'TAN',
     ja: '革細',
-    cn: '制革',
+    cn: '製革',
     ko: '가죽',
   },
   WVR: {
@@ -185,7 +185,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'ALC',
     fr: 'ALC',
     ja: '錬金',
-    cn: '炼金',
+    cn: '鍊金',
     ko: '연금',
   },
   CUL: {
@@ -193,7 +193,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'GRM',
     fr: 'CUI',
     ja: '調理',
-    cn: '烹调',
+    cn: '烹調',
     ko: '요리',
   },
   MIN: {
@@ -201,7 +201,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'MIN',
     fr: 'MIN',
     ja: '採掘',
-    cn: '采矿',
+    cn: '採礦',
     ko: '광부',
   },
   BTN: {
@@ -209,7 +209,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'GÄR',
     fr: 'BOT',
     ja: '園芸',
-    cn: '园艺',
+    cn: '園藝',
     ko: '원예',
   },
   FSH: {
@@ -217,7 +217,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'FIS',
     fr: 'PEC',
     ja: '漁師',
-    cn: '捕鱼',
+    cn: '捕魚',
     ko: '어부',
   },
   PLD: {
@@ -225,7 +225,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'PLD',
     fr: 'PLD',
     ja: 'ナイト',
-    cn: '骑士',
+    cn: '騎士',
     ko: '나이트',
   },
   MNK: {
@@ -241,7 +241,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'KRG',
     fr: 'GUE',
     ja: '戦士',
-    cn: '战士',
+    cn: '戰士',
     ko: '전사',
   },
   DRG: {
@@ -249,7 +249,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'DRG',
     fr: 'DRG',
     ja: '竜騎士',
-    cn: '龙骑',
+    cn: '龍騎',
     ko: '용기사',
   },
   BRD: {
@@ -257,7 +257,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'BRD',
     fr: 'BRD',
     ja: '詩人',
-    cn: '诗人',
+    cn: '詩人',
     ko: '음유',
   },
   WHM: {
@@ -281,7 +281,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'HRT',
     fr: 'ACN',
     ja: '巴術士',
-    cn: '秘术',
+    cn: '秘術',
     ko: '비술',
   },
   SMN: {
@@ -289,7 +289,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'BSW',
     fr: 'INV',
     ja: '召喚',
-    cn: '召唤',
+    cn: '召喚',
     ko: '소환',
   },
   SCH: {
@@ -297,7 +297,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'GLT',
     fr: 'ERU',
     ja: '学者',
-    cn: '学者',
+    cn: '學者',
     ko: '학자',
   },
   ROG: {
@@ -305,7 +305,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'SCH',
     fr: 'SUR',
     ja: '双剣士',
-    cn: '双剑',
+    cn: '雙劍',
     ko: '쌍검',
   },
   NIN: {
@@ -321,7 +321,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'MCH',
     fr: 'MCH',
     ja: '機工',
-    cn: '机工',
+    cn: '機工',
     ko: '기공',
   },
   DRK: {
@@ -329,7 +329,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'DKR',
     fr: 'CHN',
     ja: '暗黒',
-    cn: '暗骑',
+    cn: '暗騎',
     ko: '암기',
   },
   AST: {
@@ -369,7 +369,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'REV',
     fr: 'PSB',
     ja: 'ガンブレ',
-    cn: '绝枪',
+    cn: '絕槍',
     ko: '건브',
   },
   DNC: {
@@ -385,7 +385,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'SNT',
     fr: 'FCH',
     ja: 'リーパー',
-    cn: '钐镰',
+    cn: '釤鐮',
     ko: '리퍼',
   },
   SGE: {
@@ -393,7 +393,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'WEI',
     fr: 'SAG',
     ja: '賢者',
-    cn: '贤者',
+    cn: '賢者',
     ko: '현자',
   },
   VPR: {
@@ -409,7 +409,7 @@ const jobLocalizedAbbr: Record<Job, LocaleText> = {
     de: 'PKT',
     fr: 'PIC',
     ja: 'ピクトマンサー',
-    cn: '画家',
+    cn: '畫家',
     ko: '픽토',
   },
 };
@@ -420,7 +420,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Abenteurer',
     fr: 'Aventurier',
     ja: '冒険者',
-    cn: '冒险者',
+    cn: '冒險者',
     ko: '모험가',
   },
   GLA: {
@@ -428,7 +428,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Gladiator',
     fr: 'Gladiateur',
     ja: '剣術士',
-    cn: '剑术师',
+    cn: '劍術師',
     ko: '검술사',
   },
   PGL: {
@@ -436,7 +436,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Faustkämpfer',
     fr: 'Pugiliste',
     ja: '格闘士',
-    cn: '格斗家',
+    cn: '格鬥家',
     ko: '격투가',
   },
   MRD: {
@@ -444,7 +444,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Marodeur',
     fr: 'Maraudeur',
     ja: '斧術士',
-    cn: '斧术师',
+    cn: '斧術師',
     ko: '도끼술사',
   },
   LNC: {
@@ -452,7 +452,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Pikenier',
     fr: 'Maître d\'Hast',
     ja: '槍術士',
-    cn: '枪术师',
+    cn: '槍術師',
     ko: '창술사',
   },
   ARC: {
@@ -468,7 +468,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Druide',
     fr: 'Élémentaliste',
     ja: '幻術士',
-    cn: '幻术师',
+    cn: '幻術師',
     ko: '환술사',
   },
   THM: {
@@ -476,7 +476,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Thaumaturg',
     fr: 'Occultiste',
     ja: '呪術士',
-    cn: '咒术师',
+    cn: '咒術師',
     ko: '주술사',
   },
   CRP: {
@@ -492,7 +492,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Grobschmied',
     fr: 'Forgeron',
     ja: '鍛冶師',
-    cn: '锻铁匠',
+    cn: '鍛鐵匠',
     ko: '대장장이',
   },
   ARM: {
@@ -500,7 +500,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Plattner',
     fr: 'Armurier',
     ja: '甲冑師',
-    cn: '铸甲匠',
+    cn: '鑄甲匠',
     ko: '갑주제작사',
   },
   GSM: {
@@ -516,7 +516,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Gerber',
     fr: 'Tanneur',
     ja: '革細工師',
-    cn: '制革匠',
+    cn: '製革匠',
     ko: '가죽공예가',
   },
   WVR: {
@@ -532,7 +532,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Alchemist',
     fr: 'Alchimiste',
     ja: '錬金術師',
-    cn: '炼金术士',
+    cn: '煉金術士',
     ko: '연금술사',
   },
   CUL: {
@@ -540,7 +540,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Gourmet',
     fr: 'Cuisinier',
     ja: '調理師',
-    cn: '烹调师',
+    cn: '烹調師',
     ko: '요리사',
   },
   MIN: {
@@ -548,7 +548,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Minenarbeiter',
     fr: 'Mineur',
     ja: '採掘師',
-    cn: '采矿工',
+    cn: '採礦工',
     ko: '광부',
   },
   BTN: {
@@ -556,7 +556,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Gärtner',
     fr: 'Botaniste',
     ja: '園芸師',
-    cn: '园艺工',
+    cn: '園藝工',
     ko: '원예가',
   },
   FSH: {
@@ -564,7 +564,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Fischer',
     fr: 'Pêcheur',
     ja: '漁師',
-    cn: '捕鱼人',
+    cn: '捕魚人',
     ko: '어부',
   },
   PLD: {
@@ -572,7 +572,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Paladin',
     fr: 'Paladin',
     ja: 'ナイト',
-    cn: '骑士',
+    cn: '騎士',
     ko: '나이트',
   },
   MNK: {
@@ -588,7 +588,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Krieger',
     fr: 'Guerrier',
     ja: '戦士',
-    cn: '战士',
+    cn: '戰士',
     ko: '전사',
   },
   DRG: {
@@ -596,7 +596,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Dragoon',
     fr: 'Chevalier dragon',
     ja: '竜騎士',
-    cn: '龙骑士',
+    cn: '龍騎士',
     ko: '용기사',
   },
   BRD: {
@@ -604,7 +604,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Barde',
     fr: 'Barde',
     ja: '吟遊詩人',
-    cn: '吟游诗人',
+    cn: '吟遊詩人',
     ko: '음유시인',
   },
   WHM: {
@@ -612,7 +612,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Weißmagier',
     fr: 'Mage blanc',
     ja: '白魔道士',
-    cn: '白魔法师',
+    cn: '白魔法師',
     ko: '백마도사',
   },
   BLM: {
@@ -620,7 +620,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Schwarzmagier',
     fr: 'Mage noir',
     ja: '黒魔道士',
-    cn: '黑魔法师',
+    cn: '黑魔法師',
     ko: '흑마도사',
   },
   ACN: {
@@ -628,7 +628,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Hermetiker',
     fr: 'Arcaniste',
     ja: '巴術士',
-    cn: '秘术师',
+    cn: '秘術師',
     ko: '비슬사',
   },
   SMN: {
@@ -636,7 +636,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Beschwörer',
     fr: 'Invocateur',
     ja: '召喚士',
-    cn: '召唤师',
+    cn: '召喚師',
     ko: '소환사',
   },
   SCH: {
@@ -644,7 +644,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Gelehrter',
     fr: 'Érudit',
     ja: '学者',
-    cn: '学者',
+    cn: '學者',
     ko: '학자',
   },
   ROG: {
@@ -652,7 +652,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Schurke',
     fr: 'Surineur',
     ja: '双剣士',
-    cn: '双剑师',
+    cn: '雙劍師',
     ko: '쌍검사',
   },
   NIN: {
@@ -668,7 +668,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Maschinist',
     fr: 'Machiniste',
     ja: '機工士',
-    cn: '机工士',
+    cn: '機工士',
     ko: '기공사',
   },
   DRK: {
@@ -676,7 +676,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Dunkelritter',
     fr: 'Chevalier noir',
     ja: '暗黒騎士',
-    cn: '暗黑骑士',
+    cn: '暗黑騎士',
     ko: '암흑기사',
   },
   AST: {
@@ -684,7 +684,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Astrologe',
     fr: 'Astromancien',
     ja: '占星術師',
-    cn: '占星术士',
+    cn: '占星術士',
     ko: '점성술사',
   },
   SAM: {
@@ -700,7 +700,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Rotmagier',
     fr: 'Mage rouge',
     ja: '赤魔道士',
-    cn: '赤魔法师',
+    cn: '赤魔法師',
     ko: '적마도사',
   },
   BLU: {
@@ -708,7 +708,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Blaumagier',
     fr: 'Mage bleu',
     ja: '青魔道士',
-    cn: '青魔法师',
+    cn: '青魔法師',
     ko: '청마도사',
   },
   GNB: {
@@ -716,7 +716,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Revolverklinge',
     fr: 'Pistosabreur',
     ja: 'ガンブレイカー',
-    cn: '绝枪战士',
+    cn: '絕槍戰士',
     ko: '건브레이커',
   },
   DNC: {
@@ -732,7 +732,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Schnitter',
     fr: 'Faucheur',
     ja: 'リーパー',
-    cn: '钐镰客',
+    cn: '釤鐮客',
     ko: '리퍼',
   },
   SGE: {
@@ -740,7 +740,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Weiser',
     fr: 'Sage',
     ja: '賢者',
-    cn: '贤者',
+    cn: '賢者',
     ko: '현자',
   },
   VPR: {
@@ -748,7 +748,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Viper',
     fr: 'Rôdeur vipère',
     ja: 'ヴァイパー',
-    cn: '蝰蛇剑士',
+    cn: '蝰蛇劍士',
     ko: '바이퍼',
   },
   PCT: {
@@ -756,7 +756,7 @@ const jobLocalizedFull: Record<Job, LocaleText> = {
     de: 'Piktomant',
     fr: 'Pictomancien',
     ja: 'ピクトマンサー',
-    cn: '绘灵法师',
+    cn: '繪靈法師',
     ko: '픽토맨서',
   },
 };

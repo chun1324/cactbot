@@ -72,7 +72,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Geh in die Flächen',
           fr: 'Prenez une zone au sol',
           ja: '円範囲に入る',
-          cn: '进入圈圈',
+          cn: '進入圈圈',
           ko: '장판 밟기',
         },
       },
@@ -90,7 +90,7 @@ const triggerSet: TriggerSet<Data> = {
           de: 'Raus aus der Fläche',
           fr: 'À l\'extérieur de la zone au sol',
           ja: '円範囲から離れる',
-          cn: '离开圈圈',
+          cn: '離開圈圈',
           ko: '장판 밖으로',
         },
       },
@@ -121,8 +121,8 @@ const triggerSet: TriggerSet<Data> = {
     {
       'locale': 'cn',
       'replaceSync': {
-        'Heavenly Hashiri-dokoro': '天之东莨菪',
-        'Kenko': '犬蛊',
+        'Heavenly Hashiri-dokoro': '天之東莨菪',
+        'Kenko': '犬蠱',
       },
     },
     {

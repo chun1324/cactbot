@@ -1151,7 +1151,7 @@ Offsets: ${allOffsets.sort(numberSort).join(', ')}
           en: 'Custom Text',
           de: 'Benutzerdefinierter Text',
           fr: 'Texte personnalisé',
-          cn: '自定义文本',
+          cn: '自定義文本',
         },
       },
     },`;
@@ -1463,7 +1463,7 @@ CastInfo Hints: ${[...castTypeFullSuggestions].join(', ')}
           en: 'Stacks',
           de: 'Sammeln',
           fr: 'Package',
-          cn: '分摊',
+          cn: '集合',
           ko: '쉐어',
         },
       },
@@ -1506,7 +1506,7 @@ CastInfo Hints: ${[...castTypeFullSuggestions].join(', ')}
           en: 'Custom Text',
           de: 'Benutzerdefinierter Text',
           fr: 'Texte personnalisé',
-          cn: '自定义文本',
+          cn: '自定義文本',
         },
       },
     },`;
@@ -1526,7 +1526,7 @@ CastInfo Hints: ${[...castTypeFullSuggestions].join(', ')}
           en: 'Custom Text',
           de: 'Benutzerdefinierter Text',
           fr: 'Texte personnalisé',
-          cn: '自定义文本',
+          cn: '自定義文本',
         },
       },
     },`;
