@@ -107,7 +107,7 @@ const triggerSet: TriggerSet<Data> = {
     en: 'Dalriada triggers/timeline.  Some Critical Engagements.',
     de: 'Dalriada Trigger/Timeline.  Einige Kritische Gefechte vorhanden.',
     ja: '旗艦ダルリアータ攻略戦のトリガー/タイムライン。いくつかのCE対応。',
-    cn: '旗舰达尔里阿达号攻略战触发器/时间轴。部分CE (紧急遭遇战)。',
+    cn: '旗艦達爾裡阿達號攻略戰觸發器/時間軸。部分CE (緊急遭遇戰)。',
     ko: '기함 달리아다 트리거/타임라인. 몇몇 비상 교전 트리거.',
   },
   timelineFile: 'zadnor.txt',

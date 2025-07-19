@@ -222,7 +222,7 @@ const triggerSet: TriggerSet<Data> = {
         fr:
           `Avec la tour de Nael en position 1, en tournant dans le sens horaire, la position de votre tour est la suivante. Ex : H1 dans <a href="https://clees.me/guides/ucob/" target="_blank">Clees' guide</a> est à la position 7.`,
         cn:
-          `以奈尔所在的塔为 1 号位时, 顺时针找塔。例如在 <a href="https://clees.me/guides/ucob/" target="_blank">Clees' guide</a> 中的 H1 是 7 号位。`,
+          `以奈爾所在的塔為 1 號位時, 順時針找塔。例如在 <a href="https://clees.me/guides/ucob/" target="_blank">Clees' guide</a> 中的 H1 是 7 號位。`,
         ko:
           `넬 밑의 기둥을 위치 1이라 했을 때, 시계 방향으로 세었을 때 당신의 위치. 즉, <a href="https://clees.me/guides/ucob/" target="_blank">Clees 가이드</a>에서 H1의 위치는 7.`,
       },
@@ -1390,14 +1390,14 @@ const triggerSet: TriggerSet<Data> = {
           en: '${player} Bait Twin (${dir})',
           de: '${player} Köder Twintania (${dir})',
           fr: '${player} attire Twintania (${dir})',
-          cn: '${player} 诱导双塔尼亚 (${dir})',
+          cn: '${player} 誘導雙塔尼亞 (${dir})',
           ko: '${player} 트윈타니아 유도 (${dir})',
         },
         twinOnUnknown: {
           en: '${unknown} Bait Twin (${dir})',
           de: '${unknown} Köder Twintania (${dir})',
           fr: '${unknown} attire Twintania (${dir})',
-          cn: '${unknown} 诱导双塔尼亚 (${dir})',
+          cn: '${unknown} 誘導雙塔尼亞 (${dir})',
           ko: '${unknown} 트윈타니아 유도 (${dir})',
         },
       },
