@@ -107,7 +107,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         baitHand: {
           en: 'Bait Hand',
-          cn: '引导手',
+          cn: '引導手',
         },
       },
     },
@@ -143,11 +143,11 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         lightWest: {
           en: 'Light West => Spread',
-          cn: '光左 => 分散',
+          cn: '光左 => 散開',
         },
         lightEast: {
           en: 'Light East => Spread',
-          cn: '光右 => 分散',
+          cn: '光右 => 散開',
         },
       },
     },
@@ -192,7 +192,7 @@ const triggerSet: TriggerSet<Data> = {
         mid: Outputs.middle,
         stored: {
           en: 'Stored ${dir}',
-          cn: '储存 ${dir}',
+          cn: '儲存 ${dir}',
         },
       },
     },
@@ -235,7 +235,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         bait: {
           en: 'Drop hand => Bait hand',
-          cn: '放手 => 引导手',
+          cn: '放手 => 引導手',
         },
       },
     },
@@ -254,7 +254,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         bait: {
           en: 'Bait puddles',
-          cn: '引导黄圈',
+          cn: '引導黃圈',
         },
       },
     },
@@ -268,7 +268,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         bait: {
           en: 'Bait puddles => Intercardinals',
-          cn: '引导黄圈 => 叉字',
+          cn: '引導黃圈 => 叉字',
         },
       },
     },
@@ -314,7 +314,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         cleanse: {
           en: 'Cleanse Slow',
-          cn: '康复减速',
+          cn: '康復減速',
         },
       },
     },
@@ -379,7 +379,7 @@ const triggerSet: TriggerSet<Data> = {
         spread: Outputs.spread,
         middle: {
           en: 'Middle Row',
-          cn: '中间行',
+          cn: '中間行',
         },
         north: {
           en: 'North Row',
@@ -404,7 +404,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         bait: {
           en: 'Bait Hand => Dodge',
-          cn: '引导手 => 躲开',
+          cn: '引導手 => 躲開',
         },
       },
     },
@@ -607,7 +607,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         towerPos: {
           en: 'Preposition for LP towers',
-          cn: '多人塔预站位',
+          cn: '多人塔預站位',
         },
       },
     },
@@ -635,7 +635,7 @@ const triggerSet: TriggerSet<Data> = {
       outputStrings: {
         soakNext: {
           en: 'Soak Next Tower',
-          cn: '踩下一个塔',
+          cn: '踩下一個塔',
         },
         tankBuster: Outputs.tankBuster,
       },

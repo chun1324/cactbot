@@ -10285,7 +10285,7 @@ const data: ZoneInfoType = {
     'contentType': 28,
     'exVersion': 5,
     'name': {
-      'cn': '光暗未来绝境战',
+      'cn': '光暗未來絕境戰',
       'de': 'Eine zweite Zukunft (fatal)',
       'en': 'Futures Rewritten (Ultimate)',
       'fr': 'Avenirs réécrits (fatal)',
@@ -10301,7 +10301,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 5,
     'name': {
-      'cn': '白虎幻巧战',
+      'cn': '白虎幻巧戰',
       'de': 'Traumprüfung - Byakko',
       'en': 'The Jade Stoa (Unreal)',
       'fr': 'La Clairière de Jade (irréel)',
@@ -10317,7 +10317,7 @@ const data: ZoneInfoType = {
     'contentType': 37,
     'exVersion': 5,
     'name': {
-      'cn': '暗黑之云诛灭战',
+      'cn': '暗黑之雲誅滅戰',
       'de': 'Die Wolke der Dunkelheit (chaotisch)',
       'en': 'The Cloud of Darkness (Chaotic)',
       'fr': 'La Tour de Ténèbres (chaotique)',
@@ -10333,7 +10333,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 5,
     'name': {
-      'cn': '废弃据点玉韦亚瓦塔实验站',
+      'cn': '廢棄據點玉韋亞瓦塔實驗站',
       'de': 'Forschungsstation Yuweyawata',
       'en': 'Yuweyawata Field Station',
       'fr': 'Le centre de recherche de Yuweyawata',
@@ -10349,7 +10349,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 5,
     'name': {
-      'cn': '永恒女王忆想歼灭战',
+      'cn': '永恆女王憶想殲滅戰',
       'de': 'Gok Tajaal - Ewige Königin',
       'en': 'The Minstrel\'s Ballad: Sphene\'s Burden',
       'fr': 'Interphos (extrême)',
@@ -10365,7 +10365,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 5,
     'name': {
-      'cn': '家人的温暖',
+      'cn': '家人的溫暖',
       'de': 'Ein Land, eine Familie',
       'en': 'The Warmth of Family',
       'fr': 'La famille de l\'Aurarque',
@@ -10397,7 +10397,7 @@ const data: ZoneInfoType = {
     'contentType': 7,
     'exVersion': 5,
     'name': {
-      'cn': '决战！佐戈永结桥',
+      'cn': '決戰！佐戈永結橋',
       'de': 'Kampf an Zorgor der Weiten',
       'en': 'Bar the Passage',
       'fr': 'Pour s\'affranchir de la tyrannie, tout s\'appelle vertu',
@@ -10413,7 +10413,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 5,
     'name': {
-      'cn': '朱诺：第一巡行',
+      'cn': '朱諾：第一巡行',
       'de': 'Jeuno: Die erste Etappe',
       'en': 'Jeuno: The First Walk',
       'fr': 'Jeuno - La première perambulation',
@@ -10429,7 +10429,7 @@ const data: ZoneInfoType = {
     'contentType': 38,
     'exVersion': 5,
     'name': {
-      'cn': '蜃景幻界新月岛 南征之章',
+      'cn': '蜃景幻界新月島 南征之章',
       'de': 'Das südliche Kreszentia',
       'en': 'The Occult Crescent: South Horn',
       'fr': 'Île de Lunule méridionale',
@@ -10444,7 +10444,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 5,
     'name': {
-      'cn': '阿卡狄亚登天斗技场 中量级1',
+      'cn': '阿卡狄亞登天鬥技場 中量級1',
       'de': 'Arkadion - Schwergewicht R1',
       'en': 'AAC Cruiserweight M1',
       'fr': 'Poids lourds-légers CCA - match 1',
@@ -10460,7 +10460,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 5,
     'name': {
-      'cn': '阿卡狄亚零式登天斗技场 中量级1',
+      'cn': '阿卡狄亞零式登天鬥技場 中量級1',
       'de': 'Arkadion - Schwergewicht R1 (episch)',
       'en': 'AAC Cruiserweight M1 (Savage)',
       'fr': 'Poids lourds-légers CCA - match 1 (sadique)',
@@ -10476,7 +10476,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 5,
     'name': {
-      'cn': '阿卡狄亚登天斗技场 中量级2',
+      'cn': '阿卡狄亞登天鬥技場 中量級2',
       'de': 'Arkadion - Schwergewicht R2',
       'en': 'AAC Cruiserweight M2',
       'fr': 'Poids lourds-légers CCA - match 2',
@@ -10492,7 +10492,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 5,
     'name': {
-      'cn': '阿卡狄亚零式登天斗技场 中量级2',
+      'cn': '阿卡狄亞零式登天鬥技場 中量級2',
       'de': 'Arkadion - Schwergewicht R2 (episch)',
       'en': 'AAC Cruiserweight M2 (Savage)',
       'fr': 'Poids lourds-légers CCA - match 2 (sadique)',
@@ -10508,7 +10508,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 5,
     'name': {
-      'cn': '阿卡狄亚登天斗技场 中量级3',
+      'cn': '阿卡狄亞登天鬥技場 中量級3',
       'de': 'Arkadion - Schwergewicht R3',
       'en': 'AAC Cruiserweight M3',
       'fr': 'Poids lourds-légers CCA - match 3',
@@ -10524,7 +10524,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 5,
     'name': {
-      'cn': '阿卡狄亚零式登天斗技场 中量级3',
+      'cn': '阿卡狄亞零式登天鬥技場 中量級3',
       'de': 'Arkadion - Schwergewicht R3 (episch)',
       'en': 'AAC Cruiserweight M3 (Savage)',
       'fr': 'Poids lourds-légers CCA - match 3 (sadique)',
@@ -10540,7 +10540,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 5,
     'name': {
-      'cn': '阿卡狄亚登天斗技场 中量级4',
+      'cn': '阿卡狄亞登天鬥技場 中量級4',
       'de': 'Arkadion - Schwergewicht R4',
       'en': 'AAC Cruiserweight M4',
       'fr': 'Poids lourds-légers CCA - match 4',
@@ -10556,7 +10556,7 @@ const data: ZoneInfoType = {
     'contentType': 5,
     'exVersion': 5,
     'name': {
-      'cn': '阿卡狄亚零式登天斗技场 中量级4',
+      'cn': '阿卡狄亞零式登天鬥技場 中量級4',
       'de': 'Arkadion - Schwergewicht R4 (episch)',
       'en': 'AAC Cruiserweight M4 (Savage)',
       'fr': 'Poids lourds-légers CCA - match 4 (sadique)',
@@ -10572,7 +10572,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 5,
     'name': {
-      'cn': '王城古迹永护塔底',
+      'cn': '王城古蹟永護塔底',
       'de': 'Unterfried-Ruinen',
       'en': 'The Underkeep',
       'fr': 'La Gardienne de l\'Immémorial',
@@ -10588,7 +10588,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '古代遗迹喀恩埋没圣堂',
+      'cn': '古代遺蹟喀恩埋沒聖堂',
       'de': 'Versunkener Tempel von Qarn',
       'en': 'The Sunken Temple of Qarn',
       'fr': 'Le Temple enseveli de Qarn',
@@ -10604,7 +10604,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 5,
     'name': {
-      'cn': '泽莲尼娅歼灭战',
+      'cn': '澤蓮尼婭殲滅戰',
       'de': 'Zel Tajaal - Zelenia',
       'en': 'Recollection',
       'fr': 'Le Sanctuaire du Serment',
@@ -10620,7 +10620,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 5,
     'name': {
-      'cn': '泽莲尼娅歼殛战',
+      'cn': '澤蓮尼婭殲殛戰',
       'de': 'Gok Tajaal - Zelenia',
       'en': 'Recollection (Extreme)',
       'fr': 'Le Sanctuaire du Serment (extrême)',
@@ -10636,7 +10636,7 @@ const data: ZoneInfoType = {
     'contentType': 4,
     'exVersion': 5,
     'name': {
-      'cn': '朱雀幻巧战',
+      'cn': '朱雀幻巧戰',
       'de': 'Traumprüfung - Suzaku',
       'en': 'Hells\' Kier (Unreal)',
       'fr': 'Le Nid des Lamentations (irréel)',
@@ -10652,7 +10652,7 @@ const data: ZoneInfoType = {
     'contentType': 6,
     'exVersion': 0,
     'name': {
-      'cn': '周边遗迹群（阵地战）',
+      'cn': '周邊遺蹟群（陣地戰）',
       'de': 'Äußere Ruinen (Sicherung)',
       'en': 'The Borderland Ruins (Secure)',
       'fr': 'Les Ruines frontalières (annexion)',
@@ -10766,7 +10766,7 @@ const data: ZoneInfoType = {
     'contentType': 2,
     'exVersion': 0,
     'name': {
-      'cn': '流沙迷宫樵鸣洞',
+      'cn': '流沙迷宮樵鳴洞',
       'de': 'Sägerschrei',
       'en': 'Cutter\'s Cry',
       'fr': 'Le Gouffre hurlant',
